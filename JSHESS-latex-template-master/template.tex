@@ -1,0 +1,87 @@
+%!TEX program = xelatex
+% JSHESS requires the use of the XeTeX (xelatex) typesetting engine to produce the correct fonts
+% Not using XeTeX is not going to break anything, it just means that your compiled article
+% may look a little different to what it's meant to.
+% XeTeX comes bundled with most LaTeX distributions, so everything will probably work fine...
+% Just run xelatex foo.tex (or xetex foo.tex) instead of latex foo.tex (tex foo.tex)
+\documentclass[10pt]{article}
+
+
+% Include the jshess package. It's what formats your article correctly
+\usepackage{jshess}
+
+
+% The title should be both brief and descriptive. It must clearly communicate the nature of the article.
+% Ideally, your title should incorporate a key phrase related to your topic within the first 65 characters.
+\title{Title}
+
+
+% Individual author names must be listed in the following style:
+% first name then initials with full stops after each initial then last name, followed by any generational suffix.
+% Prefixed and post-nominal professional titles and academic qualifications should not be included.
+%
+% Author names should be listed one after the other without line breaks and separated by commas,
+% with the exception of the last name of a multi-name list, which should be separated by the word "and" without a comma.
+%
+% Numbers indicating author affiliations (see above) should be included in supertext (use \textsuperscript{}) after each name or after the separating comma, if one is used.
+\author{First A. Author,\textsuperscript{1} Second B. Author\textsuperscript{2} and Third. C. Author\textsuperscript{3}}
+
+
+% Each affiliation should be as concise as possible and in general should not constitute a complete address,
+% rather indicate the primary institution of the author(s) and the city and country that the institution is located in.
+%
+% Each affiliation should be on its own line.
+%
+% Affiliations should be preceded by the relevant number in supertext (use \textsuperscript{}) that corresponds with the numbers used in the author line above.
+\affiliations{%
+\textsuperscript{1} Institution, City, Country\\% These \\%'s are important
+\textsuperscript{2} Institution, City, Country\\%
+\textsuperscript{3} Institution, City, Country\\%
+}
+
+
+% Corresponding author details
+\cauthorname{First A. Author}
+\cauthoraddress{Postal Address (inc. country)}
+\cauthoremail{author@test.com}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Provenance Information
+% Editorial Office Use Only
+%
+\msreceived{Month Year}
+\msaccepted{Month Year}
+\volume{Vol.}
+\issue{Issue}
+\shorttitle{Short Article Title}
+\copyrightyear{2015}
+\copyrightauthor{Author et al} % Don't put a full stop after et al here as it will get added automatically.
+\setcounter{page}{1} % Starting page number for the article
+\pagenumprefix{} % An optional prefix for page numbers
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document} % This is important, but you already knew that
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Put your abstract here
+
+\begin{abstract}
+
+\end{abstract}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Start your article
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Automagically insert a reference list
+\bibliography{references}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{document}

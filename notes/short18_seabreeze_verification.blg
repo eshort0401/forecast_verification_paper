@@ -1,0 +1,47 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: short18_seabreeze_verification.aux
+The style file: jshess.bst
+Database file #1: ./Coastal_Winds.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You've used 1 entry,
+            3034 wiz_defined-function locations,
+            616 strings with 5074 characters,
+and the built_in function-call counts, 547 in all, are:
+= -- 42
+> -- 10
+< -- 1
++ -- 4
+- -- 4
+* -- 31
+:= -- 90
+add.period$ -- 5
+call.type$ -- 1
+change.case$ -- 6
+chr.to.int$ -- 2
+cite$ -- 1
+duplicate$ -- 45
+empty$ -- 48
+format.name$ -- 4
+if$ -- 105
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 9
+newline$ -- 15
+num.names$ -- 4
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 16
+stack$ -- 0
+substring$ -- 23
+swap$ -- 21
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 9
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 23
