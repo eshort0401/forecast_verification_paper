@@ -1,16 +1,43 @@
-\begin{thebibliography}{1}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\providecommand{\urlprefix}{URL }
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
-  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
-  \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{6}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL: }\fi
+
+\bibitem[{Ebert(2008)}]{ebert08}
+Ebert, E.~E. (2008) Fuzzy verification of high-resolution gridded forecasts: a
+  review and proposed framework.
+\newblock \textit{Meteorological Applications}, \textbf{15}, 51--64.
+\newblock
+  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25}.
 
 \bibitem[{Efron(1979)}]{efron79}
-Efron, B. 1979.
-\newblock Bootstrap methods: Another look at the jackknife.
-\newblock \emph{The Annals of Statistics}, 7(1), 1--26.
-\newblock \doi{10.1214/aos/1176344552}.
+Efron, B. (1979) Bootstrap methods: Another look at the jackknife.
+\newblock \textit{The Annals of Statistics}, \textbf{7}, 1--26.
+
+\bibitem[{Lynch et~al.(2014)Lynch, Brayshaw and Charlton-Perez}]{lynch14}
+Lynch, K.~J., Brayshaw, D.~J. and Charlton-Perez, A. (2014) Verification of
+  european subseasonal wind speed forecasts.
+\newblock \textit{Monthly Weather Review}, \textbf{142}, 2978--2990.
+\newblock \urlprefix\url{https://doi.org/10.1175/MWR-D-13-00341.1}.
+
+\bibitem[{Mason(2008)}]{mason08}
+Mason, S.~J. (2008) Understanding forecast verification statistics.
+\newblock \textit{Meteorological Applications}, \textbf{15}, 31--40.
+\newblock
+  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.51}.
+
+\bibitem[{Pinson and Hagedorn(2012)}]{pinson12}
+Pinson, P. and Hagedorn, R. (2012) Verification of the ecmwf ensemble forecasts
+  of wind speed against analyses and observations.
+\newblock \textit{Meteorological Applications}, \textbf{19}, 484--500.
+\newblock
+  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}.
+
+\bibitem[{Smith et~al.(2009)Smith, Thresher, Zavadil, DeMeo, Piwko, Ernst and
+  Ackermann}]{smith09}
+Smith, J.~C., Thresher, R., Zavadil, R., DeMeo, E., Piwko, R., Ernst, B. and
+  Ackermann, T. (2009) A mighty wind.
+\newblock \textit{IEEE Power and Energy Magazine}, \textbf{7}, 41--51.
 
 \end{thebibliography}
