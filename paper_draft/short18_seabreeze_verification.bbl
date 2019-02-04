@@ -1,4 +1,4 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{10}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -54,6 +54,11 @@ Pinson, P. and Hagedorn, R. (2012) Verification of the ecmwf ensemble forecasts
 Smith, J.~C., Thresher, R., Zavadil, R., DeMeo, E., Piwko, R., Ernst, B. and
   Ackermann, T. (2009) A mighty wind.
 \newblock \textit{IEEE Power and Energy Magazine}, \textbf{7}, 41--51.
+
+\bibitem[{Wilks(2011)}]{wilks11}
+Wilks, D.~S. (2011) \textit{Statistical methods in the atmospheric sciences.
+  [electronic resource].}
+\newblock International geophysics series: v. 100. Elsevier.
 
 \bibitem[{Yates et~al.(2006)Yates, Anquetin, Ducrocq, Creutin, Ricard and
   Chancibault}]{yates06}
