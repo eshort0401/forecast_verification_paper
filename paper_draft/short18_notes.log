@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.16)  24 JAN 2019 16:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.16)  8 FEB 2019 11:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1963,16 +1963,20 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8.8> not available
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 8.8pt on input line 55.
-
-Overfull \hbox (36.18208pt too wide) in paragraph at lines 57--58
-[]$\T1/lato-TLF/m/n/8 , re-spec-tively. Fur-ther-more, sup-pose that the AC-CES
-S per-tur-ba-tions al-ter-nate be-tween $\OML/cmm/b/it/8 p[] \U/ntxsfmia/m/it/8
- = []$
- []
-
-No file short18_notes.bbl.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 57
+.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 57.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 63.
+(Font)              scaled to size 10.0pt on input line 57.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 58.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 68.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][][] 
@@ -1981,33 +1985,125 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./short18_notes.aux)
+(./short18_notes.bbl [2]
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 1.
+
+
+LaTeX Font Warning: Font shape `T1/lato-TLF/bx/sc' undefined
+(Font)              using `T1/lato-TLF/bx/n' instead on input line 1.
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/sc' in size <10> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 1.
+
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 1.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 7.5pt on input line 1.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 7.5pt on input line 10.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <7.5> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 10
+.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 7.5pt on input line 10.
+
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 12.
+
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 12.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 5.47496pt on input line 12.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 4.12502pt on input line 12.
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <5.47496> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4.12502> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <5.47496> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <4.12502> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.47496> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.12502> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.5> not available
+(Font)              size <7> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.47496> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.12502> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
+(Font)              size <5> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
+(Font)              size <5> substituted on input line 12.
+
+) [3] (./short18_notes.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.5pt have occurred.
+(Font)              up to 0.87498pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 34720 strings out of 492646
- 690623 string characters out of 6129563
- 752994 words of memory out of 5000000
- 38011 multiletter control sequences out of 15000+600000
- 918295 words of font info for 144 fonts, out of 8000000 for 9000
+ 34896 strings out of 492646
+ 694178 string characters out of 6129563
+ 755317 words of memory out of 5000000
+ 38162 multiletter control sequences out of 15000+600000
+ 1132507 words of font info for 198 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,19n,102p,1134b,453s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}</usr/l
-ocal/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/loca
-l/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Heavy.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/
-texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/lo
-cal/texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/te
-xlive/2018/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/20
-18/texmf-dist/fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018
-/texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_notes.pdf (1 page, 113609 bytes).
+ 74i,20n,102p,1314b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}</usr/loc
+al/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Heavy.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/newtxsf/zsfmia-reg.pfb>
+Output written on short18_notes.pdf (3 pages, 192478 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
+ 55 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21517 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 29197 words of extra memory for PDF output out of 29859 (max. 10000000)
 

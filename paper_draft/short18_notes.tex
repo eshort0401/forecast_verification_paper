@@ -54,9 +54,66 @@
 
 \maketitle
 
-\noindent Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. 
+\begin{enumerate}
+\item
+Example figure with one day diurnal cycles for both AWS, Official, ECMWF and ACCESS winds, perturbations, and perturbation climatology. Just one season.
+\item
+Airport breakdown for one season, WPI, CWPI for one season, for both ACCESS and ECMWF. Second season in online supporting material.
+\item
+Example results for straight coastlines - perhaps north, northeast, northwest, south, southeast, southwest? Again, just do one season, include second season in online supporting material?
+\item
+Look at timing results by fitting ellipses and checking orientations of major axes. Just one season - both ECMWF and ACCESS? Maybe just ACCESS if ECMWF results are dodgy?
+\item
+Confirm ACCESS and ECMWF are indeed the msot commonly used model guidance products for winds. 
+\end{enumerate}
 
-This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
+\begin{enumerate}
+\item
+In Cairns and Townsville (austral summer), ECMWF understimates the magnitude of the land-sea breeze, leading to ACCESS resolving the diurnal cycle more accurately. During austral winter ECMWF again underperfoms, but (Townsville) more to do with shape of the hodograph and direction of the sea-breeze. At Cairns, it's essentially again because the ECMWF peak seabreeze is slightly (1 knot) too slow.   
+\item
+In Darwin - ACCESS perturbations bizarre during austral summer (wet season), but ECMWF also much too weak (about half the amplitude). 
+\item
+In Darwin - during austral winter (dry season) - ECMWF very accurate - gets peak of sea-breeze perfectly correct! Also resolves weird bump at 12 UTC quite well. However, does not resolve bump at 1 UTC at all. ACCESS doesn't either really. 
+\item
+Interesting - at Melbourne ECMWF and ACCESS essentially agree, but both underestimate the magnitude of the land-sea breeze. True of both seasons. 
+\item
+Adelaide - ACCESS and ECMWF almost match at Adelaide. Amplitudes generally slightly too weak compared to observations however. 
+\item
+Need to assume intependence of measurement and rounding error in observations. 
+\end{enumerate}
+
+\subsection{\citet{pinson12}}
+Proposes station-oriented view of the verification problem (which is what we are doing). Notes that there is a ``representativeness issue" in that station-data is resolving processes at physical scales the model is infact not intended to resolve. Notes that from the users perspective this is irrelevant. \textit{How could forecasters or post-processing incorporate this uncertainty into the forecast?} Discusses in detail the bilinear interpolation process for downscaling forecast data to location of stations. \textit{What is Jive's procedure for doing this?} Forecasts are benchmarked against 1-6 climatology based forecasts. Notes that observational uncertainty is known to be non-negligible, while surface effects introduce additional noise beyond what the numerical models intend to represent (or are capable of representing.) Representativeness issue ignored here for above reasons. Notes one method of dealing with observational uncertainty when performing ensemble (probabilistic) forecast verification is by transforming observations into random variables. Impact of observational uncertainty can then be assessed using methods like those of Pappenberger et al.~(2009). Note that Pappenberger still applies only to probabilistic forecasting. 
+
+Very important - notes that the most poorly performing locations across Europe are the Alps and coastal regions, and that ``This could be expected since near-surface local effects [e.g. mountain and sea-breezes] are difficult to resolve at the fairly coarse resolution (50 km) of the ECMWF ensemble prediction system. [What is the spatial resolution of the ECMWF, ACCESS data used in GFE?] Authors comment on ``...questionable quality of the ensemble forecasts, for instance due to local effects not represented in a model with such a coarse spatial resolution". Could also be ensemble averaging process suppressing local processes.    
+
+Key discussion - ``The periodic nature of the RMSE curves is linked to the diurnal cycles in the wind speed magnitude, the amplitude of such periodicities varying throughout Europe. To identify better the effect of the diurnal cycle on verification statistics, one may refine the analysis performed here by verifying forecasts depending on the time of the day (instead of the lead time), or by making a difference between forecasts issued at 0000 and 1200 UTC." So diurnal cycles are mentioned in passing here - good reference to make.  
+
+Regarding observational uncertainty - the effect of uncertainty diminishes as the number of stations or the length of the evaluation period increases. ``This effect was observed to become negligible if looking at more than 100 stations over periods of more than a month (with two forecast series issued per day). For certain sites with strong local regimes though, one retrieves a more intuitive result that ensembles significantly underestimate wind speed.  
+
+\subsection{\citet{lynch14}}
+Focuses more on longer term forecasts. Interesting note that there is little difference in performance between 10m and 100m winds. Applies verification to forecast anomalies (from seasonal and diurnal cycles). SImilar approach to me, but work out average for each hour for each day of year, averaged over 32 years of ERA-Interim record. Note that I'm also avoiding the ``aritificial skill" associated with the seasonal cycle by restricting to just a particular season. I'm not convinced that seasonal skill is necessarily ``artificial" however! Both pinson and lynch use the CPRS score. Interesting notes on the large costs associated with wind farm station maintenance, and the need for probabilistic forecasts in order to manage these costs. 
+
+\subsection{\citet{ebert08}}
+Not easy to prove the value of mesoscale forecasts using traditional point-by-point verification results. At small scale features unpredictable - e.g. intermittant convective rainfall - in the example of winds the cold pool dynamics. Mesoscale forecasts typically verified against high-resolution gridded datasets, e.g. radar mosaics or reanalysis. Spatial verification techniques that do not require the forecasts to exactly match the observations at fine scales. Use of ``object oriented" techniques. The term `fuzzy' is consistent with the general concept of 'partial truth' introduced by Zadeh. Does Ebert's fuzzy scheme require gridded data? No. ``Fuzzy verification assumes that it is acceptable for the forecast to be slightly displaced and still be useful. Fuzzy concept can be applied in space or time. Really we're doing ``upscaling" rather than ``fuzzy" verification. Uncertainty in the observations represented by using neighbouring grid boxes. Less useful to me because ``event" framework not entirely appropriate to diurnal cycles. I am using an ``upscaling" approach. ``From the perspective of the forecast user, fuzzy verification gives important information on the scales and intensities at which the forecasts should be trusted."
+
+\subsection{\citet{ebert00}}
+N/A
+
+\subsection{\citet{yates06}}
+N/A
+
+\subsection{\citet{mason08}}
+
+\subsection{\citet{ferro17}}
+Presents mathematical results regarding the calculation of verification statistics in the presence of observational error. 
+
+\subsection{\citet{wilks11}}
+Practical way to deal with autocorrelation is to think in terms of ``effective sample size" 
+\begin{equation}
+n' \approx n \frac{1-\rho_1}{1+\rho_1}.
+\end{equation} 
+Simply replace $n$ with $n'$ in appropriate places in $t$-test. 
 
 \bibliography{./Coastal_Winds.bib}
 
