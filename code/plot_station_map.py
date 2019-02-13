@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 # ma is "masked array" - this is what the netCDF4 module uses
 import matplotlib.pyplot as plt
 import cartopy.crs as ccrs
@@ -26,7 +27,7 @@ rcParams.update({'font.serif': 'Times New Roman'})
 
 plt.close('all')
 
-fig = plt.figure()
+fig = plt.figure(figsize=(4,3))
 #fig.set_tight_layout(True)
 
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
@@ -50,7 +51,7 @@ ax.add_feature(states_provinces, edgecolor='black', zorder=0)
 coastal_stations = [
     nt_coastal_df, qld_coastal_df, nsw_coastal_df, vic_coastal_df, 
     wa_coastal_west_df, sa_coastal_df
-    ]   
+    ] 
 
 airport_stations = [
     darwin_ap_stations_df, brisbane_ap_stations_df, 

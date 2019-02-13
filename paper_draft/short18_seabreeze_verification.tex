@@ -82,6 +82,13 @@ This study compares both edited and non-edited Australian Bureau of Meteorology 
 \subsection{Data} 
 Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a XX, XX degree spatial resolution respectively. Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. 
 
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Locations of the automatic weather stations used in this study.}
+\label{Fig:station_map}
+\end{figure}
+
 Only station data from the seven Australian capital city airport automatic weather stations are considered; Official, ECMWF and ACCESS  data is \textit{(linearly?)} interpolated to the coordinates of the airport weather stations. Capital city airports have been chosen as the focus of this study for a number of reasons. Automatic weather stations located at airports tend to provide the most accurate wind data, and wind forcasts at airports are important to the aviation industry. Moreover, the capital city airports are all reasonably close to coastlines, resulting in a clear diurnal signal. Finally, these airports are also all close to their respective capital cities, which are high priority regions for accurate forecasting. The datasets are hosted on the Bureau's Jive database, but are not currently generally available, although the long term plan is for this to change. \textit{Can I extract and host the data I need myself? Can I obtain copies of the relevant Jive Functions so that I can post complete code online?}
 
 As described above, the Australian Bureau of Meteorology's official wind forecast is constructed out of model data, which is then edited by human forecasters using the Graphical Forecast Editor (GFE) software package. Australian forecasters typically construct wind forecasts out of model data either from the European Center for Medium Range Weather Forecasting (ECMWF), or the Australian Community Climate and Earth System Simulator (ACCESS). Testing whether the official forecast data conforms more closely to the AWS observations than ECMWF or ACCESS therefore provides a way to assess the extra accuracy gained by forecaster edits.
@@ -129,48 +136,62 @@ Note that the Bureau has not yet moved to ensemble forecasting - and probabilist
 
 \section{Results}
 \label{results}
-In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, mean errors are assessed using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI. Finally, ellipse based indices are applied and discussed.     
+In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, mean errors are assessed using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI. Finally, ellipse based indices are applied and discussed.
 
-FIgure \ref{Fig:airport_wpi} provides example winds, and wind perturbations, at the Darwin Airport station on 19/06/2018. \textit{Discuss structural differences between observations, Official, ECMWF and ACCESS.} 
+FIgure \ref{Fig:darwin_airport_winds} provides example winds and wind perturbations at the Darwin Airport station on 19/06/2018. \textit{Discuss structural differences between observations, Official, ECMWF and ACCESS.} 
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true, height=7cm]{figure_placeholder.png}
 \caption{Hodographs showing the a) winds and b) wind perturbations (from a 24-hour running mean) at each hour [UTC] on 19/06/2018 at Darwin Airport.}
+\label{Fig:darwin_airport_winds}
+\end{figure}
+
+Figure \ref{Fig:airport_wpi} presents the WPI values, and confidence scores for the Official versus ACCESS and Official versus ECMWF and ECMWF versus ACCESS comparisons over the eight airport stations. \textit{Discuss how although the WPI values are small, standard deviations large, so errors can actually be large on some days. Don't really need to show std values everywhere if you're going to show a time series example.} Note that the four stations/times where official outperforms ACCESS can also be explained by the fact ECMWF outperforms ACCESS at these times - i.e. these results could be obtained if ECMWF was used for the Official forecast.
+
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Official vs Access and Official vs ECMWF WPI values, confidence and standard deviations at airport stations.}
 \label{Fig:airport_wpi}
 \end{figure}
 
-Is ECMWF actually more accurate - or is it's internal variability just lower? 
-WPI figures... 
+Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series plots and hodograph for 1st of July at Darwin airport at 10 UTC (compare with WPI for Off vs ECM, value of -1.7 and v good confidence.) Freak result - likely data entry error. Can see how extreme sea breeze been blended in.
 
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{WPI statistics Confidence that a) the Bureau's official forecasts of diurnal wind processes are more accurate than unedited ACCESS model guidance over the austral winter months (June, July, August) of 2018, as measured by the WPI; analogously, b) and c) give the confidence that the Official forecast is more accurate than ECMWF model guidance, and that ECMWF is more accurate that ACCESS, respectlvely. }
-\label{Fig:airport_wpi_access}
+\caption{As in Figure \ref{Fig:airport_wpi}, but for the coastal station groups.}
+\label{Fig:time_series_and_hodo}
 \end{figure}
 
-\begin{comment}
-\begin{figure}
-\centering
-\includegraphics[keepaspectratio=true,height=7cm]{figure_placeholder.png}
-\caption{Hodograph showing the wind perturbations (from a 24-hour running mean) at each hour [UTC] at Darwin Airport, averaged across June, July, August 2018.}
-\label{Fig:airport_wpi_access}
-\end{figure}
+Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. \textit{Should't we spatially average wind values before calculating WPI, then look at time series of WPI? Probably, yes. Raw WPI not super interesting? Well, if we leave as is, we have a better distinction between error and bias? Actually, I've changed my mind, I like leaving WPI the way it is at all levels of aggregation.} Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 
 
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{As in Fig.~\ref{Fig:airport_wpi_access}, but measured using the CWPI.}
-\label{Fig:airport_cwpi_access}
+\caption{As in Figure \ref{Fig:airport_wpi}, but for the coastal station groups.}
+\label{Fig:coastal_wpi}
 \end{figure}
 
-\end{comment}
+Figure \ref{Fig:std_perts_access_ecmwf} shows the standard deviations of the zonal and meridional wind perturbations for both ECMWF and ACCESS. Significantly larger for ACCESS (explain in terms of resolutions). 
+
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Standard deviations of the ECMWF and ACCESS wind perturbations.}
+\label{Fig:std_perts_access_ecmwf}
+\end{figure}
 
 \section{Discussion}
 \label{discussion}
 
 The methods developed in this study can be readily extended to analyse \emph{just} the sea-breezes satisfying the operational definition above. For instance, to study the sea-breezes at a station near a coastline with inward pointing normal vector $\widehat{\boldsymbol{n}}$, the wind perturbation datasets could be restricted to just those days where the corresponding raw wind vector $\boldsymbol{u}$ satisfies $\widehat{\boldsymbol{n}} \cdot \boldsymbol{u} > 0$ for at least one of the hours of that day.
 
+How much time should forecasters spend on sea-breeze edits (if any)? What is the value of an improved diurnal cycle climatology? Improving the accuracy of forecast climatologies will have little value to the typical forecast user. Are there applications where a higher performing climatological forecast yields better outcomes, even if errors increase or even get worse? 
+
+Increasing the resolution of a forecast may reduce bias, but increase error.  
+
+Error, not bias, that generally matters for the forecast user. Standard methods for ``improving" forecasts (adding parametrisations, increasing resolution) reduce bias, but actually increase errors! 
 
 \section{Conclusion}
 \label{conclusion}

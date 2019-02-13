@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.16)  8 FEB 2019 11:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.16)  11 FEB 2019 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2014,27 +2014,52 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Underfull \vbox (badness 1558) has occurred while \output is active []
 
  [2]
-[3]
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
-2.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 112.
- [4]
-<figure_placeholder.png, id=27, 168.02776pt x 118.64325pt>
+<figure_placeholder.png, id=16, 168.02776pt x 118.64325pt>
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 137.
-(pdftex.def)             Requested size: 282.07703pt x 199.16928pt.
+Package pdftex.def Info: figure_placeholder.png  used on input line 87.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+ [3 <./figure_placeholder.png>] [4]
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
+9.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 119.
+ [5]
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
 Package pdftex.def Info: figure_placeholder.png  used on input line 144.
+(pdftex.def)             Requested size: 282.07703pt x 199.16928pt.
+ [6]
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 153.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
- Excluding 'comment' comment.
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-[6 <./figure_placeholder.png>] (./short18_seabreeze_verification.bbl
+
+LaTeX Warning: Reference `Fig:time_series_and_hodo' on page 7 undefined on inpu
+t line 158.
+
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 162.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 171.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+
+LaTeX Warning: Reference `Fig:std_perts_access_ecmwf' on page 7 undefined on in
+put line 176.
+
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 180.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+[7] [8] (./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2121,7 +2146,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 12.
 
-[7]) [8] (./short18_seabreeze_verification.aux)
+
+Underfull \vbox (badness 2680) has occurred while \output is active []
+
+ [9])
+[10] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.87498pt have occurred.
@@ -2137,10 +2166,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 35111 strings out of 492646
- 699816 string characters out of 6129563
- 758631 words of memory out of 5000000
- 38368 multiletter control sequences out of 15000+600000
+ 35114 strings out of 492646
+ 699896 string characters out of 6129563
+ 758647 words of memory out of 5000000
+ 38371 multiletter control sequences out of 15000+600000
  1264269 words of font info for 204 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,21n,102p,1960b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2157,10 +2186,10 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive
 xmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist
 /fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (8 pages, 242991 bytes).
+Output written on short18_seabreeze_verification.pdf (10 pages, 251390 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 87 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  32274 words of extra memory for PDF output out of 35830 (max. 10000000)
 
