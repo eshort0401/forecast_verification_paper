@@ -1,11 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.6.16)  11 FEB 2019 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  10 MAR 2019 11:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **short18_seabreeze_verification.tex
 (./short18_seabreeze_verification.tex
-LaTeX2e <2018-04-01> patch level 5
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./wiley-article.cls
 Document Class: wiley-article 2017/05/26, v1.1
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
@@ -37,10 +38,10 @@ Package xcolor Info: Driver file: pdftex.def on input line 225.
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+Package: array 2018/04/07 v2.4g Tabular extension package (FMi)
 \col@sep=\dimen103
 \ar@mcellbox=\box26
 \extrarowheight=\dimen104
@@ -210,7 +211,7 @@ Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
 Package: dashrule 2013/03/28 v1.3 Dashed rules
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
-Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+Package: ifmtarg 2009/09/02 v1.2a check for an empty argument
 )
 \c@hdr@segments=\count106
 )
@@ -261,21 +262,22 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/xpatch/xpatch.sty
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2018-06-01 L3 programming layer (loader) 
+Package: expl3 2018/03/05 L3 programming layer (loader) 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2018-06-01 L3 programming layer (code)
+Package: expl3 2018/03/05 L3 programming layer (code)
 \c_max_int=\count110
 \l_tmpa_int=\count111
 \l_tmpb_int=\count112
 \g_tmpa_int=\count113
 \g_tmpb_int=\count114
-\g__kernel_prg_map_int=\count115
-\c_log_iow=\count116
-\l_iow_line_count_int=\count117
-\l__iow_line_target_int=\count118
-\l__iow_one_indent_int=\count119
-\l__iow_indent_int=\count120
+\g__intarray_font_int=\count115
+\g__prg_map_int=\count116
+\c_log_iow=\count117
+\l_iow_line_count_int=\count118
+\l__iow_line_target_int=\count119
+\l__iow_one_indent_int=\count120
+\l__iow_indent_int=\count121
 \c_zero_dim=\dimen133
 \c_max_dim=\dimen134
 \l_tmpa_dim=\dimen135
@@ -294,100 +296,99 @@ Package: expl3 2018-06-01 L3 programming layer (code)
 \l_tmpb_muskip=\muskip15
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
-\l_keys_choice_int=\count121
-\l__intarray_loop_int=\count122
-\c__intarray_sp_dim=\dimen139
-\g__intarray_font_int=\count123
-\c__fp_leading_shift_int=\count124
-\c__fp_middle_shift_int=\count125
-\c__fp_trailing_shift_int=\count126
-\c__fp_big_leading_shift_int=\count127
-\c__fp_big_middle_shift_int=\count128
-\c__fp_big_trailing_shift_int=\count129
-\c__fp_Bigg_leading_shift_int=\count130
-\c__fp_Bigg_middle_shift_int=\count131
-\c__fp_Bigg_trailing_shift_int=\count132
-\c__kernel_randint_max_int=\count133
-\g__fp_array_int=\count134
-\l__fp_array_loop_int=\count135
-\l__sort_length_int=\count136
-\l__sort_min_int=\count137
-\l__sort_top_int=\count138
-\l__sort_max_int=\count139
-\l__sort_true_max_int=\count140
-\l__sort_block_int=\count141
-\l__sort_begin_int=\count142
-\l__sort_end_int=\count143
-\l__sort_A_int=\count144
-\l__sort_B_int=\count145
-\l__sort_C_int=\count146
-\l__tl_analysis_normal_int=\count147
-\l__tl_analysis_index_int=\count148
-\l__tl_analysis_nesting_int=\count149
-\l__tl_analysis_type_int=\count150
-\l__regex_internal_a_int=\count151
-\l__regex_internal_b_int=\count152
-\l__regex_internal_c_int=\count153
-\l__regex_balance_int=\count154
-\l__regex_group_level_int=\count155
-\l__regex_mode_int=\count156
-\c__regex_cs_in_class_mode_int=\count157
-\c__regex_cs_mode_int=\count158
-\l__regex_catcodes_int=\count159
-\l__regex_default_catcodes_int=\count160
-\c__regex_catcode_D_int=\count161
-\c__regex_catcode_S_int=\count162
-\c__regex_catcode_L_int=\count163
-\c__regex_catcode_O_int=\count164
-\c__regex_catcode_A_int=\count165
-\c__regex_all_catcodes_int=\count166
-\l__regex_show_lines_int=\count167
-\l__regex_min_state_int=\count168
-\l__regex_max_state_int=\count169
-\l__regex_left_state_int=\count170
-\l__regex_right_state_int=\count171
-\l__regex_capturing_group_int=\count172
-\l__regex_min_pos_int=\count173
-\l__regex_max_pos_int=\count174
-\l__regex_curr_pos_int=\count175
-\l__regex_start_pos_int=\count176
-\l__regex_success_pos_int=\count177
-\l__regex_curr_char_int=\count178
-\l__regex_curr_catcode_int=\count179
-\l__regex_last_char_int=\count180
-\l__regex_case_changed_char_int=\count181
-\l__regex_curr_state_int=\count182
-\l__regex_step_int=\count183
-\l__regex_min_active_int=\count184
-\l__regex_max_active_int=\count185
-\l__regex_replacement_csnames_int=\count186
-\l__regex_match_count_int=\count187
-\l__regex_min_submatch_int=\count188
-\l__regex_submatch_int=\count189
-\l__regex_zeroth_submatch_int=\count190
-\g__regex_trace_regex_int=\count191
+\l_keys_choice_int=\count122
+\c__fp_leading_shift_int=\count123
+\c__fp_middle_shift_int=\count124
+\c__fp_trailing_shift_int=\count125
+\c__fp_big_leading_shift_int=\count126
+\c__fp_big_middle_shift_int=\count127
+\c__fp_big_trailing_shift_int=\count128
+\c__fp_Bigg_leading_shift_int=\count129
+\c__fp_Bigg_middle_shift_int=\count130
+\c__fp_Bigg_trailing_shift_int=\count131
+\c__fp_rand_size_int=\count132
+\c__fp_rand_four_int=\count133
+\c__fp_rand_eight_int=\count134
+\l__sort_length_int=\count135
+\l__sort_min_int=\count136
+\l__sort_top_int=\count137
+\l__sort_max_int=\count138
+\l__sort_true_max_int=\count139
+\l__sort_block_int=\count140
+\l__sort_begin_int=\count141
+\l__sort_end_int=\count142
+\l__sort_A_int=\count143
+\l__sort_B_int=\count144
+\l__sort_C_int=\count145
+\l__tl_build_start_index_int=\count146
+\l__tl_build_index_int=\count147
+\l__tl_analysis_normal_int=\count148
+\l__tl_analysis_index_int=\count149
+\l__tl_analysis_nesting_int=\count150
+\l__tl_analysis_type_int=\count151
+\l__regex_internal_a_int=\count152
+\l__regex_internal_b_int=\count153
+\l__regex_internal_c_int=\count154
+\l__regex_balance_int=\count155
+\l__regex_group_level_int=\count156
+\l__regex_mode_int=\count157
+\c__regex_cs_in_class_mode_int=\count158
+\c__regex_cs_mode_int=\count159
+\l__regex_catcodes_int=\count160
+\l__regex_default_catcodes_int=\count161
+\c__regex_catcode_D_int=\count162
+\c__regex_catcode_S_int=\count163
+\c__regex_catcode_L_int=\count164
+\c__regex_catcode_O_int=\count165
+\c__regex_catcode_A_int=\count166
+\c__regex_all_catcodes_int=\count167
+\l__regex_show_lines_int=\count168
+\l__regex_min_state_int=\count169
+\l__regex_max_state_int=\count170
+\l__regex_left_state_int=\count171
+\l__regex_right_state_int=\count172
+\l__regex_capturing_group_int=\count173
+\l__regex_min_pos_int=\count174
+\l__regex_max_pos_int=\count175
+\l__regex_curr_pos_int=\count176
+\l__regex_start_pos_int=\count177
+\l__regex_success_pos_int=\count178
+\l__regex_curr_char_int=\count179
+\l__regex_curr_catcode_int=\count180
+\l__regex_last_char_int=\count181
+\l__regex_case_changed_char_int=\count182
+\l__regex_curr_state_int=\count183
+\l__regex_step_int=\count184
+\l__regex_min_active_int=\count185
+\l__regex_max_active_int=\count186
+\l__regex_replacement_csnames_int=\count187
+\l__regex_match_count_int=\count188
+\l__regex_min_submatch_int=\count189
+\l__regex_submatch_int=\count190
+\l__regex_zeroth_submatch_int=\count191
+\g__regex_trace_regex_int=\count192
 \c_empty_box=\box30
 \l_tmpa_box=\box31
 \l_tmpb_box=\box32
 \g_tmpa_box=\box33
 \g_tmpb_box=\box34
-\l__box_top_dim=\dimen140
-\l__box_bottom_dim=\dimen141
-\l__box_left_dim=\dimen142
-\l__box_right_dim=\dimen143
-\l__box_top_new_dim=\dimen144
-\l__box_bottom_new_dim=\dimen145
-\l__box_left_new_dim=\dimen146
-\l__box_right_new_dim=\dimen147
+\l__box_top_dim=\dimen139
+\l__box_bottom_dim=\dimen140
+\l__box_left_dim=\dimen141
+\l__box_right_dim=\dimen142
+\l__box_top_new_dim=\dimen143
+\l__box_bottom_new_dim=\dimen144
+\l__box_left_new_dim=\dimen145
+\l__box_right_new_dim=\dimen146
 \l__box_internal_box=\box35
 \l__coffin_internal_box=\box36
-\l__coffin_internal_dim=\dimen148
-\l__coffin_offset_x_dim=\dimen149
-\l__coffin_offset_y_dim=\dimen150
-\l__coffin_x_dim=\dimen151
-\l__coffin_y_dim=\dimen152
-\l__coffin_x_prime_dim=\dimen153
-\l__coffin_y_prime_dim=\dimen154
+\l__coffin_internal_dim=\dimen147
+\l__coffin_offset_x_dim=\dimen148
+\l__coffin_offset_y_dim=\dimen149
+\l__coffin_x_dim=\dimen150
+\l__coffin_y_dim=\dimen151
+\l__coffin_x_prime_dim=\dimen152
+\l__coffin_y_prime_dim=\dimen153
 \c_empty_coffin=\box37
 \l__coffin_aligned_coffin=\box38
 \l__coffin_aligned_internal_coffin=\box39
@@ -396,37 +397,34 @@ Package: expl3 2018-06-01 L3 programming layer (code)
 \l__coffin_display_coffin=\box42
 \l__coffin_display_coord_coffin=\box43
 \l__coffin_display_pole_coffin=\box44
-\l__coffin_display_offset_dim=\dimen155
-\l__coffin_display_x_dim=\dimen156
-\l__coffin_display_y_dim=\dimen157
-\g__file_internal_ior=\read1
-\l__coffin_bounding_shift_dim=\dimen158
-\l__coffin_left_corner_dim=\dimen159
-\l__coffin_right_corner_dim=\dimen160
-\l__coffin_bottom_corner_dim=\dimen161
-\l__coffin_top_corner_dim=\dimen162
-\l__coffin_scaled_total_height_dim=\dimen163
-\l__coffin_scaled_width_dim=\dimen164
-\l__seq_internal_a_int=\count192
-\l__seq_internal_b_int=\count193
+\l__coffin_display_offset_dim=\dimen154
+\l__coffin_display_x_dim=\dimen155
+\l__coffin_display_y_dim=\dimen156
+\l__coffin_bounding_shift_dim=\dimen157
+\l__coffin_left_corner_dim=\dimen158
+\l__coffin_right_corner_dim=\dimen159
+\l__coffin_bottom_corner_dim=\dimen160
+\l__coffin_top_corner_dim=\dimen161
+\l__coffin_scaled_total_height_dim=\dimen162
+\l__coffin_scaled_width_dim=\dimen163
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
-File: l3pdfmode.def 2018-06-01 v L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count194
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count193
 ))
 Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2018-05-12 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count195
-\g__xparse_grabber_int=\count196
-\l__xparse_m_args_int=\count197
-\l__xparse_mandatory_args_int=\count198
-\l__xparse_v_nesting_int=\count199
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count194
+\g__xparse_grabber_int=\count195
+\l__xparse_m_args_int=\count196
+\l__xparse_mandatory_args_int=\count197
+\l__xparse_v_nesting_int=\count198
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
+\etb@tempcnta=\count199
 )
 .................................................
 . LaTeX info: "xparse/define-command"
@@ -658,14 +656,14 @@ Package zref Info: New property: page on input line 761.
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 )
-\c@abspage=\count267
+\c@abspage=\count266
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 \mdf@templength=\skip76
-\c@mdf@globalstyle@cnt=\count268
+\c@mdf@globalstyle@cnt=\count267
 \mdf@skipabove@length=\skip77
 \mdf@skipbelow@length=\skip78
 \mdf@leftmargin@length=\skip79
@@ -712,8 +710,8 @@ Package: needspace 2010/09/12 v1.3d reserve vertical space
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
 x
 \pgfutil@everybye=\toks28
-\pgfutil@tempdima=\dimen165
-\pgfutil@tempdimb=\dimen166
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
 sts.tex))
@@ -738,20 +736,20 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 ode.tex
 \pgfkeys@tmptoks=\toks31
 ))
-\pgf@x=\dimen167
-\pgf@y=\dimen168
-\pgf@xa=\dimen169
-\pgf@ya=\dimen170
-\pgf@xb=\dimen171
-\pgf@yb=\dimen172
-\pgf@xc=\dimen173
-\pgf@yc=\dimen174
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
 \w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count269
-\c@pgf@countb=\count270
-\c@pgf@countc=\count271
-\c@pgf@countd=\count272
+\r@pgf@reada=\read1
+\c@pgf@counta=\count268
+\c@pgf@countb=\count269
+\c@pgf@countc=\count270
+\c@pgf@countd=\count271
 \t@pgf@toka=\toks32
 \t@pgf@tokb=\toks33
 \t@pgf@tokc=\toks34
@@ -772,8 +770,8 @@ File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
 code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count273
-\pgfsyssoftpath@bigbuffer@items=\count274
+\pgfsyssoftpath@smallbuffer@items=\count272
+\pgfsyssoftpath@bigbuffer@items=\count273
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
 code.tex
@@ -785,8 +783,8 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen175
-\pgfmath@count=\count275
+\pgfmath@dimen=\dimen174
+\pgfmath@count=\count274
 \pgfmath@box=\box46
 \pgfmath@toks=\toks35
 \pgfmath@stack@operand=\toks36
@@ -811,37 +809,37 @@ code.tex)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
 erarithmetics.code.tex)))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count276
+\c@pgfmathroundto@lastzeros=\count275
 ))
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
 de.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen176
-\pgf@picmaxx=\dimen177
-\pgf@picminy=\dimen178
-\pgf@picmaxy=\dimen179
-\pgf@pathminx=\dimen180
-\pgf@pathmaxx=\dimen181
-\pgf@pathminy=\dimen182
-\pgf@pathmaxy=\dimen183
-\pgf@xx=\dimen184
-\pgf@xy=\dimen185
-\pgf@yx=\dimen186
-\pgf@yy=\dimen187
-\pgf@zx=\dimen188
-\pgf@zy=\dimen189
+\pgf@picminx=\dimen175
+\pgf@picmaxx=\dimen176
+\pgf@picminy=\dimen177
+\pgf@picmaxy=\dimen178
+\pgf@pathminx=\dimen179
+\pgf@pathmaxx=\dimen180
+\pgf@pathminy=\dimen181
+\pgf@pathmaxy=\dimen182
+\pgf@xx=\dimen183
+\pgf@xy=\dimen184
+\pgf@yx=\dimen185
+\pgf@yy=\dimen186
+\pgf@zx=\dimen187
+\pgf@zy=\dimen188
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
 ruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen190
-\pgf@path@lasty=\dimen191
+\pgf@path@lastx=\dimen189
+\pgf@path@lasty=\dimen190
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
 .code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen192
-\pgf@shorten@start@additional=\dimen193
+\pgf@shorten@end@additional=\dimen191
+\pgf@shorten@start@additional=\dimen192
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
 de.tex
@@ -849,19 +847,19 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 \pgfpic=\box47
 \pgf@hbox=\box48
 \pgf@layerbox@main=\box49
-\pgf@picture@serial@count=\count277
+\pgf@picture@serial@count=\count276
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
 ate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen194
+\pgflinewidth=\dimen193
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
 ations.code.tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen195
-\pgf@pt@y=\dimen196
-\pgf@pt@temp=\dimen197
+\pgf@pt@x=\dimen194
+\pgf@pt@y=\dimen195
+\pgf@pt@temp=\dimen196
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
 e.tex
@@ -878,13 +876,13 @@ File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
 de.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen198
+\pgfarrowsep=\dimen197
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
 e.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen199
-\pgf@sys@shading@range@num=\count278
+\pgf@max=\dimen198
+\pgf@sys@shading@range@num=\count277
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
 e.tex
@@ -919,8 +917,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen256
-\pgf@nodesepend=\dimen257
+\pgf@nodesepstart=\dimen199
+\pgf@nodesepend=\dimen256
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
 -1-18.sty
@@ -935,8 +933,8 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen258
-\pgffor@skip=\dimen259
+\pgffor@iter=\dimen257
+\pgffor@skip=\dimen258
 \pgffor@stack=\toks38
 \pgffor@toks=\toks39
 ))
@@ -947,32 +945,32 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
 dlers.code.tex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count279
-\pgfplotmarksize=\dimen260
+\pgf@plot@mark@count=\count278
+\pgfplotmarksize=\dimen259
 )
-\tikz@lastx=\dimen261
-\tikz@lasty=\dimen262
-\tikz@lastxsaved=\dimen263
-\tikz@lastysaved=\dimen264
-\tikzleveldistance=\dimen265
-\tikzsiblingdistance=\dimen266
+\tikz@lastx=\dimen260
+\tikz@lasty=\dimen261
+\tikz@lastxsaved=\dimen262
+\tikz@lastysaved=\dimen263
+\tikzleveldistance=\dimen264
+\tikzsiblingdistance=\dimen265
 \tikz@figbox=\box52
 \tikz@figbox@bg=\box53
 \tikz@tempbox=\box54
 \tikz@tempbox@bg=\box55
-\tikztreelevel=\count280
-\tikznumberofchildren=\count281
-\tikznumberofcurrentchild=\count282
-\tikz@fig@count=\count283
+\tikztreelevel=\count279
+\tikznumberofchildren=\count280
+\tikznumberofcurrentchild=\count281
+\tikz@fig@count=\count282
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
 e.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count284
-\pgfmatrixcurrentcolumn=\count285
-\pgf@matrix@numberofcolumns=\count286
+\pgfmatrixcurrentrow=\count283
+\pgfmatrixcurrentcolumn=\count284
+\pgf@matrix@numberofcolumns=\count285
 )
-\tikz@expandcount=\count287
+\tikz@expandcount=\count286
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
 s/tikzlibrarytopaths.code.tex
@@ -1013,7 +1011,7 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 \mdf@horizontalspaceofbox=\skip140
 \mdfsubtitleheight=\skip141
 \mdfsubsubtitleheight=\skip142
-\c@mdfcountframes=\count288
+\c@mdfcountframes=\count287
 
 ****** mdframed patching \endmdf@trivlist
 
@@ -1029,32 +1027,32 @@ File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
 . 
 . Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
 .................................................
-\mdf@envdepth=\count289
-\c@mdf@env@i=\count290
-\c@mdf@env@ii=\count291
-\c@mdf@zref@counter=\count292
+\mdf@envdepth=\count288
+\c@mdf@env@i=\count289
+\c@mdf@env@ii=\count290
+\c@mdf@zref@counter=\count291
 Package zref Info: New property: mdf@pagevalue on input line 895.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/silence/silence.sty
 Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error mes
 sages
-\sl@Save=\count293
-\sl@StateNumber=\count294
-\sl@MessageCount=\count295
-\sl@Casualties=\count296
+\sl@Save=\count292
+\sl@StateNumber=\count293
+\sl@MessageCount=\count294
+\sl@Casualties=\count295
 \sl@Filter=\toks40
 \sl@Message=\toks41
 \sl@UnexpandedMessage=\toks42
 \sl@Mess@ge=\toks43
-\sl@WarningCount=\count297
-\sl@WarningNumber=\count298
-\sl@WarningCasualties=\count299
+\sl@WarningCount=\count296
+\sl@WarningNumber=\count297
+\sl@WarningCasualties=\count298
 \sl@TempBOW=\toks44
 \sl@BankOfWarnings=\toks45
 LaTeX Info: Redefining \GenericWarning on input line 433.
-\sl@ErrorCount=\count300
-\sl@ErrorNumber=\count301
-\sl@ErrorCasualties=\count302
+\sl@ErrorCount=\count299
+\sl@ErrorNumber=\count300
+\sl@ErrorCasualties=\count301
 \sl@TempBOE=\toks46
 \sl@BankOfErrors=\toks47
 LaTeX Info: Redefining \GenericError on input line 601.
@@ -1062,11 +1060,11 @@ LaTeX Info: Redefining \GenericError on input line 601.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
 \MT@toks=\toks48
-\MT@count=\count303
+\MT@count=\count302
 LaTeX Info: Redefining \textls on input line 793.
-\MT@outer@kern=\dimen267
+\MT@outer@kern=\dimen266
 LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
-\MT@listname@count=\count304
+\MT@listname@count=\count303
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
@@ -1110,15 +1108,15 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks51
 \XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count305
+\XKV@depth=\count304
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/newtxsf.sty
-Package: newtxsf 2018/06/07 v1.051
+Package: newtxsf 2016/08/23 v1.05
 
-`newtxsf' v1.051, 2018/06/07 Math macros based on STIX sans serif and txfonts (
-msharpe) (/usr/local/texlive/2018/texmf-dist/tex/generic/kastrup/binhex.tex)
-\tx@Isdigit=\count306
+`newtxsf' v1.05, 2016/08/23 Math macros based on STIX sans serif and txfonts (m
+sharpe) (/usr/local/texlive/2018/texmf-dist/tex/generic/kastrup/binhex.tex)
+\tx@Isdigit=\count305
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 47.
 LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
 (Font)              `operators' in the math version `normal' on input line 47.
@@ -1228,23 +1226,23 @@ LaTeX Font Info:    Redeclaring math symbol \m@thbbch@rA on input line 1476.
 LaTeX Info: Redefining \not on input line 1730.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
+Package: geometry 2018/03/24 v5.7 Page Geometry
 
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count307
-\Gm@cntv=\count308
-\c@Gm@tempcnt=\count309
-\Gm@bindingoffset=\dimen268
-\Gm@wd@mp=\dimen269
-\Gm@odd@mp=\dimen270
-\Gm@even@mp=\dimen271
-\Gm@layoutwidth=\dimen272
-\Gm@layoutheight=\dimen273
-\Gm@layouthoffset=\dimen274
-\Gm@layoutvoffset=\dimen275
+\Gm@cnth=\count306
+\Gm@cntv=\count307
+\c@Gm@tempcnt=\count308
+\Gm@bindingoffset=\dimen267
+\Gm@wd@mp=\dimen268
+\Gm@odd@mp=\dimen269
+\Gm@even@mp=\dimen270
+\Gm@layoutwidth=\dimen271
+\Gm@layoutheight=\dimen272
+\Gm@layouthoffset=\dimen273
+\Gm@layoutvoffset=\dimen274
 \Gm@dimlist=\toks53
 )
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/alphalph.sty
@@ -1253,7 +1251,7 @@ Package: alphalph 2016/05/16 v2.5 Convert numbers to letters (HO)
 (/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/intcalc.sty
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 ))
-\c@authorfn=\count310
+\c@authorfn=\count309
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/koma-script/scrextend.sty
 Package: scrextend 2018/03/30 v3.25 KOMA-Script package (extend other classes w
@@ -1275,23 +1273,23 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box61
 \beforetitleunit=\skip144
 \aftertitleunit=\skip145
-\ttl@plus=\dimen276
-\ttl@minus=\dimen277
+\ttl@plus=\dimen275
+\ttl@minus=\dimen276
 \ttl@toksa=\toks54
-\titlewidth=\dimen278
-\titlewidthlast=\dimen279
-\titlewidthfirst=\dimen280
+\titlewidth=\dimen277
+\titlewidthlast=\dimen278
+\titlewidthfirst=\dimen279
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/titlesec/ttlkeys.def
 File: ttlkeys.def 2016/03/15
-\c@ttlp@side=\count311
-\ttlp@side=\count312
+\c@ttlp@side=\count310
+\ttlp@side=\count311
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/footmisc/footmisc.sty
 Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
 \FN@temptoken=\toks55
-\footnotemargin=\dimen281
-\c@pp@next@reset=\count313
+\footnotemargin=\dimen280
+\c@pp@next@reset=\count312
 Package footmisc Info: Declaring symbol style bringhurst on input line 855.
 Package footmisc Info: Declaring symbol style chicago on input line 863.
 Package footmisc Info: Declaring symbol style wiley on input line 872.
@@ -1316,8 +1314,8 @@ s
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count314
-\cp@tempcnt=\count315
+\c@cp@cntr=\count313
+\cp@tempcnt=\count314
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -1335,61 +1333,61 @@ Package: quoting 2014/01/28 v0.1c Consolidated environment for displayed text
 (/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
 \labelindent=\skip158
-\enit@outerparindent=\dimen282
+\enit@outerparindent=\dimen281
 \enit@toks=\toks56
 \enit@inbox=\box62
-\enitdp@description=\count316
+\enitdp@description=\count315
 )
-\c@theorem=\count317
+\c@theorem=\count316
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen283
-\captionmargin@=\dimen284
-\captionwidth=\dimen285
-\caption@tempdima=\dimen286
-\caption@indent=\dimen287
-\caption@parindent=\dimen288
-\caption@hangindent=\dimen289
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen282
+\captionmargin@=\dimen283
+\captionwidth=\dimen284
+\caption@tempdima=\dimen285
+\caption@indent=\dimen286
+\caption@parindent=\dimen287
+\caption@hangindent=\dimen288
 )
-\c@ContinuedFloat=\count318
+\c@ContinuedFloat=\count317
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box63
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/caption/newfloat.sty
-Package: newfloat 2018/03/04 v1.1a Defining new floating environments (AR)
+Package: newfloat 2015/09/17 v1.1-109 Defining new floating environments (AR)
 )
 Package newfloat Info: New float `featurebox' with options `placement=bt,name=b
 ox' on input line 573.
-\c@featurebox=\count319
-\newfloat@ftype=\count320
+\c@featurebox=\count318
+\newfloat@ftype=\count319
 Package newfloat Info: float type `featurebox'=8 on input line 573.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/enotez/enotez.sty
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-Package: l3keys2e 2018-05-12 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.st
 y
-Package: xtemplate 2018-05-12 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen290
-\l__xtemplate_tmp_int=\count321
+Package: xtemplate 2018/02/21 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen289
+\l__xtemplate_tmp_int=\count320
 \l__xtemplate_tmp_muskip=\muskip18
 \l__xtemplate_tmp_skip=\skip159
 )
 Package: enotez 2017/04/24 v0.9a Endnotes for LaTeX2e
 \l__enotez_list_preamble_skip=\skip160
 \l__enotez_list_postamble_skip=\skip161
-\g__enotez_endnote_id_int=\count322
-\g__enotez_endnote_mark_int=\count323
-\c@endnote=\count324
-\g__enotez_list_printed_int=\count325
-\l__enotez_tmpa_int=\count326
+\g__enotez_endnote_id_int=\count321
+\g__enotez_endnote_mark_int=\count322
+\c@endnote=\count323
+\g__enotez_list_printed_int=\count324
+\l__enotez_tmpa_int=\count325
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1400,7 +1398,7 @@ Package: enotez 2017/04/24 v0.9a Endnotes for LaTeX2e
 . 
 . Declaring object type 'enotez-list' taking 1 argument(s) on line 389.
 .................................................
-\l__enotez_list_notes_sep_dim=\dimen291
+\l__enotez_list_notes_sep_dim=\dimen290
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -1450,77 +1448,77 @@ Package: enotez 2017/04/24 v0.9a Endnotes for LaTeX2e
 Package: translations 2017/08/31 v1.7a internationalization of LaTeX2e packages
  (CN)
 ))
-\enitdp@enotezlist=\count327
+\enitdp@enotezlist=\count326
  (/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip162
 \bibsep=\skip163
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count328
+\c@NAT@ctr=\count327
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lettrine/lettrine.sty
 File: lettrine.sty 2015/08/31 v1.9 (Daniel Flipo)
-\c@DefaultLines=\count329
-\c@DefaultDepth=\count330
-\DefaultFindent=\dimen292
-\DefaultNindent=\dimen293
-\DefaultSlope=\dimen294
-\DiscardVskip=\dimen295
+\c@DefaultLines=\count328
+\c@DefaultDepth=\count329
+\DefaultFindent=\dimen291
+\DefaultNindent=\dimen292
+\DefaultSlope=\dimen293
+\DiscardVskip=\dimen294
 \L@lbox=\box64
 \L@tbox=\box65
-\c@L@lines=\count331
-\c@L@depth=\count332
-\L@Pindent=\dimen296
-\L@Findent=\dimen297
-\L@Nindent=\dimen298
-\L@lraise=\dimen299
-\L@first=\dimen300
-\L@next=\dimen301
-\L@slope=\dimen302
-\L@height=\dimen303
-\L@novskip=\dimen304
-\LettrineWidth=\dimen305
-\LettrineHeight=\dimen306
-\LettrineDepth=\dimen307
+\c@L@lines=\count330
+\c@L@depth=\count331
+\L@Pindent=\dimen295
+\L@Findent=\dimen296
+\L@Nindent=\dimen297
+\L@lraise=\dimen298
+\L@first=\dimen299
+\L@next=\dimen300
+\L@slope=\dimen301
+\L@height=\dimen302
+\L@novskip=\dimen303
+\LettrineWidth=\dimen304
+\LettrineHeight=\dimen305
+\LettrineDepth=\dimen306
 
 Loading lettrine.cfg
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lettrine/lettrine.cfg)))
 (/usr/local/texlive/2018/texmf-dist/tex/latex/siunitx/siunitx.sty
-Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+Package: siunitx 2018-03-20 v2.7m A comprehensive (SI) units package
 \l__siunitx_tmp_box=\box66
-\l__siunitx_tmp_dim=\dimen308
-\l__siunitx_tmp_int=\count333
-\l__siunitx_number_mantissa_length_int=\count334
-\l__siunitx_number_uncert_length_int=\count335
-\l__siunitx_round_int=\count336
-\l__siunitx_process_decimal_int=\count337
-\l__siunitx_process_uncertainty_int=\count338
-\l__siunitx_process_fixed_int=\count339
-\l__siunitx_process_integer_min_int=\count340
-\l__siunitx_process_precision_int=\count341
-\l__siunitx_group_min_int=\count342
+\l__siunitx_tmp_dim=\dimen307
+\l__siunitx_tmp_int=\count332
+\l__siunitx_number_mantissa_length_int=\count333
+\l__siunitx_number_uncert_length_int=\count334
+\l__siunitx_round_int=\count335
+\l__siunitx_process_decimal_int=\count336
+\l__siunitx_process_uncertainty_int=\count337
+\l__siunitx_process_fixed_int=\count338
+\l__siunitx_process_integer_min_int=\count339
+\l__siunitx_process_precision_int=\count340
+\l__siunitx_group_min_int=\count341
 \l__siunitx_angle_marker_box=\box67
 \l__siunitx_angle_unit_box=\box68
-\l__siunitx_angle_marker_dim=\dimen309
-\l__siunitx_angle_unit_dim=\dimen310
-\l__siunitx_unit_int=\count343
-\l__siunitx_unit_denominator_int=\count344
-\l__siunitx_unit_numerator_int=\count345
-\l__siunitx_unit_prefix_int=\count346
-\l__siunitx_unit_prefix_base_int=\count347
-\l__siunitx_unit_prefix_gram_int=\count348
-\l__siunitx_number_product_int=\count349
+\l__siunitx_angle_marker_dim=\dimen308
+\l__siunitx_angle_unit_dim=\dimen309
+\l__siunitx_unit_int=\count342
+\l__siunitx_unit_denominator_int=\count343
+\l__siunitx_unit_numerator_int=\count344
+\l__siunitx_unit_prefix_int=\count345
+\l__siunitx_unit_prefix_base_int=\count346
+\l__siunitx_unit_prefix_gram_int=\count347
+\l__siunitx_number_product_int=\count348
 \c__siunitx_one_fill_skip=\skip164
 \l__siunitx_table_unit_align_skip=\skip165
-\l__siunitx_table_exponent_dim=\dimen311
-\l__siunitx_table_integer_dim=\dimen312
-\l__siunitx_table_mantissa_dim=\dimen313
-\l__siunitx_table_marker_dim=\dimen314
-\l__siunitx_table_result_dim=\dimen315
-\l__siunitx_table_uncert_dim=\dimen316
-\l__siunitx_table_fill_pre_dim=\dimen317
-\l__siunitx_table_fill_post_dim=\dimen318
-\l__siunitx_table_fill_mid_dim=\dimen319
+\l__siunitx_table_exponent_dim=\dimen310
+\l__siunitx_table_integer_dim=\dimen311
+\l__siunitx_table_mantissa_dim=\dimen312
+\l__siunitx_table_marker_dim=\dimen313
+\l__siunitx_table_result_dim=\dimen314
+\l__siunitx_table_uncert_dim=\dimen315
+\l__siunitx_table_fill_pre_dim=\dimen316
+\l__siunitx_table_fill_post_dim=\dimen317
+\l__siunitx_table_fill_mid_dim=\dimen318
 \l__siunitx_table_pre_box=\box69
 \l__siunitx_table_post_box=\box70
 \l__siunitx_table_mantissa_box=\box71
@@ -1530,118 +1528,119 @@ Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7237.
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7244.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPostPower with sig. 'mm' on line 7240.
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7247.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7243.
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7250.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIPrePower with sig. 'mm' on line 7246.
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7253.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIQualifier with sig. 'mm' on line 7249.
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7256.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7252.
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7259.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7255.
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7262.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7270.
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7277.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \num with sig. 'om' on line 7279.
+. Defining command \num with sig. 'om' on line 7286.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7288.
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7295.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrange with sig. 'omm' on line 7297.
+. Defining command \numrange with sig. 'omm' on line 7304.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7309.
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7316.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrange with sig. 'ommm' on line 7321.
+. Defining command \SIrange with sig. 'ommm' on line 7328.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SI with sig. 'omom' on line 7333.
+. Defining command \SI with sig. 'omom' on line 7340.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \sisetup with sig. 'm' on line 7336.
+. Defining command \sisetup with sig. 'm' on line 7343.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \tablenum with sig. 'om' on line 7351.
+. Defining command \tablenum with sig. 'om' on line 7358.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \si with sig. 'om' on line 7363.
+. Defining command \si with sig. 'om' on line 7370.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numInBookmark with sig. 'om' on line 7410.
+. Defining command \numInBookmark with sig. 'om' on line 7417.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \numrangeInBookmark with sig. 'omm' on line 7412.
+. Defining command \numrangeInBookmark with sig. 'omm' on line 7419.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIInBookmark with sig. 'omom' on line 7414.
+. Defining command \SIInBookmark with sig. 'omom' on line 7421.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIlistInBookmark with sig. 'omm' on line 7416.
+. Defining command \SIlistInBookmark with sig. 'omm' on line 7423.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7418.
+. Defining command \SIrangeInBookmark with sig. 'ommm' on line 7425.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining command \siInBookmark with sig. 'om' on line 7419.
+. Defining command \siInBookmark with sig. 'om' on line 7426.
 .................................................
+\g__file_internal_ior=\read2
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
@@ -1651,66 +1650,72 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 
 Excluding comment 'comment')
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 55.
- (./short18_seabreeze_verification.aux)
+h' as default language. on input line 56.
+ (./short18_seabreeze_verification.aux
+
+LaTeX Warning: Label `Eq:u' multiply defined.
+
+
+LaTeX Warning: Label `Eq:v' multiply defined.
+
+)
 \openout1 = `short18_seabreeze_verification.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 55.
+LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 56.
 LaTeX Font Info:    Try loading font information for OML+ntxsfmi on input line 
-55.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
+56.
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi
 .
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 55.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 56.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 55.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 55
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 56.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 56
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 55.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 55.
-LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
 LaTeX Font Info:    Try loading font information for T1+lato-TLF on input line 
-55.
+56.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 File: T1lato-TLF.fd 2017/10/22 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 55.
+(Font)              scaled to size 8.0pt on input line 56.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count350
-\scratchdimen=\dimen320
+\scratchcounter=\count349
+\scratchdimen=\dimen319
 \scratchbox=\box73
-\nofMPsegments=\count351
-\nofMParguments=\count352
+\nofMPsegments=\count350
+\nofMParguments=\count351
 \everyMPshowfont=\toks57
-\MPscratchCnt=\count353
-\MPscratchDim=\dimen321
-\MPnumerator=\count354
-\makeMPintoPDFobject=\count355
+\MPscratchCnt=\count352
+\MPscratchDim=\dimen320
+\MPnumerator=\count353
+\makeMPintoPDFobject=\count354
 \everyMPtoPDFconversion=\toks58
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1730,10 +1735,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 55.
+LaTeX Info: Redefining \selectfont on input line 56.
 \AtBeginShipoutBox=\box74
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 55.
+LaTeX Info: Redefining \microtypecontext on input line 56.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1747,8 +1752,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lato-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count356
-\c@mv@boldtabular=\count357
+\c@mv@tabular=\count355
+\c@mv@boldtabular=\count356
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1795,7 +1800,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 55.
+or `english'. on input line 56.
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
@@ -1880,37 +1885,37 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 55.
+(Font)              scaled to size 6.2pt on input line 56.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 55.
+(Font)              scaled to size 5.5pt on input line 56.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 56.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 56.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 56.
 
 LaTeX Font Info:    Try loading font information for U+ntxsfmia on input line 5
-5.
+6.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/untxsfmia.fd
 File: untxsfmia.fd 2014/11/16 Fontinst v1.933 font definitions for U/ntxsfmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 55.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 56.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 55.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 56.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1922,9 +1927,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 56.
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 55.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 56.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1935,74 +1940,74 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 55.
+(Font)              size <5> substituted on input line 56.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 8.0pt on input line 57.
+(Font)              scaled to size 8.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 9.0pt on input line 57.
+(Font)              scaled to size 9.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 57.
+(Font)              scaled to size 9.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 57.
+(Font)              scaled to size 7.3pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <18> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 57
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 18.0pt on input line 57.
+(Font)              scaled to size 18.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <12> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 57
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 57.
+(Font)              scaled to size 12.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 57.
+(Font)              scaled to size 12.0pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 57.
+(Font)              scaled to size 8.8pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 57.
+(Font)              scaled to size 6.6pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8.8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 57
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.8pt on input line 57.
+(Font)              scaled to size 8.8pt on input line 58.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 64.
+(Font)              scaled to size 7.0pt on input line 65.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <7> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 64
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 65
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 64.
+(Font)              scaled to size 7.0pt on input line 65.
 \wiley@abstractbox=\box75
-Package mdframed Info: mdframed works in twoside mode on input line 64.
+Package mdframed Info: mdframed works in twoside mode on input line 65.
 
-Underfull \hbox (badness 1242) in paragraph at lines 64--64
+Underfull \hbox (badness 1242) in paragraph at lines 65--65
 []\T1/lato-TLF/m/n/9 This study presents a method-ol-ogy for com-par-ing the
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <9> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 64
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 65
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 64.
+(Font)              scaled to size 9.0pt on input line 65.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 64.
-Package mdframed Info: mdframed works in twoside mode on input line 64.
+ mdframed uses option nobreak mdframed on input line 65.
+Package mdframed Info: mdframed works in twoside mode on input line 65.
 
-Overfull \hbox (0.22372pt too wide) in paragraph at lines 64--64
+Overfull \hbox (0.22372pt too wide) in paragraph at lines 65--65
 \T1/lato-TLF/m/n/9 in-ter-ven-tion to model guid-ance prod-ucts adds value to l
 and-
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 66
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 67
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 67.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 66.
+(Font)              scaled to size 10.0pt on input line 67.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 67.
+(Font)              scaled to size 8.0pt on input line 68.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][][] 
@@ -2017,49 +2022,54 @@ Underfull \vbox (badness 1558) has occurred while \output is active []
 <figure_placeholder.png, id=16, 168.02776pt x 118.64325pt>
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 87.
+Package pdftex.def Info: figure_placeholder.png  used on input line 88.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 
 Underfull \vbox (badness 1259) has occurred while \output is active []
 
  [3 <./figure_placeholder.png>] [4]
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 11
-9.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 119.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [5]
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 144.
-(pdftex.def)             Requested size: 282.07703pt x 199.16928pt.
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 13
+2.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 132.
+
+
+Package natbib Warning: Citation `brown17' on page 6 undefined on input line 13
+2.
+
+Excluding 'comment' comment.
+Underfull \vbox (badness 1205) has occurred while \output is active []
+
  [6]
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 153.
-(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-
-
-LaTeX Warning: Reference `Fig:time_series_and_hodo' on page 7 undefined on inpu
-t line 158.
-
+Package pdftex.def Info: figure_placeholder.png  used on input line 188.
+(pdftex.def)             Requested size: 282.07703pt x 199.16928pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 162.
+Package pdftex.def Info: figure_placeholder.png  used on input line 197.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 171.
+Package pdftex.def Info: figure_placeholder.png  used on input line 206.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-
-LaTeX Warning: Reference `Fig:std_perts_access_ecmwf' on page 7 undefined on in
-put line 176.
-
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 180.
+Package pdftex.def Info: figure_placeholder.png  used on input line 215.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-[7] [8] (./short18_seabreeze_verification.bbl
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 224.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8] [9] [10] (./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2146,11 +2156,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 12.
 
+[11])
 
-Underfull \vbox (badness 2680) has occurred while \output is active []
+Package natbib Warning: There were undefined citations.
 
- [9])
-[10] (./short18_seabreeze_verification.aux)
+[12] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.87498pt have occurred.
@@ -2162,17 +2172,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 35114 strings out of 492646
- 699896 string characters out of 6129563
- 758647 words of memory out of 5000000
- 38371 multiletter control sequences out of 15000+600000
- 1264269 words of font info for 204 fonts, out of 8000000 for 9000
+ 34378 strings out of 492649
+ 694950 string characters out of 6129623
+ 754795 words of memory out of 5000000
+ 37622 multiletter control sequences out of 15000+600000
+ 1264512 words of font info for 210 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,21n,102p,1960b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,21n,102p,10407b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}</usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/
@@ -2186,10 +2196,10 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive
 xmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist
 /fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (10 pages, 251390 bytes).
+Output written on short18_seabreeze_verification.pdf (12 pages, 262138 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 93 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  32274 words of extra memory for PDF output out of 35830 (max. 10000000)
 

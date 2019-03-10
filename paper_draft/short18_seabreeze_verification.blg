@@ -1,46 +1,48 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: short18_seabreeze_verification.aux
 The style file: rss.bst
-Database file #1: ./Coastal_Winds.bib
-You've used 10 entries,
+Database file #1: ./Coastal_Winds.bib.bib
+Warning--I didn't find a database entry for "brown17"
+You've used 8 entries,
             2705 wiz_defined-function locations,
-            658 strings with 6579 characters,
-and the built_in function-call counts, 5015 in all, are:
-= -- 482
-> -- 220
-< -- 7
-+ -- 87
-- -- 75
-* -- 437
-:= -- 944
-add.period$ -- 28
-call.type$ -- 10
-change.case$ -- 74
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 218
-empty$ -- 364
-format.name$ -- 99
-if$ -- 988
+            645 strings with 6150 characters,
+and the built_in function-call counts, 3948 in all, are:
+= -- 379
+> -- 176
+< -- 5
++ -- 70
+- -- 60
+* -- 345
+:= -- 746
+add.period$ -- 22
+call.type$ -- 8
+change.case$ -- 59
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 175
+empty$ -- 282
+format.name$ -- 82
+if$ -- 773
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 11
-newline$ -- 54
-num.names$ -- 40
-pop$ -- 71
+missing$ -- 9
+newline$ -- 44
+num.names$ -- 32
+pop$ -- 60
 preamble$ -- 1
-purify$ -- 65
+purify$ -- 52
 quote$ -- 0
-skip$ -- 128
+skip$ -- 103
 stack$ -- 0
-substring$ -- 283
-swap$ -- 41
+substring$ -- 201
+swap$ -- 35
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 87
+type$ -- 69
 warning$ -- 0
-while$ -- 39
+while$ -- 30
 width$ -- 0
-write$ -- 140
+write$ -- 112
+(There was 1 warning)

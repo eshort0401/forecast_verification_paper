@@ -17,6 +17,8 @@
 % Add additional packages here if required
 \usepackage{siunitx}
 \usepackage{comment}
+\usepackage{xcolor}
+\usepackage{amsmath}
 
 % Update article type if known
 \papertype{Original Article}
@@ -29,9 +31,8 @@
 % Use the \authfn to add symbols for additional footnotes and present addresses, if any. Usually start with 1 for notes about author contributions; then continuing with 2 etc if any author has a different present address.
 \author[1]{Ewan Short}
 \author[2]{Ben Price}
-\author[3]{Alexei Hider}
 \author[3]{Derryn Griffiths}
-\author[3]{Michael Foley}
+\author[3]{Alexei Hider}
 %\author[2\authfn{2}]{Author Three PhD}
 %\author[2]{Author B.~Four}
 
@@ -68,7 +69,7 @@ Modern weather forecasts are produced by models in conjunction with human foreca
 
 It is therefore important to assess not only the overall accuracy of weather forecasts, but also the contribution human forecaster edits make to this accuracy. If effective, but routine, editing procedures can be identified they can be automated, freeing forecasters up to focus on other tasks. One common edit involves changing the surface wind fields near coastlines to try to represent sea-breezes more realistically. Forecasters invest time in making sea-breeze edits because accurate predictions of near-surface winds are highly valued by a number of users, such as the aviation and energy \citep{smith09} industries. Accurate sea-breeze forecasts are also valuable to environmental monitoring authorities, as these winds provide ventilation to coastal urban areas.
 
-Assessing the accuracy of a weather forecast is a task far more nuanced than it might first appear. For instance, attempting to assess the accuracy of a precipitation forecast by comparing the rainfall amounts measured at an individual weather station to the closest grid point of a model prediction will often give poor results. Although the synoptic drivers of convection are usually well predicted, excatly where convective cells form, and where the most rain falls, is highly unpredictable. As such, it is often appropriate to use ``fuzzy" verification metrics which measure the agreement between prediction and observation in a more indirect way. For instance, one approach known as ``upscaling" is to first average forecast and observational data over a given spatial domain before calculating verification scores. \citet{ebert08} provided a review of current ``fuzzy verification" methodologies, and a framework for they can be used to determine the spatial scales at which a given forecast has predictive skill.      
+Assessing the accuracy of a weather forecast is a task far more nuanced than it might first appear. For instance, attempting to assess the accuracy of a precipitation forecast by comparing the rainfall amounts measured at an individual weather station to the closest grid point of a model prediction will often give poor results. Although the synoptic drivers of convection are usually well predicted, excatly where convective cells form, and where the most rain falls, is highly unpredictable. As such, it is often appropriate to use ``fuzzy" verification metrics which measure the agreement between prediction and observation in a more indirect way. For instance, one approach known as ``upscaling" is to first average forecast and observational data over a given spatial domain before calculating verification scores. \citet{ebert08} provided a review of current ``fuzzy verification" methodologies, and a framework for how they can be used to determine the spatial scales at which a given forecast has predictive skill.      
 
 Relatively few forecast verification studies have focused on near-surface winds, and the ones that have generally only considered wind speeds. \citet{pinson12} performed a verification study of the ECMWF 10 m wind speeds across western Europe over December, January, February 2008/09. First, they interpolated ECMWF model data onto the locations of weather stations across Europe, then they compared the interpolated model data at these stations with the station observations themselves. They found that the worst performing regions were coastal and mountainous areas, and attributed this poor performance to the small scale processes, e.g. sea and mountain breezes, that are underesolved at ECMWF's coarse 50km spatial resolution. They noted that future work could better identify the effect of diurnal cycles on verification statistics by considering forecasts at different times of day. 
 
@@ -80,7 +81,7 @@ Relatively few forecast verification studies have focused on near-surface winds,
 This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. 
 
 \subsection{Data} 
-Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a XX, XX degree spatial resolution respectively. Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. 
+Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a XX, XX degree spatial resolution respectively. \textcolor{red}{What are the resolutions of these datasets as they're used in Jive?} Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. 
 
 \begin{figure}
 \centering
@@ -89,12 +90,12 @@ Four datasets are considered in this study; they are the Australian Bureau of Me
 \label{Fig:station_map}
 \end{figure}
 
-Only station data from the seven Australian capital city airport automatic weather stations are considered; Official, ECMWF and ACCESS  data is \textit{(linearly?)} interpolated to the coordinates of the airport weather stations. Capital city airports have been chosen as the focus of this study for a number of reasons. Automatic weather stations located at airports tend to provide the most accurate wind data, and wind forcasts at airports are important to the aviation industry. Moreover, the capital city airports are all reasonably close to coastlines, resulting in a clear diurnal signal. Finally, these airports are also all close to their respective capital cities, which are high priority regions for accurate forecasting. The datasets are hosted on the Bureau's Jive database, but are not currently generally available, although the long term plan is for this to change. \textit{Can I extract and host the data I need myself? Can I obtain copies of the relevant Jive Functions so that I can post complete code online?}
+Only station data from the seven Australian capital city airport automatic weather stations are considered; Official, ECMWF and ACCESS  data is \textcolor{red}{(linearly?)} interpolated to the coordinates of the airport weather stations. Capital city airports have been chosen as the focus of this study for a number of reasons. Automatic weather stations located at airports tend to provide the most accurate wind data, and wind forcasts at airports are important to the aviation industry. Moreover, the capital city airports are all reasonably close to coastlines, resulting in a clear diurnal signal. Finally, these airports are also all close to their respective capital cities, which are high priority regions for accurate forecasting. The datasets are hosted on the Bureau's Jive database, but are not currently generally available, although the long term plan is for this to change. \textcolor{red}{Can I extract and host the data I need myself? Can I obtain copies of the relevant Jive Functions so that I can post complete code online?}
 
 As described above, the Australian Bureau of Meteorology's official wind forecast is constructed out of model data, which is then edited by human forecasters using the Graphical Forecast Editor (GFE) software package. Australian forecasters typically construct wind forecasts out of model data either from the European Center for Medium Range Weather Forecasting (ECMWF), or the Australian Community Climate and Earth System Simulator (ACCESS). Testing whether the official forecast data conforms more closely to the AWS observations than ECMWF or ACCESS therefore provides a way to assess the extra accuracy gained by forecaster edits.
 
 \subsection{Assessing Diurnal Cycles}
-Although close to coastlines the land-sea breeze is generally the dominant diurnal wind process, the overall diurnal signal may also include mountain-valley breezes, boundary layer mixing processes, atmospheric tides, and urban heat island circulations. Forecasters typically edit model output to account for \emph{both} unresolved sea-breezes \emph{and} unresolved boundary layer mixing; attempting to focus solely on sea-breezes without examining the entire diurnal cycle may therefore risk erroneous conclusions, with the effect of one process mistaken for another.
+Although close to coastlines the land-sea breeze is generally the dominant diurnal wind process, the overall diurnal signal may also include mountain-valley breezes, boundary layer mixing processes, atmospheric tides, and urban heat island circulations. Forecasters typically edit model output to account for \emph{both} unresolved sea-breezes \emph{and} unresolved boundary layer mixing; attempting to focus solely on sea-breezes without examining the entire diurnal cycle therefore risks erroneous conclusions, with the effects of one category of edit mistaken for another. \textcolor{red}{In general it is hard to seperate boundary layer mixing edits from sea-breeze edits in the diurnal cycle composites, so this point maybe needs to be reworked. Or could simply comment on this in the discussion.}   
 
 Sea-breezes are therefore analysed by examining the overall diurnal signal in each dataset, with the assumption that close to coastlines the land-sea breeze is the dominant diurnal process. The diurnal signal is identified by subtracting a twenty hour centred running mean \textit{background wind} from each zonal and meridional hourly wind data point. This provides a collection of zonal and meridional wind \emph{perturbation} datasets. Note that thinking of land-sea breezes in terms of perturbations from a background wind may require a conceptual shift from the usual operational definitions. A forecaster would likely define a sea-breeze to be a reversal in wind direction from a primarily offshore flow during the night and morning, to an onshore flow in the afternoon and evening. However, even if the wind is offshore the entire day, sea-breeze \emph{perturbations} are generally still detectable as a weakening of the offshore flow throughout the afternoon and evening.
 
@@ -102,37 +103,79 @@ Once the wind perturbation datasets have been constructed, the accuracy of the O
 \begin{equation}
 \text{WPI}_\text{O,A} \equiv \left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{A}} \right\rvert - \left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{O}} \right\rvert.
 \end{equation} 
-At a given time, the Official forecast wind perturbation is closer to the AWS perturbation than that of ACCESS if and only if $\text{WPI} > 0$. To asses which of the Official or ECMWF forecasts are, in general, most accurate, we then take means of the WPI on an hourly basis; i.e.~all the 00:00 UTC WPI values are averaged, all the 01:00 UTC values are averaged, and so forth. The sampling distributions of these means can then be modelled as Student's $t$-distributions, and from this we can calculate the probability that $\overline{\text{WPI}} > 0$ at each hour.  
+At a given time, the Official forecast wind perturbation is closer to the AWS perturbation than that of ACCESS if and only if $\text{WPI} > 0$. Similarly, the WPI can used to provide a comparison of the Official and ECMWF datasets, or a comparison of the two model guidance datasets ACCESS and ECMWF.  
 
-The advantage of this method is it's clarity and simplicity: we are essentially just comparing the magnitudes of vectors, then applying a two sided $t$-test to determine whether one dataset's diurnal cycle is consistently closer to observations than another's. One factor that complicates interpretation of statistics of WPI, is that the near surface winds observed in AWS data are consistenty noisier than those of the Official, ECMWF and ACCESS forecasts. This is likely due to unresolved subgrid scale turbulence in the Official, ECMWF and ACCESS model datasets. It would be unreasonable to expect forecasters to be able to predict this essentially random additional observed variability, and so a direct comparison of observed and modelled diurnal cycles may be overly stringent. 
-
-In line with the ``fuzzy verification" agenda \citep{ebert08}, we may instead compare spatial or temporal averages of the given quantities to reduce the significance of unpredictable noise. These comparisons have less operational significance - people generally care how well the actual weather forecast performed, not whether the average of a predicted quantity matched the average of an observed quantity. However, comparisons of averages arguably better represent what we can realistically expect from human forecaster edits, and from weather forecasts overall, particularly in regards to small scale processes like sea-breezes.
-
-\subsection{The Climatological Wind Perturbation Index}\label{climatological-performance}
-Although the above methodology is perhaps the most relevant for assessing forecast performance in an operational sense, it is also informative to think about how well each forecast product performs in a
-climatological sense, i.e to ask how well the \emph{mean} forecast perturbation winds match the \emph{mean} observed perturbations over a suitable climatological period. One reason for doing this is that the diurnal signal becomes much clearer when perturbations are averaged over a number of days and random variability is smoothed out. If the goal is to assess how forecasts and models capture \emph{regular} diurnal wind processes like land-sea breezes that occur at roughly the same times each day, then comparing perturbation climatologies is arguably a better option: comparing perturbations on a day to day basis will also implicitly assess how different datasets resolve \emph{irregular} processes at daily and shorter timescales; for instance turbulence and cold pool dynamics.
-
-To assess performance on a climatological basis, steps 2 and 3 above are modified as follows. 
-\begin{enumerate}
-\setcounter{enumi}{1}
-\item
-Average the perturbations at each hour across the climatological period, i.e average all the 00:00 UTC perturbations, all the 01:00 UTC perturbations, and so forth. Calculate the quantity
+To asses which dataset provides, in general, the most accurate representation of the diurnal cycle, we then take means of the WPI on an hourly basis; i.e.~all the 00:00 UTC WPI values are averaged, all the 01:00 UTC values are averaged, and so forth. The sampling distributions of these means can then be modelled as Student's $t$-distributions, and from this we can calculate the probability that $\overline{\text{WPI}} > 0$ at each hour. Temporal autocorrelations of WPI, i.e.~correlations between WPI values at a particular hour from one day to the next, are accounted for using the standard method of reducing the ``effective" sample size to 
 \begin{equation}
-\text{CWPI}_{\text{off}} \equiv \left\lvert \overline{\boldsymbol{u}}_{\text{obs}}-\overline{\boldsymbol{u}}_{\text{off}} \right\rvert.
-\end{equation}
-This represents the magnitude of the vector difference between the \emph{mean} 
-observed wind perturbations and \emph{mean} official forecast wind perturbations. Calculate \(\text{CWPI}_{\text{mod}}\) analogously and define the the \emph{Climatological Wind Perturbation Index}
+n \frac{1-\rho_1}{1+\rho_1},
+\end{equation} 
+where $n$ is the actual sample size and $\rho_1$ is the lag-1 autocorrelation \citep{zwiers95,wilks11}, although in practice temporal autocorrelations of WPI are either non-existant or very small. To assess average performance over a particular area, for instance the Victorian coastal station group (see Fig. \ref{Fig:station_map}), WPI values for each station in the group are averaged \textit{before} temporal means and sampling distributions are calculated, with each spatial average treated as a single observation. This provides a conservative method for dealing with spatial correlation in WPI.        
+
+The advantage of the WPI method is it's clarity and simplicity: we are essentially just comparing the magnitudes of vector differences, then applying a two sided $t$-test to determine whether one dataset's perturbations are consistently closer to observations than another's. One factor that complicates interpretation of statistics of WPI, is that the near surface winds observed in AWS data are consistenty noisier than those of the Official, ECMWF and ACCESS forecasts. This is likely due to unresolved subgrid scale turbulence in the Official, ECMWF and ACCESS model datasets. It would be unreasonable to expect forecasters to be able to predict this essentially random additional observed variability, and so a direct comparison of observed and modelled diurnal cycles is overly stringent. 
+
+To reduce the significance of unpredictable noise, we also compare temporal averages of the perturbations for each dataset. These comparisons have less operational significance: people generally care how well the actual weather forecast performed, not whether the average of a predicted quantity matched the average of an observed quantity. However, comparisons of averages arguably better represent what we can realistically expect from human forecaster edits, and from weather forecasts overall, particularly in regards to small scale processes like sea-breezes. Furthermore, when temporal averages of perturbations are considered, the diurnal signal becomes dramatically clearer, and structual differences become much easier to diagnose. 
+
+To quantify how closely the temporally averaged Official forecast perturbations match those of the AWS observations, we calculate 
+$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}} - \overline{\boldsymbol{u}}_{\text{O}} \right\rvert$ for each hour, where the bar denotes a temporal average. To assess the performance of the Official temporally averaged perturbations against those ACCESS, we define the \textit{Climatological Wind Perturbation Index} (CWPI)
 \begin{equation}
-\text{CWPI} = \text{CWPI}_{\text{mod}} - \text{CWPI}_{\text{off}}.
+\text{CWPI}_{\text{O,A}} \equiv \left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{O}} \right\rvert - \left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{A}} \right\rvert.
 \end{equation}
-\item
-Estimate the sampling distribution of \(\text{CWPI}\) by bootstrapping
-\citep{efron79}. Use the sampling distribution to calculate the likelihood that $\text{CWPI} > 0$.  
-\end{enumerate}
+As with the WPI, the CWPI can also be used to provide a comparison of the Official and ECMWF datasets, or a comparison of the two model guidance datasets ACCESS and ECMWF. Uncertainty in the CWPI is estimated through bootstrapping \citep{efron79}. This is done by performing resampling with replacement on the underlying perturbation datasets, and calculating the CWPI multiple times using these resampled datasets. This provides a distribution of CWPI values, from which the probability that $\text{CWPI} > 0$ can be calculated. Similarly to with the WPI, performance over a particular region can be assessed by first averaging perturbation values over multiple stations before the CWPI is calculated.
 
-Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
+Although the WPI and CWPI provide quantitive information on the accuracy of the diurnal cycle at different times of day, they do not provide much information about the structure of the diurnal wind cycles of each dataset, or provide insight into the reason one dataset is outperforming another. \citet{gille05} obtained summary statistics on the observed structure of temporally averaged diurnal wind cycles across the globe by using linear regression to calculate the coefficients $u_i$, $v_i$ $i=0,1,2$, for the elliptical fit 
+\begin{align}
+u &= u_0 + u_1 \cos(\omega t) + u_2 \sin(\omega t), \label{Eq:u} \\
+v &= v_0 + v_1 \sin(\omega t) + v_2 \sin(\omega t), \label{Eq:v}
+\end{align}
+where $\omega$ is the angular frequency of the earth and $t$ is the local solar time in seconds. Descriptive quantities - like the angle the semimajor axis of the ellipse makes with the horizontal - were then calculated directly from the coefficients $u_1$, $u_2$, $v_1$ and $v_2$. 
 
-Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic forecasting methods therefore not appropriate. 
+\citet{gille05} applied this fit to satellite scatterometer wind observations, which after temporal averaging provided only four temporal datapoints at each $0.25^\circ \times 0.25^\circ$ spatial grid cell. As such, their fit was very good, explaining over $90\%$ of the wind variability in each spatial gridcell. However, the choice of ellipse parametrisation in equations \ref{Eq:u} and \ref{Eq:v} assumes that datapoints lie on the ellipse at equal intervals of time $t$. When observational or model data with an hourly or smaller timestep is considered, this assumption becomes too stringent, as heating asymmetries imply that wind perturbations evolve much more rapidly during the day than at night (see Fig. XX). \textcolor{red}{Note I'm also basing this point on knowledge of the land vs sea breeze, and knowledge of heating vs cooling asymmetries \citep[][e.g.]{brown17}.} 
+
+Thus, we use non-linear regression to perform the fit 
+\begin{align}
+u &= u_0 + u_1 \cos(\alpha(\psi,t)) + u_2 \sin(\alpha(\psi,t)), \label{Eq:u} \\
+v &= v_0 + v_1 \sin(\alpha(\psi,t)) + v_2 \sin(\alpha(\psi,t)), \label{Eq:v}
+\end{align}
+with $\alpha$ a function from $[0,24) \times [0, 2\pi) \to [0, 2\pi)$ given by
+\begin{equation}
+\alpha(\psi,t) \equiv \pi \left[\sin\left( \frac{\pi (t - \psi)  \bmod 24}{24} - \frac{\pi}{2} \right) + 1 \right]
+\end{equation}
+where $t$ is time in units of hours UTC, and $\psi$ is the hour that the slowest evolution of the diurnal cycle occurs. Once we have this fit for each station and station group of interest, we calculate the value of $\alpha$ at which the winds align with the semimajor axis, $\alpha_M$, using
+\begin{align}
+\alpha_M = \frac{1}{2} \arctan\left(\frac{2(u_1 u_2 + v_1 v_2)}{u_1^2 + v_1^2 - u_2^2 - v_2^2} \right) \bmod \pi.
+\end{align}
+The time at which the perturbations align with the major axis are then given by
+\begin{equation}
+t_M = \frac{24}{\pi}\left[\arcsin\left(\frac{\alpha_M}{\pi} -1 \right) + \frac{\pi}{2} \right] + \psi.
+\end{equation}
+The lengths of the semimajor and semiminor axes $a$ and $b$, and the angle the semimajor axis makes with lines of latitude $\phi$, can be calculated from $\alpha_M$ using the same expressions as \citet{gille05}. 
+
+\begin{comment}
+
+          time_max = 0.5 * np.arctan(2 * (a * b + c * d) \
+                / (a ** 2 + c ** 2 - b ** 2 - d ** 2))
+            time_max = np.mod(time_max * 24 / (2 * np.pi), 12)
+
+semi_major = np.sqrt((a * np.cos(2 * np.pi * time_max / 24) \
+                                  + b * np.sin(2 * np.pi * time_max / 24)) ** 2 \
+                                + (c * np.cos(2 * np.pi * time_max / 24) \
+                                   + d * np.sin(2 * np.pi * time_max / 24)) ** 2)
+
+            semi_minor = np.sqrt((b * np.cos(2 * np.pi * time_max / 24) \
+                                  - a * np.sin(2 * np.pi * time_max / 24)) ** 2 \
+                                + (d * np.cos(2 * np.pi * time_max / 24) \
+                                   - c * np.sin(2 * np.pi * time_max / 24)) ** 2)
+
+            phi = np.arctan((c * np.cos(2 * np.pi * time_max / 24) \
+                             + d * np.sin(2 * np.pi * time_max / 24)) \
+                            /(a * np.cos(2 * np.pi * time_max / 24) \
+                              + b * np.sin(2 * np.pi * time_max / 24)))
+
+            phi = np.mod(phi, np.pi)
+            phi = 180 * phi / np.pi
+
+            eccentricity = np.sqrt(semi_major ** 2 - semi_minor ** 2) / semi_major
+\end{comment}
 
 \section{Results}
 \label{results}
@@ -165,7 +208,7 @@ Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series p
 \label{Fig:time_series_and_hodo}
 \end{figure}
 
-Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. \textit{Should't we spatially average wind values before calculating WPI, then look at time series of WPI? Probably, yes. Raw WPI not super interesting? Well, if we leave as is, we have a better distinction between error and bias? Actually, I've changed my mind, I like leaving WPI the way it is at all levels of aggregation.} Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 
+Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. \textcolor{red}{Should't we spatially average wind values before calculating WPI, then look at time series of WPI? Probably, yes. Raw WPI not super interesting? Well, if we leave as is, we have a better distinction between error and bias? Actually, I've changed my mind, I like leaving WPI the way it is at all levels of aggregation.} Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 
 
 \begin{figure}
 \centering
@@ -190,9 +233,13 @@ The methods developed in this study can be readily extended to analyse \emph{jus
 
 How much time should forecasters spend on sea-breeze edits (if any)? What is the value of an improved diurnal cycle climatology? Improving the accuracy of forecast climatologies will have little value to the typical forecast user. Are there applications where a higher performing climatological forecast yields better outcomes, even if errors increase or even get worse? 
 
-Increasing the resolution of a forecast may reduce bias, but increase error.  
+Increasing the resolution of a forecast may reduce bias, but increase error.
 
 Error, not bias, that generally matters for the forecast user. Standard methods for ``improving" forecasts (adding parametrisations, increasing resolution) reduce bias, but actually increase errors! 
+
+Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
+
+Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic forecasting methods therefore not appropriate. 
 
 \section{Conclusion}
 \label{conclusion}
