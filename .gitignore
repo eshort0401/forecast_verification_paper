@@ -3,3 +3,6 @@ jive-server-stack/
 papers/
 code/coastal_data/
 *.svg
+*.nc
+*.html
+
