@@ -105,18 +105,14 @@ Once the wind perturbation datasets have been constructed, the accuracy of the O
 \end{equation} 
 At a given time, the Official forecast wind perturbation is closer to the AWS perturbation than that of ACCESS if and only if $\text{WPI} > 0$. Similarly, the WPI can used to provide a comparison of the Official and ECMWF datasets, or a comparison of the two model guidance datasets ACCESS and ECMWF.  
 
-To asses which dataset provides, in general, the most accurate representation of the diurnal cycle, we then take means of the WPI on an hourly basis; i.e.~all the 00:00 UTC WPI values are averaged, all the 01:00 UTC values are averaged, and so forth. The sampling distributions of these means can then be modelled as Student's $t$-distributions, and from this we can calculate the probability that $\overline{\text{WPI}} > 0$ at each hour. Temporal autocorrelations of WPI, i.e.~correlations between WPI values at a particular hour from one day to the next, are accounted for using the standard method of reducing the ``effective" sample size to 
-\begin{equation}
-n \frac{1-\rho_1}{1+\rho_1},
-\end{equation} 
-where $n$ is the actual sample size and $\rho_1$ is the lag-1 autocorrelation \citep{zwiers95,wilks11}, although in practice temporal autocorrelations of WPI are either non-existant or very small. To assess average performance over a particular area, for instance the Victorian coastal station group (see Fig. \ref{Fig:station_map}), WPI values for each station in the group are averaged \textit{before} temporal means and sampling distributions are calculated, with each spatial average treated as a single observation. This provides a conservative method for dealing with spatial correlation in WPI.        
+To asses which dataset provides, in general, the most accurate representation of the diurnal cycle, we then take means of the WPI on an hourly basis; i.e.~all the 00:00 UTC WPI values are averaged, all the 01:00 UTC values are averaged, and so forth. The sampling distributions of these means can then be modelled as Student's $t$-distributions, and from this we can calculate the probability that $\overline{\text{WPI}} > 0$ at each hour, where the bar denotes a temporal average. Temporal autocorrelations of WPI, i.e.~correlations between WPI values at a particular hour from one day to the next, are accounted for using the standard method of reducing the ``effective" sample size to $ n \left(1-\rho_1\right)/\left(1+\rho_1\right)$, where $n$ is the actual sample size and $\rho_1$ is the lag-1 autocorrelation \citep{zwiers95,wilks11}, although in practice temporal autocorrelations of WPI are either non-existant or very small. To assess how well the diurnal perturbations of an overall region are predicted, for instance those of the Victorian coastal station group (see Fig. \ref{Fig:station_map}), the perturbations across each station group are averaged before WPI values calculated. The temporal means and sampling distributions of the WPI are then calculated as before, with each value of WPI calculated from the spatially averaged perturbations treated as a single observation. This provides a conservative method for dealing with spatial correlation in the perturbations.        
 
 The advantage of the WPI method is it's clarity and simplicity: we are essentially just comparing the magnitudes of vector differences, then applying a two sided $t$-test to determine whether one dataset's perturbations are consistently closer to observations than another's. One factor that complicates interpretation of statistics of WPI, is that the near surface winds observed in AWS data are consistenty noisier than those of the Official, ECMWF and ACCESS forecasts. This is likely due to unresolved subgrid scale turbulence in the Official, ECMWF and ACCESS model datasets. It would be unreasonable to expect forecasters to be able to predict this essentially random additional observed variability, and so a direct comparison of observed and modelled diurnal cycles is overly stringent. 
 
 To reduce the significance of unpredictable noise, we also compare temporal averages of the perturbations for each dataset. These comparisons have less operational significance: people generally care how well the actual weather forecast performed, not whether the average of a predicted quantity matched the average of an observed quantity. However, comparisons of averages arguably better represent what we can realistically expect from human forecaster edits, and from weather forecasts overall, particularly in regards to small scale processes like sea-breezes. Furthermore, when temporal averages of perturbations are considered, the diurnal signal becomes dramatically clearer, and structual differences become much easier to diagnose. 
 
 To quantify how closely the temporally averaged Official forecast perturbations match those of the AWS observations, we calculate 
-$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}} - \overline{\boldsymbol{u}}_{\text{O}} \right\rvert$ for each hour, where the bar denotes a temporal average. To assess the performance of the Official temporally averaged perturbations against those ACCESS, we define the \textit{Climatological Wind Perturbation Index} (CWPI)
+$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}} - \overline{\boldsymbol{u}}_{\text{O}} \right\rvert$ for each hour. To assess the performance of the Official temporally averaged perturbations against those ACCESS, we define the \textit{Climatological Wind Perturbation Index} (CWPI)
 \begin{equation}
 \text{CWPI}_{\text{O,A}} \equiv \left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{O}} \right\rvert - \left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{A}} \right\rvert.
 \end{equation}
@@ -140,42 +136,15 @@ with $\alpha$ a function from $[0,24) \times [0, 2\pi) \to [0, 2\pi)$ given by
 \begin{equation}
 \alpha(\psi,t) \equiv \pi \left[\sin\left( \frac{\pi (t - \psi)  \bmod 24}{24} - \frac{\pi}{2} \right) + 1 \right]
 \end{equation}
-where $t$ is time in units of hours UTC, and $\psi$ is the hour that the slowest evolution of the diurnal cycle occurs. Once we have this fit for each station and station group of interest, we calculate the value of $\alpha$ at which the winds align with the semimajor axis, $\alpha_M$, using
+where $t$ is time in units of hours UTC, and $\psi$ is the hour that the slowest evolution of the diurnal cycle occurs. The value of $\alpha$ at which the winds align with the semimajor axis, $\alpha_M$, satisfies
 \begin{align}
-\alpha_M = \frac{1}{2} \arctan\left(\frac{2(u_1 u_2 + v_1 v_2)}{u_1^2 + v_1^2 - u_2^2 - v_2^2} \right) \bmod \pi.
+\alpha_M = \frac{1}{2} \arctan\left(\frac{2(u_1 u_2 + v_1 v_2)}{u_1^2 + v_1^2 - u_2^2 - v_2^2} \right) \bmod \pi,
 \end{align}
-The time at which the perturbations align with the major axis are then given by
+The time at which the perturbations align with the major axis $t_M$ then satisfies  
 \begin{equation}
 t_M = \frac{24}{\pi}\left[\arcsin\left(\frac{\alpha_M}{\pi} -1 \right) + \frac{\pi}{2} \right] + \psi.
 \end{equation}
-The lengths of the semimajor and semiminor axes $a$ and $b$, and the angle the semimajor axis makes with lines of latitude $\phi$, can be calculated from $\alpha_M$ using the same expressions as \citet{gille05}. 
-
-\begin{comment}
-
-          time_max = 0.5 * np.arctan(2 * (a * b + c * d) \
-                / (a ** 2 + c ** 2 - b ** 2 - d ** 2))
-            time_max = np.mod(time_max * 24 / (2 * np.pi), 12)
-
-semi_major = np.sqrt((a * np.cos(2 * np.pi * time_max / 24) \
-                                  + b * np.sin(2 * np.pi * time_max / 24)) ** 2 \
-                                + (c * np.cos(2 * np.pi * time_max / 24) \
-                                   + d * np.sin(2 * np.pi * time_max / 24)) ** 2)
-
-            semi_minor = np.sqrt((b * np.cos(2 * np.pi * time_max / 24) \
-                                  - a * np.sin(2 * np.pi * time_max / 24)) ** 2 \
-                                + (d * np.cos(2 * np.pi * time_max / 24) \
-                                   - c * np.sin(2 * np.pi * time_max / 24)) ** 2)
-
-            phi = np.arctan((c * np.cos(2 * np.pi * time_max / 24) \
-                             + d * np.sin(2 * np.pi * time_max / 24)) \
-                            /(a * np.cos(2 * np.pi * time_max / 24) \
-                              + b * np.sin(2 * np.pi * time_max / 24)))
-
-            phi = np.mod(phi, np.pi)
-            phi = 180 * phi / np.pi
-
-            eccentricity = np.sqrt(semi_major ** 2 - semi_minor ** 2) / semi_major
-\end{comment}
+The lengths of the semimajor and semiminor axes $a$ and $b$, and the angle the semimajor axis makes with lines of latitude $\phi$, can then be calculated from $\alpha_M$ using the same expressions as \citet{gille05}. 
 
 \section{Results}
 \label{results}
@@ -186,7 +155,7 @@ FIgure \ref{Fig:darwin_airport_winds} provides example winds and wind perturbati
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true, height=7cm]{figure_placeholder.png}
-\caption{Hodographs showing the a) winds and b) wind perturbations (from a 24-hour running mean) at each hour [UTC] on 19/06/2018 at Darwin Airport.}
+\caption{Hodographs showing the a) winds and b) wind perturbations (from a 24-hour running mean) at each hour [UTC] on 19/06/2018 at Darwin Airport. \textcolor{red}{Is this really necessary? Probably not.}}
 \label{Fig:darwin_airport_winds}
 \end{figure}
 
@@ -195,7 +164,7 @@ Figure \ref{Fig:airport_wpi} presents the WPI values, and confidence scores for 
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{Official vs Access and Official vs ECMWF WPI values, confidence and standard deviations at airport stations.}
+\caption{Official vs Access and Official vs ECMWF WPI values, standard deviations and confidence. Use just the coastal station group data - other data not a ``fair" comparison.}
 \label{Fig:airport_wpi}
 \end{figure}
 
@@ -204,31 +173,35 @@ Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series p
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{Time series example.}
+\caption{Case study 1? South West WA 5 UTC}
 \label{Fig:time_series_and_hodo}
 \end{figure}
 
-Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. \textcolor{red}{Should't we spatially average wind values before calculating WPI, then look at time series of WPI? Probably, yes. Raw WPI not super interesting? Well, if we leave as is, we have a better distinction between error and bias? Actually, I've changed my mind, I like leaving WPI the way it is at all levels of aggregation.} Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 
-
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{As in Figure \ref{Fig:airport_wpi}, but for the coastal station groups.}
-\label{Fig:coastal_wpi}
+\caption{Case study 2? Darwin July 3 23 UTC}
+\label{Fig:time_series_and_hodo}
 \end{figure}
 
-Figure \ref{Fig:std_perts_access_ecmwf} shows the standard deviations of the zonal and meridional wind perturbations for both ECMWF and ACCESS. Significantly larger for ACCESS (explain in terms of resolutions). 
+Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 
 
 \begin{figure}
 \centering
 \includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
-\caption{Standard deviations of the ECMWF and ACCESS wind perturbations.}
-\label{Fig:std_perts_access_ecmwf}
+\caption{Climatological results at different scales}
+\label{Fig:time_series_and_hodo}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Ellipse fits.}
+\label{Fig:time_series_and_hodo}
 \end{figure}
 
 \section{Discussion}
 \label{discussion}
-
 The methods developed in this study can be readily extended to analyse \emph{just} the sea-breezes satisfying the operational definition above. For instance, to study the sea-breezes at a station near a coastline with inward pointing normal vector $\widehat{\boldsymbol{n}}$, the wind perturbation datasets could be restricted to just those days where the corresponding raw wind vector $\boldsymbol{u}$ satisfies $\widehat{\boldsymbol{n}} \cdot \boldsymbol{u} > 0$ for at least one of the hours of that day.
 
 How much time should forecasters spend on sea-breeze edits (if any)? What is the value of an improved diurnal cycle climatology? Improving the accuracy of forecast climatologies will have little value to the typical forecast user. Are there applications where a higher performing climatological forecast yields better outcomes, even if errors increase or even get worse? 
