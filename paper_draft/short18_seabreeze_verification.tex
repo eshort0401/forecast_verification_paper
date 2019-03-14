@@ -152,18 +152,11 @@ In this section, the methods described in section \ref{methods} are applied to A
 
 FIgure \ref{Fig:darwin_airport_winds} provides example winds and wind perturbations at the Darwin Airport station on 19/06/2018. \textit{Discuss structural differences between observations, Official, ECMWF and ACCESS.} 
 
-\begin{figure}
-\centering
-\includegraphics[keepaspectratio=true, height=7cm]{figure_placeholder.png}
-\caption{Hodographs showing the a) winds and b) wind perturbations (from a 24-hour running mean) at each hour [UTC] on 19/06/2018 at Darwin Airport. \textcolor{red}{Is this really necessary? Probably not.}}
-\label{Fig:darwin_airport_winds}
-\end{figure}
-
 Figure \ref{Fig:airport_wpi} presents the WPI values, and confidence scores for the Official versus ACCESS and Official versus ECMWF and ECMWF versus ACCESS comparisons over the eight airport stations. \textit{Discuss how although the WPI values are small, standard deviations large, so errors can actually be large on some days. Don't really need to show std values everywhere if you're going to show a time series example.} Note that the four stations/times where official outperforms ACCESS can also be explained by the fact ECMWF outperforms ACCESS at these times - i.e. these results could be obtained if ECMWF was used for the Official forecast.
 
 \begin{figure}
 \centering
-\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\includegraphics{wpi_coastal.pdf}
 \caption{Official vs Access and Official vs ECMWF WPI values, standard deviations and confidence. Use just the coastal station group data - other data not a ``fair" comparison.}
 \label{Fig:airport_wpi}
 \end{figure}
@@ -172,16 +165,37 @@ Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series p
 
 \begin{figure}
 \centering
-\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\includegraphics{wa_south_coastal_20180609.pdf}
 \caption{Case study 1? South West WA 5 UTC}
 \label{Fig:time_series_and_hodo}
 \end{figure}
 
 \begin{figure}
 \centering
-\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\includegraphics{perth_sounding.pdf}
+\caption{Perth Sounding}
+\label{Fig:time_series_and_hodo}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{nt_coastal_20180703.pdf}
 \caption{Case study 2? Darwin July 3 23 UTC}
 \label{Fig:time_series_and_hodo}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Official vs Access and Official vs ECMWF WPI values, standard deviations and confidence. single station and/or airport station groups for comparison?}
+\label{Fig:airport_wpi}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\caption{Actual perturbation standard deviation values.}
+\label{Fig:airport_wpi}
 \end{figure}
 
 Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but presents the results for the coastal station groups. Here, WPI values are first averaged over station groups, before time series statistics are calculated. Note that almost everywhere Official outperforms ACCESS with high confidence, ECMWF also outperforms ACCESS with high confidence. 

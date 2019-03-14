@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  11 MAR 2019 14:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  14 MAR 2019 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1658,6 +1658,24 @@ LaTeX Warning: Label `Eq:u' multiply defined.
 
 LaTeX Warning: Label `Eq:v' multiply defined.
 
+
+LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
+
+
+LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
+
+
+LaTeX Warning: Label `Fig:airport_wpi' multiply defined.
+
+
+LaTeX Warning: Label `Fig:airport_wpi' multiply defined.
+
+
+LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
+
+
+LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
+
 )
 \openout1 = `short18_seabreeze_verification.aux'.
 
@@ -2045,31 +2063,58 @@ Package natbib Warning: Citation `brown17' on page 6 undefined on input line 12
 Underfull \vbox (badness 1205) has occurred while \output is active []
 
  [6]
+
+LaTeX Warning: Reference `Fig:darwin_airport_winds' on page 7 undefined on inpu
+t line 153.
+
+<wpi_coastal.pdf, id=35, 404.02913pt x 261.76537pt>
+File: wpi_coastal.pdf Graphic file (type pdf)
+<use wpi_coastal.pdf>
+Package pdftex.def Info: wpi_coastal.pdf  used on input line 159.
+(pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
+<wa_south_coastal_20180609.pdf, id=36, 404.02913pt x 341.43306pt>
+File: wa_south_coastal_20180609.pdf Graphic file (type pdf)
+<use wa_south_coastal_20180609.pdf>
+Package pdftex.def Info: wa_south_coastal_20180609.pdf  used on input line 168.
+
+(pdftex.def)             Requested size: 404.02812pt x 341.4322pt.
+<perth_sounding.pdf, id=37, 202.01457pt x 204.85983pt>
+File: perth_sounding.pdf Graphic file (type pdf)
+<use perth_sounding.pdf>
+Package pdftex.def Info: perth_sounding.pdf  used on input line 175.
+(pdftex.def)             Requested size: 202.01407pt x 204.85933pt.
+<nt_coastal_20180703.pdf, id=38, 404.02913pt x 341.43306pt>
+File: nt_coastal_20180703.pdf Graphic file (type pdf)
+<use nt_coastal_20180703.pdf>
+Package pdftex.def Info: nt_coastal_20180703.pdf  used on input line 182.
+(pdftex.def)             Requested size: 404.02812pt x 341.4322pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 157.
-(pdftex.def)             Requested size: 282.07703pt x 199.16928pt.
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 166.
+Package pdftex.def Info: figure_placeholder.png  used on input line 189.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 175.
+Package pdftex.def Info: figure_placeholder.png  used on input line 196.
+(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+
+LaTeX Warning: Reference `Fig:coastal_wpi' on page 7 undefined on input line 20
+1.
+
+File: figure_placeholder.png Graphic file (type png)
+<use figure_placeholder.png>
+Package pdftex.def Info: figure_placeholder.png  used on input line 205.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 184.
-(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 193.
+Package pdftex.def Info: figure_placeholder.png  used on input line 212.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
-[8] [9] [10] (./short18_seabreeze_verification.bbl
+ [7 <./wpi_coastal.pdf>] [8 <./wa_south_coastal_20180609.pdf>] [9 <./perth_soun
+ding.pdf>]
+[10 <./nt_coastal_20180703.pdf>] [11] [12]
+(./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2156,11 +2201,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 12.
 
-[11])
+[13])
 
 Package natbib Warning: There were undefined citations.
 
-[12] (./short18_seabreeze_verification.aux)
+[14] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.87498pt have occurred.
@@ -2176,10 +2221,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34377 strings out of 492649
- 694940 string characters out of 6129623
- 754795 words of memory out of 5000000
- 37621 multiletter control sequences out of 15000+600000
+ 34396 strings out of 492649
+ 695509 string characters out of 6129623
+ 754791 words of memory out of 5000000
+ 37636 multiletter control sequences out of 15000+600000
  1264512 words of font info for 210 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,21n,102p,10407b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2196,10 +2241,10 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive
 xmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist
 /fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (12 pages, 262134 bytes).
+Output written on short18_seabreeze_verification.pdf (14 pages, 454831 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 207 PDF objects out of 1000 (max. 8388607)
+ 141 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 32274 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32294 words of extra memory for PDF output out of 35830 (max. 10000000)
 
