@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  14 MAR 2019 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  17 MAR 2019 19:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1674,6 +1674,9 @@ LaTeX Warning: Label `Fig:airport_wpi' multiply defined.
 LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
 
 
+LaTeX Warning: Label `Fig:airport_wpi' multiply defined.
+
+
 LaTeX Warning: Label `Fig:time_series_and_hodo' multiply defined.
 
 )
@@ -2088,33 +2091,48 @@ File: nt_coastal_20180703.pdf Graphic file (type pdf)
 <use nt_coastal_20180703.pdf>
 Package pdftex.def Info: nt_coastal_20180703.pdf  used on input line 182.
 (pdftex.def)             Requested size: 404.02812pt x 341.4322pt.
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 189.
-(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 196.
-(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
+<airport_wpi.pdf, id=39, 404.02913pt x 193.47874pt>
+File: airport_wpi.pdf Graphic file (type pdf)
+<use airport_wpi.pdf>
+Package pdftex.def Info: airport_wpi.pdf  used on input line 189.
+(pdftex.def)             Requested size: 404.02812pt x 193.47826pt.
+<pert_std.pdf, id=40, 404.02913pt x 199.1693pt>
+File: pert_std.pdf Graphic file (type pdf)
+<use pert_std.pdf>
+Package pdftex.def Info: pert_std.pdf  used on input line 196.
+(pdftex.def)             Requested size: 404.02812pt x 199.1688pt.
 
 LaTeX Warning: Reference `Fig:coastal_wpi' on page 7 undefined on input line 20
 1.
 
+<cwpi_coastal.pdf, id=41, 404.02913pt x 261.76537pt>
+File: cwpi_coastal.pdf Graphic file (type pdf)
+<use cwpi_coastal.pdf>
+Package pdftex.def Info: cwpi_coastal.pdf  used on input line 205.
+(pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
+<clim_hodo.pdf, id=42, 398.3386pt x 182.09764pt>
+File: clim_hodo.pdf Graphic file (type pdf)
+<use clim_hodo.pdf>
+Package pdftex.def Info: clim_hodo.pdf  used on input line 212.
+(pdftex.def)             Requested size: 398.33762pt x 182.0972pt.
 File: figure_placeholder.png Graphic file (type png)
 <use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 205.
-(pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
-File: figure_placeholder.png Graphic file (type png)
-<use figure_placeholder.png>
-Package pdftex.def Info: figure_placeholder.png  used on input line 212.
+Package pdftex.def Info: figure_placeholder.png  used on input line 219.
 (pdftex.def)             Requested size: 364.64803pt x 257.51651pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./wpi_coastal.pdf>] [8 <./wa_south_coastal_20180609.pdf>] [9 <./perth_soun
 ding.pdf>]
-[10 <./nt_coastal_20180703.pdf>] [11] [12]
-(./short18_seabreeze_verification.bbl
+[10 <./nt_coastal_20180703.pdf>] [11 <./airport_wpi.pdf> <./pert_std.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./pert_std.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>] [12 <./cwpi_coastal.pdf> <./clim_hodo.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./clim_hodo.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] [13] (./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2201,7 +2219,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 12.
 
-[13])
+)
 
 Package natbib Warning: There were undefined citations.
 
@@ -2221,10 +2239,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34396 strings out of 492649
- 695509 string characters out of 6129623
- 754791 words of memory out of 5000000
- 37636 multiletter control sequences out of 15000+600000
+ 34416 strings out of 492649
+ 695961 string characters out of 6129623
+ 754792 words of memory out of 5000000
+ 37652 multiletter control sequences out of 15000+600000
  1264512 words of font info for 210 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,21n,102p,10407b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2241,10 +2259,10 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive
 xmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist
 /fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (14 pages, 454831 bytes).
+Output written on short18_seabreeze_verification.pdf (14 pages, 623517 bytes).
 PDF statistics:
- 207 PDF objects out of 1000 (max. 8388607)
- 141 compressed objects within 2 object streams
+ 339 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 32294 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 32314 words of extra memory for PDF output out of 35830 (max. 10000000)
 
