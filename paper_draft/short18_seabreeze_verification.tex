@@ -165,7 +165,7 @@ Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series p
 
 \begin{figure}
 \centering
-\includegraphics{wa_south_coastal_20180609.pdf}
+\includegraphics{case_studies.pdf}
 \caption{Case study 1? South West WA 5 UTC}
 \label{Fig:time_series_and_hodo}
 \end{figure}
@@ -179,21 +179,7 @@ Understanding results? Figure \ref{Fig:time_series_and_hodo} shows time series p
 
 \begin{figure}
 \centering
-\includegraphics{nt_coastal_20180703.pdf}
-\caption{Case study 2? Darwin July 3 23 UTC}
-\label{Fig:time_series_and_hodo}
-\end{figure}
-
-\begin{figure}
-\centering
 \includegraphics{airport_wpi.pdf}
-\caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
-\label{Fig:airport_wpi}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics{error_decomp.pdf}
 \caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
 \label{Fig:airport_wpi}
 \end{figure}
@@ -216,7 +202,7 @@ Figure \ref{Fig:coastal_wpi} is analogous to figure \ref{Fig:airport_wpi}, but p
 
 \begin{figure}
 \centering
-\includegraphics[keepaspectratio=true,width=0.90\textwidth]{figure_placeholder.png}
+\includegraphics{ellipse_stats.pdf}
 \caption{Ellipse fits.}
 \label{Fig:time_series_and_hodo}
 \end{figure}
@@ -234,6 +220,13 @@ Error, not bias, that generally matters for the forecast user. Standard methods 
 Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
 
 Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic forecasting methods therefore not appropriate. 
+
+\begin{figure}
+\centering
+\includegraphics{error_decomp.pdf}
+\caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
+\label{Fig:airport_wpi}
+\end{figure}
 
 \section{Conclusion}
 \label{conclusion}
