@@ -29,7 +29,7 @@ rcParams.update({'font.serif': 'Times New Roman'})
 
 plt.close('all')
 
-fig = plt.figure(figsize=(5,4))
+fig = plt.figure(figsize=(7,5))
 #fig.set_tight_layout(True)
 
 ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
@@ -84,13 +84,28 @@ states_provinces_10m = cfeature.NaturalEarthFeature(
 #ax.add_feature(land_50m, edgecolor='black', linewidth = 0.5, zorder=0)
 #ax.add_feature(ocean_50m, edgecolor='black', linewidth = 0.5, zorder=0)
 
+# Coarsen elavation dataset
+coarsen_step = 10
+
 elav = xr.open_dataset('etopo1.nc')
 lon = elav.lon.values
 lat = elav.lat.values
+elav = elav.Band1.values
 
+nLon = len(lon)//coarsen_step
+nLat = len(lat)//coarsen_step
 
+elav_coarse = np.empty((nLat, nLon))
 
-[X, Y] = np.meshgrid(elav.lon, elav.lat)
+for i in np.arange(0, nLat):
+    for j in np.arange(0, nLon):
+        elav_coarse[i,j] = np.mean(elav[i * coarsen_step : (i+1) * coarsen_step,
+                                   j * coarsen_step : (j+1) * coarsen_step])
+
+lon = np.mean(lon[:(len(lon)//coarsen_step)*coarsen_step].reshape(-1,coarsen_step), axis=1)
+lat = np.mean(lat[:(len(lat)//coarsen_step)*coarsen_step].reshape(-1,coarsen_step), axis=1)
+
+[X, Y] = np.meshgrid(lon, lat)
 
 coastal_stations = [
     nt_coastal_df, qld_coastal_df, nsw_coastal_df, vic_coastal_df,
@@ -113,7 +128,7 @@ airports = [
 
 labels = [
         'NT', 'QLD', 'NSW',
-        'VIC', 'SA', 'West WA',
+        'VIC', 'West WA', 'SA',
         ]
 
 #wa_coastal_south_df,
@@ -135,39 +150,39 @@ for i in np.arange(0,len(coastal_stations)):
 
 ax.scatter(
         wa_coastal_south_df.LONGITUDE.values, wa_coastal_south_df.LATITUDE.values,
-        marker='o', color=colour_list[8], transform=ccrs.PlateCarree(),
+        marker='o', color=colour_list[6], transform=ccrs.PlateCarree(),
         edgecolor='black', s=20, linewidth=.75, label='South WA'
         )
 
 ax.scatter(
         wa_coastal_north_df.LONGITUDE.values, wa_coastal_north_df.LATITUDE.values,
-        marker='o', color=colour_list[9], transform=ccrs.PlateCarree(),
+        marker='o', color=colour_list[7], transform=ccrs.PlateCarree(),
         edgecolor='black', s=20, linewidth=.75, label='North WA'
         )
 
 ax.scatter(
         hobart_ap_stations_df.LONGITUDE.values, hobart_ap_stations_df.LATITUDE.values,
-        marker='o', color=colour_list[7], transform=ccrs.PlateCarree(),
+        marker='o', color=colour_list[8], transform=ccrs.PlateCarree(),
         edgecolor='black', s=20, linewidth=.75, label='TAS'
         )
 
 ax.scatter(
         canberra_ap_stations_df.LONGITUDE.values, canberra_ap_stations_df.LATITUDE.values,
-        marker='o', color=colour_list[6], transform=ccrs.PlateCarree(),
+        marker='o', color=colour_list[9], transform=ccrs.PlateCarree(),
         edgecolor='black', s=20, linewidth=.75, label='ACT'
         )
 
 ax.scatter(
         hobart_ap_stations_df.loc[94008].LONGITUDE,
         hobart_ap_stations_df.loc[94008].LATITUDE,
-        marker='*', color=colour_list[7], transform=ccrs.PlateCarree(),
+        marker='*', color=colour_list[8], transform=ccrs.PlateCarree(),
         edgecolor='black', s=140, linewidth=.75,
         )
 
 ax.scatter(
         canberra_ap_stations_df.loc[70351].LONGITUDE,
         canberra_ap_stations_df.loc[70351].LATITUDE,
-        marker='*', color=colour_list[6], transform=ccrs.PlateCarree(),
+        marker='*', color=colour_list[9], transform=ccrs.PlateCarree(),
         edgecolor='black', s=140, linewidth=.75,
         )
 
@@ -180,18 +195,17 @@ tMinOcean = -15000
 tMaxOcean = 0
 
 csetLand = ax.contourf(
-        X,Y,elav.Band1, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
+        X,Y,elav_coarse, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
         )
 fig.colorbar(csetLand)
 csetWater = ax.contourf(
-        X,Y,elav.Band1, cmap='Blues_r',
+        X,Y,elav_coarse, cmap='Blues_r',
         levels=np.arange(tMinOcean,tMaxOcean+tStepOcean,tStepOcean),
         zorder=0
         )
 fig.colorbar(csetWater)
 ax.add_feature(lakes_50m, edgecolor='black', linewidth = 0.5, zorder=0)
 ax.add_feature(states_provinces_50m, edgecolor='black', zorder=0)
-
 
 fig.legend()
 
@@ -207,7 +221,7 @@ grid.ylabels_right = False
 grid.xformatter = LONGITUDE_FORMATTER
 grid.yformatter = LATITUDE_FORMATTER
 
-plt.show()
+# plt.show()
 
 plt.savefig('./station_map.svg')
 
@@ -217,9 +231,9 @@ lon_min = [129.7, 152, 150.6, 144.2, 115.2, 138, 146.8, 147.5]
 lon_max = [132.1, 154, 151.4, 145.5, 116.5, 139, 148.2, 151]
 
 tick = [1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1]
-#
-## Create Victorian Station Map
-#for i in np.arange(0,len(airport_stations)):
+
+# Create Victorian Station Map
+# for i in np.arange(0,len(airport_stations)):
 #
 #    fig = plt.figure(figsize=(4,3))
 #
@@ -242,8 +256,8 @@ tick = [1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1]
 #
 #    colour_list = plt.cm.Set3(np.linspace(0,1,11))
 #
-##    ax.add_feature(land_10m, edgecolor='black', linewidth = 0.75, zorder=0)
-##    ax.add_feature(ocean_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+# #    ax.add_feature(land_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+# #    ax.add_feature(ocean_10m, edgecolor='black', linewidth = 0.75, zorder=0)
 #    ax.add_feature(lakes_10m, edgecolor='black', linewidth = 0.75, zorder=0)
 #
 #    ax.scatter(
@@ -260,11 +274,11 @@ tick = [1, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 1]
 #            )
 #
 #    cset = ax.contourf(
-#        X,Y,elav.Band1, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
+#        X,Y,elav_coarse, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
 #        )
 #    fig.colorbar(cset)
 #    csetWater = ax.contourf(
-#        X,Y,elav.Band1, cmap='Blues_r',
+#        X,Y,elav_coarse, cmap='Blues_r',
 #        levels=np.arange(tMinOcean,tMaxOcean+tStepOcean,tStepOcean),
 #        zorder=0
 #        )
