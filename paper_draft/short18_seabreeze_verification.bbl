@@ -1,13 +1,19 @@
-\begin{thebibliography}{8}
+\begin{thebibliography}{9}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL: }\fi
 
+\bibitem[{Brown et~al.(2017)Brown, Vincent, Lane, Short and Nguyen}]{brown17}
+Brown, A.~L., Vincent, C.~L., Lane, T.~P., Short, E. and Nguyen, H. (2017)
+  Scatterometer estimates of the tropical sea-breeze circulation near {Darwin},
+  with comparison to regional models.
+\newblock \textit{Quart.\ J.\ Roy.\ Meteor.\ Soc.}
+
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E. (2008) Fuzzy verification of high-resolution gridded forecasts: a
   review and proposed framework.
-\newblock \textit{Meteorological Applications}, \textbf{15}, 51--64.
+\newblock \textit{Meteor.\ Appl.}, \textbf{15}, 51--64.
 \newblock
   \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25}.
 
@@ -31,7 +37,7 @@ Lynch, K.~J., Brayshaw, D.~J. and Charlton-Perez, A. (2014) Verification of
 \bibitem[{Pinson and Hagedorn(2012)}]{pinson12}
 Pinson, P. and Hagedorn, R. (2012) Verification of the ecmwf ensemble forecasts
   of wind speed against analyses and observations.
-\newblock \textit{Meteorological Applications}, \textbf{19}, 484--500.
+\newblock \textit{Meteor.\ Appl.}, \textbf{19}, 484--500.
 \newblock
   \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}.
 

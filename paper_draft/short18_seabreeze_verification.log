@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  22 MAR 2019 19:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  23 MAR 2019 19:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1649,9 +1649,31 @@ Package: translator 2018/01/04 v1.12 Easy translation of strings in LaTeX
 \CommentStream=\write4
 
 Excluding comment 'comment')
+(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count349
+\output=\toks57
+\linenoprevgraf=\count350
+\linenumbersep=\dimen319
+\linenumberwidth=\dimen320
+\c@linenumber=\count351
+\c@pagewiselinenumber=\count352
+\c@LN@truepage=\count353
+\c@internallinenumber=\count354
+\c@internallinenumbers=\count355
+\quotelinenumbersep=\dimen321
+\bframerule=\dimen322
+\bframesep=\dimen323
+\bframebox=\box73
+LaTeX Info: Redefining \\ on input line 3056.
+)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 56.
- (./short18_seabreeze_verification.aux
+h' as default language. on input line 60.
+
+(./short18_seabreeze_verification.aux
 
 LaTeX Warning: Label `Eq:u' multiply defined.
 
@@ -1670,62 +1692,62 @@ LaTeX Warning: Label `Fig:airport_wpi' multiply defined.
 )
 \openout1 = `short18_seabreeze_verification.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 56.
+LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 60.
 LaTeX Font Info:    Try loading font information for OML+ntxsfmi on input line 
-56.
+60.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi
 .
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 56.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 56.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 60.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 60.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 56.
-LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 56
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 60.
+LaTeX Font Info:    Try loading font information for LMS+ntxsy on input line 60
 .
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 56.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 56.
-LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Try loading font information for T1+lato-TLF on input line 
-56.
+60.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 File: T1lato-TLF.fd 2017/10/22 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 56.
+(Font)              scaled to size 8.0pt on input line 60.
 
 (/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count349
-\scratchdimen=\dimen319
-\scratchbox=\box73
-\nofMPsegments=\count350
-\nofMParguments=\count351
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count352
-\MPscratchDim=\dimen320
-\MPnumerator=\count353
-\makeMPintoPDFobject=\count354
-\everyMPtoPDFconversion=\toks58
+\scratchcounter=\count356
+\scratchdimen=\dimen324
+\scratchbox=\box74
+\nofMPsegments=\count357
+\nofMParguments=\count358
+\everyMPshowfont=\toks58
+\MPscratchCnt=\count359
+\MPscratchDim=\dimen325
+\MPnumerator=\count360
+\makeMPintoPDFobject=\count361
+\everyMPtoPDFconversion=\toks59
 ) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1744,10 +1766,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 56.
-\AtBeginShipoutBox=\box74
+LaTeX Info: Redefining \selectfont on input line 60.
+\AtBeginShipoutBox=\box75
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 56.
+LaTeX Info: Redefining \microtypecontext on input line 60.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1761,8 +1783,8 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lato-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c@mv@tabular=\count355
-\c@mv@boldtabular=\count356
+\c@mv@tabular=\count362
+\c@mv@boldtabular=\count363
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1809,7 +1831,7 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 56.
+or `english'. on input line 60.
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
@@ -1894,37 +1916,37 @@ Dictionary: translator-basic-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.2pt on input line 56.
+(Font)              scaled to size 6.2pt on input line 60.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 56.
+(Font)              scaled to size 5.5pt on input line 60.
  (/usr/local/texlive/2018/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 60.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.5> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 60.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 60.
 
-LaTeX Font Info:    Try loading font information for U+ntxsfmia on input line 5
-6.
+LaTeX Font Info:    Try loading font information for U+ntxsfmia on input line 6
+0.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/untxsfmia.fd
 File: untxsfmia.fd 2014/11/16 Fontinst v1.933 font definitions for U/ntxsfmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 56.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 60.
 
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for T1+cmss on input line 56.
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 60.
 
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
@@ -1936,9 +1958,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 60.
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 56.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 60.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
@@ -1949,74 +1971,83 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <5.5> not available
-(Font)              size <5> substituted on input line 56.
+(Font)              size <5> substituted on input line 60.
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 8.0pt on input line 58.
+(Font)              scaled to size 8.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/eb/n' will be
-(Font)              scaled to size 9.0pt on input line 58.
+(Font)              scaled to size 9.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 58.
+(Font)              scaled to size 9.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 58.
+(Font)              scaled to size 7.3pt on input line 62.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 4.0pt on input line 62.
+
+LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4> not available
+(Font)              size <5> substituted on input line 62.
+
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <18> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 62
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 18.0pt on input line 58.
+(Font)              scaled to size 18.0pt on input line 62.
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
+(Font)              scaled to size 18.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <12> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 62
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
+(Font)              scaled to size 12.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 58.
+(Font)              scaled to size 12.0pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 8.8pt on input line 58.
+(Font)              scaled to size 8.8pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 6.6pt on input line 58.
+(Font)              scaled to size 6.6pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8.8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 58
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 62
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.8pt on input line 58.
+(Font)              scaled to size 8.8pt on input line 62.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 65.
+(Font)              scaled to size 7.0pt on input line 69.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <7> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 65
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 69
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 7.0pt on input line 65.
-\wiley@abstractbox=\box75
-Package mdframed Info: mdframed works in twoside mode on input line 65.
+(Font)              scaled to size 7.0pt on input line 69.
+\wiley@abstractbox=\box76
+Package mdframed Info: mdframed works in twoside mode on input line 69.
 
-Underfull \hbox (badness 1242) in paragraph at lines 65--65
+Underfull \hbox (badness 1242) in paragraph at lines 69--69
 []\T1/lato-TLF/m/n/9 This study presents a method-ol-ogy for com-par-ing the
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <9> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 65
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 69
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 65.
+(Font)              scaled to size 9.0pt on input line 69.
 Package mdframed Info: mdframed inside a box 
- mdframed uses option nobreak mdframed on input line 65.
-Package mdframed Info: mdframed works in twoside mode on input line 65.
+ mdframed uses option nobreak mdframed on input line 69.
+Package mdframed Info: mdframed works in twoside mode on input line 69.
 
-Overfull \hbox (0.22372pt too wide) in paragraph at lines 65--65
+Overfull \hbox (0.22372pt too wide) in paragraph at lines 69--69
 \T1/lato-TLF/m/n/9 in-ter-ven-tion to model guid-ance prod-ucts adds value to l
 and-
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <10> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 67
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 71
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 67.
+(Font)              scaled to size 10.0pt on input line 71.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 67.
-LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 68.
+(Font)              scaled to size 10.0pt on input line 71.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 [][][] 
@@ -2025,99 +2056,111 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 72.
+
+[2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
-<map.pdf, id=16, 202.01457pt x 176.40709pt>
+ [3]
+<map.pdf, id=20, 202.01457pt x 176.40709pt>
 File: map.pdf Graphic file (type pdf)
 <use map.pdf>
-Package pdftex.def Info: map.pdf  used on input line 88.
+Package pdftex.def Info: map.pdf  used on input line 92.
 (pdftex.def)             Requested size: 202.01407pt x 176.40665pt.
 
-Underfull \vbox (badness 1603) has occurred while \output is active []
-
- [3 <./map.pdf>] [4]
+[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 13
-0.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 130.
+ [5 <./map.pdf>] [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `brown17' on page 6 undefined on input line 13
-0.
+ [8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[6]
-
-LaTeX Warning: Reference `perth_sounding' on page 7 undefined on input line 159
-.
-
-
-LaTeX Warning: Reference `Fig:map' on page 7 undefined on input line 161.
-
-[7]
-<wpi_coastal.pdf, id=3973, 404.02913pt x 261.76537pt>
+ [9]
+<wpi_coastal.pdf, id=3980, 404.02913pt x 261.76537pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
-Package pdftex.def Info: wpi_coastal.pdf  used on input line 167.
+Package pdftex.def Info: wpi_coastal.pdf  used on input line 159.
 (pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
-<case_studies.pdf, id=3974, 404.02913pt x 204.85983pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+[11 <./wpi_coastal.pdf>]
+<case_studies.pdf, id=4032, 404.02913pt x 204.85983pt>
 File: case_studies.pdf Graphic file (type pdf)
 <use case_studies.pdf>
-Package pdftex.def Info: case_studies.pdf  used on input line 174.
+Package pdftex.def Info: case_studies.pdf  used on input line 170.
 (pdftex.def)             Requested size: 404.02812pt x 204.85933pt.
-<perth_sounding.pdf, id=3975, 335.74252pt x 182.09764pt>
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 17
+7.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 177.
+
+
+LaTeX Warning: Reference `perth_sounding' on page 12 undefined on input line 17
+7.
+
+[12 <./case_studies.pdf>]
+
+LaTeX Warning: Reference `Fig:map' on page 13 undefined on input line 179.
+
+<perth_sounding.pdf, id=4063, 335.74252pt x 182.09764pt>
 File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
-Package pdftex.def Info: perth_sounding.pdf  used on input line 181.
+Package pdftex.def Info: perth_sounding.pdf  used on input line 183.
 (pdftex.def)             Requested size: 335.7417pt x 182.0972pt.
-<airport_wpi.pdf, id=3976, 404.02913pt x 193.47874pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+<airport_wpi.pdf, id=4068, 404.02913pt x 193.47874pt>
 File: airport_wpi.pdf Graphic file (type pdf)
 <use airport_wpi.pdf>
-Package pdftex.def Info: airport_wpi.pdf  used on input line 188.
+Package pdftex.def Info: airport_wpi.pdf  used on input line 192.
 (pdftex.def)             Requested size: 404.02812pt x 193.47826pt.
 
+Underfull \vbox (badness 8132) has occurred while \output is active []
 
-LaTeX Warning: Reference `Fig:coastal_wpi' on page 8 undefined on input line 19
-3.
-
-<cwpi_coastal.pdf, id=3977, 404.02913pt x 261.76537pt>
+ [14 <./perth_sounding.pdf>] [15 <./airport_wpi.pdf>]
+<cwpi_coastal.pdf, id=4126, 404.02913pt x 261.76537pt>
 File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
-Package pdftex.def Info: cwpi_coastal.pdf  used on input line 197.
+Package pdftex.def Info: cwpi_coastal.pdf  used on input line 205.
 (pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
-<clim_hodo.pdf, id=3978, 404.02913pt x 125.19212pt>
+<clim_hodo.pdf, id=4127, 404.02913pt x 125.19212pt>
 File: clim_hodo.pdf Graphic file (type pdf)
 <use clim_hodo.pdf>
-Package pdftex.def Info: clim_hodo.pdf  used on input line 204.
+Package pdftex.def Info: clim_hodo.pdf  used on input line 212.
 (pdftex.def)             Requested size: 404.02812pt x 125.1918pt.
-<ellipse_stats.pdf, id=3979, 404.02913pt x 187.78818pt>
+<ellipse_stats.pdf, id=4128, 404.02913pt x 187.78818pt>
 File: ellipse_stats.pdf Graphic file (type pdf)
 <use ellipse_stats.pdf>
-Package pdftex.def Info: ellipse_stats.pdf  used on input line 211.
+Package pdftex.def Info: ellipse_stats.pdf  used on input line 219.
 (pdftex.def)             Requested size: 404.02812pt x 187.7877pt.
-[8] [9 <./wpi_coastal.pdf> <./case_studies.pdf
+ [16 <./cwpi_coastal.pdf>] [17 <./clim_hodo.pdf> <./ellipse_stats.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./case_studies.pdf): PDF inc
-lusion: multiple pdfs with page group included in a single page
->] [10 <./perth_sounding.pdf> <./airport_wpi.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./airport_wpi.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->] [11 <./cwpi_coastal.pdf> <./clim_hodo.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./clim_hodo.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./ellipse_stats.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
 >]
-<error_decomp.pdf, id=4184, 404.02913pt x 233.3126pt>
+<error_decomp.pdf, id=4427, 404.02913pt x 233.3126pt>
 File: error_decomp.pdf Graphic file (type pdf)
 <use error_decomp.pdf>
-Package pdftex.def Info: error_decomp.pdf  used on input line 232.
+Package pdftex.def Info: error_decomp.pdf  used on input line 240.
 (pdftex.def)             Requested size: 404.02812pt x 233.31203pt.
- [12 <./ellipse_stats.pdf>] (./short18_seabreeze_verification.bbl
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <./error_decomp.pdf>] (./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2133,85 +2176,81 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 7.5pt on input line 1.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 7.5pt on input line 10.
+(Font)              scaled to size 7.5pt on input line 11.
 LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <7.5> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 10
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 16
 .
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 7.5pt on input line 10.
+(Font)              scaled to size 7.5pt on input line 16.
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 12.
+(Font)              size <7> substituted on input line 18.
 
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 12.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 18.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 5.47496pt on input line 12.
+(Font)              scaled to size 5.47496pt on input line 18.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 4.12502pt on input line 12.
+(Font)              scaled to size 4.12502pt on input line 18.
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 12.
+(Font)              size <7> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <5.47496> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `T1/cmss/m/n' in size <4.12502> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <5.47496> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `T1/cmtt/m/n' in size <4.12502> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 12.
+(Font)              size <7> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.47496> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <4.12502> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <7.5> not available
-(Font)              size <7> substituted on input line 12.
+(Font)              size <7> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.47496> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <4.12502> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <7.5> not available
-(Font)              size <7> substituted on input line 12.
+(Font)              size <7> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
-(Font)              size <5> substituted on input line 12.
+(Font)              size <5> substituted on input line 18.
 
-[13 <./error_decomp.pdf>])
-
-Package natbib Warning: There were undefined citations.
-
-[14] (./short18_seabreeze_verification.aux)
+[20]) [21] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.87498pt have occurred.
+(Font)              up to 1.0pt have occurred.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2224,13 +2263,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34420 strings out of 492649
- 695895 string characters out of 6129623
- 759855 words of memory out of 5000000
- 37657 multiletter control sequences out of 15000+600000
- 1264512 words of font info for 210 fonts, out of 8000000 for 9000
+ 34659 strings out of 492649
+ 699676 string characters out of 6129623
+ 757443 words of memory out of 5000000
+ 37888 multiletter control sequences out of 15000+600000
+ 1308170 words of font info for 212 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,21n,102p,10407b,1057s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,21n,102p,10407b,1061s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}</usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/
@@ -2239,16 +2278,17 @@ xlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local
 /texlive/2018/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texli
-ve/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive
-/2018/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2018/te
-xmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist
-/fonts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/f
-onts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (14 pages, 1499774 bytes).
+ve/2018/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive
+/2018/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/newtx/txexs.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist/f
+onts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/newtxsf/zsfmia-reg.pfb>
+Output written on short18_seabreeze_verification.pdf (21 pages, 1519739 bytes).
 
 PDF statistics:
- 4489 PDF objects out of 5155 (max. 8388607)
- 3036 compressed objects within 31 object streams
+ 4517 PDF objects out of 5155 (max. 8388607)
+ 3056 compressed objects within 31 object streams
  0 named destinations out of 1000 (max. 500000)
- 32314 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 33338 words of extra memory for PDF output out of 35830 (max. 10000000)
 
