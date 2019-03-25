@@ -82,7 +82,7 @@ Relatively few forecast verification studies have focused on near-surface winds,
 \citet{pinson12} and \citet{lynch14} restricted their verification studies to wind speeds, but wind directions are also crucial to diagnosing whether land sea breezes - and the diurnal wind cycle more generally - are being forecast correctly. Furthermore, no previous published work has proposed a verification methodology to assess the accuracy of the diurnal wind cycle in forecasts, or of the contributions made to this accuracy by human forecaster edits of model output. Finally, no previously published work has considered the performance of ACCESS near surface winds, which together with ECMWF, are the model guidance products most widely used by Australian forecasters. Thus, the present study has two goals. First, to describe a methodology for comparing human edited forecasts of the land-sea breeze to unedited model guidance forecasts, in order to assess where and when human edits are producing an increase in accuracy. Second, to apply this methodology across Australia. The remainder of this paper is organised as follows. Section \ref{methods} describes the methodology in detail, section \ref{results} provides results, and sections \ref{discussion} and \ref{conclusion} provide a discussion and a conclusion, respectively.     
 
 \section{Data and Methods} \label{methods}
-This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. 
+This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. \textcolor{red}{If the diurnal cycle cannot be resolved correctly using wind perturbations, it cannot be resolved correctly in the overall wind fields, which are subject to additional synoptic scale errors between the models and observations.}
 
 \subsection{Data} 
 Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a \textcolor{red}{?, ?} degree spatial resolution respectively. \textcolor{red}{What are the resolutions of these datasets as they're used in Jive? Does the ACCESS model data in Jive} Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. 
@@ -152,7 +152,10 @@ The time at which the perturbations align with the major axis $t_M$ can then be 
 
 \section{Results}
 \label{results}
-In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, error is assessed using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI. Finally, elliptical fits are applied to the climatological perturbations and descriptive quantities compared. Unless otherwise stated, values throughout this section are provided to two significant figures. 
+In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, error is assessed on a daily basis using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall seasonal biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI, and by comparing quantities derived from ellipses fitted to the climatological wind perturbations. Unless otherwise stated, values throughout this section are provided to two significant figures. 
+
+\subsection{Daily Comparison}
+Figure \ref{Fig:wpi_coastal} provides the mean wind perturbation index values $\overline{\text{wpi}}$ and confidence scores $P\left(\overline{\text{WPI}}>0\right)$ for the coastal station groups for $\overline{\text{wpi}}_\text{OA}$, $\overline{\text{wpi}}_\text{OE}$ and $\overline{\text{wpi}}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively. Values of $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ are negative for the majority of station groups and hours, and often both $P\left(\overline{\text{WPI}}_{\text{OA}} > 0\right) < 5\%$ and $P\left(\overline{\text{WPI}}_\text{OE} > 0\right) < 5\%$. This implies that at this level of spatial aggregation, there is often high confidence that both the unedited ACCESS and ECMWF models outperform the Official forecast. The lowest $\overline{\text{wpi}}$ values of $-0.9$ kn occur for the NT station group at 23:00 and 00:00 UTC for both $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$, with $\overline{\text{wpi}}_\text{EA}= 0$ kn. Comparatively low values also occur at 08:00 UTC with $\overline{\text{wpi}}_\text{OA}=\overline{\text{wpi}}_\text{OE}=-0.6$ kn, but $\overline{\text{wpi}}_\text{EA}= 0$ kn. This suggests the Official forecast may be performing particularly poorly over the NT station group.
 
 \begin{figure}
 \centering
@@ -161,14 +164,12 @@ In this section, the methods described in section \ref{methods} are applied to A
 \label{Fig:wpi_coastal}
 \end{figure}
 
-FIgure \ref{Fig:wpi_coastal} provide the mean wind perturbation index values $\overline{\text{wpi}}$ and confidence scores $P\left(\overline{\text{WPI}}>0\right)$ for the coastal station groups for $\overline{\text{wpi}}_\text{OA}$, $\overline{\text{wpi}}_\text{OE}$ and $\overline{\text{wpi}}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively.  Values of $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ are negative for the majority of station groups and hours, and often both $P\left(\overline{\text{WPI}}_{\text{OA}} > 0\right) < 5\%$ and $P\left(\overline{\text{WPI}}_\text{OE} > 0\right) < 5\%$. This implies that at this level of spatial aggregation, there is often high confidence that both the unedited ACCESS and ECMWF models outperform the Official forecast. The lowest $\overline{\text{wpi}}$ values of $-0.9$ kn occur for the NT station group at 23:00 and 00:00 UTC for both $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$, with $\overline{\text{wpi}}_\text{EA}= 0$ kn. Comparatively low values also occur at 08:00 UTC with $\overline{\text{wpi}}_\text{OA}=\overline{\text{wpi}}_\text{OE}=-0.6$ kn, but $\overline{\text{wpi}}_\text{EA}= 0$ kn. This suggests the Official forecast may be performing particularly poorly over the NT station group.
-
 Although Official outperforms at least one of ACCESS or ECMWF with high confidence at a few dozen times and station groups, there is only one group and time where it outperforms both. At 05:00 UTC over the South WA station group, $\overline{\text{wpi}}_\text{OA} = 0.2$ kn and $\overline{\text{wpi}}_\text{OE} = 0.1$ kn, both with confidence scores $\geq 95\%$, although the actual $\overline{\text{wpi}}$ values are comparatively small. Note that ECMWF generally outperforms ACCESS from 10:00 - 14:00 UTC, with the South WA station group being the main exception.    
 
 \begin{figure}
 \centering
 \includegraphics{case_studies.pdf}
-\caption{\textcolor{red}{Need to add time markers to hodograph points. Swap vs with versus.}}
+\caption{Time series, a) and b), of $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ for, a), the NT station group at 23:00 UTC, and b), the south WA station group at 05:00 UTC. Hodographs, c) to f), showing change in winds, c) and e), and wind perturbations, d) and f), for the NT station group, c) and d), and south WA station group, e) and f).}
 \label{Fig:case_studies}
 \end{figure}
 
@@ -181,7 +182,7 @@ Considering now the South WA station group, Fig.~\ref{Fig:case_studies} b) shows
 \begin{figure}
 \centering
 \includegraphics{perth_sounding.pdf}
-\caption{Perth Sounding}
+\caption{Hodographs showing change in winds with height at, a), Darwin Airport, and b), Perth Airport.}
 \label{Fig:perth_sounding}
 \end{figure}
 
@@ -190,42 +191,54 @@ Figure \ref{Fig:perth_sounding} provides hodographs of wind with height througho
 \begin{figure}
 \centering
 \includegraphics{airport_wpi.pdf}
-\caption{The wpi values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
+\caption{The $\overline{\text{wpi}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
 \label{Fig:airport_wpi}
 \end{figure}
 
 Figure \ref{Fig:airport_wpi} presents the $\overline{\text{wpi}}$ values and confidence scores for the Official versus ECMWF comparisons, i.e. $\overline{\text{wpi}}_\text{OE}$ and $P\left(\overline{\text{WPI}}_\text{OE}>0\right)$, for the airport stations, and airport station groups. The results for the airport stations are noisier than the analogous results for the coastal station groups in Figures~\ref{Fig:wpi_coastal} c) and d), although they do share some similarities. Official outperforms ECMWF at 01:00 and 02:00 UTC at both the Darwin airport station and the NT station group, although ECMWF outperforms Official between 08:00 and 14:00 UTC at Darwin and Brisbane airports, and the corresponding NT and QLD station groups, with the exception of the QLD station group at 12:00 UTC where $\overline{\text{wpi}}_\text{OE} = 0$. ECMWF also outperforms Official at Hobart airport at almost all hours of the day, and at Adelaide and Canberra airports from 11:00 to 14:00 UTC. 
 
-For the remaining stations and times, only the Perth airport station at 06:00 UTC and the Melbourne airport station at 01:00 UTC exhibit $\overline{\text{wpi}}_\text{OE}>0$ with $P\left(\overline{\text{WPI}}_\text{OE}>0\right)\geq 95\%$. However, in both cases $\overline{\text{wpi}}_\text{OE}=0.3$, which is small compared to the maximum value of 1.0 which occurs at the Darwin airport station at 02:00 UTC. Furthermore, in both cases there is no clear pattern to the $\overline{\text{wpi}}_\text{OE}$ values over the rest of the day. Given the random appearance of the $\overline{\text{wpi}}_\text{OE}$ values, the \textit{multiplicity problem} \citep[p. 178]{wilks11} requires care be taken before giving meaning to these two examples: i.e., given that we are calculating twenty four confidence scores for eight stations, then assuming WPI were uncorrelated across each station and hour we would expect to find $0.05 \times 24 \times 8 \approx 10$ instances where $P\left(\overline{\text{WPI}}_\text{OE}>0\right)\geq 95\%$, even if $\overline{\text{WPI}}_\text{OE}$ was in fact equal to zero.  \textcolor{red}{Comment on performance versus ACCESS.}
+For the remaining stations and times, only the Perth airport station at 06:00 UTC and the Melbourne airport station at 01:00 UTC exhibit $\overline{\text{wpi}}_\text{OE}>0$ with $P\left(\overline{\text{WPI}}_\text{OE}>0\right)\geq 95\%$. However, in both cases $\overline{\text{wpi}}_\text{OE}=0.3$, which is small compared to the maximum value of 1.0 which occurs at the Darwin airport station at 02:00 UTC. Furthermore, in both cases there is no clear pattern to the $\overline{\text{wpi}}_\text{OE}$ values over the rest of the day. Given the random appearance of the $\overline{\text{wpi}}_\text{OE}$ values, the \textit{multiplicity problem} \citep[p. 178]{wilks11} requires care be taken before giving meaning to these two examples: i.e., given that we are calculating twenty four confidence scores for eight stations, then assuming WPI were uncorrelated across each station and hour we would expect to find $0.05 \times 24 \times 8 \approx 10$ instances where $P\left(\overline{\text{WPI}}_\text{OE}>0\right)\geq 95\%$, even if $\overline{\text{WPI}}_\text{OE}$ was in fact equal to zero. \textcolor{red}{Comment on performance versus ACCESS.}
 
-For the airport station groups, ECMWF outperforms Official for the majority of station groups and times. The main exception is the Darwin airport station group, where Official outperforms ECMWF at 02:00 UTC, and there is ambiguity as to whether Official or ECMWF performs better at 01:00, 03:00 and 04:00 UTC, and from 15:00 to 22:00 UTC. In the analogous comparisons of Official and ACCESS (not shown), the airport station results are similarly noisy, although the airport station group results are slightly more favourable to Official, with Official outperforming ACCESS from 10:00 to 12:00 UTC at the Brisbane station group, and fewer occasions overall where ACCESS outperforms Official than ECMWF does. In the comparisons of ECMWF and ACCESS (not shown), the airport station results are also noisy, but show ECMWF often outperforms ACCESS.  
+For the airport station groups, ECMWF outperforms Official for the majority of station groups and times. The main exception is the Darwin airport station group, where Official outperforms ECMWF at 02:00 UTC, and there is ambiguity as to whether Official or ECMWF performs better at 01:00, 03:00 and 04:00 UTC, and from 15:00 to 22:00 UTC. In the analogous comparisons of Official and ACCESS (not shown), the airport station results are similarly noisy, although the airport station group results are slightly more favourable to Official, with Official outperforming ACCESS from 10:00 to 12:00 UTC at the Brisbane station group, and fewer occasions overall where ACCESS outperforms Official than ECMWF does. 
 
-At face value, these results are surprising. ACCESS runs at a higher spatiotemporal resolution than           
-ECMWF, and forecasters have their pick of both models, as well as climatological data, from which to base the Official forecast. 
+\begin{figure}
+\centering
+\includegraphics{airport_wpi_EA.pdf}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{wpi}}_\text{EA}$ (ECMWF versus ACCESS comparison) values and confidence scores.}   
+\label{Fig:airport_wpi_EA}
+\end{figure}
+
+Figure \ref{Fig:airport_wpi_EA} shows the $\overline{\text{wpi}}$ values and confidence scores for the ECMWF versus ACCESS comparisons, i.e. $\overline{\text{wpi}}_\text{EA}$ and $P\left(\overline{\text{WPI}}_\text{EA}>0\right)$, for the airport stations, and airport station groups. As with the Official versus ECMWF comparison in Fig.~\ref{Fig:airport_wpi}, the results for the airport stations are noisy, but more often than not show that ECMWF outperforms ACCESS. The results for the airport station group show ECMWF usually outperforms ACCESS, the main exceptions being the Darwin and Canberra airport station groups. 
+
+At face value, the fact that ECMWF generally outperforms ACCESS at these scales is surprising, as ACCESS runs at a higher spatiotemporal resolution than ECMWF, and is calibrated for Australian conditions, and so one would expect ACCESS would better resolve small scale processes like the land-sea breeze and boundary layer mixing processes. However, these results are unsurprising if one considers the scales at which predictable atmospheric motion occurs, and the scales being resolved by AWS, ACCESS and ECMWF. The AWS data resolves motion with time scales as low as 10 minutes, and arbitrarily small spatial scales: it therefore includes highly unpredictable eddy turbulence. This explains why the results for the airport stations are noisier than for the airport station groups or coastal station groups. Furthermore, because ACCESS runs at a higher resolution than ECMWF, it includes additional scales of motion, and therefore adds additional variability to the wind fields. Unless this additional variability in ACCESS is perfectly correlated with observations, the average of $\left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{A}} \right\rvert$
+will therefore increase, unless this additional variability is compensated for by a reduction in bias, i.e.$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{A}} \right\rvert$ decreases. These ideas are discussed in greater detail in section \ref{Sec:Discussion}. Note finally that the results for the Official versus ECMWF comparison in Fig.~\ref{Fig:airport_wpi} largely mirror those of the ECMWF versus ACCESS comparison in Fig.~\ref{Fig:airport_wpi_EA}, e.g. for the Darwin airport station and station group, Official outperforms ECMWF at the same times that ACCESS does, suggesting that either the Official forecast at these spatial scales is largely based on ACCESS, or that ECMWF is highly biased at these scales and times.
+
+\subsection{Seasonal Comparison}
+Figure \ref{Fig:cwpi_coastal} provides the climatological wind perturbation index values $\overline{\text{cwpi}}$ and confidence scores $P\left(\overline{\text{CWPI}}>0\right)$ for the coastal station groups for $\overline{\text{cwpi}}_\text{OA}$, $\overline{\text{cwpi}}_\text{OE}$ and $\overline{\text{cwpi}}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively.
 
 \begin{figure}
 \centering
 \includegraphics{cwpi_coastal.pdf}
-\caption{Climatological results at different scales}
-\label{Fig:time_series_and_hodo}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the $\overline{\text{cwpi}}$ values and confidence scores.}
+\label{Fig:cwpi_coastal}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics{clim_hodo.pdf}
 \caption{Climatological hodographs.}
-\label{Fig:airport_wpi}
+\label{Fig:clim_hodo}
 \end{figure}
 
 \begin{figure}
 \centering
 \includegraphics{ellipse_stats.pdf}
 \caption{Ellipse fits.}
-\label{Fig:time_series_and_hodo}
+\label{Fig:ellipse_stats}
 \end{figure}
 
 \section{Discussion}
-\label{discussion}
+\label{Sec:Discussion}
 The methods developed in this study can be readily extended to analyse \emph{just} the sea-breezes satisfying the operational definition above. For instance, to study the sea-breezes at a station near a coastline with inward pointing normal vector $\widehat{\boldsymbol{n}}$, the wind perturbation datasets could be restricted to just those days where the corresponding raw wind vector $\boldsymbol{u}$ satisfies $\widehat{\boldsymbol{n}} \cdot \boldsymbol{u} > 0$ for at least one of the hours of that day.
 
 How much time should forecasters spend on sea-breeze edits (if any)? What is the value of an improved diurnal cycle climatology? Improving the accuracy of forecast climatologies will have little value to the typical forecast user. Are there applications where a higher performing climatological forecast yields better outcomes, even if errors increase or even get worse? 
@@ -236,13 +249,13 @@ Error, not bias, that generally matters for the forecast user. Standard methods 
 
 Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
 
-Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic forecasting methods therefore not appropriate. 
+Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic verification methods are therefore not appropriate. 
 
 \begin{figure}
 \centering
 \includegraphics{error_decomp.pdf}
 \caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
-\label{Fig:airport_wpi}
+\label{Fig:error_decomp}
 \end{figure}
 
 \section{Conclusion}

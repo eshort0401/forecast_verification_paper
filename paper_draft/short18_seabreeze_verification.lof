@@ -1,9 +1,0 @@
-\contentsline {figure}{\numberline {1}{\ignorespaces Locations of the automatic weather stations used in this study.}}{21}
-\contentsline {figure}{\numberline {2}{\ignorespaces Heatmaps of $\overline {\text {WPI}}$ values and confidence scores for each coastal station group and hour of the day: a) and b), Official versus ACCESS, c) and d) Official versus ECMWF, e) and f) ECMWF versus ACCESS. Positive $\overline {\text {WPI}}$ values mean that the former dataset in each pair is on average closer to observations than the latter dataset. Confidence scores provide the probability the population $\overline {\text {WPI}}$ is greater than zero. Values within the heatmaps are accurate to two significant figures.}}{22}
-\contentsline {figure}{\numberline {3}{\ignorespaces \leavevmode {\color {red}Need to add time markers to hodograph points. Swap vs with versus.}}}{23}
-\contentsline {figure}{\numberline {4}{\ignorespaces Perth Sounding}}{24}
-\contentsline {figure}{\numberline {5}{\ignorespaces Actual perturbation standard deviation values. Note that official performs the worst at this scale!}}{25}
-\contentsline {figure}{\numberline {6}{\ignorespaces Climatological results at different scales}}{26}
-\contentsline {figure}{\numberline {7}{\ignorespaces Climatological hodographs.}}{27}
-\contentsline {figure}{\numberline {8}{\ignorespaces Ellipse fits.}}{28}
-\contentsline {figure}{\numberline {9}{\ignorespaces Actual perturbation standard deviation values. Note that official performs the worst at this scale!}}{29}
