@@ -41,7 +41,7 @@ grid = ax.gridlines(crs=ccrs.PlateCarree(), draw_labels=True,
                   )
 
 colour_list = plt.cm.Set3(np.linspace(0,1,11))
-colour_list_alt = colour_list
+colour_list_alt = plt.cm.Set3(np.linspace(0,1,11))
 colour_list_alt[6:8] = colour_list_alt[8:10]
 
 c_land = tuple(np.array([249.0, 246.0, 216.0])/256)
@@ -253,12 +253,12 @@ lat_max = [-11.25, -26.25, -33.375, -37, -31.5, -34, -42.25, -34.25]
 lon_min = [130, 152, 150.5, 144.25, 115.25, 137.5, 146.75, 148.125]
 lon_max = [132.0, 154, 151.5, 145.75, 116.25, 139, 148.25, 150.625]
 
-scale = [2, 2, 1.0, 1.5, 1, 1.5, 2, 2.5]
+scale = [2, 2, 1.0, 1.5, 1, 1.5, 1.5, 2.5]
 
 tick = [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
 
 # Create Airport Station Maps
-for i in np.arange(0,len(airports)):
+for i in np.arange(0,0):
 
    fig = plt.figure(figsize=(scale[i], scale[i]))
 

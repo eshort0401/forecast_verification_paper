@@ -90,7 +90,7 @@ Four datasets are considered in this study; they are the Australian Bureau of Me
 \begin{figure}
 \centering
 \includegraphics{map.pdf}
-\caption{Locations of the automatic weather stations used in this study.}
+\caption{Locations of the automatic weather stations used in this study. Stars indicate capital city airport stations. Height and depth shading intervals every 200 and 1000 m, respectively.}
 \label{Fig:station_map}
 \end{figure}
 
@@ -155,6 +155,7 @@ The time at which the perturbations align with the major axis $t_M$ can then be 
 In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, error is assessed on a daily basis using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall seasonal biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI, and by comparing quantities derived from ellipses fitted to the climatological wind perturbations. Unless otherwise stated, values throughout this section are provided to two significant figures. 
 
 \subsection{Daily Comparison}
+\label{Sec:Daily}
 Figure \ref{Fig:wpi_coastal} provides the mean wind perturbation index values $\overline{\text{wpi}}$ and confidence scores $P\left(\overline{\text{WPI}}>0\right)$ for the coastal station groups for $\overline{\text{wpi}}_\text{OA}$, $\overline{\text{wpi}}_\text{OE}$ and $\overline{\text{wpi}}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively. Values of $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ are negative for the majority of station groups and hours, and often both $P\left(\overline{\text{WPI}}_{\text{OA}} > 0\right) < 5\%$ and $P\left(\overline{\text{WPI}}_\text{OE} > 0\right) < 5\%$. This implies that at this level of spatial aggregation, there is often high confidence that both the unedited ACCESS and ECMWF models outperform the Official forecast. The lowest $\overline{\text{wpi}}$ values of $-0.9$ kn occur for the NT station group at 23:00 and 00:00 UTC for both $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$, with $\overline{\text{wpi}}_\text{EA}= 0$ kn. Comparatively low values also occur at 08:00 UTC with $\overline{\text{wpi}}_\text{OA}=\overline{\text{wpi}}_\text{OE}=-0.6$ kn, but $\overline{\text{wpi}}_\text{EA}= 0$ kn. This suggests the Official forecast may be performing particularly poorly over the NT station group.
 
 \begin{figure}
@@ -175,7 +176,7 @@ Although Official outperforms at least one of ACCESS or ECMWF with high confiden
 
 Using the NT and South WA station groups as case studies, Figures \ref{Fig:case_studies} a) and b) provide time series of $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ for, a), the NT station group at 23:00 UTC, and b), the South WA station group at 05:00 UTC. The $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ values for the NT station group show significant temporal variability over the three month period, exceeding $-2$ kn on at least 10 days each, and occasionally becoming positive. The $\text{wpi}$ values for the South WA station at 05:00 UTC also show significant temporal variability, with $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ each exceeding 1 kn on at least 9 seperate days, despite $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ being small. 
 
-Fig.~\ref{Fig:case_studies} a) shows that there are four days where $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ are both less than -2 kn: the 8\textsuperscript{th} of June and the 3\textsuperscript{rd}, 9\textsuperscript{th} and 10\textsuperscript{th} of July. Figures \ref{Fig:case_studies} c) and d) show hodographs of the winds and wind perturbations, respectively, at each hour UTC for the AWS observations, Official forecast, and ACCESS and ECMWF model datasets on the 3\textsuperscript{rd} of July, which provides an interesting example. Figure \ref{Fig:case_studies} e) shows that the Official wind forecast on this day was likely based on edited ACCESS from 00:00 to 06:00 UTC, then edited ECMWF from 07:00 to 13:00 UTC, then unedited ACCESS from 15:00 to 21:00 UTC. The final two hours of the forecast show the Official winds acquiring a stronger east-northeasterly component than either the AWS observations, ACCESS, or ECMWF; this rapid, exaggerated change is even clearer in the perturbation hodograph shown in Fig.~\ref{Fig:case_studies} f). Note that at this time of year the prevailing winds throughout the NT are east-southeasterly, and 22:00 UTC corresponds to $\approx$ 08:30 LST in this region, so the rapid departure of the Official forecast from ACCESS at this time likely represents an edit made by a forecaster to capture boundary layer mixing processes. Figure \ref{perth_sounding} a) shows the first ten values from wind soundings at Darwin Airport - the nearest station to issue upper level wind soundings - at 12:00 UTC on July 3\textsuperscript{rd} and 00:00 UTC on July 4\textsuperscript{th}. In both instances the winds are indeed east-southeasterly, and so the rapidly changing wind perturbations at 22:00 UTC in the Official forecast likely reflect a boundary layer mixing edit that has been applied either too early, or has strengthened the southeasterly component of the winds too much. The 8\textsuperscript{th} of June and 9\textsuperscript{th} and 10\textsuperscript{th} of July examples are all similar in this respect.              
+Fig.~\ref{Fig:case_studies} a) shows that there are four days where $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ are both less than -2 kn: the 8\textsuperscript{th} of June and the 3\textsuperscript{rd}, 9\textsuperscript{th} and 10\textsuperscript{th} of July. Figures \ref{Fig:case_studies} c) and d) show hodographs of the winds and wind perturbations, respectively, at each hour UTC for the AWS observations, Official forecast, and ACCESS and ECMWF model datasets on the 3\textsuperscript{rd} of July, which provides an interesting example. Figure \ref{Fig:case_studies} e) shows that the Official wind forecast on this day was likely based on edited ACCESS from 00:00 to 06:00 UTC, then edited ECMWF from 07:00 to 13:00 UTC, then unedited ACCESS from 15:00 to 21:00 UTC. The final two hours of the forecast show the Official winds acquiring a stronger east-northeasterly component than either the AWS observations, ACCESS, or ECMWF; this rapid, exaggerated change is even clearer in the perturbation hodograph shown in Fig.~\ref{Fig:case_studies} f). Note that at this time of year the prevailing winds throughout the NT are east-southeasterly, and 22:00 UTC corresponds to $\approx$ 08:30 LST in this region, so the rapid departure of the Official forecast from ACCESS at this time likely represents an edit made by a forecaster to capture boundary layer mixing processes. Figure \ref{Fig:perth_sounding} a) shows the first ten values from wind soundings at Darwin Airport - the nearest station to issue vertical wind soundings - at 12:00 UTC on July 3\textsuperscript{rd} and 00:00 UTC on July 4\textsuperscript{th}. In both instances the winds are indeed east-southeasterly, and so the rapidly changing wind perturbations at 22:00 UTC in the Official forecast likely reflect a boundary layer mixing edit that has been applied either too early, or has strengthened the southeasterly component of the winds too much. The 8\textsuperscript{th} of June and 9\textsuperscript{th} and 10\textsuperscript{th} of July examples are all similar in this respect.              
 
 Considering now the South WA station group, Fig.~\ref{Fig:case_studies} b) shows that $\text{wpi}_\text{OA}$ and $\text{wpi}_\text{OE}$ both exceed 1 kn on the 9\textsuperscript{th} of June and the 3\textsuperscript{rd} of August. Figures \ref{Fig:case_studies} c) and d) show hodographs of the winds and wind perturbations, respectively, at each hour UTC for the AWS observations, Official forecast, and ACCESS and ECMWF model datasets on the 9\textsuperscript{th} of June, which is the more interesting example. The perturbation hodograph shows both ECMWF and ACCESS underpredicting the amplitude of the diurnal wind cycle on this day. In each dataset the 05:00 UTC perturbations are westerly to northwesterly, and given the orientation of the South WA coastline (see Fig.~\ref{Fig:map}) and the fact that 05:00 UTC corresponds to $\approx$ 13:00 local solar time (LST) in this region, the perturbations likely indicate boundary layer mixing processes, rather than the land-sea breeze. Furthermore, the AWS perturbations rapidly become northwesterly between 01:00 and 02:00 UTC, $\approx$ 09:00 - 10:00 LST, which would be about three hours after the sun has risen, consistent with a boundary layer mixing mechanism. 
 
@@ -191,8 +192,8 @@ Figure \ref{Fig:perth_sounding} provides hodographs of wind with height througho
 \begin{figure}
 \centering
 \includegraphics{airport_wpi.pdf}
-\caption{The $\overline{\text{wpi}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
 \label{Fig:airport_wpi}
+\caption{The $\overline{\text{wpi}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
 \end{figure}
 
 Figure \ref{Fig:airport_wpi} presents the $\overline{\text{wpi}}$ values and confidence scores for the Official versus ECMWF comparisons, i.e. $\overline{\text{wpi}}_\text{OE}$ and $P\left(\overline{\text{WPI}}_\text{OE}>0\right)$, for the airport stations, and airport station groups. The results for the airport stations are noisier than the analogous results for the coastal station groups in Figures~\ref{Fig:wpi_coastal} c) and d), although they do share some similarities. Official outperforms ECMWF at 01:00 and 02:00 UTC at both the Darwin airport station and the NT station group, although ECMWF outperforms Official between 08:00 and 14:00 UTC at Darwin and Brisbane airports, and the corresponding NT and QLD station groups, with the exception of the QLD station group at 12:00 UTC where $\overline{\text{wpi}}_\text{OE} = 0$. ECMWF also outperforms Official at Hobart airport at almost all hours of the day, and at Adelaide and Canberra airports from 11:00 to 14:00 UTC. 
@@ -204,7 +205,7 @@ For the airport station groups, ECMWF outperforms Official for the majority of s
 \begin{figure}
 \centering
 \includegraphics{airport_wpi_EA.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{wpi}}_\text{EA}$ (ECMWF versus ACCESS comparison) values and confidence scores.}   
+%\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{wpi}}_\text{EA}$ (ECMWF versus ACCESS comparison) values and confidence scores.}
 \label{Fig:airport_wpi_EA}
 \end{figure}
 
@@ -214,12 +215,21 @@ At face value, the fact that ECMWF generally outperforms ACCESS at these scales 
 will therefore increase, unless this additional variability is compensated for by a reduction in bias, i.e.$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{A}} \right\rvert$ decreases. These ideas are discussed in greater detail in section \ref{Sec:Discussion}. Note finally that the results for the Official versus ECMWF comparison in Fig.~\ref{Fig:airport_wpi} largely mirror those of the ECMWF versus ACCESS comparison in Fig.~\ref{Fig:airport_wpi_EA}, e.g. for the Darwin airport station and station group, Official outperforms ECMWF at the same times that ACCESS does, suggesting that either the Official forecast at these spatial scales is largely based on ACCESS, or that ECMWF is highly biased at these scales and times.
 
 \subsection{Seasonal Comparison}
-Figure \ref{Fig:cwpi_coastal} provides the climatological wind perturbation index values $\overline{\text{cwpi}}$ and confidence scores $P\left(\overline{\text{CWPI}}>0\right)$ for the coastal station groups for $\overline{\text{cwpi}}_\text{OA}$, $\overline{\text{cwpi}}_\text{OE}$ and $\overline{\text{cwpi}}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively.
+\label{Sec:Seasonal}
+Figure \ref{Fig:cwpi_coastal} provides the climatological wind perturbation index values, $\text{cwpi}$, and confidence scores, $P\left(\text{CWPI}>0\right)$, for the coastal station groups for $\text{cwpi}_\text{OA}$, $\text{cwpi}_\text{OE}$ and $\text{cwpi}_\text{EA}$, which represent the the Official versus ACCESS, Official versus ECMWF, and ECMWF versus ACCESS comparisons, respectively. At the NT station group Official outperforms both ACCESS and ECMWF at 03:00 UTC with $\text{cwpi}_\text{OA} = \text{cwpi}_\text{OE} = 0.4$, $P\left(\text{cwpi}_\text{OA}>0\right) = 94\%$ and $P\left(\text{cwpi}_\text{OE}>0\right) = 93\%$. However, both ACCESS and ECMWF outperform Official at 23:00 and 00:00 UTC, consistent with the $\overline{\text{wpi}}$ results in Fig.~\ref{Fig:wpi_coastal}. The NT station group results are discussed in more detail in section \ref{Sec:Discussion}.
+
+At the North WA station group at 01:00, 03:00 and 04:00, Official outperforms ACCESS with confidence scores of 77, 78 and 90\%, respectively; Official also outperforms ECMWF at 01:00 and 02:00 UTC with confidence scores above 99\%. Figure \ref{Fig:clim_hodo} a) shows that ECMWF's poor performance at 01:00 and 02:00 UTC is simply due to its linear interpolation at these times, whereas Official's outperformance of ACCESS at 01:00, 03:00 and 04:00 is due to ACCESS's climatological diurnal cycle being slightly out of phase with that of the AWS observations, and the Official forecast appearing to correct for this somewhat. Both Official and ECMWF slightly exaggerate the magnitude of the climatological sea-breeze with ACCESS doing a good job in this regard.    
+
+At the South WA station group from 01:00 to 05:00 UTC, $\text{cwpi}_\text{OE}$ is positive with confidence scores of at least $88\%$, although $\text{cwpi}_\text{OA}$ is negative or zero at these times. Figure \ref{Fig:clim_hodo} b) shows that ECMWF underestimates the westerly perturbations at these times, with these perturbations likely associated with boundary layer mixing processes, as discussed in section \ref{Sec:Daily}. Each of Official, ACCESS and ECMWF underestimate the amplitude of the diurnal cycle between 02:00 and 10:00 UTC, including both the westerly perturbations and the southerly sea-breeze perturbations. 
+
+At the NSW station group from 17:00 to 19:00 UTC, $\text{cwpi}_\text{OA}$ and $\text{cwpi}_\text{OE}$ are at least $0.4$ and $0.1$ kn, respectively, with confidence scores of at least 95\% and 75\%, respectively. Figure \ref{Fig:clim_hodo} c) shows that these times correspond to a strange ``dimple" in perturbation hodograph that is present in all four datasets. The Official hodograph closely resembles that of ACCESS, except for this dimple, which has been exaggerated relative to ACCESS. \textcolor{red}{Don't know what is going on here.} Figure \ref{Fig:clim_hodo} c) also shows that although ECMWF exaggerates the amplitude of the easterly sea-breeze perturbations, it captures the narrower shape of the AWS hodograph better than Official or ACCESS. 
+
+At the SA station group from 01:00 to 05:00 UTC and 09:00 to 11:00 UTC both $\text{cwpi}_\text{OA}$ and $\text{cwpi}_\text{OE}$ are positive, with maximum values of $0.4$ and $0.1$ kn, although confidence scores do not exceed 88\% and 65\% respectively. Figure \ref{Fig:clim_hodo} shows that the Official forecast captures the amplitude of the perturbations from 01:00 to 05:00 UTC almost perfectly, matching the amplitude of the AWS perturbations better than both ACCESS and ECMWF. However, the Official diurnal cycle is slightly out of phase with the AWS cycle during this period, explaining why Official only slightly outperforms ACCESS in the results of Figures \ref{Fig:cwpi_coastal} a) and b).      
 
 \begin{figure}
 \centering
 \includegraphics{cwpi_coastal.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the $\overline{\text{cwpi}}$ values and confidence scores.}
+%\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the values and confidence scores.}
 \label{Fig:cwpi_coastal}
 \end{figure}
 
@@ -232,9 +242,16 @@ Figure \ref{Fig:cwpi_coastal} provides the climatological wind perturbation inde
 
 \begin{figure}
 \centering
-\includegraphics{ellipse_stats.pdf}
+\includegraphics{r_squared.pdf}
+\caption{r squared.}
+\label{Fig:r_squared}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{ellipse_fits.pdf}
 \caption{Ellipse fits.}
-\label{Fig:ellipse_stats}
+\label{Fig:ellipse_fits}
 \end{figure}
 
 \section{Discussion}
