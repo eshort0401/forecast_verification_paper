@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  26 MAR 2019 18:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  26 MAR 2019 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1673,14 +1673,20 @@ LaTeX Info: Redefining \\ on input line 3056.
 Package translations Info: No language package found. I am going to use `englis
 h' as default language. on input line 60.
 
-(./short18_seabreeze_verification.aux)
+(./short18_seabreeze_verification.aux
+
+LaTeX Warning: Label `Eq:u' multiply defined.
+
+
+LaTeX Warning: Label `Eq:v' multiply defined.
+
+)
 \openout1 = `short18_seabreeze_verification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxsfmi/m/it on input line 60.
 LaTeX Font Info:    Try loading font information for OML+ntxsfmi on input line 
 60.
-
-(/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
+ (/usr/local/texlive/2018/texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
 File: omlntxsfmi.fd 2014/11/16 Fontinst v1.933 font definitions for OML/ntxsfmi
 .
 )
@@ -2043,48 +2049,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
 (Font)              scaled to size 8.0pt on input line 72.
-LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
-(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 74
-.
-LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 74.
-
-
-Package natbib Warning: Citation `smith09' on page 2 undefined on input line 74
-.
-
-
-Package natbib Warning: Citation `ebert08' on page 2 undefined on input line 76
-.
-
-
-Package natbib Warning: Citation `pinson12' on page 2 undefined on input line 7
-8.
 
 [2]
-
-Package natbib Warning: Citation `lynch14' on page 3 undefined on input line 80
+LaTeX Font Info:    Font shape `T1/lato-TLF/bx/n' in size <8> not available
+(Font)              Font shape `T1/lato-TLF/b/n' tried instead on input line 82
 .
-
-
-Package natbib Warning: Citation `pinson12' on page 3 undefined on input line 8
-2.
-
-
-Package natbib Warning: Citation `lynch14' on page 3 undefined on input line 82
-.
-
-
-LaTeX Warning: Reference `methods' on page 3 undefined on input line 82.
-
-
-LaTeX Warning: Reference `results' on page 3 undefined on input line 82.
+LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 82.
 
 
 LaTeX Warning: Reference `discussion' on page 3 undefined on input line 82.
-
-
-LaTeX Warning: Reference `conclusion' on page 3 undefined on input line 82.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2100,111 +2074,32 @@ Package pdftex.def Info: map.pdf  used on input line 92.
 Underfull \vbox (badness 1668) has occurred while \output is active []
 
  [6]
-
-Package natbib Warning: Citation `zwiers95' on page 7 undefined on input line 1
-14.
-
-
-Package natbib Warning: Citation `wilks11' on page 7 undefined on input line 11
-4.
-
-
-LaTeX Warning: Reference `Fig:station_map' on page 7 undefined on input line 11
-4.
-
 [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `efron79' on page 8 undefined on input line 12
-5.
-
-[8]
-
-Package natbib Warning: Citation `gille05' on page 9 undefined on input line 12
-7.
-
-
-Package natbib Warning: Citation `gille05' on page 9 undefined on input line 13
-4.
-
-
-LaTeX Warning: Reference `Eq:u' on page 9 undefined on input line 134.
-
-
-LaTeX Warning: Reference `Eq:v' on page 9 undefined on input line 134.
-
-
-Package natbib Warning: Citation `brown17' on page 9 undefined on input line 13
-4.
-
-
+ [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-
-LaTeX Warning: Reference `Eq:alpha' on page 10 undefined on input line 151.
-
-
-Package natbib Warning: Citation `gille05' on page 10 undefined on input line 1
-51.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 4608) has occurred while \output is active []
 
  [10]
-
-LaTeX Warning: Reference `methods' on page 11 undefined on input line 155.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 11 undefined on input line 1
-59.
-
 <wpi_coastal.pdf, id=687, 404.02913pt x 261.76537pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
 Package pdftex.def Info: wpi_coastal.pdf  used on input line 163.
 (pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
-<case_studies.pdf, id=688, 404.02913pt x 204.85983pt>
+
+Underfull \vbox (badness 7451) has occurred while \output is active []
+
+ [11]
+[12 <./wpi_coastal.pdf>]
+<case_studies.pdf, id=740, 404.02913pt x 204.85983pt>
 File: case_studies.pdf Graphic file (type pdf)
 <use case_studies.pdf>
 Package pdftex.def Info: case_studies.pdf  used on input line 172.
 (pdftex.def)             Requested size: 404.02812pt x 204.85933pt.
-
-LaTeX Warning: Reference `Fig:case_studies' on page 11 undefined on input line 
-177.
-
-[11] [12 <./wpi_coastal.pdf>]
-
-LaTeX Warning: Reference `Fig:case_studies' on page 13 undefined on input line 
-179.
-
-
-LaTeX Warning: Reference `Fig:case_studies' on page 13 undefined on input line 
-179.
-
-
-LaTeX Warning: Reference `Fig:case_studies' on page 13 undefined on input line 
-179.
-
-
-LaTeX Warning: Reference `Fig:case_studies' on page 13 undefined on input line 
-179.
-
-
-LaTeX Warning: Reference `Fig:perth_sounding' on page 13 undefined on input lin
-e 179.
-
-
-Underfull \vbox (badness 1460) has occurred while \output is active []
-
  [13 <./case_studies.pdf>]
-
-LaTeX Warning: Reference `Fig:case_studies' on page 14 undefined on input line 
-181.
-
-
-LaTeX Warning: Reference `Fig:case_studies' on page 14 undefined on input line 
-181.
-
 
 LaTeX Warning: Reference `Fig:map' on page 14 undefined on input line 181.
 
@@ -2213,14 +2108,6 @@ File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
 Package pdftex.def Info: perth_sounding.pdf  used on input line 185.
 (pdftex.def)             Requested size: 335.7417pt x 182.0972pt.
-
-LaTeX Warning: Reference `Fig:perth_sounding' on page 14 undefined on input lin
-e 190.
-
-
-LaTeX Warning: Reference `Fig:case_studies' on page 14 undefined on input line 
-190.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2232,43 +2119,53 @@ Package pdftex.def Info: airport_wpi.pdf  used on input line 194.
 (pdftex.def)             Requested size: 404.02812pt x 193.47826pt.
 
 
+Package caption Warning: \label without proper reference on input line 195.
+See the caption package documentation for explanation.
+
+
 LaTeX Warning: Reference `Fig:airport_wpi' on page 15 undefined on input line 1
 99.
 
 
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 15 undefined on input line 1
-99.
+Underfull \vbox (badness 8132) has occurred while \output is active []
 
+ [15 <./perth_sounding.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `wilks11' on page 15 undefined on input line 2
-01.
-
-[15 <./perth_sounding.pdf>]
-<airport_wpi_EA.pdf, id=795, 404.02913pt x 193.47874pt>
+ [16 <./airport_wpi.pdf>]
+<airport_wpi_EA.pdf, id=833, 404.02913pt x 193.47874pt>
 File: airport_wpi_EA.pdf Graphic file (type pdf)
 <use airport_wpi_EA.pdf>
 Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 207.
 (pdftex.def)             Requested size: 404.02812pt x 193.47826pt.
 
 
-LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 16 undefined on input lin
+Package caption Warning: \label without proper reference on input line 209.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 17 undefined on input lin
 e 212.
 
 
-LaTeX Warning: Reference `Fig:airport_wpi' on page 16 undefined on input line 2
+Package caption Warning: \label without proper reference on input line 195.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 17 undefined on input line 2
 12.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16 <./airport_wpi.pdf>]
-
-LaTeX Warning: Reference `Sec:Discussion' on page 17 undefined on input line 21
-5.
+Package caption Warning: \label without proper reference on input line 195.
+See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `Fig:airport_wpi' on page 17 undefined on input line 2
 15.
+
+
+Package caption Warning: \label without proper reference on input line 209.
+See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 17 undefined on input lin
@@ -2276,40 +2173,20 @@ e 215.
 
 [17 <./airport_wpi_EA.pdf>]
 
+Package caption Warning: \label without proper reference on input line 233.
+See the caption package documentation for explanation.
+
+
 LaTeX Warning: Reference `Fig:cwpi_coastal' on page 18 undefined on input line 
 219.
 
 
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 18 undefined on input line 2
-19.
+Underfull \vbox (badness 1668) has occurred while \output is active []
 
+ [18]
 
-LaTeX Warning: Reference `Sec:Discussion' on page 18 undefined on input line 21
-9.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 221
-.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 223
-.
-
-
-LaTeX Warning: Reference `Sec:Daily' on page 18 undefined on input line 223.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 225
-.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 225
-.
-
-[18]
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 19 undefined on input line 227
-.
+Package caption Warning: \label without proper reference on input line 233.
+See the caption package documentation for explanation.
 
 
 LaTeX Warning: Reference `Fig:cwpi_coastal' on page 19 undefined on input line 
@@ -2335,24 +2212,27 @@ File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
 Package pdftex.def Info: ellipse_fits.pdf  used on input line 252.
 (pdftex.def)             Requested size: 404.02812pt x 270.30052pt.
+Excluding 'comment' comment.
+Underfull \vbox (badness 7451) has occurred while \output is active []
 
+ [19]
+[20 <./cwpi_coastal.pdf> <./clim_hodo.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./clim_hodo.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19 <./cwpi_coastal.pdf>] [20 <./clim_hodo.pdf> <./r_squared.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./r_squared.pdf): PDF inclus
-ion: multiple pdfs with page group included in a single page
->] [21 <./ellipse_fits.pdf>] [22]
+ [21 <./r_squared.pdf>] [22 <./ellipse_fits.pdf>]
 <error_decomp.pdf, id=1274, 404.02913pt x 233.3126pt>
 File: error_decomp.pdf Graphic file (type pdf)
 <use error_decomp.pdf>
-Package pdftex.def Info: error_decomp.pdf  used on input line 273.
+Package pdftex.def Info: error_decomp.pdf  used on input line 277.
 (pdftex.def)             Requested size: 404.02812pt x 233.31203pt.
- [23 <./error_decomp.pdf>]
 
-LaTeX Warning: Reference `methods' on page 24 undefined on input line 292.
+Underfull \vbox (badness 1436) has occurred while \output is active []
 
-(./short18_seabreeze_verification.bbl
+ [23 <./error_decomp.pdf>] (./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2439,16 +2319,11 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 18.
 
-[24])
 
-Package natbib Warning: There were undefined citations.
+Underfull \vbox (badness 2173) has occurred while \output is active []
 
-[25] (./short18_seabreeze_verification.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ [24])
+[25] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2460,17 +2335,17 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34676 strings out of 492649
- 700023 string characters out of 6129623
- 756848 words of memory out of 5000000
- 37903 multiletter control sequences out of 15000+600000
+ 34678 strings out of 492649
+ 700046 string characters out of 6129623
+ 757617 words of memory out of 5000000
+ 37905 multiletter control sequences out of 15000+600000
  1308170 words of font info for 212 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,21n,102p,10407b,1055s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 74i,20n,102p,10407b,1061s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/lato/a_w6akef.enc}</usr/loc
 al/texlive/2018/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/
@@ -2485,7 +2360,7 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive
 f-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/fon
 ts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (25 pages, 1323605 bytes).
+Output written on short18_seabreeze_verification.pdf (25 pages, 1323305 bytes).
 
 PDF statistics:
  1360 PDF objects out of 1440 (max. 8388607)
