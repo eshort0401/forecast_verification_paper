@@ -81,7 +81,7 @@ Relatively few forecast verification studies have focused on near-surface winds,
 
 \citet{pinson12} and \citet{lynch14} restricted their verification studies to wind speeds, but wind directions are also crucial to diagnosing whether land sea breezes - and the diurnal wind cycle more generally - are being forecast correctly. Furthermore, no previous published work has proposed a verification methodology to assess the accuracy of the diurnal wind cycle in forecasts, or of the contributions made to this accuracy by human forecaster edits of model output. Finally, no previously published work has considered the performance of ACCESS near surface winds, which together with ECMWF, are the model guidance products most widely used by Australian forecasters. Thus, the present study has two goals. First, to describe a methodology for comparing human edited forecasts of the land-sea breeze to unedited model guidance forecasts, in order to assess where and when human edits are producing an increase in accuracy. Second, to apply this methodology across Australia. The remainder of this paper is organised as follows. Section \ref{methods} describes the methodology in detail, section \ref{results} provides results, and sections \ref{discussion} and \ref{conclusion} provide a discussion and a conclusion, respectively.     
 
-\section{Data and Methods} \label{methods}
+\section{Data and Methods} \label{Sec:Methods}
 This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. \textcolor{red}{If the diurnal cycle cannot be resolved correctly using wind perturbations, it cannot be resolved correctly in the overall wind fields, which are subject to additional synoptic scale errors between the models and observations.}
 
 \subsection{Data} 
@@ -91,7 +91,7 @@ Four datasets are considered in this study; they are the Australian Bureau of Me
 \centering
 \includegraphics{map.pdf}
 \caption{Locations of the automatic weather stations used in this study. Stars indicate capital city airport stations. Height and depth shading intervals every 200 and 1000 m, respectively.}
-\label{Fig:station_map}
+\label{Fig:map}
 \end{figure}
 
 Only station data from the seven Australian capital city airport automatic weather stations are considered; Official, ECMWF and ACCESS  data is \textcolor{red}{(linearly?)} interpolated to the coordinates of the airport weather stations. Capital city airports have been chosen as the focus of this study for a number of reasons. Automatic weather stations located at airports tend to provide the most accurate wind data, and wind forecasts at airports are important to the aviation industry. Moreover, the capital city airports are all reasonably close to coastlines, resulting in a clear diurnal signal. Finally, these airports are also all close to their respective capital cities, which are high priority regions for accurate forecasting. The datasets are hosted on the Bureau's Jive database, but are not currently generally available, although the long term plan is for this to change. \textcolor{red}{Can I extract and host the data I need myself? Can I obtain copies of the relevant Jive Functions so that I can post complete code online?}
@@ -192,8 +192,8 @@ Figure \ref{Fig:perth_sounding} provides hodographs of wind with height througho
 \begin{figure}
 \centering
 \includegraphics{airport_wpi.pdf}
-\label{Fig:airport_wpi}
 \caption{The $\overline{\text{wpi}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
+\label{Fig:airport_wpi}
 \end{figure}
 
 Figure \ref{Fig:airport_wpi} presents the $\overline{\text{wpi}}$ values and confidence scores for the Official versus ECMWF comparisons, i.e. $\overline{\text{wpi}}_\text{OE}$ and $P\left(\overline{\text{WPI}}_\text{OE}>0\right)$, for the airport stations, and airport station groups. The results for the airport stations are noisier than the analogous results for the coastal station groups in Figures~\ref{Fig:wpi_coastal} c) and d), although they do share some similarities. Official outperforms ECMWF at 01:00 and 02:00 UTC at both the Darwin airport station and the NT station group, although ECMWF outperforms Official between 08:00 and 14:00 UTC at Darwin and Brisbane airports, and the corresponding NT and QLD station groups, with the exception of the QLD station group at 12:00 UTC where $\overline{\text{wpi}}_\text{OE} = 0$. ECMWF also outperforms Official at Hobart airport at almost all hours of the day, and at Adelaide and Canberra airports from 11:00 to 14:00 UTC. 
@@ -240,22 +240,43 @@ At the SA station group from 01:00 to 05:00 UTC and 09:00 to 11:00 UTC both $\te
 \label{Fig:clim_hodo}
 \end{figure}
 
+While the $\text{cwpi}$ values and confidence scores of Fig.~\ref{Fig:cwpi_coastal} provide detailed information on which dataset's climatological diurnal cycle best matches those of the AWS observations, $\text{cwpi}$ on it's own reveals little about the structure of the diurnal cycle, and provides little insight into forecast accuracy could be improved. Note that the hodographs in Fig.~\ref{Fig:clim_hodo} are roughly elliptical in shape, suggesting that descriptive quantities can be estimated by fitting equations (\ref{Eq:u}) and (\ref{Eq:v}) to the zonal and meridional climatological perturbations, then calculating these quantities from the fit, as described in section \ref{Sec:Methods}. 
+
 \begin{figure}
 \centering
 \includegraphics{r_squared.pdf}
-\caption{r squared.}
+\caption{\textcolor{red}{Could also provide an analogous figure showing the use of the function $\alpha$ provides a significant improvement over the basic ellipse fit - or instead just quote some numbers? Or maybe these figures are entirely unnecessary?}}
 \label{Fig:r_squared}
 \end{figure}
+
+Figure \ref{Fig:r_squared} provides the $R^2$ values for the fits of the zonal and meridional perturbations to equations (\ref{Eq:u}) and (\ref{Eq:v}), respectively. The fit performs best at the coastal station group spatial scale, with $R^2$ generally above $95\%$. It also performs well at the airport station and airport station group scales, with a few exceptions, including the ACCESS and Official meridional perturbations at the Canberra airport station group, and the ECMWF zonal perturbations at Melbourne airport. 
 
 \begin{figure}
 \centering
 \includegraphics{ellipse_fits.pdf}
-\caption{Ellipse fits.}
+\caption{Ellipse fits. \textcolor{red}{If we were to include any analysis for alternative time periods (e.g. summer 2017/18 for contrast; or could do 18/19 if I were to go back to BoM to get the data) a copy of this figure could be a good choice. Could explain changes in diurnal cycle properties, e.g. amplitude, with seasonal changes to background winds, heating, etc.}}
 \label{Fig:ellipse_fits}
 \end{figure}
 
+The ellipse fits are used to derive four descriptive quantities: amplitude (half the length of the semi-major axis), eccentricity, orientation (the angle the semi-major axis makes with lines of latitude) and the time of the peak in the diurnal cycle (the time at which the perturbations align with the semi-major axis, ignoring translational coefficients). Figure \ref{Fig:ellipse_fits} provides these four quantities for each dataset and location across the three spatial scales. A variety of structural differences are apparent at a number of locations and scales. For instance, Fig.~\ref{Fig:ellipse_fits} a) shows that at Brisbane airport, the amplitude of the AWS diurnal cycle is at least $1$ kn greater than Official, ACCESS and ECMWF, and Fig.~\ref{Fig:ellipse_fits} c) shows that the orientation of the AWS diurnal cycle hodograph is at least 20 degrees (anti-clockwise) from the other datasets. Figures \ref{Fig:ellipse_hodo} a) and b) show hodographs of the Brisbane airport perturbation climatology and ellipse fit, respectively. Although the ellipse fit suppresses some of the asymmetric details, it captures the amplitudes and orientations of the real climatological diurnal cycles well. In this case the results show that the average AWS sea-breeze approaches from the northeast, whereas the forecast and model sea-breezes approach more from the east-northeast. To check whether this just represents a direction bias of the Brisbane Airport station, Fig.~\ref{Fig:ellipse_fits} shows the climatological perturbations at the nearby Spitfire Channel station (see Fig.~\ref{Fig:maps} for the location of this station, and other stations referred to in this section).   
+
+\begin{figure}
+\centering
+\includegraphics{ellipse_hodo.pdf}
+\caption{Ellipse fits. Could instead just provide one example.}
+\label{Fig:ellipse_hodo}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{nt_ellipse_hodo.pdf}
+\caption{Ellipse fits. Could instead not include the ellipses.}
+\label{Fig:ellipse_hodo}
+\end{figure}
+
+
 \begin{comment}
-Four examples? Brisbane airport definitely. Can show Darwin Airport hodographs in discussion section. Hobart airport or Hobart airport group. Why not just two examples. 
+Four examples? Brisbane airport definitely. Can show Darwin Airport hodographs in discussion section. Hobart airport or Hobart airport group. Why not just two examples? Spitfire channel very similar!}
 \end{comment}
 
 \section{Discussion}
@@ -277,6 +298,13 @@ Note that the Bureau has not yet moved to ensemble forecasting - and probabilist
 \includegraphics{error_decomp.pdf}
 \caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
 \label{Fig:error_decomp}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics{error_decomp_v.pdf}
+\caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
+\label{Fig:error_decomp_v}
 \end{figure}
 
 \section{Conclusion}

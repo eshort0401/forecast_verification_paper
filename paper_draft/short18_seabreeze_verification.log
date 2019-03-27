@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  26 MAR 2019 21:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  27 MAR 2019 17:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1680,6 +1680,9 @@ LaTeX Warning: Label `Eq:u' multiply defined.
 
 LaTeX Warning: Label `Eq:v' multiply defined.
 
+
+LaTeX Warning: Label `Fig:ellipse_hodo' multiply defined.
+
 )
 \openout1 = `short18_seabreeze_verification.aux'.
 
@@ -2058,6 +2061,9 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 8.0pt on input line 82.
 
 
+LaTeX Warning: Reference `methods' on page 3 undefined on input line 82.
+
+
 LaTeX Warning: Reference `discussion' on page 3 undefined on input line 82.
 
 
@@ -2074,6 +2080,10 @@ Package pdftex.def Info: map.pdf  used on input line 92.
 Underfull \vbox (badness 1668) has occurred while \output is active []
 
  [6]
+
+LaTeX Warning: Reference `Fig:station_map' on page 7 undefined on input line 11
+4.
+
 [7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2084,7 +2094,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 4608) has occurred while \output is active []
 
  [10]
-<wpi_coastal.pdf, id=687, 404.02913pt x 261.76537pt>
+
+LaTeX Warning: Reference `methods' on page 11 undefined on input line 155.
+
+<wpi_coastal.pdf, id=701, 404.02913pt x 261.76537pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
 Package pdftex.def Info: wpi_coastal.pdf  used on input line 163.
@@ -2094,16 +2107,13 @@ Underfull \vbox (badness 7451) has occurred while \output is active []
 
  [11]
 [12 <./wpi_coastal.pdf>]
-<case_studies.pdf, id=740, 404.02913pt x 204.85983pt>
+<case_studies.pdf, id=754, 404.02913pt x 204.85983pt>
 File: case_studies.pdf Graphic file (type pdf)
 <use case_studies.pdf>
 Package pdftex.def Info: case_studies.pdf  used on input line 172.
 (pdftex.def)             Requested size: 404.02812pt x 204.85933pt.
  [13 <./case_studies.pdf>]
-
-LaTeX Warning: Reference `Fig:map' on page 14 undefined on input line 181.
-
-<perth_sounding.pdf, id=772, 335.74252pt x 182.09764pt>
+<perth_sounding.pdf, id=786, 335.74252pt x 182.09764pt>
 File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
 Package pdftex.def Info: perth_sounding.pdf  used on input line 185.
@@ -2112,28 +2122,16 @@ Package pdftex.def Info: perth_sounding.pdf  used on input line 185.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-<airport_wpi.pdf, id=776, 404.02913pt x 193.47874pt>
+<airport_wpi.pdf, id=790, 404.02913pt x 193.47874pt>
 File: airport_wpi.pdf Graphic file (type pdf)
 <use airport_wpi.pdf>
 Package pdftex.def Info: airport_wpi.pdf  used on input line 194.
 (pdftex.def)             Requested size: 404.02812pt x 193.47826pt.
 
-
-Package caption Warning: \label without proper reference on input line 195.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 15 undefined on input line 1
-99.
-
-
 Underfull \vbox (badness 8132) has occurred while \output is active []
 
- [15 <./perth_sounding.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16 <./airport_wpi.pdf>]
-<airport_wpi_EA.pdf, id=833, 404.02913pt x 193.47874pt>
+ [15 <./perth_sounding.pdf>] [16 <./airport_wpi.pdf>]
+<airport_wpi_EA.pdf, id=847, 404.02913pt x 193.47874pt>
 File: airport_wpi_EA.pdf Graphic file (type pdf)
 <use airport_wpi_EA.pdf>
 Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 207.
@@ -2146,22 +2144,6 @@ See the caption package documentation for explanation.
 
 LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 17 undefined on input lin
 e 212.
-
-
-Package caption Warning: \label without proper reference on input line 195.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 17 undefined on input line 2
-12.
-
-
-Package caption Warning: \label without proper reference on input line 195.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 17 undefined on input line 2
-15.
 
 
 Package caption Warning: \label without proper reference on input line 209.
@@ -2192,47 +2174,83 @@ See the caption package documentation for explanation.
 LaTeX Warning: Reference `Fig:cwpi_coastal' on page 19 undefined on input line 
 227.
 
-<cwpi_coastal.pdf, id=881, 404.02913pt x 261.76537pt>
+<cwpi_coastal.pdf, id=895, 404.02913pt x 261.76537pt>
 File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
 Package pdftex.def Info: cwpi_coastal.pdf  used on input line 231.
 (pdftex.def)             Requested size: 404.02812pt x 261.76471pt.
-<clim_hodo.pdf, id=882, 404.02913pt x 125.19212pt>
+<clim_hodo.pdf, id=896, 404.02913pt x 125.19212pt>
 File: clim_hodo.pdf Graphic file (type pdf)
 <use clim_hodo.pdf>
 Package pdftex.def Info: clim_hodo.pdf  used on input line 238.
 (pdftex.def)             Requested size: 404.02812pt x 125.1918pt.
-<r_squared.pdf, id=883, 202.01457pt x 256.0748pt>
+
+Package caption Warning: \label without proper reference on input line 233.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `Fig:cwpi_coastal' on page 19 undefined on input line 
+243.
+
+<r_squared.pdf, id=897, 202.01457pt x 256.0748pt>
 File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
-Package pdftex.def Info: r_squared.pdf  used on input line 245.
+Package pdftex.def Info: r_squared.pdf  used on input line 247.
 (pdftex.def)             Requested size: 202.01407pt x 256.07416pt.
-<ellipse_fits.pdf, id=884, 404.02913pt x 270.3012pt>
+<ellipse_fits.pdf, id=898, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
-Package pdftex.def Info: ellipse_fits.pdf  used on input line 252.
+Package pdftex.def Info: ellipse_fits.pdf  used on input line 256.
 (pdftex.def)             Requested size: 404.02812pt x 270.30052pt.
-Excluding 'comment' comment.
-Underfull \vbox (badness 7451) has occurred while \output is active []
 
- [19]
-[20 <./cwpi_coastal.pdf> <./clim_hodo.pdf
+LaTeX Warning: Reference `Fig:maps' on page 19 undefined on input line 261.
+
+[19] [20 <./cwpi_coastal.pdf> <./clim_hodo.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./clim_hodo.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
->]
+>] [21 <./r_squared.pdf>] [22 <./ellipse_fits.pdf>]
+<ellipse_hodo.pdf, id=1288, 290.21811pt x 216.24095pt>
+File: ellipse_hodo.pdf Graphic file (type pdf)
+<use ellipse_hodo.pdf>
+Package pdftex.def Info: ellipse_hodo.pdf  used on input line 265.
+(pdftex.def)             Requested size: 290.21739pt x 216.2404pt.
+<nt_ellipse_hodo.pdf, id=1289, 298.75392pt x 213.39566pt>
+File: nt_ellipse_hodo.pdf Graphic file (type pdf)
+<use nt_ellipse_hodo.pdf>
+Package pdftex.def Info: nt_ellipse_hodo.pdf  used on input line 272.
+(pdftex.def)             Requested size: 298.75319pt x 213.39514pt.
+
+Excluding 'comment' comment.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <./r_squared.pdf>] [22 <./ellipse_fits.pdf>]
-<error_decomp.pdf, id=1274, 404.02913pt x 233.3126pt>
+ [23 <./ellipse_hodo.pdf>]
+Underfull \vbox (badness 1122) has occurred while \output is active []
+
+ [24 <./nt_ellipse_hodo.pdf>]
+<error_decomp.pdf, id=1341, 404.02913pt x 233.3126pt>
 File: error_decomp.pdf Graphic file (type pdf)
 <use error_decomp.pdf>
-Package pdftex.def Info: error_decomp.pdf  used on input line 277.
+Package pdftex.def Info: error_decomp.pdf  used on input line 298.
 (pdftex.def)             Requested size: 404.02812pt x 233.31203pt.
+<error_decomp_v.pdf, id=1342, 404.02913pt x 239.00314pt>
+File: error_decomp_v.pdf Graphic file (type pdf)
+<use error_decomp_v.pdf>
+Package pdftex.def Info: error_decomp_v.pdf  used on input line 305.
+(pdftex.def)             Requested size: 404.02812pt x 239.00255pt.
 
-Underfull \vbox (badness 1436) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./error_decomp.pdf>] (./short18_seabreeze_verification.bbl
+ [25]
+[26 <./error_decomp.pdf> <./error_decomp_v.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./error_decomp_v.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>]
+
+LaTeX Warning: Reference `methods' on page 27 undefined on input line 324.
+
+(./short18_seabreeze_verification.bbl
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/sc' will be
 (Font)              scaled to size 10.0pt on input line 1.
 
@@ -2319,11 +2337,7 @@ LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.47496> not available
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <4.12502> not available
 (Font)              size <5> substituted on input line 18.
 
-
-Underfull \vbox (badness 2173) has occurred while \output is active []
-
- [24])
-[25] (./short18_seabreeze_verification.aux)
+[27]) [28] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
@@ -2339,10 +2353,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 34678 strings out of 492649
- 700046 string characters out of 6129623
- 757617 words of memory out of 5000000
- 37905 multiletter control sequences out of 15000+600000
+ 34697 strings out of 492649
+ 700501 string characters out of 6129623
+ 758613 words of memory out of 5000000
+ 37921 multiletter control sequences out of 15000+600000
  1308170 words of font info for 212 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,20n,102p,10407b,1061s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2360,11 +2374,11 @@ ve/2018/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive
 f-dist/fonts/type1/public/newtx/txsys.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/public/newtxsf/zsfmi-reg.pfb></usr/local/texlive/2018/texmf-dist/fon
 ts/type1/public/newtxsf/zsfmia-reg.pfb>
-Output written on short18_seabreeze_verification.pdf (25 pages, 1323305 bytes).
+Output written on short18_seabreeze_verification.pdf (28 pages, 1525588 bytes).
 
 PDF statistics:
- 1360 PDF objects out of 1440 (max. 8388607)
- 899 compressed objects within 9 object streams
+ 1467 PDF objects out of 1728 (max. 8388607)
+ 969 compressed objects within 10 object streams
  0 named destinations out of 1000 (max. 500000)
- 33348 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 33363 words of extra memory for PDF output out of 35830 (max. 10000000)
 
