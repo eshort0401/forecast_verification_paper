@@ -1,72 +1,127 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% A template for Wiley article submissions.
-% Developed by Overleaf. 
+%% Version 4.3.2, 25 August 2014
 %
-% Please note that whilst this template provides a 
-% preview of the typeset manuscript for submission, it 
-% will not necessarily be the final publication layout.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Template.tex --  LaTeX-based template for submissions to the 
+% American Meteorological Society
 %
-% Usage notes:
-% The "blind" option will make anonymous all author, affiliation, correspondence and funding information.
-% Use "num-refs" option for numerical citation and references style.
-% Use "alpha-refs" option for author-year citation and references style.
+% Template developed by Amy Hendrickson, 2013, TeXnology Inc., 
+% amyh@texnology.com, http://www.texnology.com
+% following earlier work by Brian Papa, American Meteorological Society
+%
+% Email questions to latex@ametsoc.org.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PREAMBLE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\documentclass[alpha-refs]{wiley-article}
-% \documentclass[blind,num-refs]{wiley-article}
+%% Start with one of the following:
+% DOUBLE-SPACED VERSION FOR SUBMISSION TO THE AMS
+\documentclass{ametsoc}
 
-% Add additional packages here if required
-\usepackage{siunitx}
+% TWO-COLUMN JOURNAL PAGE LAYOUT---FOR AUTHOR USE ONLY
+% \documentclass[twocol]{ametsoc}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% To be entered only if twocol option is used
+
+\journal{jamc}
+
+%  Please choose a journal abbreviation to use above from the following list:
+% 
+%   jamc     (Journal of Applied Meteorology and Climatology)
+%   jtech     (Journal of Atmospheric and Oceanic Technology)
+%   jhm      (Journal of Hydrometeorology)
+%   jpo     (Journal of Physical Oceanography)
+%   jas      (Journal of Atmospheric Sciences)	
+%   jcli      (Journal of Climate)
+%   mwr      (Monthly Weather Review)
+%   wcas      (Weather, Climate, and Society)
+%   waf       (Weather and Forecasting)
+%   bams (Bulletin of the American Meteorological Society)
+%   ei    (Earth Interactions)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Citations should be of the form ``author year''  not ``author, year''
+\bibpunct{(}{)}{;}{a}{}{,}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% To be entered by author:
+
+%% May use \\ to break lines in title:
+
+\title{Verifying Forecasts of Land-Sea Breeze and Boundary Layer Mixing Processes}
+
+%%% Enter authors' names, as you see in this example:
+%%% Use \correspondingauthor{} and \thanks{Current Affiliation:...}
+%%% immediately following the appropriate author.
+%%%
+%%% Note that the \correspondingauthor{} command is NECESSARY.
+%%% The \thanks{} commands are OPTIONAL.
+
+    %\authors{Author One\correspondingauthor{Author One, 
+    % American Meteorological Society, 
+    % 45 Beacon St., Boston, MA 02108.}
+% and Author Two\thanks{Current affiliation: American Meteorological Society, 
+    % 45 Beacon St., Boston, MA 02108.}}
+
+\authors{Ewan Short\correspondingauthor{School of Earth Sciences, The University of Melbourne, Melbourne, Victoria, Australia.}} 
+
+\email{shorte1@student.unimelb.edu.au}
+
+%% Follow this form:
+    % \affiliation{American Meteorological Society, 
+    % Boston, Massachusetts.}
+
+\affiliation{School of Earth Sciences, and ARC Centre of Excellence for Climate Extremes, The University of Melbourne, Melbourne, Victoria, Australia.}
+
+%% Follow this form:
+    %\email{latex@ametsoc.org}
+
+%\email{}
+
+%% If appropriate, add additional authors, different affiliations:
+    %\extraauthor{Extra Author}
+    %\extraaffil{Affiliation, City, State/Province, Country}
+
+\extraauthor{Ben \textcolor{red}{?}. Price}
+
+\extraaffil{Bureau of Meteorology, Casuarina, Northern Territory, Australia}
+
+\extraauthor{Derryn \textcolor{red}{?}. Griffiths and Alexei \textcolor{red}{?}. Hider}
+
+\extraaffil{Bureau of Meteorology, Melbourne, Victoria, Australia}
+
+\DeclareMathOperator{\mse}{mse} 
+\DeclareMathOperator{\covar}{covar} 
+\DeclareMathOperator{\var}{var} 
+
+%\extraauthor{}
+%\extraaffil{}
+
+%% May repeat for a additional authors/affiliations:
+
+%\extraauthor{}
+%\extraaffil{}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ABSTRACT
+%
+% Enter your abstract here
+% Abstracts should not exceed 250 words in length!
+%
+% For BAMS authors only: If your article requires a Capsule Summary, please place the capsule text at the end of your abstract
+% and identify it as the capsule. Example: This is the end of the abstract. (Capsule Summary) This is the capsule summary. 
+
+% Run "latexdiff --append-context2cmd="abstract" short18_diurnal_cycles_winds.tex short18_diurnal_cycles_winds_revised.tex > short18_diurnal_cycles_winds_tracked_changes.tex" to track changes
+
+\abstract{This study presents a methodology for comparing the performance of Australian Bureau of Meteorology forecasts of the land-sea breeze with unedited model guidance products, such as those of the European Center for Medium-Range Weather Forecasting (ECMWF) and the Australian Community Climate and Earth System Simulation (ACCESS). The methodology is applied to the 8 Australian capital city airports. The results indicate that at some airports, human intervention to model guidance products adds value to land-sea breeze forecasts, whereas at other airports it does not.}
+
 \usepackage{comment}
-\usepackage{xcolor}
-\usepackage{amsmath}
-\usepackage{setspace}
-\doublespacing
-\usepackage{lineno}
-\linenumbers 
-
-% Update article type if known
-\papertype{Original Article}
-% Include section in journal if known, otherwise delete
-\paperfield{Journal Section}
-
-\title{Forecast Verification for Land-Sea Breeze and Boundary Layer Mixing Processes}
-
-% Include full author names and degrees, when required by the journal.
-% Use the \authfn to add symbols for additional footnotes and present addresses, if any. Usually start with 1 for notes about author contributions; then continuing with 2 etc if any author has a different present address.
-\author[1]{Ewan Short}
-\author[2]{Ben Price}
-\author[3]{Derryn Griffiths}
-\author[3]{Alexei Hider}
-%\author[2\authfn{2}]{Author Three PhD}
-%\author[2]{Author B.~Four}
-
-%\contrib[\authfn{1}]{Equally contributing authors.}
-
-% Include full affiliation details for all authors
-\affil[1]{ARC Centre of Excellence for Climate Extremes, School of Earth Sciences, University of Melbourne, Parkville, VIC, 3010, Australia}
-\affil[2]{Bureau of Meteorology, Casuarina, NT, 0810, Australia}
-\affil[3]{Bureau of Meteorology, Melbourne, VIC, 3208, Australia}
-
-\corraddress{Ewan Short, ARC Centre of Excellence for Climate Extremes, School of Earth Sciences, University of Melbourne, Parkville, VIC, 3010, Australia}
-\corremail{ewan.short@unimelb.edu.au}
-
-%\presentadd[\authfn{2}]{Department, Institution, City, State or Province, Postal Code, Country}
-
-\fundinginfo{ARC Centre of Excellence for Climate System Science}
-
-% Include the name of the author that should appear in the running header
-\runningauthor{Ewan Short et al.}
 
 \begin{document}
 
 \maketitle
-
-\begin{abstract}
-This study presents a methodology for comparing the performance of Australian Bureau of Meteorology forecasts of the land-sea breeze with unedited model guidance products, such as those of the European Center for Medium-Range Weather Forecasting (ECMWF) and the Australian Community Climate and Earth System Simulation (ACCESS). The methodology is applied to the 8 Australian capital city airports. The results indicate that at some airports, human intervention to model guidance products adds value to land-sea breeze forecasts, whereas at other airports it does not. 
-
-% Please include a maximum of seven keywords
-\keywords{land-sea breeze, forecast verification, Australia, ACCESS, ECMWF}
-\end{abstract}
 
 \section{Introduction}\label{introduction}
 Modern weather forecasts are produced by models in conjunction with human forecasters. For instance, a forecaster working for the Australian Bureau constructs a seven day forecast by first loading model data into the Graphical Forecast Editor (GFE) software package, then manually editing this model data as they see fit. Forecasters can choose which model to base their forecast on, and refer to this as a choice of \textit{model guidance}. Edits are typically made to account for processes that are underesolved at synoptic scale model resolutions, or to address known biases of the models being used. 
@@ -85,11 +140,11 @@ Relatively few forecast verification studies have focused on near-surface winds,
 This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. \textcolor{red}{If the diurnal cycle cannot be resolved correctly using wind perturbations, it cannot be resolved correctly in the overall wind fields, which are subject to additional synoptic scale errors between the models and observations.}
 
 \subsection{Data} 
-Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a \textcolor{red}{?, ?} degree spatial resolution respectively. \textcolor{red}{What are the resolutions of these datasets as they're used in Jive? Does the ACCESS model data in Jive} Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. 
+Four datasets are considered in this study; they are the Australian Bureau of Meteorology's Official wind forecast data, model data from the European Center for Medium Range Weather Forecasting (ECMWF), model data from the Australian Community Climate and Earth System Simulator (ACCESS), and observational data from automatic weather stations. The Official, ECMWF and ACCESS data are at a \textcolor{red}{?, ?} degree spatial resolution respectively. \textcolor{red}{What are the resolutions of these datasets as they're used in Jive? Does the ACCESS model data in Jive} Official, ACCESS and AWS data exists at each UTC hour. ECMWF data exists at a three hour resolution. To be consistent with the other data sets, ECMWF is therefore linearly interpolated to an hourly resolution: this is also what happens in practice when forecasters load ECMWF wind data into the GFE. Two time periods are considered, the austral summer months (December, January, February) of 2017/18, and the austral winter months (June, July, August) of 2018. \textcolor{red}{How is model/forecast data made consistent with AWS data in Jive - particularly regarding heights? Are all stations 10 m above surface? Are all model/forecast data provided at the same height?} 
 
 \begin{figure}
 \centering
-\includegraphics{map.pdf}
+\includegraphics[width=39pc]{map.pdf}
 \caption{Locations of the automatic weather stations used in this study. Stars indicate capital city airport stations. Height and depth shading intervals every 200 and 1000 m, respectively.}
 \label{Fig:map}
 \end{figure}
@@ -151,7 +206,7 @@ Descriptive quantities can then be calculated from these parameters. The value o
 The time at which the perturbations align with the major axis $t_M$ can then be calculated by inverting equation (\ref{Eq:alpha}), fixing $\psi$ to the value obtained from the nonlinear regression. The lengths of the semimajor and semiminor axes, and the angle the semimajor axis makes with lines of latitude $\phi$, can then be calculated from $\alpha_M$ using the same expressions as \citet{gille05}. 
 
 \section{Results}
-\label{results}
+\label{Sec:Results}
 In this section, the methods described in section \ref{methods} are applied to Australian forecast and station data over the months of June, July and August (austral winter) 2018. First, error is assessed on a daily basis using the Wind Perturbation Index (WPI) at three different spatial scales. Second, overall seasonal biases during this time period are assessed using the Climatological Wind Perturbation Index CWPI, and by comparing quantities derived from ellipses fitted to the climatological wind perturbations. Unless otherwise stated, values throughout this section are provided to two significant figures. 
 
 \subsection{Daily Comparison}
@@ -160,7 +215,7 @@ Figure \ref{Fig:wpi_coastal} provides the mean wind perturbation index values $\
 
 \begin{figure}
 \centering
-\includegraphics{wpi_coastal.pdf}
+\includegraphics[width=39pc]{wpi_coastal.pdf}
 \caption{Heatmaps of $\overline{\text{WPI}}$ values and confidence scores for each coastal station group and hour of the day: a) and b), Official versus ACCESS, c) and d) Official versus ECMWF, e) and f) ECMWF versus ACCESS. Positive $\overline{\text{WPI}}$ values mean that the former dataset in each pair is on average closer to observations than the latter dataset. Confidence scores provide the probability the population $\overline{\text{WPI}}$ is greater than zero. Values within the heatmaps are accurate to two significant figures.}
 \label{Fig:wpi_coastal}
 \end{figure}
@@ -169,7 +224,7 @@ Although Official outperforms at least one of ACCESS or ECMWF with high confiden
 
 \begin{figure}
 \centering
-\includegraphics{case_studies.pdf}
+\includegraphics[width=39pc]{case_studies.pdf}
 \caption{Time series, a) and b), of $\overline{\text{wpi}}_\text{OA}$ and $\overline{\text{wpi}}_\text{OE}$ for, a), the NT station group at 23:00 UTC, and b), the south WA station group at 05:00 UTC. Hodographs, c) to f), showing change in winds, c) and e), and wind perturbations, d) and f), for the NT station group, c) and d), and south WA station group, e) and f).}
 \label{Fig:case_studies}
 \end{figure}
@@ -182,7 +237,7 @@ Considering now the South WA station group, Fig.~\ref{Fig:case_studies} b) shows
 
 \begin{figure}
 \centering
-\includegraphics{perth_sounding.pdf}
+\includegraphics[width=33pc]{perth_sounding.pdf}
 \caption{Hodographs showing change in winds with height at, a), Darwin Airport, and b), Perth Airport.}
 \label{Fig:perth_sounding}
 \end{figure}
@@ -191,7 +246,7 @@ Figure \ref{Fig:perth_sounding} provides hodographs of wind with height througho
 
 \begin{figure}
 \centering
-\includegraphics{airport_wpi.pdf}
+\includegraphics[width=39pc]{airport_wpi.pdf}
 \caption{The $\overline{\text{wpi}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
 \label{Fig:airport_wpi}
 \end{figure}
@@ -204,14 +259,14 @@ For the airport station groups, ECMWF outperforms Official for the majority of s
 
 \begin{figure}
 \centering
-\includegraphics{airport_wpi_EA.pdf}
+\includegraphics[width=39pc]{airport_wpi_EA.pdf}
 %\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{wpi}}_\text{EA}$ (ECMWF versus ACCESS comparison) values and confidence scores.}
 \label{Fig:airport_wpi_EA}
 \end{figure}
 
 Figure \ref{Fig:airport_wpi_EA} shows the $\overline{\text{wpi}}$ values and confidence scores for the ECMWF versus ACCESS comparisons, i.e. $\overline{\text{wpi}}_\text{EA}$ and $P\left(\overline{\text{WPI}}_\text{EA}>0\right)$, for the airport stations, and airport station groups. As with the Official versus ECMWF comparison in Fig.~\ref{Fig:airport_wpi}, the results for the airport stations are noisy, but more often than not show that ECMWF outperforms ACCESS. The results for the airport station group show ECMWF usually outperforms ACCESS, the main exceptions being the Darwin and Canberra airport station groups. 
 
-At face value, the fact that ECMWF generally outperforms ACCESS at these scales is surprising, as ACCESS runs at a higher spatiotemporal resolution than ECMWF, and is calibrated for Australian conditions, and so one would expect ACCESS would better resolve small scale processes like the land-sea breeze and boundary layer mixing processes. However, these results are unsurprising if one considers the scales at which predictable atmospheric motion occurs, and the scales being resolved by AWS, ACCESS and ECMWF. The AWS data resolves motion with time scales as low as 10 minutes, and arbitrarily small spatial scales: it therefore includes highly unpredictable eddy turbulence. This explains why the results for the airport stations are noisier than for the airport station groups or coastal station groups. Furthermore, because ACCESS runs at a higher resolution than ECMWF, it includes additional scales of motion, and therefore adds additional variability to the wind fields. Unless this additional variability in ACCESS is perfectly correlated with observations, the average of $\left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{A}} \right\rvert$
+At face value, the fact that ECMWF generally outperforms ACCESS at these scales is surprising, as ACCESS runs at a higher spatiotemporal resolution than ECMWF, and is calibrated for Australian conditions, so one would expect ACCESS would better resolve small scale processes like the land-sea breeze and boundary layer mixing processes. However, these results are unsurprising if one considers the scales at which predictable atmospheric motion occurs, and the scales being resolved by AWS, ACCESS and ECMWF. The AWS data resolves motion with time scales as low as 10 minutes, and arbitrarily small spatial scales: it therefore includes highly unpredictable eddy turbulence. This explains why the results for the airport stations are noisier than for the airport station groups or coastal station groups. Furthermore, because ACCESS runs at a higher resolution than ECMWF, it includes additional scales of motion, and therefore adds additional variability to the wind fields. Unless this additional variability in ACCESS is perfectly correlated with observations, the average of $\left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{A}} \right\rvert$
 will therefore increase, unless this additional variability is compensated for by a reduction in bias, i.e.$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}}-\overline{\boldsymbol{u}}_{\text{A}} \right\rvert$ decreases. These ideas are discussed in greater detail in section \ref{Sec:Discussion}. Note finally that the results for the Official versus ECMWF comparison in Fig.~\ref{Fig:airport_wpi} largely mirror those of the ECMWF versus ACCESS comparison in Fig.~\ref{Fig:airport_wpi_EA}, e.g. for the Darwin airport station and station group, Official outperforms ECMWF at the same times that ACCESS does, suggesting that either the Official forecast at these spatial scales is largely based on ACCESS, or that ECMWF is highly biased at these scales and times.
 
 \subsection{Seasonal Comparison}
@@ -228,14 +283,14 @@ At the SA station group from 01:00 to 05:00 UTC and 09:00 to 11:00 UTC both $\te
 
 \begin{figure}
 \centering
-\includegraphics{cwpi_coastal.pdf}
+\includegraphics[width=39pc]{cwpi_coastal.pdf}
 %\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the values and confidence scores.}
 \label{Fig:cwpi_coastal}
 \end{figure}
 
 \begin{figure}
 \centering
-\includegraphics{clim_hodo.pdf}
+\includegraphics[width=39pc]{clim_hodo.pdf}
 \caption{Climatological hodographs.}
 \label{Fig:clim_hodo}
 \end{figure}
@@ -244,7 +299,7 @@ While the $\text{cwpi}$ values and confidence scores of Fig.~\ref{Fig:cwpi_coast
 
 \begin{figure}
 \centering
-\includegraphics{r_squared.pdf}
+\includegraphics[width=19pc]{r_squared.pdf}
 \caption{\textcolor{red}{Could also provide an analogous figure showing the use of the function $\alpha$ provides a significant improvement over the basic ellipse fit - or instead just quote some numbers? Or maybe these figures are entirely unnecessary?}}
 \label{Fig:r_squared}
 \end{figure}
@@ -253,76 +308,62 @@ Figure \ref{Fig:r_squared} provides the $R^2$ values for the fits of the zonal a
 
 \begin{figure}
 \centering
-\includegraphics{ellipse_fits.pdf}
-\caption{Ellipse fits. \textcolor{red}{If we were to include any analysis for alternative time periods (e.g. summer 2017/18 for contrast; or could do 18/19 if I were to go back to BoM to get the data) a copy of this figure could be a good choice. Could explain changes in diurnal cycle properties, e.g. amplitude, with seasonal changes to background winds, heating, etc.}}
+\includegraphics[width=39pc]{ellipse_fits.pdf}
+\caption{Ellipse fits. \textcolor{red}{If we were to include any analysis for alternative time periods (e.g. summer 2017/18 for contrast; or could do 18/19 if I were to go back to BoM to get the data) a copy of this figure could be a good choice. Could explain changes in diurnal cycle properties, e.g. amplitude, with seasonal changes to background winds, heating, etc. Note some issues with timing and amplitude values due to asymmetry - could instead just show eccentricity and orientation values?}}
 \label{Fig:ellipse_fits}
 \end{figure}
 
-The ellipse fits are used to derive four descriptive quantities: amplitude (half the length of the semi-major axis), eccentricity, orientation (the angle the semi-major axis makes with lines of latitude) and the time of the peak in the diurnal cycle (the time at which the perturbations align with the semi-major axis, ignoring translational coefficients). Figure \ref{Fig:ellipse_fits} provides these four quantities for each dataset and location across the three spatial scales. A variety of structural differences are apparent at a number of locations and scales. For instance, Fig.~\ref{Fig:ellipse_fits} a) shows that at Brisbane airport, the amplitude of the AWS diurnal cycle is at least $1$ kn greater than Official, ACCESS and ECMWF, and Fig.~\ref{Fig:ellipse_fits} c) shows that the orientation of the AWS diurnal cycle hodograph is at least 20 degrees (anti-clockwise) from the other datasets. Figures \ref{Fig:ellipse_hodo} a) and b) show hodographs of the Brisbane airport perturbation climatology and ellipse fit, respectively. Although the ellipse fit suppresses some of the asymmetric details, it captures the amplitudes and orientations of the real climatological diurnal cycles well. In this case the results show that the average AWS sea-breeze approaches from the northeast, whereas the forecast and model sea-breezes approach more from the east-northeast. To check whether this just represents a direction bias of the Brisbane Airport station, Fig.~\ref{Fig:ellipse_fits} shows the climatological perturbations at the nearby Spitfire Channel station (see Fig.~\ref{Fig:maps} for the location of this station, and other stations referred to in this section).   
+The ellipse fits are used to derive four descriptive quantities: amplitude (half the length of the semi-major axis), eccentricity, orientation (the angle the semi-major axis makes with lines of latitude) and the time of the peak in the diurnal cycle (the time at which the perturbations align with the semi-major axis, ignoring translational coefficients). Figure \ref{Fig:ellipse_fits} provides these four quantities for each dataset and location across the three spatial scales. A variety of structural differences are apparent at a number of locations and scales. For example, Fig.~\ref{Fig:ellipse_fits} a) shows that at Brisbane airport, the amplitude of the AWS diurnal cycle is at least $1$ kn greater than Official, ACCESS and ECMWF, and Fig.~\ref{Fig:ellipse_fits} c) shows that the orientation of the AWS diurnal cycle hodograph is at least 20 degrees (anti-clockwise) from the other datasets. Figures \ref{Fig:ellipse_hodo} a) and b) show hodographs of the Brisbane airport perturbation climatology and ellipse fit, respectively. Although the ellipse fit suppresses some of the asymmetric details, it captures the amplitudes and orientations of the real climatological diurnal cycles well. In this case the results show that the average AWS sea-breeze approaches from the northeast, whereas the forecast and model sea-breezes approach more from the east-northeast. To check whether this just represents a direction bias of the Brisbane Airport station, Fig.~\ref{Fig:ellipse_fits} shows the climatological perturbations at the nearby Spitfire Channel station (see Fig.~\ref{Fig:maps} for the location of this station, and other stations referred to in this section). While the amplitude bias is smaller at Spitfire Channel than Brisbane Airport, the directional bias is at least as high; a similar directional bias is evident at the nearby Inner Beacon station, although the bias is smaller than at Spitfire Channel and Brisbane Airport. Thus, the directional bias in Official, ACCESS and ECMWF at these stations is likely genuine, and not just a consequence of biased AWS observations. Figure \ref{Fig:map} x) shows there are two small islands to the east of Brisbane airport; the more northwesterly orientation of the Brisbane Airport sea-breeze suggests these islands may be channelling winds between the east coast of Brisbane and the west coasts of these islands, and that this local effect is not being captured in Official, ACCESS or ECMWF.            
 
 \begin{figure}
 \centering
-\includegraphics{ellipse_hodo.pdf}
+\includegraphics[width=39pc]{ellipse_hodo.pdf}
 \caption{Ellipse fits. Could instead just provide one example.}
 \label{Fig:ellipse_hodo}
 \end{figure}
 
+Another example is the Hobart Airport station. Figure \ref{Fig:ellipse_fits} c) shows that the ellipse fits for the AWS perturbations are oriented 31, 35 and 62 degrees anti-clockwise from the ECMWF, Official and ACCESS ellipse fits, respectively. Figures \ref{Fig:r_squared} a) and b) show that the ellipse fit for the AWS perturbations at Hobart airport only achieve $R^2$ values of 59\% and 68\% for the $u$ and $v$ components, respectively, although figures \ref{Fig:ellipse_hodo} d) and e) show that the fit still captures the orientation accurately; the deficiency is more with the amplitude of the AWS diurnal cycle. Figure \ref{Fig:r_squared} c) shows the climatological perturbations at the Hobart (city) station, which also show a large difference in orientation between ACCESS and AWS. Given the timing of the westerly perturbations in ACCESS, and the fact that the prevailing winds around Tasmania are Hobart, these results suggest that ACCESS is exaggerating the boundary layer mixing processes involved in the diurnal cycle, whereas ECMWF better captures the southerly sea-breeze component of the cycle.   
+
+The South WA station group also provides an interesting example. Here the ACCESS and Official ellipse fits are oriented at least 49 degrees anti-clockwise from those of AWS and ECMWF, and the time of the peak in the diurnal cycles of ACCESS and Official is at least 4.3 hours earlier than AWS and ECMWF. This occurs because eccentricity values are low for this station group, and Figure \ref{Fig:clim_hodo} b) shows that the westerly perturbations associated with boundary layer mixing are slightly faster than the corresponding southerly sea-breeze perturbations, which peak later, for both ACCESS and Official, but slightly slower for ECMWF and Official. A similar issue affects the VIC station group, explaining why the AWS ellipse fit is oriented at least 49 degrees anti-clockwise from those of the other datasets.  
+
+Finally, figure \ref{Fig:ellipse_fits} suggests that at the Darwin Airport, Darwin Airport station group, and NT station group, the AWS wind perturbations align with the semi-major axis after those of the other datasets, and in the case of the NT station group alignment occurs at least 2.3 hours later; furthermore, the amplitude of the Official ellipse fit is in each case higher than those of the other datasets. \textcolor{red}{``Alignment" is probably the wrong word here.} Figure \ref{Fig:nt_ellipse_hodo} shows that these biases are indeed evident in the perturbation climatologies themselves, with the exception of the Darwin Airport amplitude bias, where the asymmetric hodograph shapes lead to the ellipse fit underestimating the amplitude of the AWS diurnal cycle \textcolor{red}{Needs to be clarified to better distinguish between ``ellipse" amplitude and diurnal cycle amplitude. Furthermore, should we interpret the NT station group results as genuine evidence of a timing bias?} 
+
 \begin{figure}
 \centering
-\includegraphics{nt_ellipse_hodo.pdf}
+\includegraphics[width=39pc]{nt_ellipse_hodo.pdf}
 \caption{Ellipse fits. Could instead not include the ellipses.}
-\label{Fig:ellipse_hodo}
+\label{Fig:nt_ellipse_hodo}
 \end{figure}
-
-
-\begin{comment}
-Four examples? Brisbane airport definitely. Can show Darwin Airport hodographs in discussion section. Hobart airport or Hobart airport group. Why not just two examples? Spitfire channel very similar!}
-\end{comment}
 
 \section{Discussion}
 \label{Sec:Discussion}
-The methods developed in this study can be readily extended to analyse \emph{just} the sea-breezes satisfying the operational definition above. For instance, to study the sea-breezes at a station near a coastline with inward pointing normal vector $\widehat{\boldsymbol{n}}$, the wind perturbation datasets could be restricted to just those days where the corresponding raw wind vector $\boldsymbol{u}$ satisfies $\widehat{\boldsymbol{n}} \cdot \boldsymbol{u} > 0$ for at least one of the hours of that day.
-
-How much time should forecasters spend on sea-breeze edits (if any)? What is the value of an improved diurnal cycle climatology? Improving the accuracy of forecast climatologies will have little value to the typical forecast user. Are there applications where a higher performing climatological forecast yields better outcomes, even if errors increase or even get worse? 
-
-Increasing the resolution of a forecast may reduce bias, but increase error.
-
-Error, not bias, that generally matters for the forecast user. Standard methods for ``improving" forecasts (adding parametrisations, increasing resolution) reduce bias, but actually increase errors! 
-
-Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure different things. They do not converge as the length of the time period grows - they don't even necessarily approach the same sign. As a simple example, suppose that for each day, the observed and Official wind perturbations are given by $\boldsymbol{p}_{\text{AWS}} = \left(5\cos\omega t , 5\sin\omega t\right)$ and $\boldsymbol{p}_\text{O} = \left(6\cos\omega t , 6\sin\omega t\right)$, respectively. Furthermore, suppose that the ACCESS perturbations alternate between $\boldsymbol{p}_{\text{A}} = \left(7\cos\omega t , 7\sin\omega t\right)$ and $\boldsymbol{p}_{\text{A}} = \left(3\cos\omega t , 3\sin\omega t\right)$ from one day to the next. Then for any contiguous period of $n$ days, $\overline{\text{WPI}} = 2 - 1 = 1$, but $\text{CWPI} \approx -1$, with the approximation becoming exact for even $n$. Moreover $\overline{\text{WPI}}=1$ with a confidence of 1, and using the bootstrapping procesure described above, the confidence that $\text{CWPI} = -1$ approaches 1 as $n\to \infty$. This example shows that while the WPI and CWPI are sensitive both to random error and consistent biases between the different datasets, the CWPI becomes increasingly less sensitive to random error as the length of the time period being considered grows. Thus while the WPI arguably provides a more meaningful operational metric, as it measures the accuracy of actual forecast data, it may favour a more biased dataset over a less biased one, just because the internal variability of that dataset is lower. One consequence of this is that model data at a lower spatiotemporal resolution may outperform in $\overline{\text{WPI}}$ model data of a higher resolution, purely because the internal variability is lower. In this way, the CWPI may actually provide more information about the performance of different forecasts.
-
-Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic verification methods are therefore not appropriate. 
+The most important results of section \ref{Sec:Results} to explain are the substantial changes in the performance of the Official forecast at the different spatial and temporal scales. To do this in a systematic way, consider first the zonal components of the AWS and Official wind perturbations, denoted by $u_\text{AWS}$ and $u_\text{O}$ respectively. Considering just the values at a particular hour UTC, at a particular station, over the entire June, July, August time period, the mean square error  $\mse\left(u_\text{AWS}, u_\text{O}\right) = \overline{\left(u_\text{AWS} - u_\text{O}\right)^2}$ can be decomposed
+\begin{equation}
+\mse\left(u_\text{AWS}, u_\text{O}\right) = \underbrace{\var\left(u_\text{AWS}\right) + \var\left(u_\text{O}\right) - 2 \cdot \covar\left(u_\text{AWS}, u_\text{O}\right)}_{\var\left(u_\text{AWS} - u_\text{O}\right)} + \underbrace{\left(\overline{u}_\text{AWS} - \overline{u}_\text{O}\right)^2}_{\text{bias}^2} \label{Eq:MSE}
+\end{equation}
+where $\var$, $\covar$ and over-bars denote the sample variance, covariance and mean respectively. The first three terms are just the variance of $u_\text{AWS} - u_\text{O}$, whereas the last term is the square of the bias between $u_\text{AWS}$ and $u_\text{O}$. This decomposition can also be applied to wind perturbations that have first been spatially averaged over a station group, and to $\mse\left(u_\text{AWS}, u_\text{E}\right)$ and $\mse\left(u_\text{AWS}, u_\text{A}\right)$, where $u_\text{E}$ and $u_\text{A}$ are the ECMWF and ACCESS zonal perturbations, respectively. 
 
 \begin{figure}
 \centering
-\includegraphics{error_decomp.pdf}
+\includegraphics[width=39pc]{error_decomp.pdf}
 \caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
 \label{Fig:error_decomp}
 \end{figure}
 
+Figure \ref{Fig:error_decomp} shows each term in the mean square error decomposition of equation \ref{Eq:MSE} for both $\mse\left(u_\text{AWS}, u_\text{O}\right)$ and $\mse\left(u_\text{AWS}, u_\text{E}\right)$, for the Darwin Airport, Darwin station group, and NT station groups. At Darwin Airport, $\mse\left(u_\text{AWS}, u_\text{O}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{A}\right)$ 
+
 \begin{figure}
 \centering
-\includegraphics{error_decomp_v.pdf}
+\includegraphics[width=39pc]{error_decomp_v.pdf}
 \caption{Actual perturbation standard deviation values. Note that official performs the worst at this scale!}
 \label{Fig:error_decomp_v}
 \end{figure}
 
 \section{Conclusion}
-\label{conclusion}
-In this report, a methodology for comparing the performance of Bureau forecasts of diurnal wind processes to unedited model guidance products has been developed and applied to a case study of the Darwin airport. The key results may be summarised as follows.
-\begin{enumerate}
-\item
-During the dry season months of June, July and August 2017, the ECMWF sea-breeze is generally more accurate than that of the official forecast. However, during the wet season months of December, January and February 2017/18 this result is reversed, and the official forecast sea-breeze generally outperforms that of ECMWF. 
-\item
-In both seasons, boundary layer mixing processes are generally represented better in official forecasts than in ECMWF.
-\item
-In the dry season, the climatological wind perturbations of the official forecast generally outperform those of ECMWF between 13:00 and 16:00 UTC. This is due to ECMWF not capturing the magnitude of the south-easterly mean perturbations. 
-\item
-During the wet season, the climatological wind perturbations of the official forecast generally outperform those of ECMWF at 11:00 UTC. This is due to ECMWF underestimating the magnitude of the mean land-breeze perturbation.
-\end{enumerate}
+\label{Sec:Conclusion}
+We have
 
-There a number of ways that this work could be extended. The most pressing would probably be to investigate whether the results presented here change when a more operational definition of the sea breeze is used in place of the entirely perturbation based definition used here: this could be done using the method described in section \ref{methods}.
-
+\bibliographystyle{ametsoc2014}
 \bibliography{./references.bib}
 
 \end{document}

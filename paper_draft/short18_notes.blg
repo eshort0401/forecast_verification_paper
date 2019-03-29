@@ -1,46 +1,46 @@
 This is BibTeX, Version 0.99d (TeX Live 2018)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: short18_notes.aux
-The style file: rss.bst
-Database file #1: ./Coastal_Winds.bib
-You've used 8 entries,
-            2705 wiz_defined-function locations,
-            642 strings with 6244 characters,
-and the built_in function-call counts, 3924 in all, are:
-= -- 385
-> -- 152
-< -- 6
-+ -- 59
-- -- 51
-* -- 337
-:= -- 735
-add.period$ -- 24
-call.type$ -- 8
-change.case$ -- 56
-chr.to.int$ -- 8
-cite$ -- 8
-duplicate$ -- 174
-empty$ -- 295
-format.name$ -- 71
-if$ -- 779
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 9
-newline$ -- 46
-num.names$ -- 32
-pop$ -- 53
+The style file: agsm.bst
+Database file #1: ./references.bib
+You've used 9 entries,
+            2909 wiz_defined-function locations,
+            873 strings with 8294 characters,
+and the built_in function-call counts, 35572 in all, are:
+= -- 5730
+> -- 484
+< -- 0
++ -- 2721
+- -- 147
+* -- 3108
+:= -- 7189
+add.period$ -- 9
+call.type$ -- 9
+change.case$ -- 125
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 143
+empty$ -- 308
+format.name$ -- 176
+if$ -- 6368
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 10
+newline$ -- 38
+num.names$ -- 93
+pop$ -- 28
 preamble$ -- 1
-purify$ -- 49
+purify$ -- 135
 quote$ -- 0
-skip$ -- 103
+skip$ -- 111
 stack$ -- 0
-substring$ -- 232
-swap$ -- 33
-text.length$ -- 0
+substring$ -- 8110
+swap$ -- 25
+text.length$ -- 126
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 69
+type$ -- 34
 warning$ -- 0
-while$ -- 31
+while$ -- 196
 width$ -- 0
-write$ -- 116
+write$ -- 125

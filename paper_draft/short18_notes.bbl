@@ -1,62 +1,59 @@
-\begin{thebibliography}{8}
-\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-\expandafter\ifx\csname url\endcsname\relax
-  \def\url#1{\texttt{#1}}\fi
-\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL: }\fi
+\begin{thebibliography}{xx}
 
-\bibitem[{Ebert and McBride(2000)}]{ebert00}
-Ebert, E. and McBride, J. (2000) Verification of precipitation in weather
-  systems: determination of systematic errors.
-\newblock \textit{Journal of Hydrology}, \textbf{239}, 179 -- 202.
-\newblock
-  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0022169400003437}.
+\harvarditem{Ebert}{2008}{ebert08}
+Ebert, E.~E.  \harvardyearleft 2008\harvardyearright , `Fuzzy verification of
+  high-resolution gridded forecasts: a review and proposed framework', {\em
+  Meteor.\ Appl.} {\bf 15}(1),~51--64.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25}
 
-\bibitem[{Ebert(2008)}]{ebert08}
-Ebert, E.~E. (2008) Fuzzy verification of high-resolution gridded forecasts: a
-  review and proposed framework.
-\newblock \textit{Meteorological Applications}, \textbf{15}, 51--64.
-\newblock
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25}.
+\harvarditem{Ebert \harvardand\ McBride}{2000}{ebert00}
+Ebert, E. \harvardand\ McBride, J.  \harvardyearleft 2000\harvardyearright ,
+  `Verification of precipitation in weather systems: determination of
+  systematic errors', {\em Journal of Hydrology} {\bf 239}(1),~179 -- 202.
+\newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0022169400003437}
 
-\bibitem[{Ferro(2017)}]{ferro17}
-Ferro, C. A.~T. (2017) Measuring forecast performance in the presence of
-  observation error.
-\newblock \textit{Quarterly Journal of the Royal Meteorological Society},
-  \textbf{143}, 2665--2676.
-\newblock
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3115}.
+\harvarditem{Ferro}{2017}{ferro17}
+Ferro, C. A.~T.  \harvardyearleft 2017\harvardyearright , `Measuring forecast
+  performance in the presence of observation error', {\em Quarterly Journal of
+  the Royal Meteorological Society} {\bf 143}(708),~2665--2676.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3115}
 
-\bibitem[{Lynch et~al.(2014)Lynch, Brayshaw and Charlton-Perez}]{lynch14}
-Lynch, K.~J., Brayshaw, D.~J. and Charlton-Perez, A. (2014) Verification of
-  european subseasonal wind speed forecasts.
-\newblock \textit{Monthly Weather Review}, \textbf{142}, 2978--2990.
-\newblock \urlprefix\url{https://doi.org/10.1175/MWR-D-13-00341.1}.
+\harvarditem[Lynch et~al.]{Lynch, Brayshaw \harvardand\
+  Charlton-Perez}{2014}{lynch14}
+Lynch, K.~J., Brayshaw, D.~J. \harvardand\ Charlton-Perez, A.  \harvardyearleft
+  2014\harvardyearright , `Verification of european subseasonal wind speed
+  forecasts', {\em Monthly Weather Review} {\bf 142}(8),~2978--2990.
+\newline\harvardurl{https://doi.org/10.1175/MWR-D-13-00341.1}
 
-\bibitem[{Mason(2008)}]{mason08}
-Mason, S.~J. (2008) Understanding forecast verification statistics.
-\newblock \textit{Meteorological Applications}, \textbf{15}, 31--40.
-\newblock
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.51}.
+\harvarditem{Mason}{2008}{mason08}
+Mason, S.~J.  \harvardyearleft 2008\harvardyearright , `Understanding forecast
+  verification statistics', {\em Meteor.\ Appl.} {\bf 15}(1),~31--40.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.51}
 
-\bibitem[{Pinson and Hagedorn(2012)}]{pinson12}
-Pinson, P. and Hagedorn, R. (2012) Verification of the ecmwf ensemble forecasts
-  of wind speed against analyses and observations.
-\newblock \textit{Meteorological Applications}, \textbf{19}, 484--500.
-\newblock
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}.
+\harvarditem[Miller et~al.]{Miller, Keim, Talbot \harvardand\
+  Mao}{2003}{miller03}
+Miller, S. T.~K., Keim, B.~D., Talbot, R.~W. \harvardand\ Mao, H.
+  \harvardyearleft 2003\harvardyearright , `Sea breeze: Structure, forecasting,
+  and impacts', {\em Reviews of Geophysics} {\bf 41}(3).
+\newline\harvardurl{https://doi.org/10.1029/2003RG000124}
 
-\bibitem[{Wilks(2011)}]{wilks11}
-Wilks, D.~S. (2011) \textit{Statistical methods in the atmospheric sciences.
-  [electronic resource].}
-\newblock International geophysics series: v. 100. Elsevier.
+\harvarditem{Pinson \harvardand\ Hagedorn}{2012}{pinson12}
+Pinson, P. \harvardand\ Hagedorn, R.  \harvardyearleft 2012\harvardyearright ,
+  `Verification of the ecmwf ensemble forecasts of wind speed against analyses
+  and observations', {\em Meteor.\ Appl.} {\bf 19}(4),~484--500.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}
 
-\bibitem[{Yates et~al.(2006)Yates, Anquetin, Ducrocq, Creutin, Ricard and
-  Chancibault}]{yates06}
-Yates, E., Anquetin, S., Ducrocq, V., Creutin, J.-D., Ricard, D. and
-  Chancibault, K. (2006) Point and areal validation of forecast precipitation
-  fields.
-\newblock \textit{Meteorological Applications}, \textbf{13}, 1--20.
-\newblock
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1017/S1350482705001921}.
+\harvarditem{Wilks}{2011}{wilks11}
+Wilks, D.~S.  \harvardyearleft 2011\harvardyearright , {\em Statistical methods
+  in the atmospheric sciences. [electronic resource].}, International
+  geophysics series: v. 100, Elsevier.
+
+\harvarditem[Yates et~al.]{Yates, Anquetin, Ducrocq, Creutin, Ricard
+  \harvardand\ Chancibault}{2006}{yates06}
+Yates, E., Anquetin, S., Ducrocq, V., Creutin, J.-D., Ricard, D. \harvardand\
+  Chancibault, K.  \harvardyearleft 2006\harvardyearright , `Point and areal
+  validation of forecast precipitation fields', {\em Meteor.\ Appl.} {\bf
+  13}(1),~1--20.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1017/S1350482705001921}
 
 \end{thebibliography}
