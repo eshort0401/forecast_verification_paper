@@ -26,6 +26,8 @@ Example results for straight coastlines - perhaps north, northeast, northwest, s
 Look at timing results by fitting ellipses and checking orientations of major axes. Just one season - both ECMWF and ACCESS? Maybe just ACCESS if ECMWF results are dodgy?
 \item
 Confirm ACCESS and ECMWF are indeed the msot commonly used model guidance products for winds. 
+\item
+I tried modifying the pressure perturbation terms $\frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right)$ so that the new ellipse fit of equations (\ref{Eq:u}) and (\ref{Eq:v}) are now solutions to equations (\ref{Eq:h_u}) and (\ref{Eq:h_v}), but with no luck. For example, simply changing to $\frac{A}{\pi} + \frac{A}{2} \cos \left(\alpha\left(\psi,t\right)\right)$ doesn't work, nor does expanding this expression as a Fourier series and solving each term individually. This doesn't really matter anyway as my main argument is that this two-dimensional model cannot capture boundary layer mixing processes.
 \end{enumerate}
 
 \begin{enumerate}
@@ -81,7 +83,7 @@ N/A
 N/A
 
 \subsection{\citet{mason08}}
-
+Discusses practical methods for identifying in a yes/no sense whether a sea-breeze will occur. Discusses techniques for diagnosing speed and direction. Paper pretty old - would be good to have some references for up to date practices.  
 
 \subsection{\citet{ferro17}}
 Presents mathematical results regarding the calculation of verification statistics in the presence of observational error. 

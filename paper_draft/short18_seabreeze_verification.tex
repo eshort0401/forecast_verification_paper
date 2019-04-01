@@ -50,7 +50,7 @@
 
 %% May use \\ to break lines in title:
 
-\title{Verifying Forecasts of Land-Sea Breeze and Boundary Layer Mixing Processes}
+\title{Verifying Operational Forecasts of Land-Sea Breeze and Boundary Layer Mixing Processes}
 
 %%% Enter authors' names, as you see in this example:
 %%% Use \correspondingauthor{} and \thanks{Current Affiliation:...}
@@ -134,7 +134,7 @@ Relatively few forecast verification studies have focused on near-surface winds,
 
 \citet{lynch14} also performed a verification study of ECMWF 10 m wind speed data, with the goal of assessing skill at lead times of between 14 to 20 days. They compared ECMWF 32-day forecast model wind speeds with gridded ERA-Interim wind speeds between 2008-12, with both datasets analysed at a six hour temporal resolution. Before conducting the comparison, the wind speed data were transformed into wind-speed ``anomaly" data by first calculating the mean wind speed at 0000, 0600, 1200 and 1800 UTC for each calendar day from the entire ERA-Interim record, and from a 20 year ECMWF 32-day model hindcast, then subtracting these means from the ERA-Interim and ECMWF 32-day model data respectively. Wind speed anomaly data was used so that stable seasonal and diurnal cycles did not contribute to verification scores. At the 14-20 day timescale around western Europe, the greatest skill was found in the boreal winter (austral summer) months of December, January and February.  
 
-\citet{pinson12} and \citet{lynch14} restricted their verification studies to wind speeds, but wind directions are also crucial to diagnosing whether land sea breezes - and the diurnal wind cycle more generally - are being forecast correctly. Furthermore, no previous published work has proposed a verification methodology to assess the accuracy of the diurnal wind cycle in forecasts, or of the contributions made to this accuracy by human forecaster edits of model output. Finally, no previously published work has considered the performance of ACCESS near surface winds, which together with ECMWF, are the model guidance products most widely used by Australian forecasters. Thus, the present study has two goals. First, to describe a methodology for comparing human edited forecasts of the land-sea breeze to unedited model guidance forecasts, in order to assess where and when human edits are producing an increase in accuracy. Second, to apply this methodology across Australia. The remainder of this paper is organised as follows. Section \ref{methods} describes the methodology in detail, section \ref{results} provides results, and sections \ref{discussion} and \ref{conclusion} provide a discussion and a conclusion, respectively.     
+\citet{pinson12} and \citet{lynch14} restricted their verification studies to wind speeds, but wind directions are also crucial to diagnosing whether land sea breezes - and the diurnal wind cycle more generally - are being forecast correctly. Furthermore, no previous published work has proposed a verification methodology to assess the accuracy of the diurnal wind cycle in forecasts, or of the contributions made to this accuracy by human forecaster edits of model output. Finally, no previously published work has considered the performance of ACCESS near surface winds, which together with ECMWF, are the model guidance products most widely used by Australian forecasters. Thus, the present study has two goals. First, to describe a methodology for comparing human edited forecasts of the land-sea breeze to unedited model guidance forecasts, in order to assess where and when human edits are producing an increase in accuracy. Second, to apply this methodology across Australia. The remainder of this paper is organised as follows. Section \ref{Sec:Methods} describes the methodology in detail, section \ref{Sec:Results} provides results, and sections \ref{Sec:Discussion} and \ref{Sec:Conclusion} provide a discussion and a conclusion, respectively.     
 
 \section{Data and Methods} \label{Sec:Methods}
 This study compares both edited and non-edited Australian Bureau of Meteorology forecast data with automatic weather station (AWS) data across Australia. The comparison is performed by first isolating the diurnal signals of each dataset, then comparing these signals on an hour-by-hour basis. \textcolor{red}{If the diurnal cycle cannot be resolved correctly using wind perturbations, it cannot be resolved correctly in the overall wind fields, which are subject to additional synoptic scale errors between the models and observations.}
@@ -158,7 +158,7 @@ Although close to coastlines the land-sea breeze is generally the dominant diurn
 
 Sea-breezes are therefore analysed by examining the overall diurnal signal in each dataset, with the assumption that close to coastlines the land-sea breeze is the dominant diurnal process. The diurnal signal is identified by subtracting a twenty hour centred running mean \textit{background wind} from each zonal and meridional hourly wind data point. This provides a collection of zonal and meridional wind \emph{perturbation} datasets. Note that thinking of land-sea breezes in terms of perturbations from a background wind may require a conceptual shift from the usual operational definitions. A forecaster would likely define a sea-breeze to be a reversal in wind direction from a primarily offshore flow during the night and morning, to an onshore flow in the afternoon and evening. However, even if the wind is offshore the entire day, sea-breeze \emph{perturbations} are generally still detectable as a weakening of the offshore flow throughout the afternoon and evening.
 
-\textcolor{red}{Note that subtracting background winds may raise concerns, because perturbations obviously depend on background winds. However, the forecaster does not have knowledge of the observations when they make the diurnal process edits. They are implicitly assuming that the true mean winds will be close enough to the predicted mean state - however this prediction is produced - to justify making diurnal edits on the basis of the predicted mean state.} 
+\textcolor{red}{Note that subtracting background winds may raise concerns, because perturbations obviously depend on background winds. However, the forecaster does not have knowledge of the observations when they make the diurnal process edits. They are implicitly assuming that the true mean state will be close enough to the predicted mean state - however this prediction is produced - to justify making diurnal edits on the basis of the predicted mean state.} 
 
 Once the wind perturbation datasets have been constructed, the accuracy of the Official, ACCESS and ECMWF diurnal cycles are quantified by first calculating the Euclidean distances of the perturbations at each hour from the corresponding AWS perturbations. For instance, to quantify how closely the Official forecast perturbations match the AWS observations, we calculate the Euclidean distances $\left\lvert \boldsymbol{u}_{\text{AWS}}-\boldsymbol{u}_{\text{O}} \right\rvert$ at each time step. The accuracy with which the Official and ACCESS datasets resolve the diurnal cycle can then be compared by defining the \textit{Wind Perturbation Index} (WPI) 
 \begin{equation}
@@ -181,8 +181,8 @@ As with the WPI, the CWPI can also be used to provide a comparison of the Offici
 
 Although the WPI and CWPI provide quantitive information on the accuracy of the diurnal cycle at different times of day, they do not provide much information about the structure of the diurnal wind cycles of each dataset, or provide insight into the reason one dataset is outperforming another. \citet{gille05} obtained summary statistics on the observed structure of temporally averaged diurnal wind cycles across the globe by using linear regression to calculate the coefficients $u_i$, $v_i$ $i=0,1,2$, for the elliptical fit 
 \begin{align}
-u &= u_0 + u_1 \cos(\omega t) + u_2 \sin(\omega t), \label{Eq:u} \\
-v &= v_0 + v_1 \sin(\omega t) + v_2 \sin(\omega t), \label{Eq:v}
+u &= u_0 + u_1 \cos(\omega t) + u_2 \sin(\omega t), \label{Eq:u_h} \\
+v &= v_0 + v_1 \sin(\omega t) + v_2 \sin(\omega t), \label{Eq:v_h}
 \end{align}
 where $\omega$ is the angular frequency of the earth and $t$ is the local solar time in seconds. Descriptive quantities - like the angle the semimajor axis of the ellipse makes with the horizontal - were then calculated directly from the coefficients $u_1$, $u_2$, $v_1$ and $v_2$. 
 
@@ -195,7 +195,7 @@ v &= v_0 + v_1 \sin(\alpha(\psi,t)) + v_2 \sin(\alpha(\psi,t)), \label{Eq:v}
 \end{align}
 with $\alpha$ the function from $[0,24) \times [0, 2\pi) \to [0, 2\pi)$ given by
 \begin{equation}
-\alpha(\psi,t) \equiv \pi \left[\sin\left( \frac{\pi (t - \psi)  \bmod 24}{24} - \frac{\pi}{2} \right) + 1 \right], \label{Eq:alpha}
+\alpha(\psi,t) \equiv \pi \left[\sin\left( \pi \frac{(t - \psi)  \bmod 24}{24} - \frac{\pi}{2} \right) + 1 \right], \label{Eq:alpha}
 \end{equation}
 where $t$ is time in units of hours UTC, and $\psi$ gives to the time when the wind perturbations vary least with time. \textcolor{red}{Need to confirm whether least or most!} For each climatological diurnal wind cycle, we solve for the seven parameters $u_0$, $u_1$, $u_2$, $v_0$, $v_1$, $v_2$ and $\psi$ using nonlinear regression.
 
@@ -295,6 +295,13 @@ At the SA station group from 01:00 to 05:00 UTC and 09:00 to 11:00 UTC both $\te
 \label{Fig:clim_hodo}
 \end{figure}
 
+\begin{figure}
+\centering
+\includegraphics[width=39pc]{airport_cwpi.pdf}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the cwpi values and confidence scores.}
+\label{Fig:airport_cwpi}
+\end{figure}
+
 While the $\text{cwpi}$ values and confidence scores of Fig.~\ref{Fig:cwpi_coastal} provide detailed information on which dataset's climatological diurnal cycle best matches those of the AWS observations, $\text{cwpi}$ on it's own reveals little about the structure of the diurnal cycle, and provides little insight into forecast accuracy could be improved. Note that the hodographs in Fig.~\ref{Fig:clim_hodo} are roughly elliptical in shape, suggesting that descriptive quantities can be estimated by fitting equations (\ref{Eq:u}) and (\ref{Eq:v}) to the zonal and meridional climatological perturbations, then calculating these quantities from the fit, as described in section \ref{Sec:Methods}. 
 
 \begin{figure}
@@ -331,17 +338,30 @@ Finally, figure \ref{Fig:ellipse_fits} suggests that at the Darwin Airport, Darw
 \begin{figure}
 \centering
 \includegraphics[width=39pc]{nt_ellipse_hodo.pdf}
-\caption{Ellipse fits. Could instead not include the ellipses.}
+\caption{Ellipse fits. \textcolor{red}{Could also include the ellipses, but this makes the figure very large.}}
 \label{Fig:nt_ellipse_hodo}
 \end{figure}
 
 \section{Discussion}
 \label{Sec:Discussion}
-The most important results of section \ref{Sec:Results} to explain are the substantial changes in the performance of the Official forecast at the different spatial and temporal scales. To do this in a systematic way, consider first the zonal components of the AWS and Official wind perturbations, denoted by $u_\text{AWS}$ and $u_\text{O}$ respectively. Considering just the values at a particular hour UTC, at a particular station, over the entire June, July, August time period, the mean square error  $\mse\left(u_\text{AWS}, u_\text{O}\right) = \overline{\left(u_\text{AWS} - u_\text{O}\right)^2}$ can be decomposed
+The two most important results of section \ref{Sec:Results} to explain are, first, why equations \ref{Eq:u} and \ref{Eq:v} provide such a good fit to the climatological perturbations and, second, why there are such substantial changes in the performance of the Official forecast at the different spatial and temporal scales. 
+
+The idea that diurnal wind cycles can be described by ellipses originated with \citet{haurwitz47}. Haurwitz obtained exact solutions for $u$ and $v$ resembling equations (\ref{Eq:u_h}) and (\ref{Eq:v_h}) for the simple model
+\begin{align}
+\frac{du}{dt} - fv + ku &= F_x - \left(\frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right) \right) \label{Eq:h_u}\\
+\frac{dv}{dt} + fu + kv &= F_y \label{Eq:h_v}
+\end{align}
+where $u$, $v$ are taken in a coordinate system where the $u$ axis is normal to the coast, $f$ is the Coriolis parameter, $k$ is a linear friction coefficient, $\left(F_x, F_y\right)$ represents a constant synoptic scale pressure gradient force, $\omega$ is the angular frequency of earth's rotation, and $\frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right)$ represents the pressure gradient force normal to the coastline induced by the diurnally varying air temperature contrast over the land and sea surfaces. \citet{kusuda83} extended this model slightly, but the fundamentals are the same. 
+
+\textcolor{red}{I tried modifying the pressure perturbation terms $\frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right)$ so that the new ellipse fit of equations (\ref{Eq:u}) and (\ref{Eq:v}) are now solutions to equations (\ref{Eq:h_u}) and (\ref{Eq:h_v}), but with no luck. For example, simply changing to $\frac{A}{\pi} + \frac{A}{2} \cos \left(\alpha\left(\psi,t\right)\right)$ doesn't work, nor does expanding this expression as a Fourier series and solving each term individually. This doesn't really matter anyway as my main argument is that this two-dimensional model cannot capture boundary layer mixing processes.}
+
+The limitations of this model are discussed extensively by \citet{haurwitz47} and \citet{kusuda83}, but the most important given the results of section \ref{Sec:Results} involve the choice of $F(t)$, and the fact that the model has no vertical dimension, and therefore cannot capture the boundary layer mixing processes that in many cases play a significant role in the diurnal wind cycle. 
+
+The second result of section \ref{Sec:Results} that requires explanation are the differences in the performance of the Official forecast at the different spatial and temporal scales. Consider first just the zonal components of the AWS and Official wind perturbations, denoted by $u_\text{AWS}$ and $u_\text{O}$ respectively. Considering just the values at a particular hour UTC, at a particular station, over the entire June, July, August time period, the mean square error  $\mse\left(u_\text{AWS}, u_\text{O}\right) = \overline{\left(u_\text{AWS} - u_\text{O}\right)^2}$ can be decomposed
 \begin{equation}
 \mse\left(u_\text{AWS}, u_\text{O}\right) = \underbrace{\var\left(u_\text{AWS}\right) + \var\left(u_\text{O}\right) - 2 \cdot \covar\left(u_\text{AWS}, u_\text{O}\right)}_{\var\left(u_\text{AWS} - u_\text{O}\right)} + \underbrace{\left(\overline{u}_\text{AWS} - \overline{u}_\text{O}\right)^2}_{\text{bias}^2} \label{Eq:MSE}
 \end{equation}
-where $\var$, $\covar$ and over-bars denote the sample variance, covariance and mean respectively. The first three terms are just the variance of $u_\text{AWS} - u_\text{O}$, whereas the last term is the square of the bias between $u_\text{AWS}$ and $u_\text{O}$. This decomposition can also be applied to wind perturbations that have first been spatially averaged over a station group, and to $\mse\left(u_\text{AWS}, u_\text{E}\right)$ and $\mse\left(u_\text{AWS}, u_\text{A}\right)$, where $u_\text{E}$ and $u_\text{A}$ are the ECMWF and ACCESS zonal perturbations, respectively. 
+where $\var$, $\covar$ and over-bars denote the sample variance, covariance and mean respectively. The first three terms are the total variance of $u_\text{AWS} - u_\text{O}$, whereas the last term is the square of the bias between $u_\text{AWS}$ and $u_\text{O}$. This decomposition can also be applied to wind perturbations that have first been spatially averaged over a station group, and to $\mse\left(u_\text{AWS}, u_\text{E}\right)$ and $\mse\left(u_\text{AWS}, u_\text{A}\right)$, where $u_\text{E}$ and $u_\text{A}$ are the ECMWF and ACCESS zonal perturbations, respectively. 
 
 \begin{figure}
 \centering
@@ -350,7 +370,9 @@ where $\var$, $\covar$ and over-bars denote the sample variance, covariance and 
 \label{Fig:error_decomp}
 \end{figure}
 
-Figure \ref{Fig:error_decomp} shows each term in the mean square error decomposition of equation \ref{Eq:MSE} for both $\mse\left(u_\text{AWS}, u_\text{O}\right)$ and $\mse\left(u_\text{AWS}, u_\text{E}\right)$, for the Darwin Airport, Darwin station group, and NT station groups. At Darwin Airport, $\mse\left(u_\text{AWS}, u_\text{O}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{A}\right)$ 
+Figure \ref{Fig:error_decomp} shows each term in the mean square error decomposition of equation \ref{Eq:MSE} for both $\mse\left(u_\text{AWS}, u_\text{O}\right)$ and $\mse\left(u_\text{AWS}, u_\text{E}\right)$, for Darwin Airport, the Darwin station group, and the NT station group. At Darwin Airport, $\mse\left(u_\text{AWS}, u_\text{O}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{E}\right)$ from 04:00 to 16:00 UTC due to higher total variance, whereas outside of these times $\mse\left(u_\text{AWS}, u_\text{E}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{O}\right)$ due to larger bias. The higher total variance of $u_\text{AWS} - u_\text{O}$ occurs because $\var\left(u_\text{O}\right) > \var\left(u_\text{E}\right)$, with this additional variability mostly random from 04:00 to 14:00 UTC, i.e. $u_\text{O}$ is not sufficiently correlated with $u_\text{AWS}$ at these times for the additional variability of $u_\text{O}$ to produce a reduction in mean square error. Thus, while the bias between Official and AWS is lower, or about the same, as that between ECMWF and AWS, the higher random variability of Official results in higher mean square error for most of the day. Figure \ref{Fig:error_decomp_v} shows similar conclusions can be drawn for the meridional perturbations at Darwin Airport, although in this case $\var\left(u_\text{O}\right) > \var\left(u_\text{E}\right)$ for the entire day. Most of the difference between the WPI and CWPI scores for the Official versus ECMWF comparison at Darwin Airport in Figures \ref{Fig:airport_wpi} and \ref{Fig:airport_cwpi}, respectively, can be explained through the different mean square error and bias terms for the zonal perturbations alone. Figure \ref{Fig:nt_ellipse_hodo} a) shows that ECMWF's climatological perturbations underestimate the easterly perturbations from 00:00 to 03:00 UTC, which are presumably associated with boundary layer mixing processes. Official does a better job of resolving these easterly perturbations, but is generally outperformed by ECMWF in resolving the northerly sea-breeze perturbations. Similar points can be made for the Darwin and NT coastal station groups. While spatial averaging reduces a portion of the unpredictable variability in Official, Official also often has larger meridional biases at these scales compared to ECMWF. Figures \ref{Fig:nt_ellipse_hodo} and \ref{Fig:ellipse_fits} show that these biases can be explained in terms of amplitude and orientation differences between Official, ECMWF and AWS. 
+
+These examples illustrate the idea that the additional unpredictable variability introduced by a higher resolution edited forecast needs to be ``paid for" by a reduction in bias, otherwise the net result will just be an increase in error. However, although a high resolution edited forecast may have higher mean squared error compared with observations than an unedited low resolution model, the former may capture variability more realistically, and hence better represent the possibility of extremes, even if the timing of these extremes is unpredictable; which of the two constitutes a better forecast therefore depends entirely on the application. For instance, in engineering applications, the possibility of wind extremes of a certain magnitude may be most important, regardless of when they occur, whereas in aviation or sailing it may be more important to minimise the mean square error. \textcolor{red}{This is obviously speculation as I know little about either of these applications. I hope there are more appropriate examples.} The fact that high and low resolution model guidance products are used at different times, and on different days, implies that the Official forecast is inconsistent in which measures of accuracy it intends to maximise, and more thought therefore needs to be given to this issue.  
 
 \begin{figure}
 \centering
