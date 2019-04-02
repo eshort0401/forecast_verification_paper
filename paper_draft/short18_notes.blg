@@ -3,44 +3,46 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: short18_notes.aux
 The style file: agsm.bst
 Database file #1: ./references.bib
-You've used 9 entries,
+Warning--empty chapter and pages in ecmwf18
+You've used 17 entries,
             2909 wiz_defined-function locations,
-            873 strings with 8294 characters,
-and the built_in function-call counts, 35572 in all, are:
-= -- 5730
-> -- 484
-< -- 0
-+ -- 2721
-- -- 147
-* -- 3108
-:= -- 7189
-add.period$ -- 9
-call.type$ -- 9
-change.case$ -- 125
-chr.to.int$ -- 9
-cite$ -- 9
-duplicate$ -- 143
-empty$ -- 308
-format.name$ -- 176
-if$ -- 6368
+            932 strings with 10183 characters,
+and the built_in function-call counts, 89109 in all, are:
+= -- 14678
+> -- 1091
+< -- 1
++ -- 7120
+- -- 336
+* -- 7909
+:= -- 17585
+add.period$ -- 19
+call.type$ -- 17
+change.case$ -- 237
+chr.to.int$ -- 17
+cite$ -- 18
+duplicate$ -- 268
+empty$ -- 585
+format.name$ -- 392
+if$ -- 15999
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 38
-num.names$ -- 93
-pop$ -- 28
+missing$ -- 18
+newline$ -- 70
+num.names$ -- 176
+pop$ -- 53
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 255
 quote$ -- 0
-skip$ -- 111
+skip$ -- 204
 stack$ -- 0
-substring$ -- 8110
-swap$ -- 25
-text.length$ -- 126
+substring$ -- 21093
+swap$ -- 46
+text.length$ -- 239
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 34
-warning$ -- 0
-while$ -- 196
+type$ -- 64
+warning$ -- 1
+while$ -- 372
 width$ -- 0
-write$ -- 125
+write$ -- 240
+(There was 1 warning)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{15}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -15,6 +15,12 @@ Brown, A.~L., C.~L. Vincent, T.~P. Lane, E.~Short, and H.~Nguyen, 2017:
   with comparison to regional models. \textit{Quart.\ J.\ Roy.\ Meteor.\ Soc.},
   \doi{10.1002/qj.3131}.
 
+\bibitem[{{Bureau of Meteorology}(2010)}]{bom10}
+{Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
+  numerical weather prediction systems. Tech. rep., {Bureau of Meteorology},
+  Melbourne, Victoria. [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf}].
+
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
   review and proposed framework. \textit{Meteor.\ Appl.}, \textbf{15~(1)},
@@ -25,6 +31,13 @@ Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
 \bibitem[{Efron(1979)}]{efron79}
 Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
   Annals of Statistics}, \textbf{7~(1)}, 1--26, \doi{10.1214/aos/1176344552}.
+
+\bibitem[{{European Center for Medium Range Weather
+  Forecasting}(2018)}]{ecmwf18}
+{European Center for Medium Range Weather Forecasting}, 2018: \textit{Part {IV}
+  : Physical processes}. No.~4, IFS Documentation, {European Center for Medium
+  Range Weather Forecasting}, [Available online at
+  \url{https://www.ecmwf.int/node/18714}].
 
 \bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
 Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
@@ -45,6 +58,19 @@ Kusuda, M., and P.~Alpert, 1983: Anti-clockwise rotation of the wind hodograph.
   \textbf{40~(2)}, 487--499,
   \doi{10.1175/1520-0469(1983)040<0487:ACROTW>2.0.CO;2},
   \urlprefix\url{https://doi.org/10.1175/1520-0469(1983)040<0487:ACROTW>2.0.CO;2}.
+
+\bibitem[{Lock et~al.(2000)Lock, Brown, Bush, Martin,, and Smith}]{lock00}
+Lock, A.~P., A.~R. Brown, M.~R. Bush, G.~M. Martin, and R.~N.~B. Smith, 2000: A
+  new boundary layer mixing scheme. part i: Scheme description and
+  single-column model tests. \textit{Monthly Weather Review}, \textbf{128~(9)},
+  3187--3199, \doi{10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2},
+  \urlprefix\url{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2},
+  \eprint{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2}.
+
+\bibitem[{Louis(1979)}]{louis79}
+Louis, J.-F., 1979: A parametric model of vertical eddy fluxes in the
+  atmosphere. \textit{Boundary-Layer Meteorology}, \textbf{17~(2)}, 187--202,
+  \doi{10.1007/BF00117978}, \urlprefix\url{https://doi.org/10.1007/BF00117978}.
 
 \bibitem[{Lynch et~al.(2014)Lynch, Brayshaw,, and Charlton-Perez}]{lynch14}
 Lynch, K.~J., D.~J. Brayshaw, and A.~Charlton-Perez, 2014: Verification of

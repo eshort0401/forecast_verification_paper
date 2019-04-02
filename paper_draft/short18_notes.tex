@@ -1,6 +1,7 @@
 \documentclass{article}
 
 \usepackage{natbib}
+\usepackage{url}
 \usepackage[a4paper, margin=3cm, lmargin=3.5cm]{geometry}
 
 \title{Verification Notes}
@@ -60,6 +61,24 @@ Note that the Bureau has not yet moved to ensemble forecasting - and probabilist
 \end{comment}
 
 \section{Paper Summaries}
+
+\subsection{\citet{bom10}}
+ACCESS uses the scheme of \citet{lock00} for mixing in unstable layers. 7 classification types for boundary layers. Cumulus mixing uses the mass-flux convection scheme. Entrainment rates across the inversion at the top of the boundary layer are parametrised using the eddy diffusivity scheme of Lock (1998; 2001) scaled using cloud-top cooling rates. Mixing in stable boundary layers uses the local Richardson number first order closure of \citet{louis79} with stability dependent surface exchanges calculated using Monin-Obukhov Similarity. 
+
+\subsection{\citet{louis79}}
+
+\subsection{\citet{lock00}}
+
+\subsection{\citet{ecmwf18}}
+
+\subsection{\citet{bishop13}}
+
+\subsection{\citet{basu08}}
+
+\subsection{\citet{zhang04}}
+Great resource on character of diurnal cycle of winds in the PBL. Performs a comparison of five different parametrisation schemes. 
+
+\subsection{\citet{holtslag13}}
 
 \subsection{\citet{pinson12}}
 Proposes station-oriented view of the verification problem (which is what we are doing). Notes that there is a ``representativeness issue" in that station-data is resolving processes at physical scales the model is infact not intended to resolve. Notes that from the users perspective this is irrelevant. \textit{How could forecasters or post-processing incorporate this uncertainty into the forecast?} Discusses in detail the bilinear interpolation process for downscaling forecast data to location of stations. \textit{What is Jive's procedure for doing this?} Forecasts are benchmarked against 1-6 climatology based forecasts. Notes that observational uncertainty is known to be non-negligible, while surface effects introduce additional noise beyond what the numerical models intend to represent (or are capable of representing.) Representativeness issue ignored here for above reasons. Notes one method of dealing with observational uncertainty when performing ensemble (probabilistic) forecast verification is by transforming observations into random variables. Impact of observational uncertainty can then be assessed using methods like those of Pappenberger et al.~(2009). Note that Pappenberger still applies only to probabilistic forecasting. 

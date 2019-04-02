@@ -1,5 +1,24 @@
 \begin{thebibliography}{xx}
 
+\harvarditem[Basu et~al.]{Basu, Vinuesa \harvardand\ Swift}{2008}{basu08}
+Basu, S., Vinuesa, J.-F. \harvardand\ Swift, A.  \harvardyearleft
+  2008\harvardyearright , `Dynamic {LES} modeling of a diurnal cycle', {\em
+  Journal of Applied Meteorology and Climatology} {\bf 47}(4),~1156--1174.
+\newline\harvardurl{https://doi.org/10.1175/2007JAMC1677.1}
+
+\harvarditem{Bishop \harvardand\ Abramowitz}{2013}{bishop13}
+Bishop, C.~H. \harvardand\ Abramowitz, G.  \harvardyearleft
+  2013\harvardyearright , `Climate model dependence and the replicate {Earth}
+  paradigm', {\em Climate Dynamics} {\bf 41}(3),~885--900.
+\newline\harvardurl{https://doi.org/10.1007/s00382-012-1610-y}
+
+\harvarditem{{Bureau of Meteorology}}{2010}{bom10}
+{Bureau of Meteorology}  \harvardyearleft 2010\harvardyearright , Operational
+  implementation of the {ACCESS} numerical weather prediction systems,
+  Technical report, {Bureau of Meteorology}, Melbourne, Victoria.
+\newblock [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf}].
+
 \harvarditem{Ebert}{2008}{ebert08}
 Ebert, E.~E.  \harvardyearleft 2008\harvardyearright , `Fuzzy verification of
   high-resolution gridded forecasts: a review and proposed framework', {\em
@@ -12,11 +31,44 @@ Ebert, E. \harvardand\ McBride, J.  \harvardyearleft 2000\harvardyearright ,
   systematic errors', {\em Journal of Hydrology} {\bf 239}(1),~179 -- 202.
 \newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0022169400003437}
 
+\harvarditem{{European Center for Medium Range Weather
+  Forecasting}}{2018}{ecmwf18}
+{European Center for Medium Range Weather Forecasting}  \harvardyearleft
+  2018\harvardyearright , {\em Part {IV} : Physical processes}, number~4 {\em
+  in} `IFS Documentation', {European Center for Medium Range Weather
+  Forecasting}.
+\newblock [Available online at \url{https://www.ecmwf.int/node/18714}].
+
 \harvarditem{Ferro}{2017}{ferro17}
 Ferro, C. A.~T.  \harvardyearleft 2017\harvardyearright , `Measuring forecast
   performance in the presence of observation error', {\em Quarterly Journal of
   the Royal Meteorological Society} {\bf 143}(708),~2665--2676.
 \newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3115}
+
+\harvarditem[Holtslag et~al.]{Holtslag, Svensson, Baas, Basu, Beare, Beljaars,
+  Bosveld, Cuxart, Lindvall, Steeneveld, Tjernström \harvardand\ Van
+  De~Wiel}{2013}{holtslag13}
+Holtslag, A. A.~M., Svensson, G., Baas, P., Basu, S., Beare, B., Beljaars, A.
+  C.~M., Bosveld, F.~C., Cuxart, J., Lindvall, J., Steeneveld, G.~J.,
+  Tjernström, M. \harvardand\ Van De~Wiel, B. J.~H.  \harvardyearleft
+  2013\harvardyearright , `Stable atmospheric boundary layers and diurnal
+  cycles: Challenges for weather and climate models', {\em Bulletin of the
+  American Meteorological Society} {\bf 94}(11),~1691--1706.
+\newline\harvardurl{https://doi.org/10.1175/BAMS-D-11-00187.1}
+
+\harvarditem[Lock et~al.]{Lock, Brown, Bush, Martin \harvardand\
+  Smith}{2000}{lock00}
+Lock, A.~P., Brown, A.~R., Bush, M.~R., Martin, G.~M. \harvardand\ Smith, R.
+  N.~B.  \harvardyearleft 2000\harvardyearright , `A new boundary layer mixing
+  scheme. part i: Scheme description and single-column model tests', {\em
+  Monthly Weather Review} {\bf 128}(9),~3187--3199.
+\newline\harvardurl{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2}
+
+\harvarditem{Louis}{1979}{louis79}
+Louis, J.-F.  \harvardyearleft 1979\harvardyearright , `A parametric model of
+  vertical eddy fluxes in the atmosphere', {\em Boundary-Layer Meteorology}
+  {\bf 17}(2),~187--202.
+\newline\harvardurl{https://doi.org/10.1007/BF00117978}
 
 \harvarditem[Lynch et~al.]{Lynch, Brayshaw \harvardand\
   Charlton-Perez}{2014}{lynch14}
@@ -55,5 +107,12 @@ Yates, E., Anquetin, S., Ducrocq, V., Creutin, J.-D., Ricard, D. \harvardand\
   validation of forecast precipitation fields', {\em Meteor.\ Appl.} {\bf
   13}(1),~1--20.
 \newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1017/S1350482705001921}
+
+\harvarditem{Zhang \harvardand\ Zheng}{2004}{zhang04}
+Zhang, D.-L. \harvardand\ Zheng, W.-Z.  \harvardyearleft 2004\harvardyearright
+  , `Diurnal cycles of surface winds and temperatures as simulated by five
+  boundary layer parameterizations', {\em Journal of Applied Meteorology} {\bf
+  43}(1),~157--169.
+\newline\harvardurl{https://doi.org/10.1175/1520-0450(2004)043<0157:DCOSWA>2.0.CO;2}
 
 \end{thebibliography}
