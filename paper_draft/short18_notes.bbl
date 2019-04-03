@@ -31,6 +31,13 @@ Ebert, E. \harvardand\ McBride, J.  \harvardyearleft 2000\harvardyearright ,
   systematic errors', {\em Journal of Hydrology} {\bf 239}(1),~179 -- 202.
 \newline\harvardurl{http://www.sciencedirect.com/science/article/pii/S0022169400003437}
 
+\harvarditem{Englberger \harvardand\ D{\"o}rnbrack}{2018}{englberger18}
+Englberger, A. \harvardand\ D{\"o}rnbrack, A.  \harvardyearleft
+  2018\harvardyearright , `Impact of the diurnal cycle of the atmospheric
+  boundary layer on wind-turbine wakes: A numerical modelling study', {\em
+  Boundary-Layer Meteorology} {\bf 166}(3),~423--448.
+\newline\harvardurl{https://doi.org/10.1007/s10546-017-0309-3}
+
 \harvarditem{{European Center for Medium Range Weather
   Forecasting}}{2018}{ecmwf18}
 {European Center for Medium Range Weather Forecasting}  \harvardyearleft
@@ -55,6 +62,26 @@ Holtslag, A. A.~M., Svensson, G., Baas, P., Basu, S., Beare, B., Beljaars, A.
   cycles: Challenges for weather and climate models', {\em Bulletin of the
   American Meteorological Society} {\bf 94}(11),~1691--1706.
 \newline\harvardurl{https://doi.org/10.1175/BAMS-D-11-00187.1}
+
+\harvarditem{Hoxit}{1975}{hoxit75}
+Hoxit, L.~R.  \harvardyearleft 1975\harvardyearright , `Diurnal variations in
+  planetary boundary-layer winds over land', {\em Boundary-Layer Meteorology}
+  {\bf 8}(1),~21--38.
+\newline\harvardurl{https://doi.org/10.1007/BF02579391}
+
+\harvarditem[Kumar et~al.]{Kumar, Kleissl, Meneveau \harvardand\
+  Parlange}{2006}{kumar06}
+Kumar, V., Kleissl, J., Meneveau, C. \harvardand\ Parlange, M.~B.
+  \harvardyearleft 2006\harvardyearright , `Large-eddy simulation of a diurnal
+  cycle of the atmospheric boundary layer: Atmospheric stability and scaling
+  issues', {\em Water Resources Research} {\bf 42}(6).
+\newline\harvardurl{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2005WR004651}
+
+\harvarditem{Liu \harvardand\ Liang}{2010}{liu10}
+Liu, S. \harvardand\ Liang, X.-Z.  \harvardyearleft 2010\harvardyearright ,
+  `Observed diurnal cycle climatology of planetary boundary layer height', {\em
+  Journal of Climate} {\bf 23}(21),~5790--5809.
+\newline\harvardurl{https://doi.org/10.1175/2010JCLI3552.1}
 
 \harvarditem[Lock et~al.]{Lock, Brown, Bush, Martin \harvardand\
   Smith}{2000}{lock00}
@@ -94,6 +121,27 @@ Pinson, P. \harvardand\ Hagedorn, R.  \harvardyearleft 2012\harvardyearright ,
   `Verification of the ecmwf ensemble forecasts of wind speed against analyses
   and observations', {\em Meteor.\ Appl.} {\bf 19}(4),~484--500.
 \newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}
+
+\harvarditem{Stensrud}{1996}{stensrud96}
+Stensrud, D.~J.  \harvardyearleft 1996\harvardyearright , `Importance of
+  low-level jets to climate: A review', {\em Journal of Climate} {\bf
+  9}(8),~1698--1711.
+\newline\harvardurl{https://doi.org/10.1175/1520-0442(1996)009<1698:IOLLJT>2.0.CO;2}
+
+\harvarditem[Svensson et~al.]{Svensson, Holtslag, Kumar, Mauritsen, Steeneveld,
+  Angevine, Bazile, Beljaars, de~Bruijn, Cheng, Conangla, Cuxart, Ek, Falk,
+  Freedman, Kitagawa, Larson, Lock, Mailhot, Masson, Park, Pleim,
+  S{\"o}derberg, Weng \harvardand\ Zampieri}{2011}{svensson11}
+Svensson, G., Holtslag, A. A.~M., Kumar, V., Mauritsen, T., Steeneveld, G.~J.,
+  Angevine, W.~M., Bazile, E., Beljaars, A., de~Bruijn, E. I.~F., Cheng, A.,
+  Conangla, L., Cuxart, J., Ek, M., Falk, M.~J., Freedman, F., Kitagawa, H.,
+  Larson, V.~E., Lock, A., Mailhot, J., Masson, V., Park, S., Pleim, J.,
+  S{\"o}derberg, S., Weng, W. \harvardand\ Zampieri, M.  \harvardyearleft
+  2011\harvardyearright , `Evaluation of the diurnal cycle in the atmospheric
+  boundary layer over land as represented by a variety of single-column models:
+  The second gabls experiment', {\em Boundary-Layer Meteorology} {\bf
+  140}(2),~177--206.
+\newline\harvardurl{https://doi.org/10.1007/s10546-011-9611-7}
 
 \harvarditem{Wilks}{2011}{wilks11}
 Wilks, D.~S.  \harvardyearleft 2011\harvardyearright , {\em Statistical methods

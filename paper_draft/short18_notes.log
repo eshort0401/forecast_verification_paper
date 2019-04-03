@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  2 APR 2019 16:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  3 APR 2019 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -149,20 +149,28 @@ LaTeX Warning: Reference `Eq:h_v' on page 1 undefined on input line 31.
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Excluding 'comment' comment. [2] [3] (./short18_notes.bbl [4] [5]) [6]
-(./short18_notes.aux)
+Excluding 'comment' comment. [2]
+
+Package natbib Warning: Citation `zhang00' on page 3 undefined on input line 10
+1.
+
+[3] [4] (./short18_notes.bbl [5] [6])
+
+Package natbib Warning: There were undefined citations.
+
+[7] (./short18_notes.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 1299 strings out of 492649
- 17397 string characters out of 6129623
- 88127 words of memory out of 5000000
- 5216 multiletter control sequences out of 15000+600000
+ 1317 strings out of 492649
+ 17694 string characters out of 6129623
+ 88575 words of memory out of 5000000
+ 5234 multiletter control sequences out of 15000+600000
  8409 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 25i,6n,32p,1929b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,6n,32p,1929b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -175,10 +183,10 @@ texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on short18_notes.pdf (6 pages, 157971 bytes).
+Output written on short18_notes.pdf (7 pages, 162860 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -20,6 +20,10 @@ Brown, A.~L., C.~L. Vincent, T.~P. Lane, E.~Short, and H.~Nguyen, 2017:
   numerical weather prediction systems. Tech. rep., {Bureau of Meteorology},
   Melbourne, Victoria. [Available online at
   \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf}].
+
+\bibitem[{{Bureau of Meteorology}(2019)}]{bomMetEye19}
+{Bureau of Meteorology}, 2019: Meteye. {Bureau of Meteorology},
+  [http://www.bom.gov.au/australia/meteye/].
 
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
@@ -58,6 +62,10 @@ Kusuda, M., and P.~Alpert, 1983: Anti-clockwise rotation of the wind hodograph.
   \textbf{40~(2)}, 487--499,
   \doi{10.1175/1520-0469(1983)040<0487:ACROTW>2.0.CO;2},
   \urlprefix\url{https://doi.org/10.1175/1520-0469(1983)040<0487:ACROTW>2.0.CO;2}.
+
+\bibitem[{Lee(2018)}]{lee18}
+Lee, X., 2018: \textit{Fundamentals of boundary-layer meteorology.} Springer
+  atmospheric sciences, Springer.
 
 \bibitem[{Lock et~al.(2000)Lock, Brown, Bush, Martin,, and Smith}]{lock00}
 Lock, A.~P., A.~R. Brown, M.~R. Bush, G.~M. Martin, and R.~N.~B. Smith, 2000: A
