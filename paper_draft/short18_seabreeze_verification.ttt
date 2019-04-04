@@ -1,0 +1,18 @@
+\begin{table}
+\begin{center}
+\begin{tabular}{l |c|c}
+Airport & Austral Summer & Austral Winter \\
+\hline
+Darwin  & 6.3 kn& 6.2 kn \\
+Brisbane  & 8.6 kn& 7.0 kn \\
+Perth  & 11.3 kn& 7.9 kn \\
+Sydney  & 12.2 kn & 10.2 kn \\
+Adelaide  & 9.5 kn & 10.3 kn \\
+Canberra  & 7.4 kn & 7.9 kn \\
+Melbourne  & 10.0 kn & 12.1 kn \\
+Hobart & 10.0 kn & 8.7 kn
+\end{tabular}
+\caption{Average 10 m wind speeds for austral winter (June, July August) 2018, and austral summer (December, January, February) 2017/18 across the eight Australian capital city airport weather stations.}
+\label{Tab:Speeds}
+\end{center}
+\end{table}

@@ -18,6 +18,14 @@
 
 \begin{enumerate}
 \item
+Two edits are commonly involves changing the surface wind fields near coastlines to try to represent sea-breezes more realistically. Forecasters invest time in making sea-breeze edits because accurate predictions of near-surface winds are highly valued by a number of users, such as the aviation and energy \citep{smith09} industries. Accurate sea-breeze forecasts are also valuable to environmental monitoring authorities, as these winds provide ventilation to coastal urban areas.
+\item
+Assessing the accuracy of a weather forecast is a task far more nuanced than it might first appear. For instance, attempting to assess the accuracy of a precipitation forecast by comparing the rainfall amounts measured at an individual weather station to the closest grid point of a model prediction will often give poor results. Although the synoptic drivers of convection are usually well predicted, excatly where convective cells form, and where the most rain falls, is highly unpredictable. As such, it is often appropriate to use ``fuzzy" verification metrics which measure the agreement between prediction and observation in a more indirect way. For instance, one approach known as ``upscaling" is to first average forecast and observational data over a given spatial domain before calculating verification scores. \citet{ebert08} provided a review of current ``fuzzy verification" methodologies, and a framework for how they can be used to determine the spatial scales at which a given forecast has predictive skill.
+\item
+\citet{lynch14} also performed a verification study of ECMWF 10 m wind speed data, with the goal of assessing skill at lead times of between 14 to 20 days. They compared ECMWF 32-day forecast model wind speeds with gridded ERA-Interim wind speeds between 2008-12, with both datasets analysed at a six hour temporal resolution. Before conducting the comparison, the wind speed data were transformed into wind-speed ``anomaly" data by first calculating the mean wind speed at 0000, 0600, 1200 and 1800 UTC for each calendar day from the entire ERA-Interim record, and from a 20 year ECMWF 32-day model hindcast, then subtracting these means from the ERA-Interim and ECMWF 32-day model data respectively. Wind speed anomaly data was used so that stable seasonal and diurnal cycles did not contribute to verification scores. At the 14-20 day timescale around western Europe, the greatest skill was found in the boreal winter (austral summer) months of December, January and February.  
+\item
+\citet{pinson12} and \citet{lynch14} restricted their verification studies to wind speeds, but wind directions are also crucial to diagnosing whether land sea breezes - and the diurnal wind cycle more generally - are being forecast correctly. Furthermore, no previous published work has proposed a verification methodology to assess the accuracy of the diurnal wind cycle in forecasts, or of the contributions made to this accuracy by human forecaster edits of model output. Finally, no previously published work has considered the performance of ACCESS near surface winds, which together with ECMWF, are the model guidance products most widely used by Australian forecasters.
+\item
 Example figure with one day diurnal cycles for both AWS, Official, ECMWF and ACCESS winds, perturbations, and perturbation climatology. Just one season.
 \item
 Airport breakdown for one season, WPI, CWPI for one season, for both ACCESS and ECMWF. Second season in online supporting material.
@@ -81,7 +89,7 @@ ACCESS uses the scheme of \citet{lock00} for mixing in unstable layers. 7 classi
 Great resource on character of diurnal cycle of winds in the PBL. Performs a comparison of five different parametrisation schemes. 
 
 \subsection{\citet{holtslag13}}
-Great summary article. Discusses evaluation studies of \citet{svensson11}. ``The modeled diurnal cycle of the 10-m wind speed does not resemble the observations in many cases, most models overestimate the wind speed during night, and the speed does not increase enough after the morning transition (Fig. 8b).
+Great summary article. Discusses evaluation studies of \citet{svensson11}. ``The modeled diurnal cycle of the 10-m wind speed does not resemble the observations in many cases, most models overestimate the wind speed during night, and the speed does not increase enough after the morning transition (Fig. 8b)." Also noted the importance of associating forecast scores with degree of mixing etc (page 1701). 
 
 \subsection{\citet{hoxit75}}
 Provides good figures showing the diurnal evolution of wind speed and direction. 
