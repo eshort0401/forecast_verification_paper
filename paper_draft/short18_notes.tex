@@ -7,6 +7,7 @@
 \title{Verification Notes}
 \usepackage{setspace}
 \usepackage{comment}
+\usepackage{amsmath}
 
 \linespread{1.3}
 
@@ -17,6 +18,19 @@
 \section{Notes}
 
 \begin{enumerate}
+\item
+To investigate the impact these representation issues have on  discussed the WPI method outlined above is modified so that the performance of the Official forecast can    Two methods are used to investigate how the representation issues discussed above effect verification statistics of the diurnal wind cycle.   
+\item
+To assess how well the diurnal perturbations of an overall region are predicted, for instance those of the Victorian coastal station group (see Fig. \ref{Fig:station_map}), the perturbations across each station group are averaged before WPI values calculated. The temporal means and sampling distributions of the WPI are then calculated as before, with each value of WPI calculated from the spatially averaged perturbations treated as a single observation. This provides a conservative method for dealing with spatial correlation in the perturbations.        
+\item
+One factor that complicates interpretation of statistics of WPI, is that the near surface winds observed in AWS data are consistently noisier than those of the Official, ECMWF and ACCESS forecasts. This is likely due to unresolved subgrid scale turbulence in the Official, ECMWF and ACCESS model datasets. It would be unreasonable to expect forecasters to be able to predict this essentially random additional observed variability, and so a direct comparison of observed and modelled diurnal cycles is overly stringent. 
+\item
+Note that subtracting background winds may raise concerns, because perturbations obviously depend on background winds. However, the forecaster does not have knowledge of the observations when they make the diurnal process edits. They are implicitly assuming that the true mean state will be close enough to the predicted mean state - however this prediction is produced - to justify making diurnal edits on the basis of the predicted mean state.
+\item
+To reduce the significance of unpredictable noise, we also compare temporal averages of the perturbations for each dataset. These comparisons have less operational significance: people generally care how well the actual weather forecast performed, not whether the average of a predicted quantity matched the average of an observed quantity. However, comparisons of averages arguably better represent what we can realistically expect from human forecaster edits, and from weather forecasts overall, particularly in regards to small scale processes like sea-breezes. Furthermore, when temporal averages of perturbations are considered, the diurnal signal becomes dramatically clearer, and structual differences become much easier to diagnose. 
+\item
+To quantify how closely the temporally averaged Official forecast perturbations match those of the AWS observations, we calculate 
+$\left\lvert \overline{\boldsymbol{u}}_{\text{AWS}} - \overline{\boldsymbol{u}}_{\text{O}} \right\rvert$ for each hour. To assess the performance of the Official temporally averaged perturbations against those ACCESS,
 \item
 Two edits are commonly involves changing the surface wind fields near coastlines to try to represent sea-breezes more realistically. Forecasters invest time in making sea-breeze edits because accurate predictions of near-surface winds are highly valued by a number of users, such as the aviation and energy \citep{smith09} industries. Accurate sea-breeze forecasts are also valuable to environmental monitoring authorities, as these winds provide ventilation to coastal urban areas.
 \item

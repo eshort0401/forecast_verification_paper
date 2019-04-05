@@ -1,4 +1,4 @@
-\begin{thebibliography}{21}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -29,13 +29,20 @@ Brown, A.~L., C.~L. Vincent, T.~P. Lane, E.~Short, and H.~Nguyen, 2017:
   \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf}].
 
 \bibitem[{{Bureau of Meteorology}(2019)}]{bomMetEye19}
-{Bureau of Meteorology}, 2019: Meteye. {Bureau of Meteorology},
-  [http://www.bom.gov.au/australia/meteye/].
+{Bureau of Meteorology}, 2019: Meteye. {Bureau of Meteorology}, [Available
+  online at \url{http://www.bom.gov.au/australia/meteye/}].
 
 \bibitem[{Dai and Deser(1999)Dai, and Deser}]{dai99}
 Dai, A., and C.~Deser, 1999: Diurnal and semidiurnal variations in global
   surface wind and divergence fields. \textit{Journal of Geophysical Research},
   \textbf{104}, 31\,109--31\,125.
+
+\bibitem[{Ebert(2008)}]{ebert08}
+Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
+  review and proposed framework. \textit{Meteor.\ Appl.}, \textbf{15~(1)},
+  51--64, \doi{10.1002/met.25},
+  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25},
+  \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.25}.
 
 \bibitem[{Efron(1979)}]{efron79}
 Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
@@ -76,6 +83,11 @@ Haurwitz, B., 1947: Comments on the sea-breeze circulation. \textit{Journal of
   \urlprefix\url{https://doi.org/10.1175/1520-0469(1947)004<0001:COTSBC>2.0.CO;2},
   \eprint{https://doi.org/10.1175/1520-0469(1947)004<0001:COTSBC>2.0.CO;2}.
 
+\bibitem[{Hoxit(1975)}]{hoxit75}
+Hoxit, L.~R., 1975: Diurnal variations in planetary boundary-layer winds over
+  land. \textit{Boundary-Layer Meteorology}, \textbf{8~(1)}, 21--38,
+  \doi{10.1007/BF02579391}, \urlprefix\url{https://doi.org/10.1007/BF02579391}.
+
 \bibitem[{Kusuda and Alpert(1983)Kusuda, and Alpert}]{kusuda83}
 Kusuda, M., and P.~Alpert, 1983: Anti-clockwise rotation of the wind hodograph.
   part i: Theoretical study. \textit{Journal of the Atmospheric Sciences},
@@ -100,6 +112,13 @@ Louis, J.-F., 1979: A parametric model of vertical eddy fluxes in the
   atmosphere. \textit{Boundary-Layer Meteorology}, \textbf{17~(2)}, 187--202,
   \doi{10.1007/BF00117978}, \urlprefix\url{https://doi.org/10.1007/BF00117978}.
 
+\bibitem[{Lynch et~al.(2014)Lynch, Brayshaw,, and Charlton-Perez}]{lynch14}
+Lynch, K.~J., D.~J. Brayshaw, and A.~Charlton-Perez, 2014: Verification of
+  european subseasonal wind speed forecasts. \textit{Monthly Weather Review},
+  \textbf{142~(8)}, 2978--2990, \doi{10.1175/MWR-D-13-00341.1},
+  \urlprefix\url{https://doi.org/10.1175/MWR-D-13-00341.1},
+  \eprint{https://doi.org/10.1175/MWR-D-13-00341.1}.
+
 \bibitem[{Miller et~al.(2003)Miller, Keim, Talbot,, and Mao}]{miller03}
 Miller, S. T.~K., B.~D. Keim, R.~W. Talbot, and H.~Mao, 2003: Sea breeze:
   Structure, forecasting, and impacts. \textit{Reviews of Geophysics},
@@ -120,6 +139,11 @@ Pinson, P., and R.~Hagedorn, 2012: Verification of the ecmwf ensemble forecasts
   \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283},
   \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.283}.
 
+\bibitem[{{SciPy}(2019)}]{scipy19}
+{SciPy}, 2019: Optimization and root finding (scipy.optimize). {SciPy},
+  [Available online at
+  \url{https://docs.scipy.org/doc/scipy/reference/optimize.html}].
+
 \bibitem[{Svensson et~al.(2011)}]{svensson11}
 Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
   atmospheric boundary layer over land as represented by a variety of
@@ -130,6 +154,13 @@ Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
 \bibitem[{Wilks(2011)}]{wilks11}
 Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences.
   [electronic resource].} International geophysics series: v. 100, Elsevier.
+
+\bibitem[{Zaron and Egbert(2006)Zaron, and Egbert}]{zaron06}
+Zaron, E.~D., and G.~D. Egbert, 2006: Estimating open-ocean barotropic tidal
+  dissipation: The hawaiian ridge. \textit{Journal of Physical Oceanography},
+  \textbf{36~(6)}, 1019--1035, \doi{10.1175/JPO2878.1},
+  \urlprefix\url{https://doi.org/10.1175/JPO2878.1},
+  \eprint{https://doi.org/10.1175/JPO2878.1}.
 
 \bibitem[{Zwiers and von Storch(1995)Zwiers, and von Storch}]{zwiers95}
 Zwiers, F.~W., and H.~von Storch, 1995: Taking serial correlation into account

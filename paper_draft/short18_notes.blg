@@ -4,45 +4,45 @@ The top-level auxiliary file: short18_notes.aux
 The style file: agsm.bst
 Database file #1: ./references.bib
 Warning--empty chapter and pages in ecmwf18
-You've used 23 entries,
+You've used 24 entries,
             2909 wiz_defined-function locations,
-            973 strings with 11790 characters,
-and the built_in function-call counts, 142952 in all, are:
-= -- 23635
-> -- 1856
+            980 strings with 11948 characters,
+and the built_in function-call counts, 152688 in all, are:
+= -- 25247
+> -- 2010
 < -- 1
-+ -- 11639
-- -- 581
-* -- 12851
-:= -- 27931
-add.period$ -- 25
-call.type$ -- 23
-change.case$ -- 321
-chr.to.int$ -- 23
-cite$ -- 24
-duplicate$ -- 363
-empty$ -- 794
-format.name$ -- 659
-if$ -- 25671
++ -- 12463
+- -- 630
+* -- 13748
+:= -- 29799
+add.period$ -- 26
+call.type$ -- 24
+change.case$ -- 335
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 379
+empty$ -- 828
+format.name$ -- 711
+if$ -- 27422
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 24
-newline$ -- 94
-num.names$ -- 238
-pop$ -- 69
+missing$ -- 25
+newline$ -- 97
+num.names$ -- 249
+pop$ -- 71
 preamble$ -- 1
-purify$ -- 345
+purify$ -- 360
 quote$ -- 0
-skip$ -- 279
+skip$ -- 293
 stack$ -- 0
-substring$ -- 34196
-swap$ -- 64
-text.length$ -- 323
+substring$ -- 36554
+swap$ -- 67
+text.length$ -- 337
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
+type$ -- 92
 warning$ -- 1
-while$ -- 506
+while$ -- 528
 width$ -- 0
-write$ -- 322
+write$ -- 336
 (There was 1 warning)
