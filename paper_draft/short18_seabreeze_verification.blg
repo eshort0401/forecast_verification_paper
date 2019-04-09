@@ -5,45 +5,45 @@ The style file: ametsoc2014.bst
 Database file #1: ./references.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty chapter and pages in ecmwf18
-You've used 31 entries,
+You've used 27 entries,
             3493 wiz_defined-function locations,
-            1092 strings with 13886 characters,
-and the built_in function-call counts, 28592 in all, are:
-= -- 3276
-> -- 779
-< -- 23
-+ -- 467
-- -- 198
-* -- 1620
-:= -- 3060
-add.period$ -- 64
-call.type$ -- 31
-change.case$ -- 226
-chr.to.int$ -- 31
-cite$ -- 32
-duplicate$ -- 2959
-empty$ -- 1735
-format.name$ -- 268
-if$ -- 5842
+            1064 strings with 13180 characters,
+and the built_in function-call counts, 25148 in all, are:
+= -- 2889
+> -- 686
+< -- 20
++ -- 413
+- -- 174
+* -- 1426
+:= -- 2678
+add.period$ -- 56
+call.type$ -- 27
+change.case$ -- 198
+chr.to.int$ -- 27
+cite$ -- 28
+duplicate$ -- 2600
+empty$ -- 1519
+format.name$ -- 239
+if$ -- 5141
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 311
-newline$ -- 104
-num.names$ -- 124
-pop$ -- 1125
+missing$ -- 273
+newline$ -- 92
+num.names$ -- 108
+pop$ -- 989
 preamble$ -- 1
-purify$ -- 189
+purify$ -- 165
 quote$ -- 0
-skip$ -- 1649
+skip$ -- 1458
 stack$ -- 0
-substring$ -- 1311
-swap$ -- 2342
+substring$ -- 1158
+swap$ -- 2064
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 270
+type$ -- 234
 warning$ -- 1
-while$ -- 139
+while$ -- 120
 width$ -- 0
-write$ -- 412
+write$ -- 361
 (There was 1 warning)
