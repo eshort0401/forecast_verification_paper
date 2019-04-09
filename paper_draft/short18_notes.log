@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  5 APR 2019 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  9 APR 2019 17:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -130,21 +130,42 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
 (./short18_notes.aux)
 \openout1 = `short18_notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -180,43 +201,122 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen120
+\scratchbox=\box28
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen121
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks22
+)
 
 LaTeX Warning: No \author given.
-
-
-LaTeX Warning: Reference `Fig:station_map' on page 1 undefined on input line 24
-.
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2]
+[2] [3] [4]
 
-LaTeX Warning: Reference `Eq:u' on page 3 undefined on input line 53.
+LaTeX Warning: Reference `Fig:station_map' on page 5 undefined on input line 11
+5.
+
+[5] [6]
+
+LaTeX Warning: Reference `Eq:u' on page 7 undefined on input line 144.
 
 
-LaTeX Warning: Reference `Eq:v' on page 3 undefined on input line 53.
+LaTeX Warning: Reference `Eq:v' on page 7 undefined on input line 144.
 
 
-LaTeX Warning: Reference `Eq:h_u' on page 3 undefined on input line 53.
+LaTeX Warning: Reference `Eq:h_u' on page 7 undefined on input line 144.
 
 
-LaTeX Warning: Reference `Eq:h_v' on page 3 undefined on input line 53.
+LaTeX Warning: Reference `Eq:h_v' on page 7 undefined on input line 144.
 
-Excluding 'comment' comment. [3] [4] [5] [6] (./short18_notes.bbl [7] [8])
-[9] (./short18_notes.aux)
+
+LaTeX Warning: Reference `Sec:Results' on page 7 undefined on input line 161.
+
+
+LaTeX Warning: Reference `Eq:u' on page 7 undefined on input line 161.
+
+
+LaTeX Warning: Reference `Eq:v' on page 7 undefined on input line 161.
+
+[7]
+
+Package natbib Warning: Citation `haurwitz47' on page 8 undefined on input line
+ 163.
+
+
+Package natbib Warning: Citation `kusuda83' on page 8 undefined on input line 1
+63.
+
+
+LaTeX Warning: Reference `Eq:u_h' on page 8 undefined on input line 163.
+
+
+LaTeX Warning: Reference `Eq:v_h' on page 8 undefined on input line 163.
+
+
+Package natbib Warning: Citation `haurwitz47' on page 8 undefined on input line
+ 172.
+
+
+Package natbib Warning: Citation `kusuda83' on page 8 undefined on input line 1
+72.
+
+
+LaTeX Warning: Reference `Eq:u' on page 8 undefined on input line 172.
+
+
+LaTeX Warning: Reference `Eq:v' on page 8 undefined on input line 172.
+
+
+LaTeX Warning: Reference `Eq:h_u' on page 8 undefined on input line 172.
+
+
+LaTeX Warning: Reference `Eq:h_v' on page 8 undefined on input line 172.
+
+
+Package natbib Warning: Citation `gille05' on page 8 undefined on input line 17
+4.
+
+
+LaTeX Warning: Reference `Eq:u' on page 8 undefined on input line 174.
+
+
+LaTeX Warning: Reference `Eq:v' on page 8 undefined on input line 174.
+
+
+Package natbib Warning: Citation `brown17' on page 8 undefined on input line 17
+4.
+
+Excluding 'comment' comment. (./short18_notes.bbl [8] [9] [10])
+
+Package natbib Warning: There were undefined citations.
+
+[11] (./short18_notes.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 1948 strings out of 492649
- 24906 string characters out of 6129623
- 100298 words of memory out of 5000000
- 5839 multiletter control sequences out of 15000+600000
+ 2892 strings out of 492649
+ 36508 string characters out of 6129623
+ 116188 words of memory out of 5000000
+ 6766 multiletter control sequences out of 15000+600000
  11986 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,8n,32p,1929b,272s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,8n,35p,1929b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -230,10 +330,10 @@ texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on short18_notes.pdf (9 pages, 177897 bytes).
+Output written on short18_notes.pdf (11 pages, 188149 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

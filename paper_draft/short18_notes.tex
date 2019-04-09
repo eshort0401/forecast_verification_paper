@@ -8,12 +8,103 @@
 \usepackage{setspace}
 \usepackage{comment}
 \usepackage{amsmath}
+\usepackage{xcolor}
 
 \linespread{1.3}
 
 \begin{document}
 
 \maketitle
+
+\section{Paper Summaries}
+
+\subsection{\citet{bom10}}
+ACCESS uses the scheme of \citet{lock00} for mixing in unstable layers. 7 classification types for boundary layers. Cumulus mixing uses the mass-flux convection scheme. Entrainment rates across the inversion at the top of the boundary layer are parametrised using the eddy diffusivity scheme of Lock (1998; 2001) scaled using cloud-top cooling rates. Mixing in stable boundary layers uses the local Richardson number first order closure of \citet{louis79} with stability dependent surface exchanges calculated using Monin-Obukhov Similarity. 
+
+\subsection{\citet{louis79}}
+
+\subsection{\citet{lock00}}
+
+\subsection{\citet{ecmwf18}}
+
+\subsection{\citet{bishop13}}
+
+\subsection{\citet{basu08}}
+
+\subsection{\citet{kumar06}}
+
+\subsection{\citet{zhang04}}
+Great resource on character of diurnal cycle of winds in the PBL. Performs a comparison of five different parametrisation schemes. 
+
+\subsection{\citet{holtslag13}}
+Great summary article. Discusses evaluation studies of \citet{svensson11}. ``The modeled diurnal cycle of the 10-m wind speed does not resemble the observations in many cases, most models overestimate the wind speed during night, and the speed does not increase enough after the morning transition (Fig. 8b)." Also noted the importance of associating forecast scores with degree of mixing etc (page 1701). 
+
+\subsection{\citet{hoxit75}}
+Provides good figures showing the diurnal evolution of wind speed and direction. 
+
+\subsection{\citet{englberger18}}
+Discusses effect of PBL diurnal cycle on the wake structure of wind turbines and wind farms. 
+
+\subsection{\citet{liu10}}
+PBL height. 
+
+\subsection{\citet{stensrud96}}
+Low level jets. 
+
+\subsection{\citet{svensson11}}
+Evaluation of model performance. Crucial article. 
+
+\subsection{\citet{zhang04}}
+Quotes Dai and Deser paper reporting diurnal variability of surface winds could account for 50-70$\%$ of total wind variability. 
+
+\subsection{\citet{mass02}}
+Discusses predictability, and errors growing when horizontal resolution is reduced. Claims arguments of \citet{lorenz69} may be overly pessimistic. Notes that some studies have argued errors in synoptic forcing may contribute more to mesoscale errors than the mesoscale processes/resolutions themselves. Rotation suppresses energy cascade even at mesoscales, e.g. in supercells! ``It is clear that additional approaches should join the current verification toolbox. For example, one could verify the maximum wind or 1-h rainfall predicted by a forecast model over the subsequent day at a location. Time-averaged or spatially averaged parameters as well as model variability could be evaluated. Temporal or spatial shifting of model fields could be used to verify model structures. If suitable objective verification approaches can be devised, it may be possible to demonstrate increased value of high-resolution NWP."
+
+\subsection{\citet{brooks93}}
+Sounds warning about failure to implement ensemble forecasting, and the continuous drive toward higher resolution NWP. 
+
+\subsection{\citet{lorenz69}}
+Discusses different spatial and temporal scales of predictable motion.   
+
+\subsection{\citet{lorenz82}}
+Discusses upper and lower bounds of predictability in ECMWF.
+
+\subsection{\citet{rife05}}
+Comments on the need for ``feature based" mesoscale verification. This assumes that a forecast resolving a feature is better than one that doesn't even if the feature is spatiotemporally displaced. \citet{ebert00} provides one example of a feature based verification method. \textcolor{red}{But in my context, the ``features" being resolved by the higher resolution models, i.e. the additional random turbulence, are precisely what we're \textit{not} interested in!} \textcolor{blue}{It appears that the greatest benefit of the finer resolution is an increased ability to resolve the statistics of different scales of motion. In the present context this translates into improved forecasts of temporal variance, with the implication that the growth of errors is more realistic in the finer resolution \citep{rife05}.}
+
+\subsection{\citet{pinson12}}
+Proposes station-oriented view of the verification problem (which is what we are doing). Notes that there is a ``representativeness issue" in that station-data is resolving processes at physical scales the model is infact not intended to resolve. Notes that from the users perspective this is irrelevant. \textit{How could forecasters or post-processing incorporate this uncertainty into the forecast?} Discusses in detail the bilinear interpolation process for downscaling forecast data to location of stations. \textit{What is Jive's procedure for doing this?} Forecasts are benchmarked against 1-6 climatology based forecasts. Notes that observational uncertainty is known to be non-negligible, while surface effects introduce additional noise beyond what the numerical models intend to represent (or are capable of representing.) Representativeness issue ignored here for above reasons. Notes one method of dealing with observational uncertainty when performing ensemble (probabilistic) forecast verification is by transforming observations into random variables. Impact of observational uncertainty can then be assessed using methods like those of Pappenberger et al.~(2009). Note that Pappenberger still applies only to probabilistic forecasting. 
+
+Very important - notes that the most poorly performing locations across Europe are the Alps and coastal regions, and that ``This could be expected since near-surface local effects [e.g. mountain and sea-breezes] are difficult to resolve at the fairly coarse resolution (50 km) of the ECMWF ensemble prediction system. [What is the spatial resolution of the ECMWF, ACCESS data used in GFE?] Authors comment on ``...questionable quality of the ensemble forecasts, for instance due to local effects not represented in a model with such a coarse spatial resolution". Could also be ensemble averaging process suppressing local processes.    
+
+Key discussion - ``The periodic nature of the RMSE curves is linked to the diurnal cycles in the wind speed magnitude, the amplitude of such periodicities varying throughout Europe. To identify better the effect of the diurnal cycle on verification statistics, one may refine the analysis performed here by verifying forecasts depending on the time of the day (instead of the lead time), or by making a difference between forecasts issued at 0000 and 1200 UTC." So diurnal cycles are mentioned in passing here - good reference to make.  
+
+Regarding observational uncertainty - the effect of uncertainty diminishes as the number of stations or the length of the evaluation period increases. ``This effect was observed to become negligible if looking at more than 100 stations over periods of more than a month (with two forecast series issued per day). For certain sites with strong local regimes though, one retrieves a more intuitive result that ensembles significantly underestimate wind speed.  
+
+\subsection{\citet{lynch14}}
+Focuses more on longer term forecasts. Interesting note that there is little difference in performance between 10m and 100m winds. Applies verification to forecast anomalies (from seasonal and diurnal cycles). SImilar approach to me, but work out average for each hour for each day of year, averaged over 32 years of ERA-Interim record. Note that I'm also avoiding the ``aritificial skill" associated with the seasonal cycle by restricting to just a particular season. I'm not convinced that seasonal skill is necessarily ``artificial" however! Both pinson and lynch use the CPRS score. Interesting notes on the large costs associated with wind farm station maintenance, and the need for probabilistic forecasts in order to manage these costs. 
+
+\subsection{\citet{ebert08}}
+Not easy to prove the value of mesoscale forecasts using traditional point-by-point verification results. At small scale features unpredictable - e.g. intermittant convective rainfall - in the example of winds the cold pool dynamics. Mesoscale forecasts typically verified against high-resolution gridded datasets, e.g. radar mosaics or reanalysis. Spatial verification techniques that do not require the forecasts to exactly match the observations at fine scales. Use of ``object oriented" techniques. The term `fuzzy' is consistent with the general concept of 'partial truth' introduced by Zadeh. Does Ebert's fuzzy scheme require gridded data? No. ``Fuzzy verification assumes that it is acceptable for the forecast to be slightly displaced and still be useful. Fuzzy concept can be applied in space or time. Really we're doing ``upscaling" rather than ``fuzzy" verification. Uncertainty in the observations represented by using neighbouring grid boxes. Less useful to me because ``event" framework not entirely appropriate to diurnal cycles. I am using an ``upscaling" approach. ``From the perspective of the forecast user, fuzzy verification gives important information on the scales and intensities at which the forecasts should be trusted."
+
+\subsection{\citet{ebert00}}
+N/A
+
+\subsection{\citet{yates06}}
+N/A
+
+\subsection{\citet{mason08}}
+Discusses practical methods for identifying in a yes/no sense whether a sea-breeze will occur. Discusses techniques for diagnosing speed and direction. Paper pretty old - would be good to have some references for up to date practices.  
+
+\subsection{\citet{ferro17}}
+Presents mathematical results regarding the calculation of verification statistics in the presence of observational error. 
+
+\subsection{\citet{wilks11}}
+Practical way to deal with autocorrelation is to think in terms of ``effective sample size" 
+\begin{equation}
+n' \approx n \frac{1-\rho_1}{1+\rho_1}.
+\end{equation} 
+Simply replace $n$ with $n'$ in appropriate places in $t$-test. 
 
 \section{Notes}
 
@@ -65,7 +156,22 @@ Interesting - at Melbourne ECMWF and ACCESS essentially agree, but both underest
 \item
 Adelaide - ACCESS and ECMWF almost match at Adelaide. Amplitudes generally slightly too weak compared to observations however. 
 \item
-Need to assume intependence of measurement and rounding error in observations. 
+Need to assume independence of measurement and rounding error in observations. 
+\item
+The two most important results of section \ref{Sec:Results} to explain are, first, why equations \ref{Eq:u} and \ref{Eq:v} provide such a good fit to the climatological perturbations and, second, why there are such substantial changes in the performance of the Official forecast at the different spatial and temporal scales. 
+
+The idea of applying an ellipse fit to the diurnal cycle of surface winds originated with \citet{haurwitz47}, and was later extended by \citet{kusuda83}, who obtained exact solutions for $u$ and $v$ resembling equations (\ref{Eq:u_h}) and (\ref{Eq:v_h}) for the simple model
+\begin{align}
+\frac{du}{dt} - fv + ku &= F_x - F(t), \label{Eq:h_u}\\
+\frac{dv}{dt} + fu + kv &= F_y, \label{Eq:h_v}
+\end{align}
+where $u$, $v$ are taken in a coordinate system where the $x$ axis is normal to the coast, $f$ is the Coriolis parameter, $k$ is a linear friction coefficient, $\left(F_x, F_y\right)$ represents a constant synoptic scale pressure gradient force, $\omega$ is the angular frequency of earth's rotation, and 
+\begin{equation}
+F(t) = \frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right)
+\end{equation}
+is the pressure gradient force normal to the coastline induced by the diurnally varying air temperature contrast over the land and sea surfaces. The obvious limitations of this model are discussed extensively by \citet{haurwitz47} and \citet{kusuda83}, but the most important for our purposes involve the choice of $F(t)$, which does not sufficiently capture the asymmetries between daytime heating and nighttime cooling \citep[e.g.][]{svensson11}, and the fact that the model has no vertical dimension, and therefore cannot capture the boundary layer mixing processes that play a significant role in the diurnal wind cycle \citep[e.g.][]{hoxit75}. \textcolor{red}{Note that I tried modifying the pressure perturbation terms $\frac{A}{\pi} + \frac{A}{2} \cos \left(\omega t\right)$ so that the new ellipse fit of equations (\ref{Eq:u}) and (\ref{Eq:v}) become solutions to equations (\ref{Eq:h_u}) and (\ref{Eq:h_v}), but with no luck. For example, simply changing to $F(t)$ to $\frac{A}{\pi} + \frac{A}{2} \cos \left(\alpha\left(\psi,t\right)\right)$ doesn't work, nor does expanding this expression as a Fourier series and solving each term individually.} 
+
+\citet{gille05} applied this fit to satellite scatterometer wind observations, which after temporal averaging provided only four temporal datapoints at each $0.25^\circ \times 0.25^\circ$ spatial grid cell. As such, their fit was very good, explaining over $90\%$ of the wind variability in each spatial gridcell. However, the choice of ellipse parametrisation in equations \ref{Eq:u} and \ref{Eq:v} assumes that datapoints lie on the ellipse at equal intervals of time $t$. When observational or model data with an hourly or smaller timestep is considered, this assumption becomes too stringent, as heating asymmetries imply that wind perturbations evolve much more rapidly during the day than at night (see Fig. XX). \textcolor{red}{Note I'm also basing this point on knowledge of the land vs sea breeze, and knowledge of heating vs cooling asymmetries \citep[][e.g.]{brown17}.} 
 \end{enumerate}
 
 \begin{comment}
@@ -81,81 +187,6 @@ Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure
 
 Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic verification methods are therefore not appropriate. 
 \end{comment}
-
-\section{Paper Summaries}
-
-\subsection{\citet{bom10}}
-ACCESS uses the scheme of \citet{lock00} for mixing in unstable layers. 7 classification types for boundary layers. Cumulus mixing uses the mass-flux convection scheme. Entrainment rates across the inversion at the top of the boundary layer are parametrised using the eddy diffusivity scheme of Lock (1998; 2001) scaled using cloud-top cooling rates. Mixing in stable boundary layers uses the local Richardson number first order closure of \citet{louis79} with stability dependent surface exchanges calculated using Monin-Obukhov Similarity. 
-
-\subsection{\citet{louis79}}
-
-\subsection{\citet{lock00}}
-
-\subsection{\citet{ecmwf18}}
-
-\subsection{\citet{bishop13}}
-
-\subsection{\citet{basu08}}
-
-\subsection{\citet{kumar06}}
-
-\subsection{\citet{zhang04}}
-Great resource on character of diurnal cycle of winds in the PBL. Performs a comparison of five different parametrisation schemes. 
-
-\subsection{\citet{holtslag13}}
-Great summary article. Discusses evaluation studies of \citet{svensson11}. ``The modeled diurnal cycle of the 10-m wind speed does not resemble the observations in many cases, most models overestimate the wind speed during night, and the speed does not increase enough after the morning transition (Fig. 8b)." Also noted the importance of associating forecast scores with degree of mixing etc (page 1701). 
-
-\subsection{\citet{hoxit75}}
-Provides good figures showing the diurnal evolution of wind speed and direction. 
-
-\subsection{\citet{englberger18}}
-Discusses effect of PBL diurnal cycle on the wake structure of wind turbines and wind farms. 
-
-\subsection{\citet{liu10}}
-PBL height. 
-
-\subsection{\citet{stensrud96}}
-Low level jets. 
-
-\subsection{\citet{svensson11}}
-Evaluation of model performance. Crucial article. 
-
-\subsection{\citet{zhang04}}
-Quotes Dai and Deser paper reporting diurnal variability of surface winds could account for 50-70$\%$ of total wind variability. 
-
-\subsection{\citet{pinson12}}
-Proposes station-oriented view of the verification problem (which is what we are doing). Notes that there is a ``representativeness issue" in that station-data is resolving processes at physical scales the model is infact not intended to resolve. Notes that from the users perspective this is irrelevant. \textit{How could forecasters or post-processing incorporate this uncertainty into the forecast?} Discusses in detail the bilinear interpolation process for downscaling forecast data to location of stations. \textit{What is Jive's procedure for doing this?} Forecasts are benchmarked against 1-6 climatology based forecasts. Notes that observational uncertainty is known to be non-negligible, while surface effects introduce additional noise beyond what the numerical models intend to represent (or are capable of representing.) Representativeness issue ignored here for above reasons. Notes one method of dealing with observational uncertainty when performing ensemble (probabilistic) forecast verification is by transforming observations into random variables. Impact of observational uncertainty can then be assessed using methods like those of Pappenberger et al.~(2009). Note that Pappenberger still applies only to probabilistic forecasting. 
-
-Very important - notes that the most poorly performing locations across Europe are the Alps and coastal regions, and that ``This could be expected since near-surface local effects [e.g. mountain and sea-breezes] are difficult to resolve at the fairly coarse resolution (50 km) of the ECMWF ensemble prediction system. [What is the spatial resolution of the ECMWF, ACCESS data used in GFE?] Authors comment on ``...questionable quality of the ensemble forecasts, for instance due to local effects not represented in a model with such a coarse spatial resolution". Could also be ensemble averaging process suppressing local processes.    
-
-Key discussion - ``The periodic nature of the RMSE curves is linked to the diurnal cycles in the wind speed magnitude, the amplitude of such periodicities varying throughout Europe. To identify better the effect of the diurnal cycle on verification statistics, one may refine the analysis performed here by verifying forecasts depending on the time of the day (instead of the lead time), or by making a difference between forecasts issued at 0000 and 1200 UTC." So diurnal cycles are mentioned in passing here - good reference to make.  
-
-Regarding observational uncertainty - the effect of uncertainty diminishes as the number of stations or the length of the evaluation period increases. ``This effect was observed to become negligible if looking at more than 100 stations over periods of more than a month (with two forecast series issued per day). For certain sites with strong local regimes though, one retrieves a more intuitive result that ensembles significantly underestimate wind speed.  
-
-\subsection{\citet{lynch14}}
-Focuses more on longer term forecasts. Interesting note that there is little difference in performance between 10m and 100m winds. Applies verification to forecast anomalies (from seasonal and diurnal cycles). SImilar approach to me, but work out average for each hour for each day of year, averaged over 32 years of ERA-Interim record. Note that I'm also avoiding the ``aritificial skill" associated with the seasonal cycle by restricting to just a particular season. I'm not convinced that seasonal skill is necessarily ``artificial" however! Both pinson and lynch use the CPRS score. Interesting notes on the large costs associated with wind farm station maintenance, and the need for probabilistic forecasts in order to manage these costs. 
-
-\subsection{\citet{ebert08}}
-Not easy to prove the value of mesoscale forecasts using traditional point-by-point verification results. At small scale features unpredictable - e.g. intermittant convective rainfall - in the example of winds the cold pool dynamics. Mesoscale forecasts typically verified against high-resolution gridded datasets, e.g. radar mosaics or reanalysis. Spatial verification techniques that do not require the forecasts to exactly match the observations at fine scales. Use of ``object oriented" techniques. The term `fuzzy' is consistent with the general concept of 'partial truth' introduced by Zadeh. Does Ebert's fuzzy scheme require gridded data? No. ``Fuzzy verification assumes that it is acceptable for the forecast to be slightly displaced and still be useful. Fuzzy concept can be applied in space or time. Really we're doing ``upscaling" rather than ``fuzzy" verification. Uncertainty in the observations represented by using neighbouring grid boxes. Less useful to me because ``event" framework not entirely appropriate to diurnal cycles. I am using an ``upscaling" approach. ``From the perspective of the forecast user, fuzzy verification gives important information on the scales and intensities at which the forecasts should be trusted."
-
-\subsection{\citet{ebert00}}
-N/A
-
-\subsection{\citet{yates06}}
-N/A
-
-\subsection{\citet{mason08}}
-Discusses practical methods for identifying in a yes/no sense whether a sea-breeze will occur. Discusses techniques for diagnosing speed and direction. Paper pretty old - would be good to have some references for up to date practices.  
-
-\subsection{\citet{ferro17}}
-Presents mathematical results regarding the calculation of verification statistics in the presence of observational error. 
-
-\subsection{\citet{wilks11}}
-Practical way to deal with autocorrelation is to think in terms of ``effective sample size" 
-\begin{equation}
-n' \approx n \frac{1-\rho_1}{1+\rho_1}.
-\end{equation} 
-Simply replace $n$ with $n'$ in appropriate places in $t$-test. 
 
 \subsection{\citet{miller03}}
 

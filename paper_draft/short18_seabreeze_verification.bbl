@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{31}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -36,6 +36,13 @@ Brown, A.~L., C.~L. Vincent, T.~P. Lane, E.~Short, and H.~Nguyen, 2017:
 Dai, A., and C.~Deser, 1999: Diurnal and semidiurnal variations in global
   surface wind and divergence fields. \textit{Journal of Geophysical Research},
   \textbf{104}, 31\,109--31\,125.
+
+\bibitem[{Ebert and McBride(2000)Ebert, and McBride}]{ebert00}
+Ebert, E., and J.~McBride, 2000: Verification of precipitation in weather
+  systems: determination of systematic errors. \textit{Journal of Hydrology},
+  \textbf{239~(1)}, 179 -- 202,
+  \doi{https://doi.org/10.1016/S0022-1694(00)00343-7},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0022169400003437}.
 
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
@@ -119,11 +126,26 @@ Lynch, K.~J., D.~J. Brayshaw, and A.~Charlton-Perez, 2014: Verification of
   \urlprefix\url{https://doi.org/10.1175/MWR-D-13-00341.1},
   \eprint{https://doi.org/10.1175/MWR-D-13-00341.1}.
 
+\bibitem[{Mass et~al.(2002)Mass, Ovens, Westrick,, and Colle}]{mass02}
+Mass, C.~F., D.~Ovens, K.~Westrick, and B.~A. Colle, 2002: Does increasing
+  horizontal resolution produce more skillful forecasts? \textit{Bulletin of
+  the American Meteorological Society}, \textbf{83~(3)}, 407--430,
+  \doi{10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2},
+  \urlprefix\url{https://doi.org/10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2},
+  \eprint{https://doi.org/10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2}.
+
 \bibitem[{Miller et~al.(2003)Miller, Keim, Talbot,, and Mao}]{miller03}
 Miller, S. T.~K., B.~D. Keim, R.~W. Talbot, and H.~Mao, 2003: Sea breeze:
   Structure, forecasting, and impacts. \textit{Reviews of Geophysics},
   \textbf{41~(3)}, \doi{10.1029/2003RG000124},
   \urlprefix\url{https://doi.org/10.1029/2003RG000124}.
+
+\bibitem[{Murphy(1991)}]{murphy90}
+Murphy, A.~H., 1991: Forecast verification: Its complexity and dimensionality.
+  \textit{Monthly Weather Review}, \textbf{119~(7)}, 1590--1601,
+  \doi{10.1175/1520-0493(1991)119<1590:FVICAD>2.0.CO;2},
+  \urlprefix\url{https://doi.org/10.1175/1520-0493(1991)119<1590:FVICAD>2.0.CO;2},
+  \eprint{https://doi.org/10.1175/1520-0493(1991)119<1590:FVICAD>2.0.CO;2}.
 
 \bibitem[{Physick and Abbs(1992)Physick, and Abbs}]{physick92}
 Physick, W.~L., and D.~J. Abbs, 1992: Flow and plume dispersion in a coastal
@@ -139,6 +161,13 @@ Pinson, P., and R.~Hagedorn, 2012: Verification of the ecmwf ensemble forecasts
   \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283},
   \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.283}.
 
+\bibitem[{Rife and Davis(2005)Rife, and Davis}]{rife05}
+Rife, D.~L., and C.~A. Davis, 2005: Verification of temporal variations in
+  mesoscale numerical wind forecasts. \textit{Monthly Weather Review},
+  \textbf{133~(11)}, 3368--3381, \doi{10.1175/MWR3052.1},
+  \urlprefix\url{https://doi.org/10.1175/MWR3052.1},
+  \eprint{https://doi.org/10.1175/MWR3052.1}.
+
 \bibitem[{{SciPy}(2019)}]{scipy19}
 {SciPy}, 2019: Optimization and root finding (scipy.optimize). {SciPy},
   [Available online at
@@ -150,6 +179,14 @@ Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
   single-column models: The second gabls experiment. \textit{Boundary-Layer
   Meteorology}, \textbf{140~(2)}, 177--206, \doi{10.1007/s10546-011-9611-7},
   \urlprefix\url{https://doi.org/10.1007/s10546-011-9611-7}.
+
+\bibitem[{Vincent and Lane(2016)Vincent, and Lane}]{vincent16}
+Vincent, C.~L., and T.~P. Lane, 2016: Evolution of the diurnal precipitation
+  cycle with the passage of a madden–julian oscillation event through the
+  maritime continent. \textit{Monthly Weather Review}, \textbf{144~(5)},
+  1983--2005, \doi{10.1175/MWR-D-15-0326.1},
+  \urlprefix\url{https://doi.org/10.1175/MWR-D-15-0326.1},
+  \eprint{https://doi.org/10.1175/MWR-D-15-0326.1}.
 
 \bibitem[{Wilks(2011)}]{wilks11}
 Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences.

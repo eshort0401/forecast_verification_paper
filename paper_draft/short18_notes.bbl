@@ -12,6 +12,12 @@ Bishop, C.~H. \harvardand\ Abramowitz, G.  \harvardyearleft
   paradigm', {\em Climate Dynamics} {\bf 41}(3),~885--900.
 \newline\harvardurl{https://doi.org/10.1007/s00382-012-1610-y}
 
+\harvarditem{Brooks \harvardand\ Doswell~III}{1993}{brooks93}
+Brooks, H.~E. \harvardand\ Doswell~III, C.~A.  \harvardyearleft
+  1993\harvardyearright , `New technology and numerical weather prediction —
+  a wasted opportunity?', {\em Weather} {\bf 48}(6),~173--177.
+\newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/j.1477-8696.1993.tb05877.x}
+
 \harvarditem{{Bureau of Meteorology}}{2010}{bom10}
 {Bureau of Meteorology}  \harvardyearleft 2010\harvardyearright , Operational
   implementation of the {ACCESS} numerical weather prediction systems,
@@ -91,6 +97,18 @@ Lock, A.~P., Brown, A.~R., Bush, M.~R., Martin, G.~M. \harvardand\ Smith, R.
   Monthly Weather Review} {\bf 128}(9),~3187--3199.
 \newline\harvardurl{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2}
 
+\harvarditem{Lorenz}{1969}{lorenz69}
+Lorenz, E.~N.  \harvardyearleft 1969\harvardyearright , `The predictability of
+  a flow which possesses many scales of motion', {\em Tellus} {\bf
+  21}(3),~289--307.
+\newline\harvardurl{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.2153-3490.1969.tb00444.x}
+
+\harvarditem{Lorenz}{1982}{lorenz82}
+Lorenz, E.~N.  \harvardyearleft 1982\harvardyearright , `Atmospheric
+  predictability experiments with a large numerical model', {\em Tellus} {\bf
+  34}(6),~505--513.
+\newline\harvardurl{https://doi.org/10.3402/tellusa.v34i6.10836}
+
 \harvarditem{Louis}{1979}{louis79}
 Louis, J.-F.  \harvardyearleft 1979\harvardyearright , `A parametric model of
   vertical eddy fluxes in the atmosphere', {\em Boundary-Layer Meteorology}
@@ -109,6 +127,14 @@ Mason, S.~J.  \harvardyearleft 2008\harvardyearright , `Understanding forecast
   verification statistics', {\em Meteor.\ Appl.} {\bf 15}(1),~31--40.
 \newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.51}
 
+\harvarditem[Mass et~al.]{Mass, Ovens, Westrick \harvardand\
+  Colle}{2002}{mass02}
+Mass, C.~F., Ovens, D., Westrick, K. \harvardand\ Colle, B.~A.
+  \harvardyearleft 2002\harvardyearright , `Does increasing horizontal
+  resolution produce more skillful forecasts?', {\em Bulletin of the American
+  Meteorological Society} {\bf 83}(3),~407--430.
+\newline\harvardurl{https://doi.org/10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2}
+
 \harvarditem[Miller et~al.]{Miller, Keim, Talbot \harvardand\
   Mao}{2003}{miller03}
 Miller, S. T.~K., Keim, B.~D., Talbot, R.~W. \harvardand\ Mao, H.
@@ -121,6 +147,12 @@ Pinson, P. \harvardand\ Hagedorn, R.  \harvardyearleft 2012\harvardyearright ,
   `Verification of the ecmwf ensemble forecasts of wind speed against analyses
   and observations', {\em Meteor.\ Appl.} {\bf 19}(4),~484--500.
 \newline\harvardurl{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283}
+
+\harvarditem{Rife \harvardand\ Davis}{2005}{rife05}
+Rife, D.~L. \harvardand\ Davis, C.~A.  \harvardyearleft 2005\harvardyearright ,
+  `Verification of temporal variations in mesoscale numerical wind forecasts',
+  {\em Monthly Weather Review} {\bf 133}(11),~3368--3381.
+\newline\harvardurl{https://doi.org/10.1175/MWR3052.1}
 
 \harvarditem[Smith et~al.]{Smith, Thresher, Zavadil, DeMeo, Piwko, Ernst
   \harvardand\ Ackermann}{2009}{smith09}
