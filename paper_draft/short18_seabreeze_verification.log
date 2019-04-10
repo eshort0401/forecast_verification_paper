@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  9 APR 2019 21:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  10 APR 2019 20:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -430,39 +430,32 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-
-LaTeX Warning: Reference `Fig:case_studies' on page 5 undefined on input line 1
-62.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-[8]
+[7] [8]
 \openout4 = `short18_seabreeze_verification.fff'.
 
  (short18_seabreeze_verification.fff)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-[10]
+Underfull \vbox (badness 1769) has occurred while \output is active []
+
+ [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-[13] [14]
+[13] [14] [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-[16]
+ [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
@@ -482,39 +475,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-[25]
+[24] [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
-(./short18_seabreeze_verification.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-[28] [29]
-Underfull \hbox (badness 1158) in paragraph at lines 112--118
+[28] (./short18_seabreeze_verification.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29]
+[30] [31]
+Underfull \hbox (badness 1158) in paragraph at lines 105--111
 \OT1/ptm/m/n/12 tal res-o-lu-tion pro-duce more skill-ful fore-casts? \OT1/ptm/
 m/it/12 Bul-letin of the Amer-i-can Me-te-o-ro-log-i-
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 112--118
+Underfull \hbox (badness 1292) in paragraph at lines 105--111
 \OT1/ptm/m/n/12 URL $https : / / doi . org / 10 . 1175 / 1520-[]0477(2002 ) 083
 \OMS/ztmcm/m/n/12 h\OT1/ptm/m/n/12 0407 : DIHRPM [] 2 . 3 . CO ; 2$, $https : /
  / doi . org /
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 133--138
+Underfull \hbox (badness 1147) in paragraph at lines 126--131
 \OT1/ptm/m/n/12 speed against anal-y-ses and ob-ser-va-tions. \OT1/ptm/m/it/12 
 Me-teor. Appl.\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 19 (4)\OT1/ptm/m/n/12 , 484--50
 0, doi:$10 . 1002 /
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 133--138
+Underfull \hbox (badness 1629) in paragraph at lines 126--131
 \OT1/ptm/m/n/12 met . 283$, URL $https : / / rmets . onlinelibrary . wiley . co
 m / doi / abs / 10 . 1002 / met . 283$, $https : / / rmets .
  []
@@ -522,8 +515,8 @@ m / doi / abs / 10 . 1002 / met . 283$, $https : / / rmets .
 
 Underfull \vbox (badness 1092) has occurred while \output is active []
 
- [30]
-[31]) AED endfloat: Processing end Figures and Tables [32]
+ [32])
+AED endfloat: Processing end Figures and Tables [33]
 (./short18_seabreeze_verification.lot
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -531,7 +524,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
 \tf@lot=\write6
 \openout6 = `short18_seabreeze_verification.lot'.
 
- [33
+ [34
 
 
 ]
@@ -540,7 +533,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-) [34]
+) [35]
 (./short18_seabreeze_verification.lof
 LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 2.
 
@@ -560,23 +553,19 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.77005> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.30006> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[35
-
-
-
-])
+)
 \tf@lof=\write7
 \openout7 = `short18_seabreeze_verification.lof'.
 
- [36] (./short18_seabreeze_verification.fff
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36
+
+
+
+]
+(./short18_seabreeze_verification.fff
 <map.pdf, id=127, 404.02913pt x 278.83702pt>
 File: map.pdf Graphic file (type pdf)
 <use map.pdf>
@@ -594,7 +583,7 @@ File: case_studies_nt.pdf Graphic file (type pdf)
 <use case_studies_nt.pdf>
 Package pdftex.def Info: case_studies_nt.pdf  used on input line 19.
 (pdftex.def)             Requested size: 228.0pt x 398.22316pt.
- [39 <./case_studies_nt.pdf>]
+[39 <./case_studies_nt.pdf>]
 <case_studies_wa.pdf, id=853, 202.01457pt x 341.43306pt>
 File: case_studies_wa.pdf Graphic file (type pdf)
 <use case_studies_wa.pdf>
@@ -624,8 +613,7 @@ File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
 Package pdftex.def Info: cwpi_coastal.pdf  used on input line 59.
 (pdftex.def)             Requested size: 468.0pt x 303.22862pt.
-
-[44 <./cwpi_coastal.pdf>]
+ [44 <./cwpi_coastal.pdf>]
 <clim_hodo.pdf, id=1025, 301.59921pt x 318.67087pt>
 File: clim_hodo.pdf Graphic file (type pdf)
 <use clim_hodo.pdf>
@@ -643,14 +631,14 @@ File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
 Package pdftex.def Info: r_squared.pdf  used on input line 83.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
-
-[47 <./r_squared.pdf>]
+ [47 <./r_squared.pdf>]
 <ellipse_fits.pdf, id=1145, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
 Package pdftex.def Info: ellipse_fits.pdf  used on input line 91.
 (pdftex.def)             Requested size: 468.0pt x 313.11652pt.
- [48 <./ellipse_fits.pdf>]
+
+[48 <./ellipse_fits.pdf>]
 <ellipse_hodo.pdf, id=1441, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
@@ -662,8 +650,7 @@ File: nt_ellipse_hodo.pdf Graphic file (type pdf)
 <use nt_ellipse_hodo.pdf>
 Package pdftex.def Info: nt_ellipse_hodo.pdf  used on input line 107.
 (pdftex.def)             Requested size: 468.0pt x 187.20029pt.
-
-[50 <./nt_ellipse_hodo.pdf>]
+ [50 <./nt_ellipse_hodo.pdf>]
 <error_decomp.pdf, id=1495, 404.02913pt x 233.3126pt>
 File: error_decomp.pdf Graphic file (type pdf)
 <use error_decomp.pdf>
@@ -675,23 +662,21 @@ File: error_decomp_v.pdf Graphic file (type pdf)
 <use error_decomp_v.pdf>
 Package pdftex.def Info: error_decomp_v.pdf  used on input line 123.
 (pdftex.def)             Requested size: 468.0pt x 276.8609pt.
-) [52 <./error_decomp_v.pdf>] (./short18_seabreeze_verification.aux)
+) [52 <./error_decomp_v.pdf>]
+(./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
 
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 4513 strings out of 492649
- 60922 string characters out of 6129623
- 139099 words of memory out of 5000000
- 8236 multiletter control sequences out of 15000+600000
- 68224 words of font info for 156 fonts, out of 8000000 for 9000
+ 4512 strings out of 492649
+ 60884 string characters out of 6129623
+ 138273 words of memory out of 5000000
+ 8233 multiletter control sequences out of 15000+600000
+ 68854 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,37p,2432b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,37p,2557b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -704,7 +689,7 @@ exmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (52 pages, 1483682 bytes).
+Output written on short18_seabreeze_verification.pdf (52 pages, 1487382 bytes).
 
 PDF statistics:
  1612 PDF objects out of 1728 (max. 8388607)

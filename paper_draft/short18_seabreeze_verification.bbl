@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -37,13 +37,6 @@ Brooks, H.~E., and C.~A. Doswell~III, 1993: New technology and numerical
 Dai, A., and C.~Deser, 1999: Diurnal and semidiurnal variations in global
   surface wind and divergence fields. \textit{Journal of Geophysical Research},
   \textbf{104}, 31\,109--31\,125.
-
-\bibitem[{Ebert and McBride(2000)Ebert, and McBride}]{ebert00}
-Ebert, E., and J.~McBride, 2000: Verification of precipitation in weather
-  systems: determination of systematic errors. \textit{Journal of Hydrology},
-  \textbf{239~(1)}, 179 -- 202,
-  \doi{https://doi.org/10.1016/S0022-1694(00)00343-7},
-  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0022169400003437}.
 
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a

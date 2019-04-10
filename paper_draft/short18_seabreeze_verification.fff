@@ -9,7 +9,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{wpi_coastal.pdf}
-\caption{Heatmaps of $\overline{\text{WPI}}$ values and confidence scores for each coastal station group and hour of the day: a) and b), Official versus ACCESS, c) and d) Official versus ECMWF, e) and f) ECMWF versus ACCESS. Positive $\overline{\text{WPI}}$ values mean that the former dataset in each pair is on average closer to observations than the latter dataset. Confidence scores provide the probability the population $\overline{\text{WPI}}$ is greater than zero. Values within the heatmaps are accurate to two significant figures.}
+\caption{Heatmaps of $\overline{\text{WPI}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group and hour of the day: Official versus ACCESS, a) and b), Official versus ECMWF, c) and d), ECMWF versus ACCESS, e) and f). Positive $\overline{\text{WPI}}$ values indicate that the former dataset in each pair is on average $\overline{\text{WPI}}$ kn closer to observations than the latter dataset is. Confidence scores provide the probability the population or ``true" value of $\overline{\text{WPI}}$ is greater than zero.}
 \label{Fig:wpi_coastal}
 \end{figure*}
 \efloatseparator
@@ -17,7 +17,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{case_studies_nt.pdf}
-\caption{Time series, a) and b), of $\overline{\text{WPI}}_\text{OA}$ and $\overline{\text{WPI}}_\text{OE}$ for, a), the NT station group at 23:00 UTC, and b), the south WA station group at 05:00 UTC. Hodographs, c) to f), showing change in winds, c) and e), and wind perturbations, d) and f), for the NT station group, c) and d), and south WA station group, e) and f).}
+\caption{Time series, a), of $\overline{\text{WPI}}_\text{OA}$ and $\overline{\text{WPI}}_\text{OE}$ for the NT station group at 23:00 UTC, and b), hodographs showing hourly changes in winds, and c), wind perturbations, at the NT station group on the 3\textsuperscript{rd} of July 2018.}
 \label{Fig:case_studies_nt}
 \end{figure}
 \efloatseparator
@@ -25,7 +25,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{case_studies_wa.pdf}
-\caption{Time series, a) and b), of $\overline{\text{WPI}}_\text{OA}$ and $\overline{\text{WPI}}_\text{OE}$ for, a), the NT station group at 23:00 UTC, and b), the south WA station group at 05:00 UTC. Hodographs, c) to f), showing change in winds, c) and e), and wind perturbations, d) and f), for the NT station group, c) and d), and south WA station group, e) and f).}
+\caption{As in Fig.~\ref{Fig:case_studies_nt}, but for, a), the South WA station group at 05:00 UTC, and b) and c), the winds and wind perturbations over the South WA station group on the 9\textsuperscript{th} June 2018.}
 \label{Fig:case_studies_wa}
 \end{figure}
 \efloatseparator
@@ -33,7 +33,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=33pc]{perth_sounding.pdf}
-\caption{Hodographs showing change in winds with height at, a), Darwin Airport, and b), Perth Airport.}
+\caption{Wind soundings at, a), Darwin Airport, and b), Perth Airport.}
 \label{Fig:perth_sounding}
 \end{figure*}
 \efloatseparator
@@ -41,7 +41,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{airport_wpi.pdf}
-\caption{The $\overline{\text{WPI}}_\text{OE}$ (Official versus ECMWF comparison) values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d), respectively.}
+\caption{The $\overline{\text{WPI}}_\text{OE}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and airport station groups, c) and d).}
 \label{Fig:airport_wpi}
 \end{figure*}
 \efloatseparator
@@ -49,7 +49,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{airport_wpi_EA.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{WPI}}_\text{EA}$ (ECMWF versus ACCESS comparison) values and confidence scores.}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the $\overline{\text{WPI}}_\text{EA}$ values and confidence scores.}
 \label{Fig:airport_wpi_EA}
 \end{figure*}
 \efloatseparator
@@ -65,7 +65,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=33pc]{clim_hodo.pdf}
-\caption{Climatological hodographs.}
+\caption{Average wind perturbations over June, July and August 2018 for the, a), North WA, b) South WA, c) NSW and d), SA coastal station groups.}
 \label{Fig:clim_hodo}
 \end{figure*}
 \efloatseparator
@@ -73,7 +73,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{airport_cwpi.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the cwpi values and confidence scores.}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the CWPI values and confidence scores.}
 \label{Fig:airport_cwpi}
 \end{figure*}
 \efloatseparator
@@ -81,7 +81,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{r_squared.pdf}
-\caption{\textcolor{red}{Could also provide an analogous figure showing the use of the function $\alpha$ provides a significant improvement over the basic ellipse fit - or instead just quote some numbers? Or maybe these figures are entirely unnecessary?}}
+\caption{$R^2$ values as percentages for the fit of equation (\ref{Eq:u}) to the zonal perturbations, a), c) and e), and equation (\ref{Eq:v}) to the meridional perturbations, b), d) and f), for the airport stations, a) and b), airport station groups, c) and d), and coastal station groups, e) and f).}
 \label{Fig:r_squared}
 \end{figure}
 \efloatseparator
@@ -89,7 +89,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{ellipse_fits.pdf}
-\caption{Ellipse fits. \textcolor{red}{If we were to include any analysis for alternative time periods (e.g. summer 2017/18 for contrast; or could do 18/19 if I were to go back to BoM to get the data) a copy of this figure could be a good choice. Could explain changes in diurnal cycle properties, e.g. amplitude, with seasonal changes to background winds, heating, etc. Note some issues with timing and amplitude values due to asymmetry - could instead just show eccentricity and orientation values?}}
+\caption{Metrics derived from fitting the elliptical equations (\ref{Eq:u}) and (\ref{Eq:v}) to the climatological perturbations: maximum perturbation speed, a), e) and i), eccentricity, b), f) and j), orientation, c), g) and k), and time of maximum perturbation, d), h) and l), for the airport stations, a) to d), airport station groups, e) to h), and coastal station groups, i) to l).}
 \label{Fig:ellipse_fits}
 \end{figure*}
 \efloatseparator
@@ -97,7 +97,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{ellipse_hodo.pdf}
-\caption{Ellipse fits. Could instead just provide one example.}
+\caption{Hodographs of the climatological perturbations at Brisbane and Hobart airports, a) and d), and the associated ellipse fits, b) and e). For comparison, c) and f) provide hodographs of the climatological perturbations at Spitfire Channel and Hobart (city), respectively.}
 \label{Fig:ellipse_hodo}
 \end{figure*}
 \efloatseparator
@@ -105,7 +105,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{nt_ellipse_hodo.pdf}
-\caption{Ellipse fits. \textcolor{red}{Could also include the ellipses, but this makes the figure very large.}}
+\caption{Hodographs of the climatological perturbations at, a), Darwin Airport, b) the Darwin Airport station group, and c), the NT coastal station group.}
 \label{Fig:nt_ellipse_hodo}
 \end{figure*}
 \efloatseparator
