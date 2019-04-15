@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  10 APR 2019 21:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  11 APR 2019 12:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -436,13 +436,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-[7] [8]
-\openout4 = `short18_seabreeze_verification.fff'.
-
- (short18_seabreeze_verification.fff)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [7]
+[8]
+\openout4 = `short18_seabreeze_verification.fff'.
+
+ (short18_seabreeze_verification.fff) [9]
 Underfull \vbox (badness 1769) has occurred while \output is active []
 
  [10]
@@ -452,7 +452,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
-[13] [14] [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+[14] [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
@@ -465,7 +468,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
-[20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
@@ -482,33 +487,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-[28] (./short18_seabreeze_verification.bbl [29] [30]
-Underfull \hbox (badness 1158) in paragraph at lines 105--111
-\OT1/ptm/m/n/12 tal res-o-lu-tion pro-duce more skill-ful fore-casts? \OT1/ptm/
-m/it/12 Bul-letin of the Amer-i-can Me-te-o-ro-log-i-
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [28]
+(./short18_seabreeze_verification.bbl
+Underfull \vbox (badness 1917) has occurred while \output is active []
 
-Underfull \hbox (badness 1292) in paragraph at lines 105--111
-\OT1/ptm/m/n/12 URL $https : / / doi . org / 10 . 1175 / 1520-[]0477(2002 ) 083
-\OMS/ztmcm/m/n/12 h\OT1/ptm/m/n/12 0407 : DIHRPM [] 2 . 3 . CO ; 2$, $https : /
- / doi . org /
- []
-
-[31]
-Underfull \hbox (badness 1147) in paragraph at lines 126--131
-\OT1/ptm/m/n/12 speed against anal-y-ses and ob-ser-va-tions. \OT1/ptm/m/it/12 
-Me-teor. Appl.\OT1/ptm/m/n/12 , \OT1/ptm/b/n/12 19 (4)\OT1/ptm/m/n/12 , 484--50
-0, doi:$10 . 1002 /
- []
-
-
-Underfull \hbox (badness 1629) in paragraph at lines 126--131
-\OT1/ptm/m/n/12 met . 283$, URL $https : / / rmets . onlinelibrary . wiley . co
-m / doi / abs / 10 . 1002 / met . 283$, $https : / / rmets .
- []
-
-[32]) AED endfloat: Processing end Figures and Tables [33]
+ [29]
+[30] [31]) AED endfloat: Processing end Figures and Tables [32]
 (./short18_seabreeze_verification.lot
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -516,7 +502,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
 \tf@lot=\write6
 \openout6 = `short18_seabreeze_verification.lot'.
 
- [34
+ [33
 
 
 ]
@@ -525,7 +511,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-) [35]
+) [34]
 (./short18_seabreeze_verification.lof
 LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 2.
 
@@ -553,7 +539,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[36
+[35
 
 
 
@@ -561,119 +547,119 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \tf@lof=\write7
 \openout7 = `short18_seabreeze_verification.lof'.
 
- [37] (./short18_seabreeze_verification.fff
-<map.pdf, id=131, 404.02913pt x 278.83702pt>
+ [36] (./short18_seabreeze_verification.fff
+<map.pdf, id=127, 404.02913pt x 278.83702pt>
 File: map.pdf Graphic file (type pdf)
 <use map.pdf>
 Package pdftex.def Info: map.pdf  used on input line 3.
 (pdftex.def)             Requested size: 468.0pt x 323.0044pt.
- [38 <./map.pdf>]
-<wpi_coastal.pdf, id=788, 404.02913pt x 261.76537pt>
+ [37 <./map.pdf>]
+<wpi_coastal.pdf, id=785, 404.02913pt x 261.76537pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
 Package pdftex.def Info: wpi_coastal.pdf  used on input line 11.
 (pdftex.def)             Requested size: 468.0pt x 303.22862pt.
- [39 <./wpi_coastal.pdf>]
-<case_studies_nt.pdf, id=837, 202.01457pt x 352.81418pt>
+ [38 <./wpi_coastal.pdf>]
+<case_studies_nt.pdf, id=834, 202.01457pt x 352.81418pt>
 File: case_studies_nt.pdf Graphic file (type pdf)
 <use case_studies_nt.pdf>
 Package pdftex.def Info: case_studies_nt.pdf  used on input line 19.
 (pdftex.def)             Requested size: 228.0pt x 398.22316pt.
- [40 <./case_studies_nt.pdf>]
-<case_studies_wa.pdf, id=856, 202.01457pt x 341.43306pt>
+ [39 <./case_studies_nt.pdf>]
+<case_studies_wa.pdf, id=853, 202.01457pt x 341.43306pt>
 File: case_studies_wa.pdf Graphic file (type pdf)
 <use case_studies_wa.pdf>
 Package pdftex.def Info: case_studies_wa.pdf  used on input line 27.
 (pdftex.def)             Requested size: 228.0pt x 385.37721pt.
- [41 <./case_studies_wa.pdf>]
-<perth_sounding.pdf, id=876, 335.74252pt x 182.09764pt>
+ [40 <./case_studies_wa.pdf>]
+<perth_sounding.pdf, id=872, 335.74252pt x 182.09764pt>
 File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
 Package pdftex.def Info: perth_sounding.pdf  used on input line 35.
 (pdftex.def)             Requested size: 396.0pt x 214.79277pt.
- [42 <./perth_sounding.pdf>]
-<airport_wpi.pdf, id=895, 404.02913pt x 193.47874pt>
+ [41 <./perth_sounding.pdf>]
+<airport_wpi.pdf, id=892, 404.02913pt x 193.47874pt>
 File: airport_wpi.pdf Graphic file (type pdf)
 <use airport_wpi.pdf>
 Package pdftex.def Info: airport_wpi.pdf  used on input line 43.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
- [43 <./airport_wpi.pdf>]
-<airport_wpi_EA.pdf, id=935, 404.02913pt x 193.47874pt>
+ [42 <./airport_wpi.pdf>]
+<airport_wpi_EA.pdf, id=931, 404.02913pt x 193.47874pt>
 File: airport_wpi_EA.pdf Graphic file (type pdf)
 <use airport_wpi_EA.pdf>
 Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 51.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
- [44 <./airport_wpi_EA.pdf>]
-<cwpi_coastal.pdf, id=979, 404.02913pt x 261.76537pt>
+ [43 <./airport_wpi_EA.pdf>]
+<cwpi_coastal.pdf, id=976, 404.02913pt x 261.76537pt>
 File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
 Package pdftex.def Info: cwpi_coastal.pdf  used on input line 59.
 (pdftex.def)             Requested size: 468.0pt x 303.22862pt.
 
-[45 <./cwpi_coastal.pdf>]
-<clim_hodo.pdf, id=1028, 301.59921pt x 318.67087pt>
+[44 <./cwpi_coastal.pdf>]
+<clim_hodo.pdf, id=1025, 301.59921pt x 318.67087pt>
 File: clim_hodo.pdf Graphic file (type pdf)
 <use clim_hodo.pdf>
 Package pdftex.def Info: clim_hodo.pdf  used on input line 67.
 (pdftex.def)             Requested size: 396.0pt x 418.41978pt.
- [46 <./clim_hodo.pdf>]
-<airport_cwpi.pdf, id=1062, 404.02913pt x 193.47874pt>
+ [45 <./clim_hodo.pdf>]
+<airport_cwpi.pdf, id=1059, 404.02913pt x 193.47874pt>
 File: airport_cwpi.pdf Graphic file (type pdf)
 <use airport_cwpi.pdf>
 Package pdftex.def Info: airport_cwpi.pdf  used on input line 75.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
- [47 <./airport_cwpi.pdf>]
-<r_squared.pdf, id=1101, 202.01457pt x 256.0748pt>
+ [46 <./airport_cwpi.pdf>]
+<r_squared.pdf, id=1098, 202.01457pt x 256.0748pt>
 File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
 Package pdftex.def Info: r_squared.pdf  used on input line 83.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
 
-[48 <./r_squared.pdf>]
-<ellipse_fits.pdf, id=1148, 404.02913pt x 270.3012pt>
+[47 <./r_squared.pdf>]
+<ellipse_fits.pdf, id=1145, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
 Package pdftex.def Info: ellipse_fits.pdf  used on input line 91.
 (pdftex.def)             Requested size: 468.0pt x 313.11652pt.
- [49 <./ellipse_fits.pdf>]
-<ellipse_hodo.pdf, id=1445, 290.21811pt x 216.24095pt>
+ [48 <./ellipse_fits.pdf>]
+<ellipse_hodo.pdf, id=1441, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
 Package pdftex.def Info: ellipse_hodo.pdf  used on input line 99.
 (pdftex.def)             Requested size: 468.0pt x 348.74109pt.
- [50 <./ellipse_hodo.pdf>]
-<nt_ellipse_hodo.pdf, id=1479, 298.75392pt x 119.50157pt>
+ [49 <./ellipse_hodo.pdf>]
+<nt_ellipse_hodo.pdf, id=1476, 298.75392pt x 119.50157pt>
 File: nt_ellipse_hodo.pdf Graphic file (type pdf)
 <use nt_ellipse_hodo.pdf>
 Package pdftex.def Info: nt_ellipse_hodo.pdf  used on input line 107.
 (pdftex.def)             Requested size: 468.0pt x 187.20029pt.
 
-[51 <./nt_ellipse_hodo.pdf>]
-<error_decomp.pdf, id=1498, 404.02913pt x 233.3126pt>
+[50 <./nt_ellipse_hodo.pdf>]
+<error_decomp.pdf, id=1495, 404.02913pt x 236.15787pt>
 File: error_decomp.pdf Graphic file (type pdf)
 <use error_decomp.pdf>
 Package pdftex.def Info: error_decomp.pdf  used on input line 115.
-(pdftex.def)             Requested size: 468.0pt x 270.269pt.
- [52 <./error_decomp.pdf>]
-<error_decomp_v.pdf, id=1535, 404.02913pt x 239.00314pt>
+(pdftex.def)             Requested size: 468.0pt x 273.56494pt.
+ [51 <./error_decomp.pdf>]
+<error_decomp_v.pdf, id=1532, 404.02913pt x 247.53897pt>
 File: error_decomp_v.pdf Graphic file (type pdf)
 <use error_decomp_v.pdf>
 Package pdftex.def Info: error_decomp_v.pdf  used on input line 123.
-(pdftex.def)             Requested size: 468.0pt x 276.8609pt.
-) [53 <./error_decomp_v.pdf>] (./short18_seabreeze_verification.aux)
+(pdftex.def)             Requested size: 468.0pt x 286.74878pt.
+) [52 <./error_decomp_v.pdf>] (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 4516 strings out of 492649
- 60905 string characters out of 6129623
- 140259 words of memory out of 5000000
- 8233 multiletter control sequences out of 15000+600000
+ 4519 strings out of 492649
+ 60971 string characters out of 6129623
+ 140290 words of memory out of 5000000
+ 8236 multiletter control sequences out of 15000+600000
  69906 words of font info for 162 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,37p,2557b,370s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,37p,2706b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -686,11 +672,11 @@ exmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/local/texlive/2018/texmf-dist/f
 onts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1
 /urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (53 pages, 1489236 bytes).
+Output written on short18_seabreeze_verification.pdf (52 pages, 1487884 bytes).
 
 PDF statistics:
- 1615 PDF objects out of 1728 (max. 8388607)
- 1064 compressed objects within 11 object streams
+ 1612 PDF objects out of 1728 (max. 8388607)
+ 1062 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 

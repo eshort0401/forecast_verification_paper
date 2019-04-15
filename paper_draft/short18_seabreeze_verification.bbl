@@ -1,4 +1,4 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{27}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -12,16 +12,12 @@
 \bibitem[{Abkar et~al.(2016)Abkar, Sharifi,, and Porté-Agel}]{abkar16}
 Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
   during a diurnal cycle. \textit{Journal of Turbulence}, \textbf{17~(4)},
-  420--441, \doi{10.1080/14685248.2015.1127379},
-  \urlprefix\url{https://doi.org/10.1080/14685248.2015.1127379},
-  \eprint{https://doi.org/10.1080/14685248.2015.1127379}.
+  420--441, \doi{10.1080/14685248.2015.1127379}.
 
 \bibitem[{Brooks and Doswell~III(1993)Brooks, and Doswell~III}]{brooks93}
 Brooks, H.~E., and C.~A. Doswell~III, 1993: New technology and numerical
   weather prediction — a wasted opportunity? \textit{Weather},
-  \textbf{48~(6)}, 173--177, \doi{10.1002/j.1477-8696.1993.tb05877.x},
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/j.1477-8696.1993.tb05877.x},
-  \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/j.1477-8696.1993.tb05877.x}.
+  \textbf{48~(6)}, 173--177, \doi{10.1002/j.1477-8696.1993.tb05877.x}.
 
 \bibitem[{{Bureau of Meteorology}(2010)}]{bom10}
 {Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
@@ -36,14 +32,12 @@ Brooks, H.~E., and C.~A. Doswell~III, 1993: New technology and numerical
 \bibitem[{Dai and Deser(1999)Dai, and Deser}]{dai99}
 Dai, A., and C.~Deser, 1999: Diurnal and semidiurnal variations in global
   surface wind and divergence fields. \textit{Journal of Geophysical Research},
-  \textbf{104}, 31\,109--31\,125.
+  \textbf{104}, 31\,109--31\,125, \doi{10.1029/1999JD900927}.
 
 \bibitem[{Ebert(2008)}]{ebert08}
 Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
   review and proposed framework. \textit{Meteor.\ Appl.}, \textbf{15~(1)},
-  51--64, \doi{10.1002/met.25},
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.25},
-  \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.25}.
+  51--64, \doi{10.1002/met.25}.
 
 \bibitem[{Efron(1979)}]{efron79}
 Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
@@ -52,23 +46,21 @@ Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
 \bibitem[{Englberger and D{\"o}rnbrack(2018)Englberger, and
   D{\"o}rnbrack}]{englberger18}
 Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
-  atmospheric boundary layer on wind-turbine wakes: A numerical modelling
+  atmospheric boundary layer on wind-turbine wakes: a numerical modelling
   study. \textit{Boundary-Layer Meteorology}, \textbf{166~(3)}, 423--448,
-  \doi{10.1007/s10546-017-0309-3},
-  \urlprefix\url{https://doi.org/10.1007/s10546-017-0309-3}.
+  \doi{10.1007/s10546-017-0309-3}.
 
 \bibitem[{{European Center for Medium Range Weather
   Forecasting}(2018)}]{ecmwf18}
-{European Center for Medium Range Weather Forecasting}, 2018: \textit{Part {IV}
-  : Physical processes}. No.~4, IFS Documentation, {European Center for Medium
-  Range Weather Forecasting}, [Available online at
+{European Center for Medium Range Weather Forecasting}, 2018: \textit{Part
+  {IV}: Physical processes}. No.~4, IFS Documentation, {European Center for
+  Medium Range Weather Forecasting}, [Available online at
   \url{https://www.ecmwf.int/node/18714}].
 
 \bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
 Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
   observations of the land breeze. \textit{{Geophysical Research Letters}},
-  \textbf{32~(5)}, \doi{10.1029/2004GL022139},
-  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2004GL022139}.
+  \textbf{32~(5)}, \doi{10.1029/2004GL022139}.
 
 \bibitem[{Griffiths et~al.(2017)Griffiths, Jack, Foley, Ioannou,, and
   Liu}]{griffiths17}
@@ -83,95 +75,79 @@ Lee, X., 2018: \textit{Fundamentals of boundary-layer meteorology.} Springer
 
 \bibitem[{Lock et~al.(2000)Lock, Brown, Bush, Martin,, and Smith}]{lock00}
 Lock, A.~P., A.~R. Brown, M.~R. Bush, G.~M. Martin, and R.~N.~B. Smith, 2000: A
-  new boundary layer mixing scheme. part i: Scheme description and
+  new boundary layer mixing scheme. {Part I:} scheme description and
   single-column model tests. \textit{Monthly Weather Review}, \textbf{128~(9)},
-  3187--3199, \doi{10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2},
-  \urlprefix\url{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2},
-  \eprint{https://doi.org/10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2}.
+  3187--3199, \doi{10.1175/1520-0493(2000)128<3187:ANBLMS>2.0.CO;2}.
 
 \bibitem[{Louis(1979)}]{louis79}
 Louis, J.-F., 1979: A parametric model of vertical eddy fluxes in the
   atmosphere. \textit{Boundary-Layer Meteorology}, \textbf{17~(2)}, 187--202,
-  \doi{10.1007/BF00117978}, \urlprefix\url{https://doi.org/10.1007/BF00117978}.
+  \doi{10.1007/BF00117978}.
 
 \bibitem[{Lynch et~al.(2014)Lynch, Brayshaw,, and Charlton-Perez}]{lynch14}
 Lynch, K.~J., D.~J. Brayshaw, and A.~Charlton-Perez, 2014: Verification of
-  european subseasonal wind speed forecasts. \textit{Monthly Weather Review},
-  \textbf{142~(8)}, 2978--2990, \doi{10.1175/MWR-D-13-00341.1},
-  \urlprefix\url{https://doi.org/10.1175/MWR-D-13-00341.1},
-  \eprint{https://doi.org/10.1175/MWR-D-13-00341.1}.
+  {European} subseasonal wind speed forecasts. \textit{Monthly Weather Review},
+  \textbf{142~(8)}, 2978--2990, \doi{10.1175/MWR-D-13-00341.1}.
 
 \bibitem[{Mass et~al.(2002)Mass, Ovens, Westrick,, and Colle}]{mass02}
 Mass, C.~F., D.~Ovens, K.~Westrick, and B.~A. Colle, 2002: Does increasing
   horizontal resolution produce more skillful forecasts? \textit{Bulletin of
   the American Meteorological Society}, \textbf{83~(3)}, 407--430,
-  \doi{10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2},
-  \urlprefix\url{https://doi.org/10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2},
-  \eprint{https://doi.org/10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2}.
+  \doi{10.1175/1520-0477(2002)083<0407:DIHRPM>2.3.CO;2}.
 
 \bibitem[{Miller et~al.(2003)Miller, Keim, Talbot,, and Mao}]{miller03}
 Miller, S. T.~K., B.~D. Keim, R.~W. Talbot, and H.~Mao, 2003: Sea breeze:
   Structure, forecasting, and impacts. \textit{Reviews of Geophysics},
-  \textbf{41~(3)}, \doi{10.1029/2003RG000124},
-  \urlprefix\url{https://doi.org/10.1029/2003RG000124}.
+  \textbf{41~(3)}, \doi{10.1029/2003RG000124}.
 
 \bibitem[{Physick and Abbs(1992)Physick, and Abbs}]{physick92}
 Physick, W.~L., and D.~J. Abbs, 1992: Flow and plume dispersion in a coastal
   valley. \textit{Journal of Applied Meteorology}, \textbf{31~(1)}, 64--73,
-  \doi{10.1175/1520-0450(1992)031<0064:FAPDIA>2.0.CO;2},
-  \urlprefix\url{https://doi.org/10.1175/1520-0450(1992)031<0064:FAPDIA>2.0.CO;2},
-  \eprint{https://doi.org/10.1175/1520-0450(1992)031<0064:FAPDIA>2.0.CO;2}.
+  \doi{10.1175/1520-0450(1992)031<0064:FAPDIA>2.0.CO;2}.
 
 \bibitem[{Pinson and Hagedorn(2012)Pinson, and Hagedorn}]{pinson12}
-Pinson, P., and R.~Hagedorn, 2012: Verification of the ecmwf ensemble forecasts
-  of wind speed against analyses and observations. \textit{Meteor.\ Appl.},
-  \textbf{19~(4)}, 484--500, \doi{10.1002/met.283},
-  \urlprefix\url{https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/met.283},
-  \eprint{https://rmets.onlinelibrary.wiley.com/doi/pdf/10.1002/met.283}.
+Pinson, P., and R.~Hagedorn, 2012: Verification of the {ECMWF} ensemble
+  forecasts of wind speed against analyses and observations. \textit{Meteor.\
+  Appl.}, \textbf{19~(4)}, 484--500, \doi{10.1002/met.283}.
 
 \bibitem[{Rife and Davis(2005)Rife, and Davis}]{rife05}
 Rife, D.~L., and C.~A. Davis, 2005: Verification of temporal variations in
   mesoscale numerical wind forecasts. \textit{Monthly Weather Review},
-  \textbf{133~(11)}, 3368--3381, \doi{10.1175/MWR3052.1},
-  \urlprefix\url{https://doi.org/10.1175/MWR3052.1},
-  \eprint{https://doi.org/10.1175/MWR3052.1}.
+  \textbf{133~(11)}, 3368--3381, \doi{10.1175/MWR3052.1}.
 
 \bibitem[{{SciPy}(2019)}]{scipy19}
 {SciPy}, 2019: Optimization and root finding (scipy.optimize). {SciPy},
   [Available online at
   \url{https://docs.scipy.org/doc/scipy/reference/optimize.html}].
 
+\bibitem[{Short(2019)}]{shortGitVeri19}
+Short, E., 2019: eshort0401/forecast\_verification\_paper. {GitHub}, [Available
+  online at \url{https://github.com/eshort0401/forecast_verification_paper}].
+
 \bibitem[{Svensson et~al.(2011)}]{svensson11}
 Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
   atmospheric boundary layer over land as represented by a variety of
-  single-column models: The second gabls experiment. \textit{Boundary-Layer
-  Meteorology}, \textbf{140~(2)}, 177--206, \doi{10.1007/s10546-011-9611-7},
-  \urlprefix\url{https://doi.org/10.1007/s10546-011-9611-7}.
+  single-column models: The second {GABLS} experiment. \textit{Boundary-Layer
+  Meteorology}, \textbf{140~(2)}, 177--206, \doi{10.1007/s10546-011-9611-7}.
 
 \bibitem[{Vincent and Lane(2016)Vincent, and Lane}]{vincent16}
 Vincent, C.~L., and T.~P. Lane, 2016: Evolution of the diurnal precipitation
-  cycle with the passage of a madden–julian oscillation event through the
-  maritime continent. \textit{Monthly Weather Review}, \textbf{144~(5)},
-  1983--2005, \doi{10.1175/MWR-D-15-0326.1},
-  \urlprefix\url{https://doi.org/10.1175/MWR-D-15-0326.1},
-  \eprint{https://doi.org/10.1175/MWR-D-15-0326.1}.
+  cycle with the passage of a {Madden–Julian Oscillation} event through the
+  {Maritime Continent}. \textit{Monthly Weather Review}, \textbf{144~(5)},
+  1983--2005, \doi{10.1175/MWR-D-15-0326.1}.
 
 \bibitem[{Wilks(2011)}]{wilks11}
-Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences.
-  [electronic resource].} International geophysics series: v. 100, Elsevier.
+Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences}.
+  International geophysics series: v. 100, Elsevier.
 
 \bibitem[{Zaron and Egbert(2006)Zaron, and Egbert}]{zaron06}
 Zaron, E.~D., and G.~D. Egbert, 2006: Estimating open-ocean barotropic tidal
   dissipation: The hawaiian ridge. \textit{Journal of Physical Oceanography},
-  \textbf{36~(6)}, 1019--1035, \doi{10.1175/JPO2878.1},
-  \urlprefix\url{https://doi.org/10.1175/JPO2878.1},
-  \eprint{https://doi.org/10.1175/JPO2878.1}.
+  \textbf{36~(6)}, 1019--1035, \doi{10.1175/JPO2878.1}.
 
 \bibitem[{Zwiers and von Storch(1995)Zwiers, and von Storch}]{zwiers95}
 Zwiers, F.~W., and H.~von Storch, 1995: Taking serial correlation into account
   in tests of the mean. \textit{Journal of Climate}, \textbf{8~(2)}, 336--351,
-  \doi{10.1175/1520-0442(1995)008<0336:TSCIAI>2.0.CO;2},
-  \urlprefix\url{https://doi.org/10.1175/1520-0442(1995)008<0336:TSCIAI>2.0.CO;2},
-  \eprint{https://doi.org/10.1175/1520-0442(1995)008<0336:TSCIAI>2.0.CO;2}.
+  \doi{10.1175/1520-0442(1995)008<0336:TSCIAI>2.0.CO;2}.
 
 \end{thebibliography}
