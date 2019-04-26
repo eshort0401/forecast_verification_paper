@@ -4,44 +4,44 @@ The top-level auxiliary file: short18_seabreeze_verification.aux
 The style file: ametsoc2014.bst
 Database file #1: ./references.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
-You've used 28 entries,
+You've used 29 entries,
             3493 wiz_defined-function locations,
-            1049 strings with 12165 characters,
-and the built_in function-call counts, 24754 in all, are:
-= -- 2798
-> -- 684
-< -- 22
-+ -- 406
-- -- 174
-* -- 1323
-:= -- 2689
-add.period$ -- 58
-call.type$ -- 28
-change.case$ -- 206
-chr.to.int$ -- 27
-cite$ -- 28
-duplicate$ -- 2553
-empty$ -- 1524
-format.name$ -- 237
-if$ -- 5077
+            1054 strings with 12442 characters,
+and the built_in function-call counts, 25246 in all, are:
+= -- 2840
+> -- 695
+< -- 25
++ -- 410
+- -- 177
+* -- 1349
+:= -- 2761
+add.period$ -- 61
+call.type$ -- 29
+change.case$ -- 212
+chr.to.int$ -- 28
+cite$ -- 29
+duplicate$ -- 2604
+empty$ -- 1564
+format.name$ -- 241
+if$ -- 5178
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 283
-newline$ -- 95
-num.names$ -- 112
-pop$ -- 1004
+missing$ -- 294
+newline$ -- 98
+num.names$ -- 116
+pop$ -- 1024
 preamble$ -- 1
-purify$ -- 169
+purify$ -- 174
 quote$ -- 0
-skip$ -- 1429
+skip$ -- 1445
 stack$ -- 0
-substring$ -- 1129
-swap$ -- 1984
-text.length$ -- 2
+substring$ -- 1142
+swap$ -- 2008
+text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 240
+type$ -- 249
 warning$ -- 0
-while$ -- 123
+while$ -- 126
 width$ -- 0
-write$ -- 346
+write$ -- 359

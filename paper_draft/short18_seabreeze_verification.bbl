@@ -1,4 +1,4 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -21,9 +21,17 @@ Brooks, H.~E., and C.~A. Doswell~III, 1993: New technology and numerical
 
 \bibitem[{{Bureau of Meteorology}(2010)}]{bom10}
 {Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
-  numerical weather prediction systems. Tech. rep., {Bureau of Meteorology},
-  Melbourne, Victoria. [Available online at
-  \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf}].
+  numerical weather prediction systems. Tech. Rep. NMOC Operations Bulletin No.
+  83, {Bureau of Meteorology}, Melbourne, Victoria. [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf} - Accessed
+  25/04/2019].
+
+\bibitem[{{Bureau of Meteorology}(2016)}]{bom16}
+{Bureau of Meteorology}, 2016: {APS2} upgrade to the {ACCESS-R} numerical
+  weather prediction system. Tech. Rep. BNOC Operations Bulletin No. 104,
+  {Bureau of Meteorology}, Melbourne, Victoria. [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/apob107-external.pdf} -
+  Accessed 25/04/2019].
 
 \bibitem[{{Bureau of Meteorology}(2019)}]{bomMetEye19}
 {Bureau of Meteorology}, 2019: Meteye. {Bureau of Meteorology}, [Available
