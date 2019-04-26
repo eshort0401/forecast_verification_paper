@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{28}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -51,11 +51,19 @@ Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
   \doi{10.1007/s10546-017-0309-3}.
 
 \bibitem[{{European Center for Medium Range Weather
-  Forecasting}(2018)}]{ecmwf18}
-{European Center for Medium Range Weather Forecasting}, 2018: \textit{Part
-  {IV}: Physical processes}. No.~4, IFS Documentation, {European Center for
-  Medium Range Weather Forecasting}, [Available online at
-  \url{https://www.ecmwf.int/node/18714}].
+  Forecasting}(2018{\natexlab{a}})}]{ecmwf19a}
+{European Center for Medium Range Weather Forecasting}, 2018{\natexlab{a}}:
+  \textit{Part {IV}: Physical processes}, 223. No.~4, IFS Documentation,
+  {European Center for Medium Range Weather Forecasting}, [Available online at
+  \url{https://www.ecmwf.int/node/18714} - Accessed 25 April 2019].
+
+\bibitem[{{European Center for Medium Range Weather
+  Forecasting}(2018{\natexlab{b}})}]{ecmwf19b}
+{European Center for Medium Range Weather Forecasting}, 2018{\natexlab{b}}:
+  \textit{Part V : Ensemble prediction system}, 23. No.~5, IFS Documentation,
+  {European Center for Medium Range Weather Forecasting},
+  \urlprefix\url{https://www.ecmwf.int/node/18715}, [Available online at
+  \url{https://www.ecmwf.int/node/18714} - Accessed 25 April 2019].
 
 \bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
 Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
