@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  14 MAY 2019 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  14 MAY 2019 22:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -529,43 +529,48 @@ File: nt_ellipse_hodo.pdf Graphic file (type pdf)
 <use nt_ellipse_hodo.pdf>
 Package pdftex.def Info: nt_ellipse_hodo.pdf  used on input line 340.
 (pdftex.def)             Requested size: 468.0pt x 187.20029pt.
-<error_Official.pdf, id=954, 389.80276pt x 241.84843pt>
-File: error_Official.pdf Graphic file (type pdf)
-<use error_Official.pdf>
-Package pdftex.def Info: error_Official.pdf  used on input line 360.
-(pdftex.def)             Requested size: 468.0pt x 290.37903pt.
 [12 <./airport_cwpi.pdf> <./r_squared.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./r_squared.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
+<error_decomp_sa.pdf, id=1035, 404.02913pt x 236.15787pt>
+File: error_decomp_sa.pdf Graphic file (type pdf)
+<use error_decomp_sa.pdf>
+Package pdftex.def Info: error_decomp_sa.pdf  used on input line 362.
+(pdftex.def)             Requested size: 468.0pt x 273.56494pt.
+
+
+LaTeX Warning: Reference `Fig:error_Official' on page 13 undefined on input lin
+e 367.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Reference `Fig:wpi:coastal' on page 13 undefined on input line 3
-69.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13 <./ellipse_fits.pdf>]
 
+LaTeX Warning: Reference `Fig:wpi:coastal' on page 14 undefined on input line 3
+71.
+
+
 LaTeX Warning: Reference `Fig:error_decomp_v' on page 14 undefined on input lin
-e 371.
+e 373.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
 []\OT1/ptm/m/n/9.85 At Dar-win Air-port, $[] []$ ex-ceeds
  []
 
 
-Underfull \hbox (badness 5036) in paragraph at lines 371--372
+Underfull \hbox (badness 5036) in paragraph at lines 373--374
 [] []$ \OT1/ptm/m/n/9.85 from 04:00 to 16:00 UTC due to
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 371--372
+Underfull \hbox (badness 2173) in paragraph at lines 373--374
 [] []$ \OT1/ptm/m/n/9.85 ex-ceeds $[] []$ due to larger
  []
 
@@ -581,30 +586,42 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15 <./nt_ellipse_hodo.pdf> <./error_Official.pdf
+ [15 <./nt_ellipse_hodo.pdf> <./error_decomp_sa.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./error_Official.pdf): PDF i
-nclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./error_decomp_sa.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
 >]
 <error_ECMWF.pdf, id=1415, 392.64803pt x 239.00314pt>
 File: error_ECMWF.pdf Graphic file (type pdf)
 <use error_ECMWF.pdf>
-Package pdftex.def Info: error_ECMWF.pdf  used on input line 383.
+Package pdftex.def Info: error_ECMWF.pdf  used on input line 385.
 (pdftex.def)             Requested size: 468.0pt x 284.88406pt.
+
+
+LaTeX Warning: Reference `Fig:error_Official' on page 16 undefined on input lin
+e 386.
+
 
 Underfull \vbox (badness 2229) has occurred while \output is active []
 
  [16]
+Underfull \vbox (badness 4378) has occurred while \output is active []
+
 <error_ACCESS.pdf, id=1419, 389.80276pt x 241.84843pt>
 File: error_ACCESS.pdf Graphic file (type pdf)
 <use error_ACCESS.pdf>
-Package pdftex.def Info: error_ACCESS.pdf  used on input line 406.
+Package pdftex.def Info: error_ACCESS.pdf  used on input line 408.
 (pdftex.def)             Requested size: 468.0pt x 290.37903pt.
 
-Underfull \vbox (badness 4378) has occurred while \output is active []
 
- [17 <./error_ECMWF.pdf>] [18 <./error_ACCESS.pdf>]
-Underfull \hbox (badness 3769) in paragraph at lines 445--446
+LaTeX Warning: Reference `Fig:error_Official' on page 17 undefined on input lin
+e 409.
+
+[17 <./error_ECMWF.pdf>]
+Underfull \vbox (badness 4792) has occurred while \output is active []
+
+ [18 <./error_ACCESS.pdf>]
+Underfull \hbox (badness 3769) in paragraph at lines 447--448
 \OT1/ptm/m/n/9.85 vided for Ewan Short by the Aus-tralian Re-search
  []
 
@@ -628,10 +645,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4067 strings out of 492649
- 54203 string characters out of 6129623
- 141847 words of memory out of 5000000
- 7800 multiletter control sequences out of 15000+600000
+ 4068 strings out of 492649
+ 54229 string characters out of 6129623
+ 140847 words of memory out of 5000000
+ 7801 multiletter control sequences out of 15000+600000
  72349 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,37p,2094b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -648,7 +665,7 @@ e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (20 pages, 1850089 bytes).
+Output written on short18_seabreeze_verification.pdf (20 pages, 1850957 bytes).
 
 PDF statistics:
  3881 PDF objects out of 4296 (max. 8388607)
