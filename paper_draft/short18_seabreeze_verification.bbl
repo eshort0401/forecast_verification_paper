@@ -59,18 +59,10 @@ Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
   \doi{10.1007/s10546-017-0309-3}.
 
 \bibitem[{{European Center for Medium Range Weather
-  Forecasting}(2018{\natexlab{a}})}]{ecmwf19a}
-{European Center for Medium Range Weather Forecasting}, 2018{\natexlab{a}}:
-  \textit{Part {IV}: Physical processes}, 223. No.~4, IFS Documentation,
-  {European Center for Medium Range Weather Forecasting}, [Available online at
-  \url{https://www.ecmwf.int/node/18714} - Accessed 25 April 2019].
-
-\bibitem[{{European Center for Medium Range Weather
-  Forecasting}(2018{\natexlab{b}})}]{ecmwf19b}
-{European Center for Medium Range Weather Forecasting}, 2018{\natexlab{b}}:
-  \textit{Part V : Ensemble prediction system}, 23. No.~5, IFS Documentation,
-  {European Center for Medium Range Weather Forecasting},
-  \urlprefix\url{https://www.ecmwf.int/node/18715}, [Available online at
+  Forecasting}(2018)}]{ecmwf19a}
+{European Center for Medium Range Weather Forecasting}, 2018: \textit{Part
+  {IV}: Physical processes}, 223. No.~4, IFS Documentation, {European Center
+  for Medium Range Weather Forecasting}, [Available online at
   \url{https://www.ecmwf.int/node/18714} - Accessed 25 April 2019].
 
 \bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
@@ -115,6 +107,12 @@ Mass, C.~F., D.~Ovens, K.~Westrick, and B.~A. Colle, 2002: Does increasing
 Miller, S. T.~K., B.~D. Keim, R.~W. Talbot, and H.~Mao, 2003: Sea breeze:
   Structure, forecasting, and impacts. \textit{Reviews of Geophysics},
   \textbf{41~(3)}, \doi{10.1029/2003RG000124}.
+
+\bibitem[{Modigliani and Maass(2017)Modigliani, and Maass}]{ecmwf19c}
+Modigliani, U., and C.~Maass, 2017: Detailed information of implementation of
+  {IFS} cycle 41r2. {ECMWF}, [Available online at
+  \url{https://confluence.ecmwf.int/display/FCST/Detailed+information+of+implementation+of+IFS+cycle+41r2}
+  - Accessed 27/04/2019].
 
 \bibitem[{Physick and Abbs(1992)Physick, and Abbs}]{physick92}
 Physick, W.~L., and D.~J. Abbs, 1992: Flow and plume dispersion in a coastal
