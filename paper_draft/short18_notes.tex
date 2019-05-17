@@ -188,7 +188,85 @@ Although they have similar definitions, $\overline{\text{WPI}}$ and CWPI measure
 Note that the Bureau has not yet moved to ensemble forecasting - and probabilistic verification methods are therefore not appropriate. 
 \end{comment}
 
-\subsection{\citet{miller03}}
+
+the Adelaide Airport and Adelaide Airport station group results in Fig.~\ref{Fig:error_decomp_sa} can be explained by the fact that 
+
+  Similar observations can be made for other locations considered in this study, with the exception of the NT station groups, where zonal biases in ECMWF at around 02:00 UTC at all three spatial scales explain why Official outperforms ECMWF around this time in the WPI results of Figs.~\ref{Fig:wpi_coastal} c) and d), and Fig.~\ref{Fig:airport_wpi}.           
+
+perturbations are much greater than those of ECMWF, At the scale of the individual airport station, the variance of the AWS perturbations is much larger than any of the other datasets, but this difference in variability decreases at coarser spatial scales. At the airport station scale, the additional variability in AWS is mostly uncorrelated to Official or ECMWF, explaining the noisy results of Figs.~\ref{Fig:airport_wpi} a) and b). At the intermediate airport station group scale, the variances of
+
+
+
+Applying equation (\ref{Eq:MSE}) to each dataset reveals that at all scales, the variances of the Official perturbations are much greater than those of ECMWF, At the scale of the individual airport station, the variance of the AWS perturbations is much larger than any of the other datasets, but this difference in variability decreases at coarser spatial scales. At the airport station scale, the additional variability in AWS is mostly uncorrelated to Official or ECMWF, explaining the noisy results of Figs.~\ref{Fig:airport_wpi} a) and b). At the intermediate airport station group scale, the variances of the AWS perturbations are of similar magnitude to those of Official, but larger than those of ECMWF, explaining ECMWFs almost complete outperformance of Official in Figs.~\ref{Fig:airport_wpi} c) and d)             
+
+to each dataset reveals that ECMWF generally outperforms Official in the airport station group results of Figs.~\ref{Fig:airport_wpi} c) and d) 
+
+
+Figure \ref{Fig:error_Official} shows each term in the mean square error (MSE) decomposition of equation (\ref{Eq:MSE}) for Darwin Airport, the Darwin Airport station group, and the NT coastal station group. These station groups provide interesting examples, as Fig.~\ref{Fig:airport_wpi} indicates that in this region at small scales the Official forecast produces lower absolute errors than ECMWF at around 02:00 UTC, in contrast to most other locations. At Darwin airport, the MSE is dominated by the variance terms, although the contribution of the variance terms to the MSE is reduced after averaging over either the Darwin Airport or NT coastal station groups, with the bias terms now dominant at certain times. Figure \ref{Fig:nt_ellipse_hodo} b) and c) shows that the biases in the zonal and meridional perturbations at the two larger scales reflect amplitude and direction biases in Official's temporal hodograph, likely resulting from forecaster edits that overly strengthen the sea-breeze. 
+
+Figure \ref{Fig:error_ECMWF} provides the analogous MSE decompositions for ECMWF. The variance of the ECMWF perturbations is significantly lower than for Official, resulting in generally lower total variance terms. However, ECMWF features significant zonal biases between 20:00 and 04:00 UTC, which are also present in Official at the two coarser spatial scales. Note that the MSEs of Official and ECMWF are closely related to $\overline{\text{WPI}}_\text{OE}$, which is the difference between the mean absolute errors of Official and ECMWF; similarly, the squared bias components of the MSE are closely related to $\text{CWPI}_\text{OE}$. 
+
+ECMWF's large zonal biases at 02:00 UTC explain why Official produces lower absolute errors than ECMWF, and hence positive $\overline{\text{WPI}}_\text{OE}$ values in Figs.~\ref{Fig:wpi:coastal} and \ref{Fig:airport_wpi} at this time. Official's large biases over the two coarser scales contribute to the negative $\overline{\text{WPI}}_\text{OE}$ values in Fig.~\ref{Fig:airport_wpi} between 06:00 and 10:00 UTC, although $\overline{\text{WPI}}_\text{OE}$ remains negative when both ECMWF and Official have low bias, such as at 14:00 UTC, because of Official's higher total variance term. This higher total variance occurs because the Official perturbations exhibit more variance than those of ECMWF, but are not always sufficiently correlated with the AWS perturbations. 
+
+At Darwin Airport, $\mse\left(u_\text{AWS}, u_\text{O}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{E}\right)$ from 04:00 to 16:00 UTC due to higher total variance, whereas outside of these times $\mse\left(u_\text{AWS}, u_\text{E}\right)$ exceeds $\mse\left(u_\text{AWS}, u_\text{O}\right)$ due to larger bias. The higher total variance of $u_\text{AWS} - u_\text{O}$ occurs because $\var\left(u_\text{O}\right) > \var\left(u_\text{E}\right)$. This additional variability is mostly random from 04:00 to 14:00 UTC, i.e. $u_\text{O}$ is not sufficiently correlated with $u_\text{AWS}$ at these times for the additional variability of $u_\text{O}$ to produce a reduction in mean square error. Thus, while the bias between Official and AWS is lower, or about the same, as that between ECMWF and AWS, the higher variability of Official results in higher mean square error for most of the day. Figure \ref{Fig:error_decomp_v} shows similar conclusions can be drawn for the meridional perturbations at Darwin Airport, although in this case $\var\left(u_\text{O}\right) > \var\left(u_\text{E}\right)$ for the entire day. Most of the difference between the WPI and CWPI scores for the Official versus ECMWF comparison at Darwin Airport in Figures \ref{Fig:airport_wpi} and \ref{Fig:airport_cwpi}, respectively, can be explained through the different mean square error and bias terms for the zonal perturbations alone. 
+
+
+
+Figure \ref{Fig:nt_ellipse_hodo} a) shows that ECMWF's climatological perturbations at Darwin Airport underestimate the easterly perturbations from 00:00 to 03:00 UTC, which are presumably associated with boundary layer mixing processes. Official does a better job of resolving these easterly perturbations, but is generally outperformed by ECMWF in resolving the northerly sea-breeze perturbations. Similar points can be made for the Darwin and NT coastal station groups. While spatial averaging reduces a portion of the unpredictable variability in Official, Official also often has larger meridional biases at these scales compared to ECMWF. Figures \ref{Fig:nt_ellipse_hodo} and \ref{Fig:ellipse_fits} show that these biases can be explained in terms of amplitude and orientation differences between Official, ECMWF and AWS. Figures analogous to Figs. \ref{Fig:error_ECMWF} and \ref{Fig:error_ECMWF}, but for other locations around Australia, show similar results, but generally without large biases in the Official forecast at the coarser scales like those present in the meridional perturbations over the Darwin Airport station group and NT coastal station group.   
+
+\textcolor{red}{Check different lead days, as ACCESS-C only extends out to 36 hour lead times. This would allow extra variability in Official to be assessed.}
+
+These examples illustrate the idea that the additional unpredictable variability introduced by a higher resolution edited forecast needs to be ``paid for" by a reduction in bias, otherwise the net result will just be an increase in error.  One obvious way to reduce the influence of unpredictable variability at higher resolutions is to move to an ensemble forecasting approach. However, computational resources typically require a choice between either a single model of higher resolution, or an ensemble of models at lower resolution, and there is a long and spirited debate in the literature about the relative merits of each \citep{brooks93}. If ensemble forecasting is not possible, careful thought must be given to precisely what scales of motion the Official forecast is intended to represent. If the end user doesn't care about the ``realism" of the forecast and simply wants the lowest errors, and if daily errors are larger with a higher resolution, edited forecast, than with a coarse model guidance product, there may be an argument for smoothing or filtering the higher resolution forecast before it is provided to the end user, assuming of course the higher resolution forecast actually reduces biases. 
+
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{error_ECMWF.pdf}
+\caption{As in Fig.~\ref{Fig:error_Official}, but for the meridional perturbations.}
+\label{Fig:error_ECMWF}
+\end{figure*}
+
+Furthermore, it is unclear if the Official forecast's wind fields are intended to be regarded as predictions of the actual winds at a specific location, or a predicted Reynold's average, and if so, at what scale. If we assume the BoM's Official wind forecast intends to represent variability at hourly timescales, and horizontal scales less than 50 kms, then sea-breeze and boundary layer mixing edits appear to have little effect, because the intended reduction in error is washed out by the unpredictable turbulent variability at these scales, and lower errors can be achieved simply by using a coarser resolution unedited model forecast. However, some users may be more interested in whether the variability of the forecast wind field matches those of observations, than in whether the forecast minimises absolute error, and a higher resolution edited forecast will likely perform better than a coarse resolution model in this regard. 
+
+Ambiguity in what the Official forecast represents, and the resulting verification challenge, points to an important role for human forecasters: post-processing and editing model data so that the forecast consistently represents what is of interest to individual users. One barrier to this is that the Official forecast is provided to the national public as a whole, which includes diverse users with different representation needs. Part of the solution may therefore be the development of a secondary economy, either within national weather services like the BoM, or in the private sector, where human forecasters ensure their forecast products consistently represent the ``filtered version of reality" of interest to the end user. This would then help address the representation problem as it applies to the verification of operational forecasts, as the individual user's representation needs could then be taken as the intended representation of the forecast, and appropriate verification metrics chosen accordingly.    
+
+\textcolor{red}{Biases could conceivably be removed by edits, but probably not MSEs?}
+
+Any attempt to validate model data against observations must confront the \textit{representation problem} \citep[e.g.][]{zaron06}. Because models cannot resolve physical processes occurring at sub-grid scales, a value predicted by a model for a given grid-cell must be interpreted as a prediction of the filtered, or Reynolds averaged value over that grid-cell. Therefore, comparing model data with observational data can be an unfair test of model performance, and for this reason model forecasts are often verified against reanalysis hind-casts that use the same model \citep[e.g.][]{lynch14}.
+
+However, the way the representation problem applies to the verification of forecasts issued to the public is more nuanced. In this case, a forecast issued by a national weather service is attempting to represent either reality itself, or the filtered version of reality \textit{that is of interest to the end users.} Thus, \citet{pinson12} disregarded the representation problem entirely, arguing that the end user is not interested in spatiotemporal scales of models, only the ``best forecast" at the time and place of their choice. However, different users will have different ideas about what the ``best" forecast entails. Some users may desire a forecast that minimises absolute error between the forecast and observations, others a forecast that most accurately reproduces the observed wind speed distribution, regardless of temporal details. Ideally, operational forecasts should therefore be assessed according to the specific representation needs of particular end users. 
+
+This presents a challenge for the verification of nationally issued forecasts, as these forecasts are utilised by a variety of end users with diverse representation needs. Moreover, the BoM's forecast is formed from model datasets with different resolutions, and the choice of model guidance can change even over the course of a single day, (e.g.~Fig.~\ref{Fig:case_studies_nt} b). Note the BoM's Official gridded wind forecast exists on a 3 or 6 km, one hour spatiotemporal grid, but is provided to the public through MetEye \citep{bomMetEye19} on a 6 km spatial grid, with wind values given only every 3 hours; hourly data is also available, but is less readily accessible to the public. Furthermore, the BoM verifies its wind forecasts by comparing Official forecast values at each hour UTC, with 10 minute averages of station observations at each hour, with station data typically averaged over the 10 minutes leading up to each hour. These practices suggest that either the Official forecast intends to represent wind fields Reynolds averaged over 6 km, 10 minute spatiotemporal grid cells, or that these averages reflect the representation needs of the typical user. 
+
+Related to the representation problem is the question of how mesoscale models, which run at spatial resolutions of between 1 and 10 km, should be verified. The BoM now regularly runs mesoscale models over some Australian capital cities as part of its daily forecasting routine, and the edits performed by human forecasters are also often mesoscale in nature. Note that mesoscale models resolve topography and its effects on the atmosphere in more detail, and explicitly simulate most convective and boundary layer processes. In this sense they are more realistic than coarser scale models, although they can actually perform worse than coarse models on standard verification scores whenever there are timing or location differences between features in the models and in observations. \citet{mass02} found that in the northwestern United States, mean square errors in forecasts produced using mesoscale models only decreased with resolution down to 10 to 15 km, whereas in the eastern United States where the topography is much flatter, this threshold was considerably larger, at 20 to 40 km. 
+
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{error_ACCESS.pdf}
+\caption{As in Fig.~\ref{Fig:error_Official}, but for the meridional perturbations.}
+\label{Fig:error_ACCESS}
+\end{figure*}
+
+\citet{mass02} therefore argued that existing verification approaches needed reform, suggesting that verification could instead be performed on spatially or temporally averaged parameters, an approach now known as \textit{upscaling} \citep{ebert08}. Alternatively, \citet{mass02} argued that ``feature based" identification metrics be developed, which reward models for realistically simulating atmospheric features, even if the timing or location of these features is incorrect. \citet{rife05} developed such a method for the verification of surface winds, defining a wind ``object" as a wind change of at least one standard deviation occurring within a 12 hour interval, then assessing whether a mesoscale model could replicate the ``objects" present in observations.
+
+\begin{table}
+\begin{center}
+\begin{tabular}{l |c|c}
+Airport & Austral Summer & Austral Winter \\
+\hline
+Darwin  & 6.3 kn& 6.2 kn \\
+Brisbane  & 8.6 kn& 7.0 kn \\
+Perth  & 11.3 kn& 7.9 kn \\
+Sydney  & 12.2 kn & 10.2 kn \\
+Adelaide  & 9.5 kn & 10.3 kn \\
+Canberra  & 7.4 kn & 7.9 kn \\
+Melbourne  & 10.0 kn & 12.1 kn \\
+Hobart & 10.0 kn & 8.7 kn
+\end{tabular}
+\caption{Average 10 m wind speeds for austral winter (June, July August) 2018, and austral summer (December, January, February) 2017/18 across the eight Australian capital city airport weather stations.}
+\label{Tab:Speeds}
+\end{center}
+\end{table}
+
 
 \bibliographystyle{agsm}
 \bibliography{./references.bib}

@@ -1,4 +1,4 @@
-\begin{thebibliography}{29}
+\begin{thebibliography}{27}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -13,11 +13,6 @@
 Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
   during a diurnal cycle. \textit{Journal of Turbulence}, \textbf{17~(4)},
   420--441, \doi{10.1080/14685248.2015.1127379}.
-
-\bibitem[{Brooks and Doswell~III(1993)Brooks, and Doswell~III}]{brooks93}
-Brooks, H.~E., and C.~A. Doswell~III, 1993: New technology and numerical
-  weather prediction — a wasted opportunity? \textit{Weather},
-  \textbf{48~(6)}, 173--177, \doi{10.1002/j.1477-8696.1993.tb05877.x}.
 
 \bibitem[{{Bureau of Meteorology}(2010)}]{bom10}
 {Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
@@ -91,11 +86,6 @@ Lock, A.~P., A.~R. Brown, M.~R. Bush, G.~M. Martin, and R.~N.~B. Smith, 2000: A
 Louis, J.-F., 1979: A parametric model of vertical eddy fluxes in the
   atmosphere. \textit{Boundary-Layer Meteorology}, \textbf{17~(2)}, 187--202,
   \doi{10.1007/BF00117978}.
-
-\bibitem[{Lynch et~al.(2014)Lynch, Brayshaw,, and Charlton-Perez}]{lynch14}
-Lynch, K.~J., D.~J. Brayshaw, and A.~Charlton-Perez, 2014: Verification of
-  {European} subseasonal wind speed forecasts. \textit{Monthly Weather Review},
-  \textbf{142~(8)}, 2978--2990, \doi{10.1175/MWR-D-13-00341.1}.
 
 \bibitem[{Mass et~al.(2002)Mass, Ovens, Westrick,, and Colle}]{mass02}
 Mass, C.~F., D.~Ovens, K.~Westrick, and B.~A. Colle, 2002: Does increasing

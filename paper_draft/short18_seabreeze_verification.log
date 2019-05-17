@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  14 MAY 2019 22:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.3.7)  17 MAY 2019 17:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,7 +393,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <6> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 125.
 
-Overfull \vbox (6.7106pt too high) has occurred while \output is active []
+Overfull \vbox (16.2106pt too high) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 134.
@@ -404,19 +404,31 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 
 
 ]
-Underfull \vbox (badness 2229) has occurred while \output is active []
-
- [2]
-<map.pdf, id=16, 404.02913pt x 278.83702pt>
+<map.pdf, id=11, 404.02913pt x 284.52756pt>
 File: map.pdf Graphic file (type pdf)
 <use map.pdf>
-Package pdftex.def Info: map.pdf  used on input line 157.
-(pdftex.def)             Requested size: 468.0pt x 323.0044pt.
+Package pdftex.def Info: map.pdf  used on input line 148.
+(pdftex.def)             Requested size: 468.0pt x 329.59633pt.
 
-[3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 2828) in paragraph at lines 156--157
+[]\OT1/ptm/m/n/9.85 This study pri-mar-ily con-sid-ers the aus-tral win-ter
+ []
 
- [4 <./map.pdf>]
+[2]
+Underfull \vbox (badness 1215) has occurred while \output is active []
+
+
+Underfull \vbox (badness 4060) has occurred while \output is active []
+
+ [3 <./map.pdf>]
+Underfull \hbox (badness 1448) in paragraph at lines 185--186
+[]\OT1/ptm/m/n/9.85 Following the ``fuzzy ver-i-fi-ca-tion" agenda out-lined
+ []
+
+
+Underfull \vbox (badness 2229) has occurred while \output is active []
+
+ [4]
 <wpi_coastal.pdf, id=678, 404.02913pt x 261.76537pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
@@ -428,17 +440,13 @@ File: case_studies_nt.pdf Graphic file (type pdf)
 Package pdftex.def Info: case_studies_nt.pdf  used on input line 228.
 (pdftex.def)             Requested size: 228.0pt x 398.22316pt.
 
-Underfull \hbox (badness 1122) in paragraph at lines 235--236
-\OT1/ptm/m/n/9.85 stronger east-northeasterly com-po-nents than the other
- []
-
 [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 <case_studies_wa.pdf, id=685, 202.01457pt x 341.43306pt>
 File: case_studies_wa.pdf Graphic file (type pdf)
 <use case_studies_wa.pdf>
-Package pdftex.def Info: case_studies_wa.pdf  used on input line 241.
+Package pdftex.def Info: case_studies_wa.pdf  used on input line 248.
 (pdftex.def)             Requested size: 228.0pt x 385.37721pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -447,72 +455,68 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <perth_sounding.pdf, id=735, 335.74252pt x 182.09764pt>
 File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
-Package pdftex.def Info: perth_sounding.pdf  used on input line 248.
+Package pdftex.def Info: perth_sounding.pdf  used on input line 255.
 (pdftex.def)             Requested size: 396.0pt x 214.79277pt.
 <airport_wpi.pdf, id=736, 404.02913pt x 193.47874pt>
 File: airport_wpi.pdf Graphic file (type pdf)
 <use airport_wpi.pdf>
-Package pdftex.def Info: airport_wpi.pdf  used on input line 255.
+Package pdftex.def Info: airport_wpi.pdf  used on input line 262.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
+
+Underfull \vbox (badness 4429) has occurred while \output is active []
+
 <airport_wpi_EA.pdf, id=737, 404.02913pt x 193.47874pt>
 File: airport_wpi_EA.pdf Graphic file (type pdf)
 <use airport_wpi_EA.pdf>
-Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 266.
+Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 273.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
  [7 <./case_studies_nt.pdf> <./case_studies_wa.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./case_studies_wa.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 1158) in paragraph at lines 277--278
-\OT1/ptm/m/n/9.85 fi-dence scores above 99%. Fig-ure 9[] a) shows that
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 6110) has occurred while \output is active []
 
- [8 <./perth_sounding.pdf> <./airport_wpi.pdf
+LaTeX Warning: Reference `Fig:nt_ellipse_hodo' on page 8 undefined on input lin
+e 283.
+
+[8 <./perth_sounding.pdf> <./airport_wpi.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./airport_wpi.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-Underfull \hbox (badness 1762) in paragraph at lines 279--280
-\OT1/ptm/m/n/9.85 UTC, Of-fi-cial out-per-forms ECMWF with con-fi-dence
- []
-
-
-Underfull \vbox (badness 6510) has occurred while \output is active []
-
 <cwpi_coastal.pdf, id=823, 404.02913pt x 261.76537pt>
 File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
-Package pdftex.def Info: cwpi_coastal.pdf  used on input line 287.
+Package pdftex.def Info: cwpi_coastal.pdf  used on input line 293.
 (pdftex.def)             Requested size: 468.0pt x 303.22862pt.
-<clim_hodo.pdf, id=824, 301.59921pt x 318.67087pt>
-File: clim_hodo.pdf Graphic file (type pdf)
-<use clim_hodo.pdf>
-Package pdftex.def Info: clim_hodo.pdf  used on input line 294.
+<clim_hodo_alt.pdf, id=824, 301.59921pt x 318.67087pt>
+File: clim_hodo_alt.pdf Graphic file (type pdf)
+<use clim_hodo_alt.pdf>
+Package pdftex.def Info: clim_hodo_alt.pdf  used on input line 300.
 (pdftex.def)             Requested size: 396.0pt x 418.41978pt.
 <airport_cwpi.pdf, id=825, 404.02913pt x 193.47874pt>
 File: airport_cwpi.pdf Graphic file (type pdf)
 <use airport_cwpi.pdf>
-Package pdftex.def Info: airport_cwpi.pdf  used on input line 301.
+Package pdftex.def Info: airport_cwpi.pdf  used on input line 307.
 (pdftex.def)             Requested size: 468.0pt x 224.12549pt.
 <r_squared.pdf, id=826, 202.01457pt x 256.0748pt>
 File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
-Package pdftex.def Info: r_squared.pdf  used on input line 310.
+Package pdftex.def Info: r_squared.pdf  used on input line 318.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
- [9 <./airport_wpi_EA.pdf>]
-<ellipse_fits.pdf, id=870, 404.02913pt x 270.3012pt>
+<ellipse_fits.pdf, id=827, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
-Package pdftex.def Info: ellipse_fits.pdf  used on input line 319.
+Package pdftex.def Info: ellipse_fits.pdf  used on input line 327.
 (pdftex.def)             Requested size: 468.0pt x 313.11652pt.
+ [9 <./airport_wpi_EA.pdf>]
 <ellipse_hodo.pdf, id=871, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
-Package pdftex.def Info: ellipse_hodo.pdf  used on input line 327.
+Package pdftex.def Info: ellipse_hodo.pdf  used on input line 338.
 (pdftex.def)             Requested size: 468.0pt x 348.74109pt.
  [10 <./cwpi_coastal.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -520,124 +524,47 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11 <./clim_hodo.pdf>]
+ [11 <./clim_hodo_alt.pdf>]
 
 LaTeX Warning: Text page 12 contains only floats.
 
-<nt_ellipse_hodo.pdf, id=953, 298.75392pt x 119.50157pt>
-File: nt_ellipse_hodo.pdf Graphic file (type pdf)
-<use nt_ellipse_hodo.pdf>
-Package pdftex.def Info: nt_ellipse_hodo.pdf  used on input line 340.
-(pdftex.def)             Requested size: 468.0pt x 187.20029pt.
 [12 <./airport_cwpi.pdf> <./r_squared.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./r_squared.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
-<error_decomp_sa.pdf, id=1035, 404.02913pt x 236.15787pt>
+<error_decomp_sa.pdf, id=1026, 404.02913pt x 236.15787pt>
 File: error_decomp_sa.pdf Graphic file (type pdf)
 <use error_decomp_sa.pdf>
-Package pdftex.def Info: error_decomp_sa.pdf  used on input line 362.
+Package pdftex.def Info: error_decomp_sa.pdf  used on input line 361.
 (pdftex.def)             Requested size: 468.0pt x 273.56494pt.
-
-
-LaTeX Warning: Reference `Fig:error_Official' on page 13 undefined on input lin
-e 367.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [13 <./ellipse_fits.pdf>]
-
-LaTeX Warning: Reference `Fig:wpi:coastal' on page 14 undefined on input line 3
-71.
-
-
-LaTeX Warning: Reference `Fig:error_decomp_v' on page 14 undefined on input lin
-e 373.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--374
-[]\OT1/ptm/m/n/9.85 At Dar-win Air-port, $[] []$ ex-ceeds
- []
-
-
-Underfull \hbox (badness 5036) in paragraph at lines 373--374
-[] []$ \OT1/ptm/m/n/9.85 from 04:00 to 16:00 UTC due to
- []
-
-
-Underfull \hbox (badness 2173) in paragraph at lines 373--374
-[] []$ \OT1/ptm/m/n/9.85 ex-ceeds $[] []$ due to larger
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14 <./ellipse_hodo.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1715) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <./nt_ellipse_hodo.pdf> <./error_decomp_sa.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./error_decomp_sa.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
->]
-<error_ECMWF.pdf, id=1415, 392.64803pt x 239.00314pt>
-File: error_ECMWF.pdf Graphic file (type pdf)
-<use error_ECMWF.pdf>
-Package pdftex.def Info: error_ECMWF.pdf  used on input line 385.
-(pdftex.def)             Requested size: 468.0pt x 284.88406pt.
-
-
-LaTeX Warning: Reference `Fig:error_Official' on page 16 undefined on input lin
-e 386.
-
-
-Underfull \vbox (badness 2229) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 4378) has occurred while \output is active []
-
-<error_ACCESS.pdf, id=1419, 389.80276pt x 241.84843pt>
-File: error_ACCESS.pdf Graphic file (type pdf)
-<use error_ACCESS.pdf>
-Package pdftex.def Info: error_ACCESS.pdf  used on input line 408.
-(pdftex.def)             Requested size: 468.0pt x 290.37903pt.
-
-
-LaTeX Warning: Reference `Fig:error_Official' on page 17 undefined on input lin
-e 409.
-
-[17 <./error_ECMWF.pdf>]
-Underfull \vbox (badness 4792) has occurred while \output is active []
-
- [18 <./error_ACCESS.pdf>]
-Underfull \hbox (badness 3769) in paragraph at lines 447--448
+ [15 <./error_decomp_sa.pdf>]
+Underfull \hbox (badness 3769) in paragraph at lines 391--392
 \OT1/ptm/m/n/9.85 vided for Ewan Short by the Aus-tralian Re-search
  []
 
 (./short18_seabreeze_verification.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 112--116
+Underfull \hbox (badness 10000) in paragraph at lines 102--106
 \OT1/ptm/m/n/8 https : / / con^^Muence . ecmwf . int / display / FCST / Detaile
 d + information +
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--136
+Underfull \hbox (badness 10000) in paragraph at lines 123--126
 \OT1/ptm/m/n/8 [Avail-able on-line at $https : / / docs . scipy . org / doc / s
 cipy / reference /
  []
 
-[19]) [20
+[16]) [17
 
 ] (./short18_seabreeze_verification.aux)
 
@@ -645,13 +572,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4068 strings out of 492649
- 54229 string characters out of 6129623
- 140847 words of memory out of 5000000
- 7801 multiletter control sequences out of 15000+600000
- 72349 words of font info for 158 fonts, out of 8000000 for 9000
+ 4040 strings out of 492649
+ 53667 string characters out of 6129623
+ 141710 words of memory out of 5000000
+ 7777 multiletter control sequences out of 15000+600000
+ 71271 words of font info for 157 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,37p,2094b,362s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,13n,37p,1671b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -665,11 +592,11 @@ e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
 t/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
 pe1/urw/times/utmr8a.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/urw/ti
 mes/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (20 pages, 1850957 bytes).
+Output written on short18_seabreeze_verification.pdf (17 pages, 1377082 bytes).
 
 PDF statistics:
- 3881 PDF objects out of 4296 (max. 8388607)
- 2341 compressed objects within 24 object streams
+ 1439 PDF objects out of 1440 (max. 8388607)
+ 944 compressed objects within 10 object streams
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

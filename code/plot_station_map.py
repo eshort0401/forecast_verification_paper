@@ -176,31 +176,31 @@ ax.scatter(
         edgecolor='black', s=20, linewidth=.75, label='North WA'
         )
 
-ax.scatter(
-        hobart_ap_stations_df.LONGITUDE.values, hobart_ap_stations_df.LATITUDE.values,
-        marker='o', color=colour_list[8], transform=ccrs.PlateCarree(),
-        edgecolor='black', s=20, linewidth=.75, label='TAS'
-        )
-
-ax.scatter(
-        canberra_ap_stations_df.LONGITUDE.values, canberra_ap_stations_df.LATITUDE.values,
-        marker='o', color=colour_list[9], transform=ccrs.PlateCarree(),
-        edgecolor='black', s=20, linewidth=.75, label='ACT'
-        )
-
-ax.scatter(
-        hobart_ap_stations_df.loc[94008].LONGITUDE,
-        hobart_ap_stations_df.loc[94008].LATITUDE,
-        marker='*', color=colour_list[8], transform=ccrs.PlateCarree(),
-        edgecolor='black', s=140, linewidth=.75,
-        )
-
-ax.scatter(
-        canberra_ap_stations_df.loc[70351].LONGITUDE,
-        canberra_ap_stations_df.loc[70351].LATITUDE,
-        marker='*', color=colour_list[9], transform=ccrs.PlateCarree(),
-        edgecolor='black', s=140, linewidth=.75,
-        )
+# ax.scatter(
+#         hobart_ap_stations_df.LONGITUDE.values, hobart_ap_stations_df.LATITUDE.values,
+#         marker='o', color=colour_list[8], transform=ccrs.PlateCarree(),
+#         edgecolor='black', s=20, linewidth=.75, label='TAS'
+#         )
+#
+# ax.scatter(
+#         canberra_ap_stations_df.LONGITUDE.values, canberra_ap_stations_df.LATITUDE.values,
+#         marker='o', color=colour_list[9], transform=ccrs.PlateCarree(),
+#         edgecolor='black', s=20, linewidth=.75, label='ACT'
+#         )
+#
+# ax.scatter(
+#         hobart_ap_stations_df.loc[94008].LONGITUDE,
+#         hobart_ap_stations_df.loc[94008].LATITUDE,
+#         marker='*', color=colour_list[8], transform=ccrs.PlateCarree(),
+#         edgecolor='black', s=140, linewidth=.75,
+#         )
+#
+# ax.scatter(
+#         canberra_ap_stations_df.loc[70351].LONGITUDE,
+#         canberra_ap_stations_df.loc[70351].LATITUDE,
+#         marker='*', color=colour_list[9], transform=ccrs.PlateCarree(),
+#         edgecolor='black', s=140, linewidth=.75,
+#         )
 
 tMin = -15
 tMax = 2228
@@ -257,60 +257,60 @@ scale = [2, 2, 1.0, 1.5, 1, 1.5, 1.5, 2.5]
 
 tick = [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
 
-# Create Airport Station Maps
-for i in np.arange(0,0):
-
-   fig = plt.figure(figsize=(scale[i], scale[i]))
-
-   ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
-
-   ax.set_extent([lon_min[i], lon_max[i], lat_min[i], lat_max[i]], crs=ccrs.PlateCarree())
-   grid = ax.gridlines(crs=ccrs.PlateCarree(), draw_labels=True,
-                     linewidth=1, color='gray', alpha=0.4, linestyle='--',
-                     )
-   grid.xlocator = mticker.FixedLocator(
-           np.arange(np.floor(lon_min[i])-tick[i], np.ceil(lon_max[i])+tick[i], tick[i])
-           )
-   grid.ylocator = mticker.FixedLocator(
-           np.arange(np.floor(lat_min[i])-tick[i], np.ceil(lat_max[i])+tick[i], tick[i])
-           )
-   grid.xlabels_top = False
-   grid.ylabels_right = False
-   if grid_labels:
-       grid.xformatter = LONGITUDE_FORMATTER
-       grid.yformatter = LATITUDE_FORMATTER
-   else:
-       grid.xlabels_bottom = False
-       grid.ylabels_left = False
-
-   colour_list = plt.cm.Set3(np.linspace(0,1,11))
-
-#    ax.add_feature(land_10m, edgecolor='black', linewidth = 0.75, zorder=0)
-#    ax.add_feature(ocean_10m, edgecolor='black', linewidth = 0.75, zorder=0)
-   ax.add_feature(lakes_10m, edgecolor='black', linewidth = 0.75, zorder=0)
-
-   ax.scatter(
-           airport_stations[i].LONGITUDE.values, airport_stations[i].LATITUDE.values,
-           marker='o', color=colour_list_alt[i], transform=ccrs.PlateCarree(),
-           edgecolor='black', s=20, linewidth=.75, label='Melbourne'
-           )
-
-   ax.scatter(
-           airports[i].LONGITUDE,
-           airports[i].LATITUDE,
-           marker='*', color=colour_list_alt[i], transform=ccrs.PlateCarree(),
-           edgecolor='black', s=140, linewidth=.75,
-           )
-
-   cset = ax.contourf(
-       X_fine,Y_fine,elav_fine, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
-       )
-   csetWater = ax.contourf(
-       X_fine,Y_fine,elav_fine, cmap='Blues_r',
-       levels=np.arange(tMinOcean,tMaxOcean+tStepOcean,tStepOcean),
-       zorder=0
-       )
-   ax.coastlines(resolution='10m', zorder=0, edgecolor='black', linewidth = 0.75)
-   ax.add_feature(states_provinces_10m, edgecolor='black', linewidth = 0.75, zorder=0)
-
-   plt.savefig('./station_map_' + str(i) + '.png', format='png', dpi=300)
+# # Create Airport Station Maps
+# for i in np.arange(0,0):
+#
+#    fig = plt.figure(figsize=(scale[i], scale[i]))
+#
+#    ax = fig.add_subplot(1, 1, 1, projection=ccrs.PlateCarree())
+#
+#    ax.set_extent([lon_min[i], lon_max[i], lat_min[i], lat_max[i]], crs=ccrs.PlateCarree())
+#    grid = ax.gridlines(crs=ccrs.PlateCarree(), draw_labels=True,
+#                      linewidth=1, color='gray', alpha=0.4, linestyle='--',
+#                      )
+#    grid.xlocator = mticker.FixedLocator(
+#            np.arange(np.floor(lon_min[i])-tick[i], np.ceil(lon_max[i])+tick[i], tick[i])
+#            )
+#    grid.ylocator = mticker.FixedLocator(
+#            np.arange(np.floor(lat_min[i])-tick[i], np.ceil(lat_max[i])+tick[i], tick[i])
+#            )
+#    grid.xlabels_top = False
+#    grid.ylabels_right = False
+#    if grid_labels:
+#        grid.xformatter = LONGITUDE_FORMATTER
+#        grid.yformatter = LATITUDE_FORMATTER
+#    else:
+#        grid.xlabels_bottom = False
+#        grid.ylabels_left = False
+#
+#    colour_list = plt.cm.Set3(np.linspace(0,1,11))
+#
+# #    ax.add_feature(land_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+# #    ax.add_feature(ocean_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+#    ax.add_feature(lakes_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+#
+#    ax.scatter(
+#            airport_stations[i].LONGITUDE.values, airport_stations[i].LATITUDE.values,
+#            marker='o', color=colour_list_alt[i], transform=ccrs.PlateCarree(),
+#            edgecolor='black', s=20, linewidth=.75, label='Melbourne'
+#            )
+#
+#    ax.scatter(
+#            airports[i].LONGITUDE,
+#            airports[i].LATITUDE,
+#            marker='*', color=colour_list_alt[i], transform=ccrs.PlateCarree(),
+#            edgecolor='black', s=140, linewidth=.75,
+#            )
+#
+#    cset = ax.contourf(
+#        X_fine,Y_fine,elav_fine, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
+#        )
+#    csetWater = ax.contourf(
+#        X_fine,Y_fine,elav_fine, cmap='Blues_r',
+#        levels=np.arange(tMinOcean,tMaxOcean+tStepOcean,tStepOcean),
+#        zorder=0
+#        )
+#    ax.coastlines(resolution='10m', zorder=0, edgecolor='black', linewidth = 0.75)
+#    ax.add_feature(states_provinces_10m, edgecolor='black', linewidth = 0.75, zorder=0)
+#
+#    plt.savefig('./station_map_' + str(i) + '.png', format='png', dpi=300)
