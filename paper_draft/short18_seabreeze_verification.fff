@@ -1,0 +1,111 @@
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{map.pdf}
+\caption{Locations of the automatic weather stations considered in this study, where stars give the locations of the capital city \textit{airport stations}. Stations are divided into the Darwin, Perth, Adelaide, Melbourne, Hobart, Canberra, Sydney and Brisbane \textit{city station groups}, a) to h), respectively, and the \textit{coastal station groups}, i).  Height and depth shading intervals every 200 and 1000 m, respectively.}
+\label{Fig:map}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{wpi_coastal.pdf}
+\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for Official versus ACCESS, a) and b), Official versus HRES, c) and d), HRES versus ACCESS, e) and f). Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kn closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kn $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
+\label{Fig:wpi_coastal}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{case_studies_nt.pdf}
+\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for Official versus ACCESS, $\text{DAE}_\text{OA}$, and Official versus HRES, $\text{DAE}_\text{OH}$, for the NT coastal station group shown in Fig.~\ref{Fig:map} at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
+\label{Fig:case_studies_nt}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{case_studies_wa.pdf}
+\caption{As in Fig.~\ref{Fig:case_studies_nt}, but for, a), the South WA coastal station group at 05:00 UTC, and b) and c), the winds and wind perturbations, respectively, over the South WA coastal station group on the 9\textsuperscript{th} June 2018.}
+\label{Fig:case_studies_wa}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=33pc]{perth_sounding.pdf}
+\caption{Vertical wind soundings at, a), Darwin Airport, and b), Perth Airport, with heights given in metres.}
+\label{Fig:perth_sounding}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{airport_wpi.pdf}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the Official versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
+\label{Fig:airport_wpi}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{airport_wpi_EA.pdf}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the HRES versus ACCESS mean difference in absolute error $\overline{\text{DAE}}_\text{HA}$ values and confidence scores.
+}
+\label{Fig:airport_wpi_EA}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{cwpi_coastal.pdf}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:cwpi_coastal}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=33pc]{clim_hodo_alt.pdf}
+\caption{Temporal hodographs in hours UTC of wind perturbations spatially averaged over the, a), NT, b) South WA, c) NSW and d), SA coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
+\label{Fig:clim_hodo}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{airport_cwpi.pdf}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:airport_cwpi}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{r_squared.pdf}
+\caption{$R^2$ values as percentages for the fit of equation (\ref{Eq:u}) to the zonal perturbations, a), c) and e), and equation (\ref{Eq:v}) to the meridional perturbations, b), d) and f), for the airport stations, a) and b), city station groups, c) and d), and coastal station groups, e) and f), shown in Fig.~\ref{Fig:map}.}
+\label{Fig:r_squared}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{ellipse_fits.pdf}
+\caption{Metrics derived from fitting ellipse equations (\ref{Eq:u}) and (\ref{Eq:v}) to wind perturbations at the Australian capital city airport stations, a) to d), and to wind perturbations spatially averaged over the city station groups and coastal station groups shown in Fig.~\ref{Fig:map}, e) to h) and i) to l) respectively, with perturbations also temporally averaged over June, July and August 2018 in each case. Metrics given are the maximum perturbation speed, a), e) and i), eccentricity of fitted ellipse, b), f) and j), orientation semi-major axis makes with lines of latitude, c), g) and k), and time of maximum perturbation, d), h) and l).}
+\label{Fig:ellipse_fits}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{ellipse_hodo.pdf}
+\caption{Temporal hodographs of wind perturbations at each hour UTC averaged over June, July and August 2018, at Brisbane and Hobart airports, a) and d), and the associated ellipse fits, b) and e). For comparison, c) and f) provide the hodographs of the averaged perturbations at the Spitfire Channel and Hobart city stations, respectively (see Fig.~\ref{Fig:map}).}
+\label{Fig:ellipse_hodo}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{error_decomp_sa.pdf}
+\caption{Mean square error between the AWS and HRES zonal perturbations $\overline{\left(u_\text{AWS} - u_\text{H}\right)^2}$, a), e), and i), decomposed into the error variance $\var\left(u_\text{AWS} - u_\text{H}\right)$ and squared bias $\left(\overline{u}_\text{AWS} - \overline{u}_\text{H}\right)^2$ terms of equation (\ref{Eq:MSE}). Also, the decomposed mean square error between the AWS and Official zonal perturbations, b), f) and j). Additionally, the HRES and AWS error variance term $\var\left(u_\text{AWS} - u_\text{H}\right)$ decomposed into the $\var\left(u_\text{AWS}\right)$, $\var\left(u_\text{H}\right)$ and  $- 2 \cdot \cov\left(u_\text{AWS}, u_\text{H}\right)$ terms, c), g) and k), and analogously for the Official and AWS error variance term $\var\left(u_\text{AWS} - u_\text{O}\right)$, d), h) and l). Decompositions given for Adelaide Airport, a) to d), the Adelaide city station group, e) to h), and the SA coastal station group, i) to l) (see Fig.~\ref{Fig:map}.)}
+\label{Fig:error_decomp_sa}
+\end{figure*}
