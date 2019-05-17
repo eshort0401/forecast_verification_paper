@@ -1,0 +1,4976 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142mm"
+   height="66mm"
+   viewBox="0 0 142 66"
+   version="1.1"
+   id="svg4039"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="ellipse_stats.svg">
+  <defs
+     id="defs4033">
+    <g
+       id="g5394"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip392cb3xyplot">
+        <rect
+           id="rect5382"
+           height="80"
+           width="160"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip392cb3x"
+         class="axesclip">
+        <rect
+           id="rect5385"
+           height="200"
+           width="160"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clip392cb3y"
+         class="axesclip">
+        <rect
+           id="rect5388"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip392cb3xy"
+         class="axesclip">
+        <rect
+           id="rect5391"
+           height="80"
+           width="160"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g5405"
+       class="gradients">
+      <linearGradient
+         id="g392cb3-cbe5910e9f-4222-4de2-8753-ef74120ce808"
+         y2="0"
+         y1="30"
+         x2="346"
+         x1="346"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop5396"
+           stop-opacity="1"
+           stop-color="rgb(220, 220, 220)"
+           offset="0%" />
+        <stop
+           id="stop5398"
+           stop-opacity="1"
+           stop-color="rgb(245, 195, 157)"
+           offset="20%" />
+        <stop
+           id="stop5400"
+           stop-opacity="1"
+           stop-color="rgb(245, 160, 105)"
+           offset="40%" />
+        <stop
+           id="stop5402"
+           stop-opacity="1"
+           stop-color="rgb(178, 10, 28)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g5696"
+       class="clips" />
+    <g
+       id="g5966"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip526ef6xyplot">
+        <rect
+           id="rect5954"
+           height="80"
+           width="160"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip526ef6x"
+         class="axesclip">
+        <rect
+           id="rect5957"
+           height="200"
+           width="160"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clip526ef6y"
+         class="axesclip">
+        <rect
+           id="rect5960"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip526ef6xy"
+         class="axesclip">
+        <rect
+           id="rect5963"
+           height="80"
+           width="160"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g5977"
+       class="gradients">
+      <linearGradient
+         id="g526ef6-cb05947bbf-80a7-4724-8974-5a23b4a8a2f6"
+         y2="0"
+         y1="30"
+         x2="346"
+         x1="346"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop5968"
+           stop-opacity="1"
+           stop-color="rgb(220, 220, 220)"
+           offset="0%" />
+        <stop
+           id="stop5970"
+           stop-opacity="1"
+           stop-color="rgb(245, 195, 157)"
+           offset="20%" />
+        <stop
+           id="stop5972"
+           stop-opacity="1"
+           stop-color="rgb(245, 160, 105)"
+           offset="40%" />
+        <stop
+           id="stop5974"
+           stop-opacity="1"
+           stop-color="rgb(178, 10, 28)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g6268"
+       class="clips" />
+    <g
+       id="g6532"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip24421axyplot">
+        <rect
+           id="rect6520"
+           height="80"
+           width="158"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip24421ax"
+         class="axesclip">
+        <rect
+           id="rect6523"
+           height="200"
+           width="158"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clip24421ay"
+         class="axesclip">
+        <rect
+           id="rect6526"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip24421axy"
+         class="axesclip">
+        <rect
+           id="rect6529"
+           height="80"
+           width="158"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g6897"
+       class="gradients">
+      <linearGradient
+         id="g24421a-cbf37f15b2-d2f0-4a6b-a08f-f429b656f01d"
+         y2="0"
+         y1="30"
+         x2="342"
+         x1="342"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop6534"
+           stop-opacity="1"
+           stop-color="rgb(247, 112, 137)"
+           offset="0%" />
+        <stop
+           id="stop6536"
+           stop-opacity="1"
+           stop-color="rgb(247, 113, 132)"
+           offset="0.5555555555555556%" />
+        <stop
+           id="stop6538"
+           stop-opacity="1"
+           stop-color="rgb(247, 114, 127)"
+           offset="1.1111111111111112%" />
+        <stop
+           id="stop6540"
+           stop-opacity="1"
+           stop-color="rgb(247, 114, 122)"
+           offset="1.6666666666666667%" />
+        <stop
+           id="stop6542"
+           stop-opacity="1"
+           stop-color="rgb(248, 115, 117)"
+           offset="2.2222222222222223%" />
+        <stop
+           id="stop6544"
+           stop-opacity="1"
+           stop-color="rgb(248, 115, 111)"
+           offset="2.7777777777777777%" />
+        <stop
+           id="stop6546"
+           stop-opacity="1"
+           stop-color="rgb(248, 116, 104)"
+           offset="3.3333333333333335%" />
+        <stop
+           id="stop6548"
+           stop-opacity="1"
+           stop-color="rgb(248, 116, 97)"
+           offset="3.888888888888889%" />
+        <stop
+           id="stop6550"
+           stop-opacity="1"
+           stop-color="rgb(248, 117, 89)"
+           offset="4.444444444444445%" />
+        <stop
+           id="stop6552"
+           stop-opacity="1"
+           stop-color="rgb(248, 117, 79)"
+           offset="5%" />
+        <stop
+           id="stop6554"
+           stop-opacity="1"
+           stop-color="rgb(248, 118, 68)"
+           offset="5.555555555555555%" />
+        <stop
+           id="stop6556"
+           stop-opacity="1"
+           stop-color="rgb(248, 119, 53)"
+           offset="6.111111111111111%" />
+        <stop
+           id="stop6558"
+           stop-opacity="1"
+           stop-color="rgb(244, 122, 50)"
+           offset="6.666666666666667%" />
+        <stop
+           id="stop6560"
+           stop-opacity="1"
+           stop-color="rgb(239, 125, 50)"
+           offset="7.222222222222221%" />
+        <stop
+           id="stop6562"
+           stop-opacity="1"
+           stop-color="rgb(235, 128, 50)"
+           offset="7.777777777777778%" />
+        <stop
+           id="stop6564"
+           stop-opacity="1"
+           stop-color="rgb(231, 130, 50)"
+           offset="8.333333333333332%" />
+        <stop
+           id="stop6566"
+           stop-opacity="1"
+           stop-color="rgb(227, 133, 50)"
+           offset="8.88888888888889%" />
+        <stop
+           id="stop6568"
+           stop-opacity="1"
+           stop-color="rgb(224, 135, 50)"
+           offset="9.444444444444445%" />
+        <stop
+           id="stop6570"
+           stop-opacity="1"
+           stop-color="rgb(220, 137, 50)"
+           offset="10%" />
+        <stop
+           id="stop6572"
+           stop-opacity="1"
+           stop-color="rgb(217, 138, 50)"
+           offset="10.555555555555555%" />
+        <stop
+           id="stop6574"
+           stop-opacity="1"
+           stop-color="rgb(214, 140, 49)"
+           offset="11.11111111111111%" />
+        <stop
+           id="stop6576"
+           stop-opacity="1"
+           stop-color="rgb(211, 142, 49)"
+           offset="11.666666666666666%" />
+        <stop
+           id="stop6578"
+           stop-opacity="1"
+           stop-color="rgb(208, 143, 49)"
+           offset="12.222222222222221%" />
+        <stop
+           id="stop6580"
+           stop-opacity="1"
+           stop-color="rgb(206, 144, 49)"
+           offset="12.777777777777777%" />
+        <stop
+           id="stop6582"
+           stop-opacity="1"
+           stop-color="rgb(203, 145, 49)"
+           offset="13.333333333333334%" />
+        <stop
+           id="stop6584"
+           stop-opacity="1"
+           stop-color="rgb(200, 147, 49)"
+           offset="13.88888888888889%" />
+        <stop
+           id="stop6586"
+           stop-opacity="1"
+           stop-color="rgb(198, 148, 49)"
+           offset="14.444444444444443%" />
+        <stop
+           id="stop6588"
+           stop-opacity="1"
+           stop-color="rgb(195, 149, 49)"
+           offset="15%" />
+        <stop
+           id="stop6590"
+           stop-opacity="1"
+           stop-color="rgb(193, 150, 49)"
+           offset="15.555555555555555%" />
+        <stop
+           id="stop6592"
+           stop-opacity="1"
+           stop-color="rgb(190, 151, 49)"
+           offset="16.11111111111111%" />
+        <stop
+           id="stop6594"
+           stop-opacity="1"
+           stop-color="rgb(188, 152, 49)"
+           offset="16.666666666666664%" />
+        <stop
+           id="stop6596"
+           stop-opacity="1"
+           stop-color="rgb(186, 153, 49)"
+           offset="17.22222222222222%" />
+        <stop
+           id="stop6598"
+           stop-opacity="1"
+           stop-color="rgb(183, 154, 49)"
+           offset="17.77777777777778%" />
+        <stop
+           id="stop6600"
+           stop-opacity="1"
+           stop-color="rgb(181, 154, 49)"
+           offset="18.333333333333332%" />
+        <stop
+           id="stop6602"
+           stop-opacity="1"
+           stop-color="rgb(179, 155, 49)"
+           offset="18.88888888888889%" />
+        <stop
+           id="stop6604"
+           stop-opacity="1"
+           stop-color="rgb(176, 156, 49)"
+           offset="19.444444444444446%" />
+        <stop
+           id="stop6606"
+           stop-opacity="1"
+           stop-color="rgb(174, 157, 49)"
+           offset="20%" />
+        <stop
+           id="stop6608"
+           stop-opacity="1"
+           stop-color="rgb(172, 158, 49)"
+           offset="20.555555555555554%" />
+        <stop
+           id="stop6610"
+           stop-opacity="1"
+           stop-color="rgb(169, 158, 49)"
+           offset="21.11111111111111%" />
+        <stop
+           id="stop6612"
+           stop-opacity="1"
+           stop-color="rgb(167, 159, 49)"
+           offset="21.666666666666668%" />
+        <stop
+           id="stop6614"
+           stop-opacity="1"
+           stop-color="rgb(165, 160, 49)"
+           offset="22.22222222222222%" />
+        <stop
+           id="stop6616"
+           stop-opacity="1"
+           stop-color="rgb(162, 161, 49)"
+           offset="22.77777777777778%" />
+        <stop
+           id="stop6618"
+           stop-opacity="1"
+           stop-color="rgb(160, 161, 49)"
+           offset="23.333333333333332%" />
+        <stop
+           id="stop6620"
+           stop-opacity="1"
+           stop-color="rgb(157, 162, 49)"
+           offset="23.88888888888889%" />
+        <stop
+           id="stop6622"
+           stop-opacity="1"
+           stop-color="rgb(154, 163, 49)"
+           offset="24.444444444444443%" />
+        <stop
+           id="stop6624"
+           stop-opacity="1"
+           stop-color="rgb(152, 164, 49)"
+           offset="25%" />
+        <stop
+           id="stop6626"
+           stop-opacity="1"
+           stop-color="rgb(149, 164, 49)"
+           offset="25.555555555555554%" />
+        <stop
+           id="stop6628"
+           stop-opacity="1"
+           stop-color="rgb(146, 165, 49)"
+           offset="26.111111111111114%" />
+        <stop
+           id="stop6630"
+           stop-opacity="1"
+           stop-color="rgb(143, 166, 49)"
+           offset="26.666666666666668%" />
+        <stop
+           id="stop6632"
+           stop-opacity="1"
+           stop-color="rgb(140, 167, 49)"
+           offset="27.22222222222222%" />
+        <stop
+           id="stop6634"
+           stop-opacity="1"
+           stop-color="rgb(136, 167, 49)"
+           offset="27.77777777777778%" />
+        <stop
+           id="stop6636"
+           stop-opacity="1"
+           stop-color="rgb(133, 168, 49)"
+           offset="28.333333333333332%" />
+        <stop
+           id="stop6638"
+           stop-opacity="1"
+           stop-color="rgb(129, 169, 49)"
+           offset="28.888888888888886%" />
+        <stop
+           id="stop6640"
+           stop-opacity="1"
+           stop-color="rgb(125, 170, 49)"
+           offset="29.444444444444446%" />
+        <stop
+           id="stop6642"
+           stop-opacity="1"
+           stop-color="rgb(121, 171, 49)"
+           offset="30%" />
+        <stop
+           id="stop6644"
+           stop-opacity="1"
+           stop-color="rgb(116, 172, 49)"
+           offset="30.555555555555557%" />
+        <stop
+           id="stop6646"
+           stop-opacity="1"
+           stop-color="rgb(111, 173, 49)"
+           offset="31.11111111111111%" />
+        <stop
+           id="stop6648"
+           stop-opacity="1"
+           stop-color="rgb(105, 173, 49)"
+           offset="31.666666666666664%" />
+        <stop
+           id="stop6650"
+           stop-opacity="1"
+           stop-color="rgb(99, 174, 49)"
+           offset="32.22222222222222%" />
+        <stop
+           id="stop6652"
+           stop-opacity="1"
+           stop-color="rgb(91, 175, 49)"
+           offset="32.77777777777778%" />
+        <stop
+           id="stop6654"
+           stop-opacity="1"
+           stop-color="rgb(83, 177, 49)"
+           offset="33.33333333333333%" />
+        <stop
+           id="stop6656"
+           stop-opacity="1"
+           stop-color="rgb(72, 178, 49)"
+           offset="33.88888888888889%" />
+        <stop
+           id="stop6658"
+           stop-opacity="1"
+           stop-color="rgb(59, 179, 49)"
+           offset="34.44444444444444%" />
+        <stop
+           id="stop6660"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 56)"
+           offset="35%" />
+        <stop
+           id="stop6662"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 70)"
+           offset="35.55555555555556%" />
+        <stop
+           id="stop6664"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 81)"
+           offset="36.11111111111111%" />
+        <stop
+           id="stop6666"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 89)"
+           offset="36.666666666666664%" />
+        <stop
+           id="stop6668"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 96)"
+           offset="37.22222222222222%" />
+        <stop
+           id="stop6670"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 102)"
+           offset="37.77777777777778%" />
+        <stop
+           id="stop6672"
+           stop-opacity="1"
+           stop-color="rgb(50, 177, 108)"
+           offset="38.333333333333336%" />
+        <stop
+           id="stop6674"
+           stop-opacity="1"
+           stop-color="rgb(51, 177, 113)"
+           offset="38.88888888888889%" />
+        <stop
+           id="stop6676"
+           stop-opacity="1"
+           stop-color="rgb(51, 177, 117)"
+           offset="39.44444444444444%" />
+        <stop
+           id="stop6678"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 121)"
+           offset="40%" />
+        <stop
+           id="stop6680"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 124)"
+           offset="40.55555555555556%" />
+        <stop
+           id="stop6682"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 128)"
+           offset="41.11111111111111%" />
+        <stop
+           id="stop6684"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 131)"
+           offset="41.66666666666667%" />
+        <stop
+           id="stop6686"
+           stop-opacity="1"
+           stop-color="rgb(52, 176, 134)"
+           offset="42.22222222222222%" />
+        <stop
+           id="stop6688"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 136)"
+           offset="42.77777777777778%" />
+        <stop
+           id="stop6690"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 139)"
+           offset="43.333333333333336%" />
+        <stop
+           id="stop6692"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 141)"
+           offset="43.888888888888886%" />
+        <stop
+           id="stop6694"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 144)"
+           offset="44.44444444444444%" />
+        <stop
+           id="stop6696"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 146)"
+           offset="45%" />
+        <stop
+           id="stop6698"
+           stop-opacity="1"
+           stop-color="rgb(52, 174, 148)"
+           offset="45.55555555555556%" />
+        <stop
+           id="stop6700"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 150)"
+           offset="46.111111111111114%" />
+        <stop
+           id="stop6702"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 152)"
+           offset="46.666666666666664%" />
+        <stop
+           id="stop6704"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 154)"
+           offset="47.22222222222222%" />
+        <stop
+           id="stop6706"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 156)"
+           offset="47.77777777777778%" />
+        <stop
+           id="stop6708"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 158)"
+           offset="48.333333333333336%" />
+        <stop
+           id="stop6710"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 160)"
+           offset="48.888888888888886%" />
+        <stop
+           id="stop6712"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 162)"
+           offset="49.44444444444444%" />
+        <stop
+           id="stop6714"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 163)"
+           offset="50%" />
+        <stop
+           id="stop6716"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 165)"
+           offset="50.55555555555556%" />
+        <stop
+           id="stop6718"
+           stop-opacity="1"
+           stop-color="rgb(54, 173, 167)"
+           offset="51.11111111111111%" />
+        <stop
+           id="stop6720"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 169)"
+           offset="51.66666666666667%" />
+        <stop
+           id="stop6722"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 170)"
+           offset="52.22222222222223%" />
+        <stop
+           id="stop6724"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 172)"
+           offset="52.77777777777778%" />
+        <stop
+           id="stop6726"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 174)"
+           offset="53.333333333333336%" />
+        <stop
+           id="stop6728"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 175)"
+           offset="53.888888888888886%" />
+        <stop
+           id="stop6730"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 177)"
+           offset="54.44444444444444%" />
+        <stop
+           id="stop6732"
+           stop-opacity="1"
+           stop-color="rgb(54, 171, 179)"
+           offset="55.00000000000001%" />
+        <stop
+           id="stop6734"
+           stop-opacity="1"
+           stop-color="rgb(54, 171, 181)"
+           offset="55.55555555555556%" />
+        <stop
+           id="stop6736"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 182)"
+           offset="56.111111111111114%" />
+        <stop
+           id="stop6738"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 184)"
+           offset="56.666666666666664%" />
+        <stop
+           id="stop6740"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 186)"
+           offset="57.22222222222222%" />
+        <stop
+           id="stop6742"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 188)"
+           offset="57.77777777777777%" />
+        <stop
+           id="stop6744"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 190)"
+           offset="58.333333333333336%" />
+        <stop
+           id="stop6746"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 192)"
+           offset="58.88888888888889%" />
+        <stop
+           id="stop6748"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 194)"
+           offset="59.44444444444444%" />
+        <stop
+           id="stop6750"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 196)"
+           offset="60%" />
+        <stop
+           id="stop6752"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 198)"
+           offset="60.55555555555555%" />
+        <stop
+           id="stop6754"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 201)"
+           offset="61.111111111111114%" />
+        <stop
+           id="stop6756"
+           stop-opacity="1"
+           stop-color="rgb(56, 168, 203)"
+           offset="61.66666666666667%" />
+        <stop
+           id="stop6758"
+           stop-opacity="1"
+           stop-color="rgb(56, 168, 206)"
+           offset="62.22222222222222%" />
+        <stop
+           id="stop6760"
+           stop-opacity="1"
+           stop-color="rgb(57, 168, 208)"
+           offset="62.77777777777778%" />
+        <stop
+           id="stop6762"
+           stop-opacity="1"
+           stop-color="rgb(57, 167, 211)"
+           offset="63.33333333333333%" />
+        <stop
+           id="stop6764"
+           stop-opacity="1"
+           stop-color="rgb(57, 167, 214)"
+           offset="63.888888888888886%" />
+        <stop
+           id="stop6766"
+           stop-opacity="1"
+           stop-color="rgb(57, 166, 217)"
+           offset="64.44444444444444%" />
+        <stop
+           id="stop6768"
+           stop-opacity="1"
+           stop-color="rgb(58, 166, 221)"
+           offset="65%" />
+        <stop
+           id="stop6770"
+           stop-opacity="1"
+           stop-color="rgb(58, 165, 225)"
+           offset="65.55555555555556%" />
+        <stop
+           id="stop6772"
+           stop-opacity="1"
+           stop-color="rgb(58, 165, 229)"
+           offset="66.11111111111111%" />
+        <stop
+           id="stop6774"
+           stop-opacity="1"
+           stop-color="rgb(59, 164, 233)"
+           offset="66.66666666666666%" />
+        <stop
+           id="stop6776"
+           stop-opacity="1"
+           stop-color="rgb(59, 163, 238)"
+           offset="67.22222222222223%" />
+        <stop
+           id="stop6778"
+           stop-opacity="1"
+           stop-color="rgb(60, 162, 244)"
+           offset="67.77777777777779%" />
+        <stop
+           id="stop6780"
+           stop-opacity="1"
+           stop-color="rgb(73, 160, 245)"
+           offset="68.33333333333333%" />
+        <stop
+           id="stop6782"
+           stop-opacity="1"
+           stop-color="rgb(85, 159, 245)"
+           offset="68.88888888888889%" />
+        <stop
+           id="stop6784"
+           stop-opacity="1"
+           stop-color="rgb(96, 157, 245)"
+           offset="69.44444444444444%" />
+        <stop
+           id="stop6786"
+           stop-opacity="1"
+           stop-color="rgb(105, 156, 245)"
+           offset="70%" />
+        <stop
+           id="stop6788"
+           stop-opacity="1"
+           stop-color="rgb(113, 154, 245)"
+           offset="70.55555555555556%" />
+        <stop
+           id="stop6790"
+           stop-opacity="1"
+           stop-color="rgb(120, 153, 245)"
+           offset="71.11111111111111%" />
+        <stop
+           id="stop6792"
+           stop-opacity="1"
+           stop-color="rgb(127, 151, 245)"
+           offset="71.66666666666667%" />
+        <stop
+           id="stop6794"
+           stop-opacity="1"
+           stop-color="rgb(133, 150, 245)"
+           offset="72.22222222222221%" />
+        <stop
+           id="stop6796"
+           stop-opacity="1"
+           stop-color="rgb(139, 148, 245)"
+           offset="72.77777777777777%" />
+        <stop
+           id="stop6798"
+           stop-opacity="1"
+           stop-color="rgb(145, 146, 245)"
+           offset="73.33333333333333%" />
+        <stop
+           id="stop6800"
+           stop-opacity="1"
+           stop-color="rgb(150, 145, 245)"
+           offset="73.88888888888889%" />
+        <stop
+           id="stop6802"
+           stop-opacity="1"
+           stop-color="rgb(155, 143, 245)"
+           offset="74.44444444444444%" />
+        <stop
+           id="stop6804"
+           stop-opacity="1"
+           stop-color="rgb(160, 142, 245)"
+           offset="75%" />
+        <stop
+           id="stop6806"
+           stop-opacity="1"
+           stop-color="rgb(165, 140, 245)"
+           offset="75.55555555555556%" />
+        <stop
+           id="stop6808"
+           stop-opacity="1"
+           stop-color="rgb(170, 138, 245)"
+           offset="76.11111111111111%" />
+        <stop
+           id="stop6810"
+           stop-opacity="1"
+           stop-color="rgb(174, 136, 245)"
+           offset="76.66666666666667%" />
+        <stop
+           id="stop6812"
+           stop-opacity="1"
+           stop-color="rgb(179, 134, 245)"
+           offset="77.22222222222223%" />
+        <stop
+           id="stop6814"
+           stop-opacity="1"
+           stop-color="rgb(183, 132, 245)"
+           offset="77.77777777777779%" />
+        <stop
+           id="stop6816"
+           stop-opacity="1"
+           stop-color="rgb(188, 130, 245)"
+           offset="78.33333333333333%" />
+        <stop
+           id="stop6818"
+           stop-opacity="1"
+           stop-color="rgb(192, 128, 245)"
+           offset="78.88888888888889%" />
+        <stop
+           id="stop6820"
+           stop-opacity="1"
+           stop-color="rgb(197, 126, 245)"
+           offset="79.44444444444444%" />
+        <stop
+           id="stop6822"
+           stop-opacity="1"
+           stop-color="rgb(201, 124, 245)"
+           offset="80%" />
+        <stop
+           id="stop6824"
+           stop-opacity="1"
+           stop-color="rgb(205, 121, 245)"
+           offset="80.55555555555556%" />
+        <stop
+           id="stop6826"
+           stop-opacity="1"
+           stop-color="rgb(210, 118, 245)"
+           offset="81.11111111111111%" />
+        <stop
+           id="stop6828"
+           stop-opacity="1"
+           stop-color="rgb(214, 116, 245)"
+           offset="81.66666666666667%" />
+        <stop
+           id="stop6830"
+           stop-opacity="1"
+           stop-color="rgb(219, 113, 245)"
+           offset="82.22222222222221%" />
+        <stop
+           id="stop6832"
+           stop-opacity="1"
+           stop-color="rgb(223, 109, 245)"
+           offset="82.77777777777777%" />
+        <stop
+           id="stop6834"
+           stop-opacity="1"
+           stop-color="rgb(228, 106, 245)"
+           offset="83.33333333333334%" />
+        <stop
+           id="stop6836"
+           stop-opacity="1"
+           stop-color="rgb(233, 102, 245)"
+           offset="83.88888888888889%" />
+        <stop
+           id="stop6838"
+           stop-opacity="1"
+           stop-color="rgb(238, 97, 245)"
+           offset="84.44444444444444%" />
+        <stop
+           id="stop6840"
+           stop-opacity="1"
+           stop-color="rgb(243, 92, 245)"
+           offset="85%" />
+        <stop
+           id="stop6842"
+           stop-opacity="1"
+           stop-color="rgb(245, 92, 241)"
+           offset="85.55555555555556%" />
+        <stop
+           id="stop6844"
+           stop-opacity="1"
+           stop-color="rgb(245, 93, 236)"
+           offset="86.11111111111111%" />
+        <stop
+           id="stop6846"
+           stop-opacity="1"
+           stop-color="rgb(245, 94, 232)"
+           offset="86.66666666666667%" />
+        <stop
+           id="stop6848"
+           stop-opacity="1"
+           stop-color="rgb(245, 96, 228)"
+           offset="87.22222222222223%" />
+        <stop
+           id="stop6850"
+           stop-opacity="1"
+           stop-color="rgb(245, 97, 223)"
+           offset="87.77777777777777%" />
+        <stop
+           id="stop6852"
+           stop-opacity="1"
+           stop-color="rgb(245, 98, 219)"
+           offset="88.33333333333333%" />
+        <stop
+           id="stop6854"
+           stop-opacity="1"
+           stop-color="rgb(246, 99, 215)"
+           offset="88.88888888888889%" />
+        <stop
+           id="stop6856"
+           stop-opacity="1"
+           stop-color="rgb(246, 100, 212)"
+           offset="89.44444444444444%" />
+        <stop
+           id="stop6858"
+           stop-opacity="1"
+           stop-color="rgb(246, 101, 208)"
+           offset="90%" />
+        <stop
+           id="stop6860"
+           stop-opacity="1"
+           stop-color="rgb(246, 101, 204)"
+           offset="90.55555555555556%" />
+        <stop
+           id="stop6862"
+           stop-opacity="1"
+           stop-color="rgb(246, 102, 201)"
+           offset="91.11111111111111%" />
+        <stop
+           id="stop6864"
+           stop-opacity="1"
+           stop-color="rgb(246, 103, 197)"
+           offset="91.66666666666666%" />
+        <stop
+           id="stop6866"
+           stop-opacity="1"
+           stop-color="rgb(246, 104, 194)"
+           offset="92.22222222222223%" />
+        <stop
+           id="stop6868"
+           stop-opacity="1"
+           stop-color="rgb(246, 104, 190)"
+           offset="92.77777777777779%" />
+        <stop
+           id="stop6870"
+           stop-opacity="1"
+           stop-color="rgb(246, 105, 187)"
+           offset="93.33333333333333%" />
+        <stop
+           id="stop6872"
+           stop-opacity="1"
+           stop-color="rgb(246, 106, 183)"
+           offset="93.88888888888889%" />
+        <stop
+           id="stop6874"
+           stop-opacity="1"
+           stop-color="rgb(246, 106, 180)"
+           offset="94.44444444444444%" />
+        <stop
+           id="stop6876"
+           stop-opacity="1"
+           stop-color="rgb(247, 107, 176)"
+           offset="95%" />
+        <stop
+           id="stop6878"
+           stop-opacity="1"
+           stop-color="rgb(247, 107, 173)"
+           offset="95.55555555555556%" />
+        <stop
+           id="stop6880"
+           stop-opacity="1"
+           stop-color="rgb(247, 108, 170)"
+           offset="96.11111111111111%" />
+        <stop
+           id="stop6882"
+           stop-opacity="1"
+           stop-color="rgb(247, 108, 166)"
+           offset="96.66666666666667%" />
+        <stop
+           id="stop6884"
+           stop-opacity="1"
+           stop-color="rgb(247, 109, 162)"
+           offset="97.22222222222221%" />
+        <stop
+           id="stop6886"
+           stop-opacity="1"
+           stop-color="rgb(247, 110, 159)"
+           offset="97.77777777777777%" />
+        <stop
+           id="stop6888"
+           stop-opacity="1"
+           stop-color="rgb(247, 110, 155)"
+           offset="98.33333333333333%" />
+        <stop
+           id="stop6890"
+           stop-opacity="1"
+           stop-color="rgb(247, 111, 151)"
+           offset="98.88888888888889%" />
+        <stop
+           id="stop6892"
+           stop-opacity="1"
+           stop-color="rgb(247, 111, 147)"
+           offset="99.44444444444444%" />
+        <stop
+           id="stop6894"
+           stop-opacity="1"
+           stop-color="rgb(247, 112, 141)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g7188"
+       class="clips" />
+    <g
+       id="g7635"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipf7ca0dxyplot">
+        <rect
+           id="rect7623"
+           height="80"
+           width="160"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipf7ca0dx"
+         class="axesclip">
+        <rect
+           id="rect7626"
+           height="200"
+           width="160"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clipf7ca0dy"
+         class="axesclip">
+        <rect
+           id="rect7629"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipf7ca0dxy"
+         class="axesclip">
+        <rect
+           id="rect7632"
+           height="80"
+           width="160"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g8000"
+       class="gradients">
+      <linearGradient
+         id="gf7ca0d-cb0724f380-b184-4695-8a57-ee30e3383849"
+         y2="0"
+         y1="30"
+         x2="346"
+         x1="346"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop7637"
+           stop-opacity="1"
+           stop-color="rgb(247, 112, 137)"
+           offset="0%" />
+        <stop
+           id="stop7639"
+           stop-opacity="1"
+           stop-color="rgb(247, 113, 132)"
+           offset="0.5555555555555556%" />
+        <stop
+           id="stop7641"
+           stop-opacity="1"
+           stop-color="rgb(247, 114, 127)"
+           offset="1.1111111111111112%" />
+        <stop
+           id="stop7643"
+           stop-opacity="1"
+           stop-color="rgb(247, 114, 122)"
+           offset="1.6666666666666667%" />
+        <stop
+           id="stop7645"
+           stop-opacity="1"
+           stop-color="rgb(248, 115, 117)"
+           offset="2.2222222222222223%" />
+        <stop
+           id="stop7647"
+           stop-opacity="1"
+           stop-color="rgb(248, 115, 111)"
+           offset="2.7777777777777777%" />
+        <stop
+           id="stop7649"
+           stop-opacity="1"
+           stop-color="rgb(248, 116, 104)"
+           offset="3.3333333333333335%" />
+        <stop
+           id="stop7651"
+           stop-opacity="1"
+           stop-color="rgb(248, 116, 97)"
+           offset="3.888888888888889%" />
+        <stop
+           id="stop7653"
+           stop-opacity="1"
+           stop-color="rgb(248, 117, 89)"
+           offset="4.444444444444445%" />
+        <stop
+           id="stop7655"
+           stop-opacity="1"
+           stop-color="rgb(248, 117, 79)"
+           offset="5%" />
+        <stop
+           id="stop7657"
+           stop-opacity="1"
+           stop-color="rgb(248, 118, 68)"
+           offset="5.555555555555555%" />
+        <stop
+           id="stop7659"
+           stop-opacity="1"
+           stop-color="rgb(248, 119, 53)"
+           offset="6.111111111111111%" />
+        <stop
+           id="stop7661"
+           stop-opacity="1"
+           stop-color="rgb(244, 122, 50)"
+           offset="6.666666666666667%" />
+        <stop
+           id="stop7663"
+           stop-opacity="1"
+           stop-color="rgb(239, 125, 50)"
+           offset="7.222222222222221%" />
+        <stop
+           id="stop7665"
+           stop-opacity="1"
+           stop-color="rgb(235, 128, 50)"
+           offset="7.777777777777778%" />
+        <stop
+           id="stop7667"
+           stop-opacity="1"
+           stop-color="rgb(231, 130, 50)"
+           offset="8.333333333333332%" />
+        <stop
+           id="stop7669"
+           stop-opacity="1"
+           stop-color="rgb(227, 133, 50)"
+           offset="8.88888888888889%" />
+        <stop
+           id="stop7671"
+           stop-opacity="1"
+           stop-color="rgb(224, 135, 50)"
+           offset="9.444444444444445%" />
+        <stop
+           id="stop7673"
+           stop-opacity="1"
+           stop-color="rgb(220, 137, 50)"
+           offset="10%" />
+        <stop
+           id="stop7675"
+           stop-opacity="1"
+           stop-color="rgb(217, 138, 50)"
+           offset="10.555555555555555%" />
+        <stop
+           id="stop7677"
+           stop-opacity="1"
+           stop-color="rgb(214, 140, 49)"
+           offset="11.11111111111111%" />
+        <stop
+           id="stop7679"
+           stop-opacity="1"
+           stop-color="rgb(211, 142, 49)"
+           offset="11.666666666666666%" />
+        <stop
+           id="stop7681"
+           stop-opacity="1"
+           stop-color="rgb(208, 143, 49)"
+           offset="12.222222222222221%" />
+        <stop
+           id="stop7683"
+           stop-opacity="1"
+           stop-color="rgb(206, 144, 49)"
+           offset="12.777777777777777%" />
+        <stop
+           id="stop7685"
+           stop-opacity="1"
+           stop-color="rgb(203, 145, 49)"
+           offset="13.333333333333334%" />
+        <stop
+           id="stop7687"
+           stop-opacity="1"
+           stop-color="rgb(200, 147, 49)"
+           offset="13.88888888888889%" />
+        <stop
+           id="stop7689"
+           stop-opacity="1"
+           stop-color="rgb(198, 148, 49)"
+           offset="14.444444444444443%" />
+        <stop
+           id="stop7691"
+           stop-opacity="1"
+           stop-color="rgb(195, 149, 49)"
+           offset="15%" />
+        <stop
+           id="stop7693"
+           stop-opacity="1"
+           stop-color="rgb(193, 150, 49)"
+           offset="15.555555555555555%" />
+        <stop
+           id="stop7695"
+           stop-opacity="1"
+           stop-color="rgb(190, 151, 49)"
+           offset="16.11111111111111%" />
+        <stop
+           id="stop7697"
+           stop-opacity="1"
+           stop-color="rgb(188, 152, 49)"
+           offset="16.666666666666664%" />
+        <stop
+           id="stop7699"
+           stop-opacity="1"
+           stop-color="rgb(186, 153, 49)"
+           offset="17.22222222222222%" />
+        <stop
+           id="stop7701"
+           stop-opacity="1"
+           stop-color="rgb(183, 154, 49)"
+           offset="17.77777777777778%" />
+        <stop
+           id="stop7703"
+           stop-opacity="1"
+           stop-color="rgb(181, 154, 49)"
+           offset="18.333333333333332%" />
+        <stop
+           id="stop7705"
+           stop-opacity="1"
+           stop-color="rgb(179, 155, 49)"
+           offset="18.88888888888889%" />
+        <stop
+           id="stop7707"
+           stop-opacity="1"
+           stop-color="rgb(176, 156, 49)"
+           offset="19.444444444444446%" />
+        <stop
+           id="stop7709"
+           stop-opacity="1"
+           stop-color="rgb(174, 157, 49)"
+           offset="20%" />
+        <stop
+           id="stop7711"
+           stop-opacity="1"
+           stop-color="rgb(172, 158, 49)"
+           offset="20.555555555555554%" />
+        <stop
+           id="stop7713"
+           stop-opacity="1"
+           stop-color="rgb(169, 158, 49)"
+           offset="21.11111111111111%" />
+        <stop
+           id="stop7715"
+           stop-opacity="1"
+           stop-color="rgb(167, 159, 49)"
+           offset="21.666666666666668%" />
+        <stop
+           id="stop7717"
+           stop-opacity="1"
+           stop-color="rgb(165, 160, 49)"
+           offset="22.22222222222222%" />
+        <stop
+           id="stop7719"
+           stop-opacity="1"
+           stop-color="rgb(162, 161, 49)"
+           offset="22.77777777777778%" />
+        <stop
+           id="stop7721"
+           stop-opacity="1"
+           stop-color="rgb(160, 161, 49)"
+           offset="23.333333333333332%" />
+        <stop
+           id="stop7723"
+           stop-opacity="1"
+           stop-color="rgb(157, 162, 49)"
+           offset="23.88888888888889%" />
+        <stop
+           id="stop7725"
+           stop-opacity="1"
+           stop-color="rgb(154, 163, 49)"
+           offset="24.444444444444443%" />
+        <stop
+           id="stop7727"
+           stop-opacity="1"
+           stop-color="rgb(152, 164, 49)"
+           offset="25%" />
+        <stop
+           id="stop7729"
+           stop-opacity="1"
+           stop-color="rgb(149, 164, 49)"
+           offset="25.555555555555554%" />
+        <stop
+           id="stop7731"
+           stop-opacity="1"
+           stop-color="rgb(146, 165, 49)"
+           offset="26.111111111111114%" />
+        <stop
+           id="stop7733"
+           stop-opacity="1"
+           stop-color="rgb(143, 166, 49)"
+           offset="26.666666666666668%" />
+        <stop
+           id="stop7735"
+           stop-opacity="1"
+           stop-color="rgb(140, 167, 49)"
+           offset="27.22222222222222%" />
+        <stop
+           id="stop7737"
+           stop-opacity="1"
+           stop-color="rgb(136, 167, 49)"
+           offset="27.77777777777778%" />
+        <stop
+           id="stop7739"
+           stop-opacity="1"
+           stop-color="rgb(133, 168, 49)"
+           offset="28.333333333333332%" />
+        <stop
+           id="stop7741"
+           stop-opacity="1"
+           stop-color="rgb(129, 169, 49)"
+           offset="28.888888888888886%" />
+        <stop
+           id="stop7743"
+           stop-opacity="1"
+           stop-color="rgb(125, 170, 49)"
+           offset="29.444444444444446%" />
+        <stop
+           id="stop7745"
+           stop-opacity="1"
+           stop-color="rgb(121, 171, 49)"
+           offset="30%" />
+        <stop
+           id="stop7747"
+           stop-opacity="1"
+           stop-color="rgb(116, 172, 49)"
+           offset="30.555555555555557%" />
+        <stop
+           id="stop7749"
+           stop-opacity="1"
+           stop-color="rgb(111, 173, 49)"
+           offset="31.11111111111111%" />
+        <stop
+           id="stop7751"
+           stop-opacity="1"
+           stop-color="rgb(105, 173, 49)"
+           offset="31.666666666666664%" />
+        <stop
+           id="stop7753"
+           stop-opacity="1"
+           stop-color="rgb(99, 174, 49)"
+           offset="32.22222222222222%" />
+        <stop
+           id="stop7755"
+           stop-opacity="1"
+           stop-color="rgb(91, 175, 49)"
+           offset="32.77777777777778%" />
+        <stop
+           id="stop7757"
+           stop-opacity="1"
+           stop-color="rgb(83, 177, 49)"
+           offset="33.33333333333333%" />
+        <stop
+           id="stop7759"
+           stop-opacity="1"
+           stop-color="rgb(72, 178, 49)"
+           offset="33.88888888888889%" />
+        <stop
+           id="stop7761"
+           stop-opacity="1"
+           stop-color="rgb(59, 179, 49)"
+           offset="34.44444444444444%" />
+        <stop
+           id="stop7763"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 56)"
+           offset="35%" />
+        <stop
+           id="stop7765"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 70)"
+           offset="35.55555555555556%" />
+        <stop
+           id="stop7767"
+           stop-opacity="1"
+           stop-color="rgb(49, 179, 81)"
+           offset="36.11111111111111%" />
+        <stop
+           id="stop7769"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 89)"
+           offset="36.666666666666664%" />
+        <stop
+           id="stop7771"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 96)"
+           offset="37.22222222222222%" />
+        <stop
+           id="stop7773"
+           stop-opacity="1"
+           stop-color="rgb(50, 178, 102)"
+           offset="37.77777777777778%" />
+        <stop
+           id="stop7775"
+           stop-opacity="1"
+           stop-color="rgb(50, 177, 108)"
+           offset="38.333333333333336%" />
+        <stop
+           id="stop7777"
+           stop-opacity="1"
+           stop-color="rgb(51, 177, 113)"
+           offset="38.88888888888889%" />
+        <stop
+           id="stop7779"
+           stop-opacity="1"
+           stop-color="rgb(51, 177, 117)"
+           offset="39.44444444444444%" />
+        <stop
+           id="stop7781"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 121)"
+           offset="40%" />
+        <stop
+           id="stop7783"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 124)"
+           offset="40.55555555555556%" />
+        <stop
+           id="stop7785"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 128)"
+           offset="41.11111111111111%" />
+        <stop
+           id="stop7787"
+           stop-opacity="1"
+           stop-color="rgb(51, 176, 131)"
+           offset="41.66666666666667%" />
+        <stop
+           id="stop7789"
+           stop-opacity="1"
+           stop-color="rgb(52, 176, 134)"
+           offset="42.22222222222222%" />
+        <stop
+           id="stop7791"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 136)"
+           offset="42.77777777777778%" />
+        <stop
+           id="stop7793"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 139)"
+           offset="43.333333333333336%" />
+        <stop
+           id="stop7795"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 141)"
+           offset="43.888888888888886%" />
+        <stop
+           id="stop7797"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 144)"
+           offset="44.44444444444444%" />
+        <stop
+           id="stop7799"
+           stop-opacity="1"
+           stop-color="rgb(52, 175, 146)"
+           offset="45%" />
+        <stop
+           id="stop7801"
+           stop-opacity="1"
+           stop-color="rgb(52, 174, 148)"
+           offset="45.55555555555556%" />
+        <stop
+           id="stop7803"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 150)"
+           offset="46.111111111111114%" />
+        <stop
+           id="stop7805"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 152)"
+           offset="46.666666666666664%" />
+        <stop
+           id="stop7807"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 154)"
+           offset="47.22222222222222%" />
+        <stop
+           id="stop7809"
+           stop-opacity="1"
+           stop-color="rgb(53, 174, 156)"
+           offset="47.77777777777778%" />
+        <stop
+           id="stop7811"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 158)"
+           offset="48.333333333333336%" />
+        <stop
+           id="stop7813"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 160)"
+           offset="48.888888888888886%" />
+        <stop
+           id="stop7815"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 162)"
+           offset="49.44444444444444%" />
+        <stop
+           id="stop7817"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 163)"
+           offset="50%" />
+        <stop
+           id="stop7819"
+           stop-opacity="1"
+           stop-color="rgb(53, 173, 165)"
+           offset="50.55555555555556%" />
+        <stop
+           id="stop7821"
+           stop-opacity="1"
+           stop-color="rgb(54, 173, 167)"
+           offset="51.11111111111111%" />
+        <stop
+           id="stop7823"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 169)"
+           offset="51.66666666666667%" />
+        <stop
+           id="stop7825"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 170)"
+           offset="52.22222222222223%" />
+        <stop
+           id="stop7827"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 172)"
+           offset="52.77777777777778%" />
+        <stop
+           id="stop7829"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 174)"
+           offset="53.333333333333336%" />
+        <stop
+           id="stop7831"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 175)"
+           offset="53.888888888888886%" />
+        <stop
+           id="stop7833"
+           stop-opacity="1"
+           stop-color="rgb(54, 172, 177)"
+           offset="54.44444444444444%" />
+        <stop
+           id="stop7835"
+           stop-opacity="1"
+           stop-color="rgb(54, 171, 179)"
+           offset="55.00000000000001%" />
+        <stop
+           id="stop7837"
+           stop-opacity="1"
+           stop-color="rgb(54, 171, 181)"
+           offset="55.55555555555556%" />
+        <stop
+           id="stop7839"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 182)"
+           offset="56.111111111111114%" />
+        <stop
+           id="stop7841"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 184)"
+           offset="56.666666666666664%" />
+        <stop
+           id="stop7843"
+           stop-opacity="1"
+           stop-color="rgb(55, 171, 186)"
+           offset="57.22222222222222%" />
+        <stop
+           id="stop7845"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 188)"
+           offset="57.77777777777777%" />
+        <stop
+           id="stop7847"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 190)"
+           offset="58.333333333333336%" />
+        <stop
+           id="stop7849"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 192)"
+           offset="58.88888888888889%" />
+        <stop
+           id="stop7851"
+           stop-opacity="1"
+           stop-color="rgb(55, 170, 194)"
+           offset="59.44444444444444%" />
+        <stop
+           id="stop7853"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 196)"
+           offset="60%" />
+        <stop
+           id="stop7855"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 198)"
+           offset="60.55555555555555%" />
+        <stop
+           id="stop7857"
+           stop-opacity="1"
+           stop-color="rgb(56, 169, 201)"
+           offset="61.111111111111114%" />
+        <stop
+           id="stop7859"
+           stop-opacity="1"
+           stop-color="rgb(56, 168, 203)"
+           offset="61.66666666666667%" />
+        <stop
+           id="stop7861"
+           stop-opacity="1"
+           stop-color="rgb(56, 168, 206)"
+           offset="62.22222222222222%" />
+        <stop
+           id="stop7863"
+           stop-opacity="1"
+           stop-color="rgb(57, 168, 208)"
+           offset="62.77777777777778%" />
+        <stop
+           id="stop7865"
+           stop-opacity="1"
+           stop-color="rgb(57, 167, 211)"
+           offset="63.33333333333333%" />
+        <stop
+           id="stop7867"
+           stop-opacity="1"
+           stop-color="rgb(57, 167, 214)"
+           offset="63.888888888888886%" />
+        <stop
+           id="stop7869"
+           stop-opacity="1"
+           stop-color="rgb(57, 166, 217)"
+           offset="64.44444444444444%" />
+        <stop
+           id="stop7871"
+           stop-opacity="1"
+           stop-color="rgb(58, 166, 221)"
+           offset="65%" />
+        <stop
+           id="stop7873"
+           stop-opacity="1"
+           stop-color="rgb(58, 165, 225)"
+           offset="65.55555555555556%" />
+        <stop
+           id="stop7875"
+           stop-opacity="1"
+           stop-color="rgb(58, 165, 229)"
+           offset="66.11111111111111%" />
+        <stop
+           id="stop7877"
+           stop-opacity="1"
+           stop-color="rgb(59, 164, 233)"
+           offset="66.66666666666666%" />
+        <stop
+           id="stop7879"
+           stop-opacity="1"
+           stop-color="rgb(59, 163, 238)"
+           offset="67.22222222222223%" />
+        <stop
+           id="stop7881"
+           stop-opacity="1"
+           stop-color="rgb(60, 162, 244)"
+           offset="67.77777777777779%" />
+        <stop
+           id="stop7883"
+           stop-opacity="1"
+           stop-color="rgb(73, 160, 245)"
+           offset="68.33333333333333%" />
+        <stop
+           id="stop7885"
+           stop-opacity="1"
+           stop-color="rgb(85, 159, 245)"
+           offset="68.88888888888889%" />
+        <stop
+           id="stop7887"
+           stop-opacity="1"
+           stop-color="rgb(96, 157, 245)"
+           offset="69.44444444444444%" />
+        <stop
+           id="stop7889"
+           stop-opacity="1"
+           stop-color="rgb(105, 156, 245)"
+           offset="70%" />
+        <stop
+           id="stop7891"
+           stop-opacity="1"
+           stop-color="rgb(113, 154, 245)"
+           offset="70.55555555555556%" />
+        <stop
+           id="stop7893"
+           stop-opacity="1"
+           stop-color="rgb(120, 153, 245)"
+           offset="71.11111111111111%" />
+        <stop
+           id="stop7895"
+           stop-opacity="1"
+           stop-color="rgb(127, 151, 245)"
+           offset="71.66666666666667%" />
+        <stop
+           id="stop7897"
+           stop-opacity="1"
+           stop-color="rgb(133, 150, 245)"
+           offset="72.22222222222221%" />
+        <stop
+           id="stop7899"
+           stop-opacity="1"
+           stop-color="rgb(139, 148, 245)"
+           offset="72.77777777777777%" />
+        <stop
+           id="stop7901"
+           stop-opacity="1"
+           stop-color="rgb(145, 146, 245)"
+           offset="73.33333333333333%" />
+        <stop
+           id="stop7903"
+           stop-opacity="1"
+           stop-color="rgb(150, 145, 245)"
+           offset="73.88888888888889%" />
+        <stop
+           id="stop7905"
+           stop-opacity="1"
+           stop-color="rgb(155, 143, 245)"
+           offset="74.44444444444444%" />
+        <stop
+           id="stop7907"
+           stop-opacity="1"
+           stop-color="rgb(160, 142, 245)"
+           offset="75%" />
+        <stop
+           id="stop7909"
+           stop-opacity="1"
+           stop-color="rgb(165, 140, 245)"
+           offset="75.55555555555556%" />
+        <stop
+           id="stop7911"
+           stop-opacity="1"
+           stop-color="rgb(170, 138, 245)"
+           offset="76.11111111111111%" />
+        <stop
+           id="stop7913"
+           stop-opacity="1"
+           stop-color="rgb(174, 136, 245)"
+           offset="76.66666666666667%" />
+        <stop
+           id="stop7915"
+           stop-opacity="1"
+           stop-color="rgb(179, 134, 245)"
+           offset="77.22222222222223%" />
+        <stop
+           id="stop7917"
+           stop-opacity="1"
+           stop-color="rgb(183, 132, 245)"
+           offset="77.77777777777779%" />
+        <stop
+           id="stop7919"
+           stop-opacity="1"
+           stop-color="rgb(188, 130, 245)"
+           offset="78.33333333333333%" />
+        <stop
+           id="stop7921"
+           stop-opacity="1"
+           stop-color="rgb(192, 128, 245)"
+           offset="78.88888888888889%" />
+        <stop
+           id="stop7923"
+           stop-opacity="1"
+           stop-color="rgb(197, 126, 245)"
+           offset="79.44444444444444%" />
+        <stop
+           id="stop7925"
+           stop-opacity="1"
+           stop-color="rgb(201, 124, 245)"
+           offset="80%" />
+        <stop
+           id="stop7927"
+           stop-opacity="1"
+           stop-color="rgb(205, 121, 245)"
+           offset="80.55555555555556%" />
+        <stop
+           id="stop7929"
+           stop-opacity="1"
+           stop-color="rgb(210, 118, 245)"
+           offset="81.11111111111111%" />
+        <stop
+           id="stop7931"
+           stop-opacity="1"
+           stop-color="rgb(214, 116, 245)"
+           offset="81.66666666666667%" />
+        <stop
+           id="stop7933"
+           stop-opacity="1"
+           stop-color="rgb(219, 113, 245)"
+           offset="82.22222222222221%" />
+        <stop
+           id="stop7935"
+           stop-opacity="1"
+           stop-color="rgb(223, 109, 245)"
+           offset="82.77777777777777%" />
+        <stop
+           id="stop7937"
+           stop-opacity="1"
+           stop-color="rgb(228, 106, 245)"
+           offset="83.33333333333334%" />
+        <stop
+           id="stop7939"
+           stop-opacity="1"
+           stop-color="rgb(233, 102, 245)"
+           offset="83.88888888888889%" />
+        <stop
+           id="stop7941"
+           stop-opacity="1"
+           stop-color="rgb(238, 97, 245)"
+           offset="84.44444444444444%" />
+        <stop
+           id="stop7943"
+           stop-opacity="1"
+           stop-color="rgb(243, 92, 245)"
+           offset="85%" />
+        <stop
+           id="stop7945"
+           stop-opacity="1"
+           stop-color="rgb(245, 92, 241)"
+           offset="85.55555555555556%" />
+        <stop
+           id="stop7947"
+           stop-opacity="1"
+           stop-color="rgb(245, 93, 236)"
+           offset="86.11111111111111%" />
+        <stop
+           id="stop7949"
+           stop-opacity="1"
+           stop-color="rgb(245, 94, 232)"
+           offset="86.66666666666667%" />
+        <stop
+           id="stop7951"
+           stop-opacity="1"
+           stop-color="rgb(245, 96, 228)"
+           offset="87.22222222222223%" />
+        <stop
+           id="stop7953"
+           stop-opacity="1"
+           stop-color="rgb(245, 97, 223)"
+           offset="87.77777777777777%" />
+        <stop
+           id="stop7955"
+           stop-opacity="1"
+           stop-color="rgb(245, 98, 219)"
+           offset="88.33333333333333%" />
+        <stop
+           id="stop7957"
+           stop-opacity="1"
+           stop-color="rgb(246, 99, 215)"
+           offset="88.88888888888889%" />
+        <stop
+           id="stop7959"
+           stop-opacity="1"
+           stop-color="rgb(246, 100, 212)"
+           offset="89.44444444444444%" />
+        <stop
+           id="stop7961"
+           stop-opacity="1"
+           stop-color="rgb(246, 101, 208)"
+           offset="90%" />
+        <stop
+           id="stop7963"
+           stop-opacity="1"
+           stop-color="rgb(246, 101, 204)"
+           offset="90.55555555555556%" />
+        <stop
+           id="stop7965"
+           stop-opacity="1"
+           stop-color="rgb(246, 102, 201)"
+           offset="91.11111111111111%" />
+        <stop
+           id="stop7967"
+           stop-opacity="1"
+           stop-color="rgb(246, 103, 197)"
+           offset="91.66666666666666%" />
+        <stop
+           id="stop7969"
+           stop-opacity="1"
+           stop-color="rgb(246, 104, 194)"
+           offset="92.22222222222223%" />
+        <stop
+           id="stop7971"
+           stop-opacity="1"
+           stop-color="rgb(246, 104, 190)"
+           offset="92.77777777777779%" />
+        <stop
+           id="stop7973"
+           stop-opacity="1"
+           stop-color="rgb(246, 105, 187)"
+           offset="93.33333333333333%" />
+        <stop
+           id="stop7975"
+           stop-opacity="1"
+           stop-color="rgb(246, 106, 183)"
+           offset="93.88888888888889%" />
+        <stop
+           id="stop7977"
+           stop-opacity="1"
+           stop-color="rgb(246, 106, 180)"
+           offset="94.44444444444444%" />
+        <stop
+           id="stop7979"
+           stop-opacity="1"
+           stop-color="rgb(247, 107, 176)"
+           offset="95%" />
+        <stop
+           id="stop7981"
+           stop-opacity="1"
+           stop-color="rgb(247, 107, 173)"
+           offset="95.55555555555556%" />
+        <stop
+           id="stop7983"
+           stop-opacity="1"
+           stop-color="rgb(247, 108, 170)"
+           offset="96.11111111111111%" />
+        <stop
+           id="stop7985"
+           stop-opacity="1"
+           stop-color="rgb(247, 108, 166)"
+           offset="96.66666666666667%" />
+        <stop
+           id="stop7987"
+           stop-opacity="1"
+           stop-color="rgb(247, 109, 162)"
+           offset="97.22222222222221%" />
+        <stop
+           id="stop7989"
+           stop-opacity="1"
+           stop-color="rgb(247, 110, 159)"
+           offset="97.77777777777777%" />
+        <stop
+           id="stop7991"
+           stop-opacity="1"
+           stop-color="rgb(247, 110, 155)"
+           offset="98.33333333333333%" />
+        <stop
+           id="stop7993"
+           stop-opacity="1"
+           stop-color="rgb(247, 111, 151)"
+           offset="98.88888888888889%" />
+        <stop
+           id="stop7995"
+           stop-opacity="1"
+           stop-color="rgb(247, 111, 147)"
+           offset="99.44444444444444%" />
+        <stop
+           id="stop7997"
+           stop-opacity="1"
+           stop-color="rgb(247, 112, 141)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g8291"
+       class="clips" />
+    <g
+       id="g8744"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip098970xyplot">
+        <rect
+           id="rect8732"
+           height="80"
+           width="160"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip098970x"
+         class="axesclip">
+        <rect
+           id="rect8735"
+           height="200"
+           width="160"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clip098970y"
+         class="axesclip">
+        <rect
+           id="rect8738"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip098970xy"
+         class="axesclip">
+        <rect
+           id="rect8741"
+           height="80"
+           width="160"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g8755"
+       class="gradients">
+      <linearGradient
+         id="g098970-cb9746e6be-2607-4856-979d-5ff5671af96a"
+         y2="0"
+         y1="30"
+         x2="346"
+         x1="346"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop8746"
+           stop-opacity="1"
+           stop-color="rgb(220, 220, 220)"
+           offset="0%" />
+        <stop
+           id="stop8748"
+           stop-opacity="1"
+           stop-color="rgb(245, 195, 157)"
+           offset="20%" />
+        <stop
+           id="stop8750"
+           stop-opacity="1"
+           stop-color="rgb(245, 160, 105)"
+           offset="40%" />
+        <stop
+           id="stop8752"
+           stop-opacity="1"
+           stop-color="rgb(178, 10, 28)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g9046"
+       class="clips" />
+    <g
+       id="g9310"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip0eac2fxyplot">
+        <rect
+           id="rect9298"
+           height="80"
+           width="160"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip0eac2fx"
+         class="axesclip">
+        <rect
+           id="rect9301"
+           height="200"
+           width="160"
+           y="0"
+           x="140" />
+      </clipPath>
+      <clipPath
+         id="clip0eac2fy"
+         class="axesclip">
+        <rect
+           id="rect9304"
+           height="80"
+           width="380"
+           y="40"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip0eac2fxy"
+         class="axesclip">
+        <rect
+           id="rect9307"
+           height="80"
+           width="160"
+           y="40"
+           x="140" />
+      </clipPath>
+    </g>
+    <g
+       id="g9321"
+       class="gradients">
+      <linearGradient
+         id="g0eac2f-cb7739e7aa-66a1-4bcf-972f-1d814e5e9dbb"
+         y2="0"
+         y1="30"
+         x2="346"
+         x1="346"
+         gradientTransform="scale(0.5,2)"
+         gradientUnits="userSpaceOnUse">
+        <stop
+           id="stop9312"
+           stop-opacity="1"
+           stop-color="rgb(220, 220, 220)"
+           offset="0%" />
+        <stop
+           id="stop9314"
+           stop-opacity="1"
+           stop-color="rgb(245, 195, 157)"
+           offset="20%" />
+        <stop
+           id="stop9316"
+           stop-opacity="1"
+           stop-color="rgb(245, 160, 105)"
+           offset="40%" />
+        <stop
+           id="stop9318"
+           stop-opacity="1"
+           stop-color="rgb(178, 10, 28)"
+           offset="100%" />
+      </linearGradient>
+    </g>
+    <g
+       id="g9612"
+       class="clips" />
+    <g
+       id="g38259"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip5690f7xyplot">
+        <rect
+           id="rect38247"
+           height="236"
+           width="240" />
+      </clipPath>
+      <clipPath
+         id="clip5690f7x"
+         class="axesclip">
+        <rect
+           id="rect38250"
+           height="420"
+           width="240"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip5690f7y"
+         class="axesclip">
+        <rect
+           id="rect38253"
+           height="236"
+           width="400"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip5690f7xy"
+         class="axesclip">
+        <rect
+           id="rect38256"
+           height="236"
+           width="240"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g38261"
+       class="gradients" />
+    <g
+       id="g38630"
+       class="clips" />
+    <clipPath
+       id="legend5690f7">
+      <rect
+         id="rect38632"
+         y="0"
+         x="0"
+         height="48"
+         width="240" />
+    </clipPath>
+    <g
+       id="g39020"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip5bbd3bxyplot">
+        <rect
+           id="rect39008"
+           height="236"
+           width="240" />
+      </clipPath>
+      <clipPath
+         id="clip5bbd3bx"
+         class="axesclip">
+        <rect
+           id="rect39011"
+           height="420"
+           width="240"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip5bbd3by"
+         class="axesclip">
+        <rect
+           id="rect39014"
+           height="236"
+           width="400"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip5bbd3bxy"
+         class="axesclip">
+        <rect
+           id="rect39017"
+           height="236"
+           width="240"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g39022"
+       class="gradients" />
+    <g
+       id="g39405"
+       class="clips" />
+    <clipPath
+       id="legend5bbd3b">
+      <rect
+         id="rect39407"
+         y="0"
+         x="0"
+         height="48"
+         width="240" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="219.47515"
+     inkscape:cy="38.215139"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     objecttolerance="9"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1280"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4036">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.1156773,-97.462212)">
+    <g
+       class="layer-subplot"
+       id="g5420"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)">
+      <g
+         class="shapelayer"
+         id="g5416" />
+      <g
+         class="imagelayer"
+         id="g5418" />
+    </g>
+    <g
+       class="gridlayer"
+       id="g5426"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)">
+      <g
+         class="x"
+         id="g5422" />
+      <g
+         class="y"
+         id="g5424" />
+    </g>
+    <g
+       class="zerolinelayer"
+       id="g5432"
+       transform="matrix(0.26310091,0,0,0.26310091,-15.475973,91.169552)">
+      <path
+         inkscape:connector-curvature="0"
+         class="xzl zl crisp"
+         transform="translate(150)"
+         d="m 0,40 v 80"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path5428" />
+      <path
+         inkscape:connector-curvature="0"
+         class="yzl zl crisp"
+         transform="translate(0,110)"
+         d="M 140,0 H 300"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path5430" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path5434"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path5436"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g5438"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <g
+       class="xaxislayer-below"
+       id="g5440"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <g
+       class="yaxislayer-below"
+       id="g5442"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <g
+       class="overaxes-below"
+       id="g5444"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <g
+       class="plot"
+       transform="matrix(0.26310091,0,0,0.26310091,21.358154,101.69359)"
+       clip-path="url(#clip392cb3xyplot)"
+       id="g5594">
+      <g
+         class="heatmaplayer mlayer"
+         id="g5450">
+        <g
+           class="hm"
+           id="g5448">
+          <image
+             preserveAspectRatio="none"
+             height="80"
+             width="160"
+             x="0"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABQCAYAAACeXX40AAAC4ElEQVR4Xu3dsUqWARiG4f8HJSIJIxAjiRqcmqI16iA6oo6gqY6ktqCtqMiMopAEw6lCIoICUajZ+XrH2/17+by4ebaPf3mw9+HfYvBv/dfe4LXFYvXk9+i95fGf0XvHH3dG7+08fDF6b/v+zdF7FzbXRu8tC9A8C9D8CtD8FgVogAVofgWIfgWIgC2gARag+bWA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOhXgAjYAhpgAZpfC4h+BYiALaABFqD5tYDoV4AI2AIaYAGaXwuIfgWIgC2gARag+bWA6FeACNgCGmABml8LiH7Lw09vR78JufzjDb7S2cdPz62P3lv5+XX03snBl9F7u49ejd7bunt99N7FG5dG7xUgchagARag+S0K0AAL0PwKEP0KEAFbQAMsQPNrAdGvABGwBTTAAjS/FhD9ChABW0ADLEDzawHRrwARsAU0wAI0vxYQ/QoQAVtAAyxA82sB0a8AEbAFNMACNL8WEP0KEAFbQAMsQPNrAdGvABGwBTTAAjS/FhD9lt/fPRv9JmTtcPZ3Lk43tvFfPPv4yu9vo/f+7s7+TsjLB89H32/r3uw3ISvnV0ffrwCRswANsADNb1GABliA5leA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOhXgAjYAhpgAZpfC4h+BYiALaABFqD5tYDoV4AI2AIaYAGaXwuIfgWIgC2gARag+bWA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOi33N/fH/0m5MrBU3yls4//2rw9em/985PReydHR6P33j9+PXrv6p1ro/c2bl0ZvVeAyFmABliA5rcoQAMsQPMrQPQrQARsAQ2wAM2vBUS/AkTAFtAAC9D8WkD0K0AEbAENsADNrwVEvwJEwBbQAAvQ/FpA9CtABGwBDbAAza8FRL8CRMAW0AAL0PxaQPQrQARsAQ2wAM2vBUS/AkTAFtAAC9D8WkD0+w+tbl+xhDmrQQAAAABJRU5ErkJggg=="
+             style="opacity:1"
+             id="image5446" />
+        </g>
+      </g>
+      <g
+         class="scatterlayer mlayer"
+         id="g5592">
+        <g
+           class="trace scatter trace6c1fd05b-9021-4fc1-86e2-7cccc6f32d72"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g5590">
+          <g
+             class="fills"
+             id="g5452" />
+          <g
+             class="errorbars"
+             id="g5454" />
+          <g
+             class="lines"
+             id="g5456" />
+          <g
+             class="points"
+             id="g5458" />
+          <g
+             class="text"
+             id="g5588">
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5462">
+              <text
+                 x="10"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5460">0.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5466">
+              <text
+                 x="30"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5464">1.7</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5470">
+              <text
+                 x="50"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5468">1.1</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5474">
+              <text
+                 x="70"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5472">2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5478">
+              <text
+                 x="90"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5476">2.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5482">
+              <text
+                 x="110"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5480">3.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5486">
+              <text
+                 x="130"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5484">3</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5490">
+              <text
+                 x="150"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5488">2.3</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5494">
+              <text
+                 x="10"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5492">1.2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5498">
+              <text
+                 x="30"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5496">1.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5502">
+              <text
+                 x="50"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5500">1.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5506">
+              <text
+                 x="70"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5504">1.7</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5510">
+              <text
+                 x="90"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5508">2.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5514">
+              <text
+                 x="110"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5512">4.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5518">
+              <text
+                 x="130"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5516">3.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5522">
+              <text
+                 x="150"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5520">3.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5526">
+              <text
+                 x="10"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5524">1</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5530">
+              <text
+                 x="30"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5528">1.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5534">
+              <text
+                 x="50"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5532">1.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5538">
+              <text
+                 x="70"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5536">1.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5542">
+              <text
+                 x="90"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5540">2.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5546">
+              <text
+                 x="110"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5544">3.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5550">
+              <text
+                 x="130"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5548">3</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5554">
+              <text
+                 x="150"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5552">2.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5558">
+              <text
+                 x="10"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5556">0.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5562">
+              <text
+                 x="30"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5560">1.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5566">
+              <text
+                 x="50"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5564">1.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5570">
+              <text
+                 x="70"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5568">1.7</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5574">
+              <text
+                 x="90"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5572">2.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5578">
+              <text
+                 x="110"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5576">4.1</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5582">
+              <text
+                 x="130"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5580">2.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g5586">
+              <text
+                 x="150"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text5584">2.5</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="overplot"
+       id="g5596"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <path
+       inkscape:connector-curvature="0"
+       class="xlines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path5598" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ylines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path5600" />
+    <g
+       class="overlines-above"
+       id="g5602"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <path
+       id="path5654"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,120.11066 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5656"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,114.84864 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5658"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,109.58662 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path5660"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,104.3246 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <text
+       x="19.253347"
+       y="121.0315"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5662">AWS</text>
+    <text
+       x="19.253347"
+       y="115.76949"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5666">Official</text>
+    <text
+       x="19.253347"
+       y="110.50746"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5670">ACCESS</text>
+    <text
+       x="19.253347"
+       y="105.24545"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5674">ECMWF</text>
+    <g
+       class="overaxes-above"
+       id="g5680"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045764,3.9767357)" />
+    <rect
+       class="cbbg"
+       x="64.112053"
+       y="101.56204"
+       width="15.180974"
+       height="21.311172"
+       style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
+       id="rect5705" />
+    <g
+       class="cbfills"
+       transform="matrix(0.26310091,0,0,0.26310091,21.358154,104.3246)"
+       id="g5709">
+      <rect
+         class="cbfill"
+         x="173"
+         width="15"
+         y="0"
+         height="60"
+         style="fill:url(#g392cb3-cbe5910e9f-4222-4de2-8753-ef74120ce808);stroke:none"
+         id="rect5707" />
+    </g>
+    <g
+       class="cblines"
+       transform="matrix(0.26458333,0,0,0.26458333,33.33709,17.205902)"
+       id="g5711" />
+    <text
+       x="71.610428"
+       y="120.23694"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5713">1</text>
+    <text
+       x="71.610428"
+       y="115.80106"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5717">2</text>
+    <text
+       x="71.610428"
+       y="111.36781"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5721">3</text>
+    <text
+       x="71.610428"
+       y="106.93194"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text5725">4</text>
+    <text
+       class="hycbe5910e9f-4222-4de2-8753-ef74120ce808title"
+       transform="rotate(-90)"
+       x="-112.21763"
+       y="76.135765"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text5731">[kn]</text>
+    <rect
+       class="cboutline"
+       x="66.874603"
+       y="104.32459"
+       width="3.9465137"
+       height="15.786055"
+       style="fill:none;stroke:#444444;stroke-width:0.26310092;stroke-opacity:1"
+       id="rect5737" />
+    <text
+       class="ytitle"
+       transform="rotate(-90)"
+       x="-112.21763"
+       y="7.9934516"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text5749">Dataset</text>
+    <g
+       class="layer-subplot"
+       id="g5992"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)">
+      <g
+         class="shapelayer"
+         id="g5988" />
+      <g
+         class="imagelayer"
+         id="g5990" />
+    </g>
+    <g
+       class="gridlayer"
+       id="g5998"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)">
+      <g
+         class="x"
+         id="g5994" />
+      <g
+         class="y"
+         id="g5996" />
+    </g>
+    <g
+       class="zerolinelayer"
+       id="g6004"
+       transform="matrix(0.26310091,0,0,0.26310091,48.377993,91.307326)">
+      <path
+         inkscape:connector-curvature="0"
+         class="xzl zl crisp"
+         transform="translate(150)"
+         d="m 0,40 v 80"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path6000" />
+      <path
+         inkscape:connector-curvature="0"
+         class="yzl zl crisp"
+         transform="translate(0,110)"
+         d="M 140,0 H 300"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path6002" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path6006"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path6008"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g6010"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <g
+       class="xaxislayer-below"
+       id="g6012"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <g
+       class="yaxislayer-below"
+       id="g6014"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <g
+       class="overaxes-below"
+       id="g6016"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <g
+       class="plot"
+       transform="matrix(0.26310091,0,0,0.26310091,85.212126,101.83136)"
+       clip-path="url(#clip526ef6xyplot)"
+       id="g6166">
+      <g
+         class="heatmaplayer mlayer"
+         id="g6022">
+        <g
+           class="hm"
+           id="g6020">
+          <image
+             preserveAspectRatio="none"
+             height="80"
+             width="160"
+             x="0"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABQCAYAAACeXX40AAAC7ElEQVR4Xu3dv6vNcRzH8e+Zr5sfN79KDLc76GZAShaTf4DRpkwWZfIH+CNMBqNB2VAslGLQXaRcnE66XYTIzHzmx2d8nv377tujZ6/t25m9OHv63zTwt2/9wMBr0zR/+mHovVPXzw29t/3o3dB7K4f3DL33bWt36L21zUND780K0DwL0PwK0PymAjTAAjS/AkS/AkTAFtAAC9D8WkD0K0AEbAENsADNrwVEvwJEwBbQAAvQ/FpA9CtABGwBDbAAza8FRL8CRMAW0AAL0PxaQPQrQARsAQ2wAM2vBUS/AkTAFtAAC9D8WkD0K0AEbAENsADNrwVEv9n81uWh34T82v6Br7T8+M/334fe27iyOfTe/MnYb1ZWj+8d+n6L55+G3jtxaX3ovQJEzgI0wAI0v6kADbAAza8A0a8AEbAFNMACNL8WEP0KEAFbQAMsQPNrAdGvABGwBTTAAjS/FhD9ChABW0ADLEDzawHRrwARsAU0wAI0vxYQ/QoQAVtAAyxA82sB0a8AEbAFNMACNL8WEP0KEAFbQAMsQPNrAdFvtnvn6tBvQhbPPuIrLT/+58vvoffO3Lww9N7W3ddD760cWR16b+fVYui9o+ePDb1XgMhZgAZYgOY3FaABFqD5FSD6FSACtoAGWIDm1wKiXwEiYAtogAVofi0g+hUgAraABliA5tcCol8BImALaIAFaH4tIPoVIAK2gAZYgObXAqJfASJgC2iABWh+LSD6FSACtoAGWIDm1wKiXwEiYAtogAVofi0g+s3+Prg99JuQ+cM3+ErLj39+PPZ/OC7euzb0/V7euD/03trJg0PvfX27M/Te/o21ofcKEDkL0AAL0PymAjTAAjS/AkS/AkTAFtAAC9D8WkD0K0AEbAENsADNrwVEvwJEwBbQAAvQ/FpA9CtABGwBDbAAza8FRL8CRMAW0AAL0PxaQPQrQARsAQ2wAM2vBUS/AkTAFtAAC9D8WkD0K0AEbAENsADNrwVEv//eXjx1Vh8cQAAAAABJRU5ErkJggg=="
+             style="opacity:1"
+             id="image6018" />
+        </g>
+      </g>
+      <g
+         class="scatterlayer mlayer"
+         id="g6164">
+        <g
+           class="trace scatter traceeeabd1db-50b8-427d-8caf-5dfa1d3ecb58"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g6162">
+          <g
+             class="fills"
+             id="g6024" />
+          <g
+             class="errorbars"
+             id="g6026" />
+          <g
+             class="lines"
+             id="g6028" />
+          <g
+             class="points"
+             id="g6030" />
+          <g
+             class="text"
+             id="g6160">
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6034">
+              <text
+                 x="10"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6032">34</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6038">
+              <text
+                 x="30"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6036">68</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6042">
+              <text
+                 x="50"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6040">96</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6046">
+              <text
+                 x="70"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6044">30</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6050">
+              <text
+                 x="90"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6048">92</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6054">
+              <text
+                 x="110"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6052">76</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6058">
+              <text
+                 x="130"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6056">95</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6062">
+              <text
+                 x="150"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6060">80</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6066">
+              <text
+                 x="10"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6064">51</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6070">
+              <text
+                 x="30"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6068">77</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6074">
+              <text
+                 x="50"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6072">88</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6078">
+              <text
+                 x="70"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6076">43</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6082">
+              <text
+                 x="90"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6080">84</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6086">
+              <text
+                 x="110"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6084">75</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6090">
+              <text
+                 x="130"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6088">97</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6094">
+              <text
+                 x="150"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6092">75</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6098">
+              <text
+                 x="10"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6096">58</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6102">
+              <text
+                 x="30"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6100">72</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6106">
+              <text
+                 x="50"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6104">88</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6110">
+              <text
+                 x="70"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6108">54</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6114">
+              <text
+                 x="90"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6112">82</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6118">
+              <text
+                 x="110"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6116">71</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6122">
+              <text
+                 x="130"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6120">96</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6126">
+              <text
+                 x="150"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6124">69</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6130">
+              <text
+                 x="10"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6128">84</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6134">
+              <text
+                 x="30"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6132">70</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6138">
+              <text
+                 x="50"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6136">97</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6142">
+              <text
+                 x="70"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6140">57</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6146">
+              <text
+                 x="90"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6144">88</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6150">
+              <text
+                 x="110"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6148">79</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6154">
+              <text
+                 x="130"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6152">97</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6158">
+              <text
+                 x="150"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6156">80</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="overplot"
+       id="g6168"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <path
+       inkscape:connector-curvature="0"
+       class="xlines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path6170" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ylines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path6172" />
+    <g
+       class="overlines-above"
+       id="g6174"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <g
+       class="overaxes-above"
+       id="g6252"
+       transform="matrix(0.26458333,0,0,0.26458333,96.837089,3.9767357)" />
+    <rect
+       class="cbbg"
+       x="127.96604"
+       y="101.69982"
+       width="16.213593"
+       height="21.311172"
+       style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
+       id="rect6277" />
+    <g
+       class="cbfills"
+       transform="matrix(0.26310091,0,0,0.26310091,85.212126,104.46237)"
+       id="g6281">
+      <rect
+         class="cbfill"
+         x="173"
+         width="15"
+         y="0"
+         height="60"
+         style="fill:url(#g526ef6-cb05947bbf-80a7-4724-8974-5a23b4a8a2f6);stroke:none"
+         id="rect6279" />
+    </g>
+    <g
+       class="cblines"
+       transform="matrix(0.26458333,0,0,0.26458333,133.87876,17.205902)"
+       id="g6283" />
+    <text
+       x="135.4644"
+       y="121.16929"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text6285">0</text>
+    <text
+       x="135.4644"
+       y="113.27625"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text6289">50</text>
+    <text
+       x="135.4644"
+       y="105.38323"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text6293">100</text>
+    <text
+       class="hycb05947bbf-80a7-4724-8974-5a23b4a8a2f6title"
+       transform="rotate(-90)"
+       x="-112.35539"
+       y="140.98947"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text6299">[percent]</text>
+    <rect
+       class="cboutline"
+       x="130.72859"
+       y="104.46237"
+       width="3.9465137"
+       height="15.786055"
+       style="fill:none;stroke:#444444;stroke-width:0.26310092;stroke-opacity:1"
+       id="rect6305" />
+    <g
+       class="layer-subplot"
+       id="g6912"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)">
+      <g
+         class="shapelayer"
+         id="g6908" />
+      <g
+         class="imagelayer"
+         id="g6910" />
+    </g>
+    <g
+       class="gridlayer"
+       id="g6918"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)">
+      <g
+         class="x"
+         id="g6914" />
+      <g
+         class="y"
+         id="g6916" />
+    </g>
+    <g
+       class="zerolinelayer"
+       id="g6924"
+       transform="matrix(0.26310091,0,0,0.26310091,48.409565,115.17434)">
+      <path
+         inkscape:connector-curvature="0"
+         class="xzl zl crisp"
+         transform="translate(149.88)"
+         d="m 0,40 v 80"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path6920" />
+      <path
+         inkscape:connector-curvature="0"
+         class="yzl zl crisp"
+         transform="translate(0,110)"
+         d="M 140,0 H 298"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path6922" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path6926"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path6928"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g6930"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <g
+       class="xaxislayer-below"
+       id="g6932"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <g
+       class="yaxislayer-below"
+       id="g6934"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <g
+       class="overaxes-below"
+       id="g6936"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <g
+       class="plot"
+       transform="matrix(0.26310091,0,0,0.26310091,85.243696,125.69838)"
+       clip-path="url(#clip24421axyplot)"
+       id="g7086">
+      <g
+         class="heatmaplayer mlayer"
+         id="g6942">
+        <g
+           class="hm"
+           id="g6940">
+          <image
+             preserveAspectRatio="none"
+             height="80"
+             width="158"
+             x="0"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ4AAABQCAYAAADoZ8y/AAADAElEQVR4Xu3dsYvOARzH8XvcJEXUDbLYWElZKAz+AatZGS2Wm2Rg0JXFH6EsRsMpXQrFaFFMIkLdINQ9evab3u/v+L79+fZ7Xvfus/16FmefXl+uDf693Pk2eG1tbe/XnbF7l65+Hru1OvTg693Rex/+7IzeO3rkwti998PPtig8/r8pPG5XeNyuxRN2hSfwWjyOV3jcrsUTdoUn8Fo8jld43K7FE3aFJ/BaPI5XeNyuxRN2hSfwWjyOV3jcrsUTdoUn8Fo8jld43K7FE3aFJ/BaPI5XeNyuxRN2hSfwWjyOV3jcrsUTdoUn8Fo8jld43K7FE3aFJ/BaPI63uPXkzOg7F/deHeZPs88n934+HLu3OPhm7Nbq0OvTj0bvHfs0+87Fj5Nz71zc3rg/+l0LT3AWHscrPG7X4gm7whN4LR7HKzxu1+IJu8ITeC0exys8btfiCbvCE3gtHscrPG7X4gm7whN4LR7HKzxu1+IJu8ITeC0exys8btfiCbvCE3gtHscrPG7X4gm7whN4LR7HKzxu1+IJu8ITeC0exys8btfiCbvCE3gtHsdb3Bx+52Jre5M/zT6fXC4Pjd1b/j41dmt16N25a6P3/n6ffedifWPunYtnB2afrfBEOoXH8QqP27V4wq7wBF6Lx/EKj9u1eMKu8ARei8fxCo/btXjCrvAEXovH8QqP27V4wq7wBF6Lx/EKj9u1eMKu8ARei8fxCo/btXjCrvAEXovH8QqP27V4wq7wBF6Lx/EKj9u1eMKu8ARei8fxCo/btXjCrvAEXovH8RbnH78Y/Z2L59v/+NPs88nF+u7YvcsXT4zdWh3a3L0xeu/4x9n3Gr4M/s7Flbdbo9+18ARn4XG8wuN2LZ6wKzyB1+JxvMLjdi2esCs8gdficbzC43YtnrArPIHX4nG8wuN2LZ6wKzyB1+JxvMLjdi2esCs8gdficbzC43YtnrArPIHX4nG8wuN2LZ6wKzyB1+JxvMLjdi2esCs8gdficbzC43YtnrArPIHX4nG8/1lsXJGrn1jeAAAAAElFTkSuQmCC"
+             style="opacity:1"
+             id="image6938" />
+        </g>
+      </g>
+      <g
+         class="scatterlayer mlayer"
+         id="g7084">
+        <g
+           class="trace scatter trace436d46bb-321c-4874-ba5a-b0c8bcee1765"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g7082">
+          <g
+             class="fills"
+             id="g6944" />
+          <g
+             class="errorbars"
+             id="g6946" />
+          <g
+             class="lines"
+             id="g6948" />
+          <g
+             class="points"
+             id="g6950" />
+          <g
+             class="text"
+             id="g7080">
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6954">
+              <text
+                 x="9.8800001"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6952">107</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6958">
+              <text
+                 x="29.629999"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6956">167</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6962">
+              <text
+                 x="49.380001"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6960">171</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6966">
+              <text
+                 x="69.129997"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6964">111</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6970">
+              <text
+                 x="88.879997"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6968">34</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6974">
+              <text
+                 x="108.63"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6972">145</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6978">
+              <text
+                 x="128.38"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6976">33</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6982">
+              <text
+                 x="148.13"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6980">167</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6986">
+              <text
+                 x="9.8800001"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6984">57</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6990">
+              <text
+                 x="29.629999"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6988">172</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6994">
+              <text
+                 x="49.380001"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6992">169</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g6998">
+              <text
+                 x="69.129997"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text6996">158</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7002">
+              <text
+                 x="88.879997"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7000">27</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7006">
+              <text
+                 x="108.63"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7004">142</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7010">
+              <text
+                 x="128.38"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7008">28</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7014">
+              <text
+                 x="148.13"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7012">128</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7018">
+              <text
+                 x="9.8800001"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7016">56</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7022">
+              <text
+                 x="29.629999"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7020">10</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7026">
+              <text
+                 x="49.380001"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7024">162</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7030">
+              <text
+                 x="69.129997"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7028">177</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7034">
+              <text
+                 x="88.879997"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7032">28</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7038">
+              <text
+                 x="108.63"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7036">146</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7042">
+              <text
+                 x="128.38"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7040">28</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7046">
+              <text
+                 x="148.13"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7044">103</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7050">
+              <text
+                 x="9.8800001"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7048">66</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7054">
+              <text
+                 x="29.629999"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7052">10</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7058">
+              <text
+                 x="49.380001"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7056">164</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7062">
+              <text
+                 x="69.129997"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7060">96</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7066">
+              <text
+                 x="88.879997"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7064">27</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7070">
+              <text
+                 x="108.63"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7068">135</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7074">
+              <text
+                 x="128.38"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7072">36</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g7078">
+              <text
+                 x="148.13"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text7076">130</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="overplot"
+       id="g7088"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <path
+       inkscape:connector-curvature="0"
+       class="xlines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path7090" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ylines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path7092" />
+    <g
+       class="overlines-above"
+       id="g7094"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <path
+       id="path7096"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 87.843129,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7098"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 93.039372,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7100"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 98.235615,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7102"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 103.43186,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7104"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 108.6281,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7106"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 113.82435,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7108"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 119.02059,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7110"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 124.21683,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <text
+       x="148.93835"
+       y="-87.094582"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7112">VIC</text>
+    <text
+       x="148.93835"
+       y="-92.290833"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7116">SA</text>
+    <text
+       x="148.93835"
+       y="-97.487076"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7120">NSW</text>
+    <text
+       x="148.93835"
+       y="-102.68331"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7124">South WA</text>
+    <text
+       x="148.93835"
+       y="-107.87955"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7128">West WA</text>
+    <text
+       x="148.93835"
+       y="-113.07581"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7132">North WA</text>
+    <text
+       x="148.93835"
+       y="-118.27204"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7136">QLD</text>
+    <text
+       x="148.93835"
+       y="-123.46828"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7140">NT</text>
+    <g
+       class="overaxes-above"
+       id="g7172"
+       transform="matrix(0.26458333,0,0,0.26458333,96.83709,56.893402)" />
+    <rect
+       class="cbbg"
+       x="127.47141"
+       y="125.56683"
+       width="17.537321"
+       height="21.311172"
+       style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
+       id="rect7197" />
+    <g
+       class="cbfills"
+       transform="matrix(0.26310091,0,0,0.26310091,85.243696,128.32938)"
+       id="g7201">
+      <rect
+         class="cbfill"
+         x="171"
+         width="15"
+         y="0"
+         height="60"
+         style="fill:url(#g24421a-cbf37f15b2-d2f0-4a6b-a08f-f429b656f01d);stroke:none"
+         id="rect7199" />
+    </g>
+    <g
+       class="cblines"
+       transform="matrix(0.26458333,0,0,0.26458333,133.87876,70.122568)"
+       id="g7203" />
+    <text
+       x="134.96977"
+       y="145.0363"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7205">0</text>
+    <text
+       x="134.96977"
+       y="140.65041"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7209">50</text>
+    <text
+       x="134.96977"
+       y="136.26715"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7213">100</text>
+    <text
+       x="134.96977"
+       y="131.88124"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text7217">150</text>
+    <text
+       class="hycbf37f15b2-d2f0-4a6b-a08f-f429b656f01dtitle"
+       transform="rotate(-90)"
+       x="-136.22241"
+       y="141.81035"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text7223">[degrees]</text>
+    <rect
+       class="cboutline"
+       x="130.23396"
+       y="128.32939"
+       width="3.9465137"
+       height="15.786055"
+       style="fill:none;stroke:#444444;stroke-width:0.26310092;stroke-opacity:1"
+       id="rect7229" />
+    <text
+       class="xtitle"
+       x="106.59561"
+       y="162.30363"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text7237">Station Group</text>
+    <g
+       class="layer-subplot"
+       id="g8015"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)">
+      <g
+         class="shapelayer"
+         id="g8011" />
+      <g
+         class="imagelayer"
+         id="g8013" />
+    </g>
+    <g
+       class="gridlayer"
+       id="g8021"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)">
+      <g
+         class="x"
+         id="g8017" />
+      <g
+         class="y"
+         id="g8019" />
+    </g>
+    <g
+       class="zerolinelayer"
+       id="g8027"
+       transform="matrix(0.26310091,0,0,0.26310091,-15.475973,115.17434)">
+      <path
+         inkscape:connector-curvature="0"
+         class="xzl zl crisp"
+         transform="translate(150)"
+         d="m 0,40 v 80"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path8023" />
+      <path
+         inkscape:connector-curvature="0"
+         class="yzl zl crisp"
+         transform="translate(0,110)"
+         d="M 140,0 H 300"
+         style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         id="path8025" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path8029"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path8031"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g8033"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <g
+       class="xaxislayer-below"
+       id="g8035"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <g
+       class="yaxislayer-below"
+       id="g8037"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <g
+       class="overaxes-below"
+       id="g8039"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <g
+       class="plot"
+       transform="matrix(0.26310091,0,0,0.26310091,21.358154,125.69838)"
+       clip-path="url(#clipf7ca0dxyplot)"
+       id="g8189">
+      <g
+         class="heatmaplayer mlayer"
+         id="g8045">
+        <g
+           class="hm"
+           id="g8043">
+          <image
+             preserveAspectRatio="none"
+             height="80"
+             width="160"
+             x="0"
+             y="0"
+             xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABQCAYAAACeXX40AAAC2UlEQVR4Xu3dLYpWARiG4XMUdRDBYZIGk0WnzR7ETdiGCYIIbkAR3IHCKFj8WYDNbHABNoOYDCbHn6g4n9mp1xvvr38vh4ubpx3O+url3mYZ/B1uPRm8tiz7v++O3nu6fXn03s7m6+i9o/Xq6L3bPz6P3nu2fWn03lqA5lmA5leA5rcUoAEWoPkVIPoVIAK2gAZYgObXAqJfASJgC2iABWh+LSD6FSACtoAGWIDm1wKiXwEiYAtogAVofi0g+hUgAraABliA5tcCol8BImALaIAFaH4tIPoVIAK2gAZYgObXAqJfASJgC2iABWh+LSD6rc9fz74TsvMHn+jE399fnL1349vsvQeXz44e3Gx2R+8d/Poweu/LudFzSwGiZwEaYAGa31KABliA5leA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOhXgAjYAhpgAZpfC4h+BYiALaABFqD5tYDoV4AI2AIaYAGaXwuIfgWIgC2gARag+bWA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOi3vpj+Tsj5R/hI//999/T90XsHs5/1WB5eGX285Wi5Pnrw3vePo/ce75wZvVeAyFmABliA5tcCol8BImALaIAFaH4tIPoVIAK2gAZYgObXAqJfASJgC2iABWh+LSD6FSACtoAGWIDm1wKiXwEiYAtogAVofi0g+hUgAraABliA5tcCol8BImALaIAFaH4tIPoVIAK2gAZYgObXAqJfASJgC2iA6603s98J+fR39h2Om8ez75i83dozsRP/3qyzL5mcOr42+nx3fr4bvXd4YX/0XgEiZwEaYAGa31KABliA5leA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOhXgAjYAhpgAZpfC4h+BYiALaABFqD5tYDoV4AI2AIaYAGaXwuIfgWIgC2gARag+bWA6FeACNgCGmABml8LiH4FiIAtoAEWoPm1gOj3D2Ohrb6jCw5yAAAAAElFTkSuQmCC"
+             style="opacity:1"
+             id="image8041" />
+        </g>
+      </g>
+      <g
+         class="scatterlayer mlayer"
+         id="g8187">
+        <g
+           class="trace scatter trace07769bf3-4dff-4029-886a-71e8f0ff0941"
+           style="opacity:1;stroke-miterlimit:2"
+           id="g8185">
+          <g
+             class="fills"
+             id="g8047" />
+          <g
+             class="errorbars"
+             id="g8049" />
+          <g
+             class="lines"
+             id="g8051" />
+          <g
+             class="points"
+             id="g8053" />
+          <g
+             class="text"
+             id="g8183">
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8057">
+              <text
+                 x="10"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8055">7.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8061">
+              <text
+                 x="30"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8059">12.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8065">
+              <text
+                 x="50"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8063">7.1</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8069">
+              <text
+                 x="70"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8067">9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8073">
+              <text
+                 x="90"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8071">8.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8077">
+              <text
+                 x="110"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8075">9.3</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8081">
+              <text
+                 x="130"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8079">5.7</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8085">
+              <text
+                 x="150"
+                 y="70"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8083">10.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8089">
+              <text
+                 x="10"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8087">5.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8093">
+              <text
+                 x="30"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8091">13.2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8097">
+              <text
+                 x="50"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8095">7.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8101">
+              <text
+                 x="70"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8099">3.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8105">
+              <text
+                 x="90"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8103">8.2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8109">
+              <text
+                 x="110"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8107">8.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8113">
+              <text
+                 x="130"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8111">5.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8117">
+              <text
+                 x="150"
+                 y="50"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8115">8.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8121">
+              <text
+                 x="10"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8119">5.8</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8125">
+              <text
+                 x="30"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8123">4.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8129">
+              <text
+                 x="50"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8127">7.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8133">
+              <text
+                 x="70"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8131">4.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8137">
+              <text
+                 x="90"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8135">8.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8141">
+              <text
+                 x="110"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8139">9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8145">
+              <text
+                 x="130"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8143">6.1</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8149">
+              <text
+                 x="150"
+                 y="30"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8147">7.2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8153">
+              <text
+                 x="10"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8151">5.5</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8157">
+              <text
+                 x="30"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8155">14.4</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8161">
+              <text
+                 x="50"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8159">5.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8165">
+              <text
+                 x="70"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8163">8.6</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8169">
+              <text
+                 x="90"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8167">8.2</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8173">
+              <text
+                 x="110"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8171">8.7</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8177">
+              <text
+                 x="130"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8175">5.9</text>
+            </g>
+            <g
+               class="textpoint"
+               transform="translate(0,2)"
+               id="g8181">
+              <text
+                 x="150"
+                 y="10"
+                 style="font-size:8px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1"
+                 id="text8179">8.6</text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       class="overplot"
+       id="g8191"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <path
+       inkscape:connector-curvature="0"
+       class="xlines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path8193" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ylines-above crisp"
+       d=""
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-opacity:0"
+       id="path8195" />
+    <g
+       class="overlines-above"
+       id="g8197"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <path
+       id="path8199"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 23.989163,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8201"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 29.251182,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8203"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 34.5132,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8205"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 39.775218,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8207"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 45.037236,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8209"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 50.299255,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8211"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 55.561273,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8213"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="m 60.823291,147.00955 v 1.3155"
+       class="xtick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <text
+       x="148.93835"
+       y="-23.240623"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8215">VIC</text>
+    <text
+       x="148.93835"
+       y="-28.502642"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8219">SA</text>
+    <text
+       x="148.93835"
+       y="-33.76466"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8223">NSW</text>
+    <text
+       x="148.93835"
+       y="-39.02668"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8227">South WA</text>
+    <text
+       x="148.93835"
+       y="-44.288696"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8231">West WA</text>
+    <text
+       x="148.93835"
+       y="-49.550716"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8235">North WA</text>
+    <text
+       x="148.93835"
+       y="-54.812733"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8239">QLD</text>
+    <text
+       x="148.93835"
+       y="-60.074753"
+       transform="rotate(90)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8243">NT</text>
+    <path
+       id="path8249"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,144.11544 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8251"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,138.85342 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8253"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,133.5914 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8255"
+       style="stroke:#444444;stroke-width:0.26310092px;stroke-opacity:1"
+       d="M 21.095053,128.32939 H 19.779549"
+       class="ytick ticks crisp"
+       inkscape:connector-curvature="0" />
+    <text
+       x="19.253347"
+       y="145.0363"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8257">AWS</text>
+    <text
+       x="19.253347"
+       y="139.77428"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8261">Official</text>
+    <text
+       x="19.253347"
+       y="134.51225"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8265">ACCESS</text>
+    <text
+       x="19.253347"
+       y="129.25024"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8269">ECMWF</text>
+    <g
+       class="overaxes-above"
+       id="g8275"
+       transform="matrix(0.26458333,0,0,0.26458333,-3.7045754,56.893402)" />
+    <rect
+       class="cbbg"
+       x="64.112053"
+       y="125.56683"
+       width="16.180706"
+       height="21.311172"
+       style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
+       id="rect8300" />
+    <g
+       class="cbfills"
+       transform="matrix(0.26310091,0,0,0.26310091,21.358154,128.32938)"
+       id="g8304">
+      <rect
+         class="cbfill"
+         x="173"
+         width="15"
+         y="0"
+         height="60"
+         style="fill:url(#gf7ca0d-cb0724f380-b184-4695-8a57-ee30e3383849);stroke:none"
+         id="rect8302" />
+    </g>
+    <g
+       class="cblines"
+       transform="matrix(0.26458333,0,0,0.26458333,33.337091,70.122568)"
+       id="g8306" />
+    <text
+       x="71.610428"
+       y="145.0363"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8308">0</text>
+    <text
+       x="71.610428"
+       y="141.74754"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8312">5</text>
+    <text
+       x="71.610428"
+       y="138.45877"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8316">10</text>
+    <text
+       x="71.610428"
+       y="135.17001"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8320">15</text>
+    <text
+       x="71.610428"
+       y="131.88124"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.26310092"
+       id="text8324">20</text>
+    <text
+       class="hycb0724f380-b184-4695-8a57-ee30e3383849title"
+       transform="rotate(-90)"
+       x="-136.22241"
+       y="77.13549"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text8330">[hours]</text>
+    <rect
+       class="cboutline"
+       x="66.874603"
+       y="128.32939"
+       width="3.9465137"
+       height="15.786055"
+       style="fill:none;stroke:#444444;stroke-width:0.26310092;stroke-opacity:1"
+       id="rect8336" />
+    <text
+       class="xtitle"
+       x="42.973194"
+       y="162.30362"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text8344">Station Group</text>
+    <text
+       class="ytitle"
+       transform="rotate(-90)"
+       x="-136.22241"
+       y="7.9934516"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text8348">Dataset</text>
+    <text
+       id="text36996"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       y="100.60519"
+       x="6.6572218"
+       class="ytitle">a)</text>
+    <text
+       class="ytitle"
+       x="6.6572218"
+       y="126.11931"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text36998">c)</text>
+    <text
+       class="ytitle"
+       x="81.249229"
+       y="100.60519"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       id="text37000">b)</text>
+    <text
+       id="text37002"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.26310092"
+       y="126.11931"
+       x="81.249229"
+       class="ytitle">d)</text>
+    <g
+       class="layer-subplot"
+       id="g38276"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)">
+      <g
+         class="shapelayer"
+         id="g38272" />
+      <g
+         class="imagelayer"
+         id="g38274" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path38302"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path38304"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g38306"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <g
+       class="xaxislayer-below"
+       id="g38308"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <g
+       class="yaxislayer-below"
+       id="g38310"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <g
+       class="overaxes-below"
+       id="g38312"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <g
+       class="overplot"
+       id="g38566"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <path
+       inkscape:connector-curvature="0"
+       class="xlines-above crisp"
+       d="M -20.470419,166.69901"
+       style="fill:none;stroke-width:0.26458332"
+       id="path38568" />
+    <path
+       inkscape:connector-curvature="0"
+       class="ylines-above crisp"
+       d="M -20.470419,166.69901"
+       style="fill:none;stroke-width:0.26458332"
+       id="path38570" />
+    <g
+       class="overlines-above"
+       id="g38572"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <g
+       class="overaxes-above"
+       id="g38614"
+       transform="matrix(0.26458333,0,0,0.26458333,-20.470419,166.69901)" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="0.6962474"
+       y="261.84317"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect38728" />
+    <g
+       class="layer-subplot"
+       id="g39037"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)">
+      <g
+         class="shapelayer"
+         id="g39033" />
+      <g
+         class="imagelayer"
+         id="g39035" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path39069"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path39071"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g39073"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="xaxislayer-below"
+       id="g39075"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="yaxislayer-below"
+       id="g39077"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="overaxes-below"
+       id="g39079"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="overplot"
+       id="g39333"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="overlines-above"
+       id="g39339"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <g
+       class="overaxes-above"
+       id="g39389"
+       transform="matrix(0.26458333,0,0,0.26458333,78.039717,168.15905)" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="99.206383"
+       y="263.30322"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect39503" />
+  </g>
+</svg>

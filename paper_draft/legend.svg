@@ -1,0 +1,5706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="28.929132mm"
+   height="2.1727118mm"
+   viewBox="0 0 28.929132 2.1727118"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="legend.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="152.43625"
+     inkscape:cy="-30.887332"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     objecttolerance="9" />
+  <defs
+     id="defs2">
+    <g
+       class="clips"
+       id="g2266">
+      <clipPath
+         id="clip318a68xyplot"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2236" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2plot"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2239" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2242" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2245" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2248" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y2">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2251" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy2">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2254" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2257" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2260" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y2">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2263" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2268" />
+    <g
+       class="clips"
+       id="g2921" />
+    <clipPath
+       id="legend318a68">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect2923" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g3624">
+      <clipPath
+         id="clip3ccd7fxyplot"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="199"
+           id="rect3612" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fx">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="400"
+           id="rect3615" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fy">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="199"
+           id="rect3618" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fxy">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="199"
+           id="rect3621" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g3626" />
+    <g
+       class="clips"
+       id="g3943" />
+    <clipPath
+       id="legend3ccd7f">
+      <rect
+         width="435"
+         height="29"
+         x="0"
+         y="0"
+         id="rect3945" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2971">
+      <clipPath
+         id="clipac25d6xyplot"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2941" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2plot"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2944" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2947" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect2950" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2953" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y2">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect2956" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy2">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2959" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2962" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2965" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y2">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2968" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2973" />
+    <g
+       class="clips"
+       id="g4424" />
+    <clipPath
+       id="legendac25d6">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect4426" />
+    </clipPath>
+    <g
+       id="g15752"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipd8af70xyplot">
+        <rect
+           id="rect15722"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipd8af70x2y2plot">
+        <rect
+           id="rect15725"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x"
+         class="axesclip">
+        <rect
+           id="rect15728"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70y"
+         class="axesclip">
+        <rect
+           id="rect15731"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70xy"
+         class="axesclip">
+        <rect
+           id="rect15734"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70y2"
+         class="axesclip">
+        <rect
+           id="rect15737"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70xy2"
+         class="axesclip">
+        <rect
+           id="rect15740"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2"
+         class="axesclip">
+        <rect
+           id="rect15743"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y"
+         class="axesclip">
+        <rect
+           id="rect15746"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y2"
+         class="axesclip">
+        <rect
+           id="rect15749"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g15754"
+       class="gradients" />
+    <g
+       id="g17181"
+       class="clips" />
+    <clipPath
+       id="legendd8af70">
+      <rect
+         id="rect17183"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g18199"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipf23ac2xyplot">
+        <rect
+           id="rect18169"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipf23ac2x2y2plot">
+        <rect
+           id="rect18172"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x"
+         class="axesclip">
+        <rect
+           id="rect18175"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2y"
+         class="axesclip">
+        <rect
+           id="rect18178"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2xy"
+         class="axesclip">
+        <rect
+           id="rect18181"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2y2"
+         class="axesclip">
+        <rect
+           id="rect18184"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2xy2"
+         class="axesclip">
+        <rect
+           id="rect18187"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2"
+         class="axesclip">
+        <rect
+           id="rect18190"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y"
+         class="axesclip">
+        <rect
+           id="rect18193"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y2"
+         class="axesclip">
+        <rect
+           id="rect18196"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g18201"
+       class="gradients" />
+    <g
+       id="g18830"
+       class="clips" />
+    <clipPath
+       id="legendf23ac2">
+      <rect
+         id="rect18832"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2266-0">
+      <clipPath
+         id="clip318a68xyplot-2"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2236-4" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2plot-8"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2239-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x-9">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2242-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y-5">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2245-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy-2">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2248-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y2-3">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2251-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy2-9">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2254-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2-2">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2257-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y-9">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2260-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y2-7">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2263-0" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2268-3" />
+    <g
+       class="clips"
+       id="g2921-9" />
+    <clipPath
+       id="legend318a68-8">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect2923-6" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g3624-5">
+      <clipPath
+         id="clip3ccd7fxyplot-7"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="199"
+           id="rect3612-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fx-2">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="400"
+           id="rect3615-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fy-0">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="199"
+           id="rect3618-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fxy-9">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="199"
+           id="rect3621-9" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g3626-9" />
+    <g
+       class="clips"
+       id="g3943-1" />
+    <clipPath
+       id="legend3ccd7f-7">
+      <rect
+         width="435"
+         height="29"
+         x="0"
+         y="0"
+         id="rect3945-2" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2971-3">
+      <clipPath
+         id="clipac25d6xyplot-6"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2941-5" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2plot-5"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2944-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x-1">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2947-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y-7">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect2950-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy-3">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2953-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y2-4">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect2956-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy2-0">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2959-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2-6">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2962-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y-3">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2965-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y2-6">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2968-9" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2973-4" />
+    <g
+       class="clips"
+       id="g4424-1" />
+    <clipPath
+       id="legendac25d6-3">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect4426-7" />
+    </clipPath>
+    <g
+       id="g2266-3"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-8">
+        <rect
+           id="rect2236-0"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-2">
+        <rect
+           id="rect2239-4"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-8"
+         class="axesclip">
+        <rect
+           id="rect2242-3"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-9"
+         class="axesclip">
+        <rect
+           id="rect2245-0"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-5"
+         class="axesclip">
+        <rect
+           id="rect2248-2"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-2"
+         class="axesclip">
+        <rect
+           id="rect2251-73"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-7"
+         class="axesclip">
+        <rect
+           id="rect2254-9"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-0"
+         class="axesclip">
+        <rect
+           id="rect2257-2"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-3"
+         class="axesclip">
+        <rect
+           id="rect2260-99"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-70"
+         class="axesclip">
+        <rect
+           id="rect2263-3"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-9"
+       class="gradients" />
+    <g
+       id="g2921-8"
+       class="clips" />
+    <clipPath
+       id="legend318a68-6">
+      <rect
+         id="rect2923-5"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-7"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-6">
+        <rect
+           id="rect3612-2"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-7"
+         class="axesclip">
+        <rect
+           id="rect3615-0"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-3"
+         class="axesclip">
+        <rect
+           id="rect3618-9"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-99"
+         class="axesclip">
+        <rect
+           id="rect3621-1"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-7"
+       class="gradients" />
+    <g
+       id="g3943-2"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-3">
+      <rect
+         id="rect3945-6"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-5"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-5">
+        <rect
+           id="rect2941-8"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-1">
+        <rect
+           id="rect2944-4"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-7"
+         class="axesclip">
+        <rect
+           id="rect2947-1"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-3"
+         class="axesclip">
+        <rect
+           id="rect2950-8"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-4"
+         class="axesclip">
+        <rect
+           id="rect2953-80"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-46"
+         class="axesclip">
+        <rect
+           id="rect2956-0"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-3"
+         class="axesclip">
+        <rect
+           id="rect2959-2"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-69"
+         class="axesclip">
+        <rect
+           id="rect2962-4"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-1"
+         class="axesclip">
+        <rect
+           id="rect2965-3"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-7"
+         class="axesclip">
+        <rect
+           id="rect2968-8"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-8"
+       class="gradients" />
+    <g
+       id="g4424-3"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-8">
+      <rect
+         id="rect4426-1"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g15752-5">
+      <clipPath
+         id="clipd8af70xyplot-3"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15722-5" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y2plot-4"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15725-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x-6">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15728-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y-9">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect15731-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy-4">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15734-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y2-1">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect15737-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy2-5">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15740-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2-4">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15743-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y-8">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15746-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y2-3">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15749-5" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g15754-2" />
+    <g
+       class="clips"
+       id="g17181-2" />
+    <clipPath
+       id="legendd8af70-6">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect17183-6" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g18199-7">
+      <clipPath
+         id="clipf23ac2xyplot-8"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18169-4" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y2plot-1"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18172-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x-1">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18175-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y-7">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18178-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy-7">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18181-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y2-4">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18184-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy2-9">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18187-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2-5">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18190-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y-5">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18193-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y2-2">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18196-9" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18201-8" />
+    <g
+       class="clips"
+       id="g18830-2" />
+    <clipPath
+       id="legendf23ac2-0">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect18832-7" />
+    </clipPath>
+    <g
+       id="g2266-0-4"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-2-8">
+        <rect
+           id="rect2236-4-5"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-8-8">
+        <rect
+           id="rect2239-3-3"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-9-0"
+         class="axesclip">
+        <rect
+           id="rect2242-0-6"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-5-2"
+         class="axesclip">
+        <rect
+           id="rect2245-2-2"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-2-5"
+         class="axesclip">
+        <rect
+           id="rect2248-7-2"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-3-2"
+         class="axesclip">
+        <rect
+           id="rect2251-7-7"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-9-1"
+         class="axesclip">
+        <rect
+           id="rect2254-0-5"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-2-2"
+         class="axesclip">
+        <rect
+           id="rect2257-3-1"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-9-1"
+         class="axesclip">
+        <rect
+           id="rect2260-9-0"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-7-1"
+         class="axesclip">
+        <rect
+           id="rect2263-0-8"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-3-7"
+       class="gradients" />
+    <g
+       id="g2921-9-6"
+       class="clips" />
+    <clipPath
+       id="legend318a68-8-0">
+      <rect
+         id="rect2923-6-0"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-5-9"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-7-5">
+        <rect
+           id="rect3612-6-6"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-2-2"
+         class="axesclip">
+        <rect
+           id="rect3615-7-8"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-0-5"
+         class="axesclip">
+        <rect
+           id="rect3618-3-9"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-9-4"
+         class="axesclip">
+        <rect
+           id="rect3621-9-3"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-9-9"
+       class="gradients" />
+    <g
+       id="g3943-1-0"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-7-5">
+      <rect
+         id="rect3945-2-6"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-3-3"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-6-6">
+        <rect
+           id="rect2941-5-3"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-5-0">
+        <rect
+           id="rect2944-8-8"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-1-4"
+         class="axesclip">
+        <rect
+           id="rect2947-4-0"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-7-4"
+         class="axesclip">
+        <rect
+           id="rect2950-1-6"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-3-4"
+         class="axesclip">
+        <rect
+           id="rect2953-8-6"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-4-4"
+         class="axesclip">
+        <rect
+           id="rect2956-8-3"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-0-8"
+         class="axesclip">
+        <rect
+           id="rect2959-4-4"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-6-0"
+         class="axesclip">
+        <rect
+           id="rect2962-0-0"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-3-9"
+         class="axesclip">
+        <rect
+           id="rect2965-2-3"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-6-7"
+         class="axesclip">
+        <rect
+           id="rect2968-9-5"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-4-7"
+       class="gradients" />
+    <g
+       id="g4424-1-2"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-3-9">
+      <rect
+         id="rect4426-7-7"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g2266-09"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-24">
+        <rect
+           id="rect2236-3"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-3">
+        <rect
+           id="rect2239-9"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-0"
+         class="axesclip">
+        <rect
+           id="rect2242-5"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-54"
+         class="axesclip">
+        <rect
+           id="rect2245-4"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-3"
+         class="axesclip">
+        <rect
+           id="rect2248-8"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-22"
+         class="axesclip">
+        <rect
+           id="rect2251-64"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-0"
+         class="axesclip">
+        <rect
+           id="rect2254-00"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-8"
+         class="axesclip">
+        <rect
+           id="rect2257-1"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-7"
+         class="axesclip">
+        <rect
+           id="rect2260-6"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-71"
+         class="axesclip">
+        <rect
+           id="rect2263-4"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-8"
+       class="gradients" />
+    <g
+       id="g2921-1"
+       class="clips" />
+    <clipPath
+       id="legend318a68-85">
+      <rect
+         id="rect2923-3"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-1"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-9">
+        <rect
+           id="rect3612-39"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-1"
+         class="axesclip">
+        <rect
+           id="rect3615-04"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-90"
+         class="axesclip">
+        <rect
+           id="rect3618-0"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-0"
+         class="axesclip">
+        <rect
+           id="rect3621-32"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-8"
+       class="gradients" />
+    <g
+       id="g3943-24"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-8">
+      <rect
+         id="rect3945-3"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-50"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-0">
+        <rect
+           id="rect2941-6"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-70">
+        <rect
+           id="rect2944-7"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-33"
+         class="axesclip">
+        <rect
+           id="rect2947-2"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-1"
+         class="axesclip">
+        <rect
+           id="rect2950-4"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-00"
+         class="axesclip">
+        <rect
+           id="rect2953-87"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-3"
+         class="axesclip">
+        <rect
+           id="rect2956-84"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-5"
+         class="axesclip">
+        <rect
+           id="rect2959-29"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-09"
+         class="axesclip">
+        <rect
+           id="rect2962-80"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-5"
+         class="axesclip">
+        <rect
+           id="rect2965-35"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-5"
+         class="axesclip">
+        <rect
+           id="rect2968-4"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-5"
+       class="gradients" />
+    <g
+       id="g4424-11"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-6">
+      <rect
+         id="rect4426-19"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g15752-3">
+      <clipPath
+         id="clipd8af70xyplot-4"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15722-7" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y2plot-9"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15725-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x-0">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15728-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y-58">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect15731-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy-2">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15734-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y2-0">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect15737-70" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy2-7">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15740-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2-8">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15743-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y-3">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15746-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y2-0">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15749-3" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g15754-8" />
+    <g
+       class="clips"
+       id="g17181-3" />
+    <clipPath
+       id="legendd8af70-1">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect17183-0" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g18199-08">
+      <clipPath
+         id="clipf23ac2xyplot-0"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18169-47" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y2plot-6"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18172-16" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x-14">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18175-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y-6">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18178-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy-2">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18181-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y2-44">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18184-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy2-8">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18187-10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2-3">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18190-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y-4">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18193-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y2-4">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18196-8" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18201-1" />
+    <g
+       class="clips"
+       id="g18830-28" />
+    <clipPath
+       id="legendf23ac2-3">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect18832-9" />
+    </clipPath>
+    <g
+       id="g2266-0-9"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-2-9">
+        <rect
+           id="rect2236-4-6"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-8-1">
+        <rect
+           id="rect2239-3-7"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-9-3"
+         class="axesclip">
+        <rect
+           id="rect2242-0-9"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-5-8"
+         class="axesclip">
+        <rect
+           id="rect2245-2-4"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-2-0"
+         class="axesclip">
+        <rect
+           id="rect2248-7-6"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-3-34"
+         class="axesclip">
+        <rect
+           id="rect2251-7-6"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-9-9"
+         class="axesclip">
+        <rect
+           id="rect2254-0-7"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-2-4"
+         class="axesclip">
+        <rect
+           id="rect2257-3-9"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-9-4"
+         class="axesclip">
+        <rect
+           id="rect2260-9-1"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-7-9"
+         class="axesclip">
+        <rect
+           id="rect2263-0-6"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-3-70"
+       class="gradients" />
+    <g
+       id="g2921-9-9"
+       class="clips" />
+    <clipPath
+       id="legend318a68-8-7">
+      <rect
+         id="rect2923-6-3"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-5-1"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-7-56">
+        <rect
+           id="rect3612-6-4"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-2-5"
+         class="axesclip">
+        <rect
+           id="rect3615-7-1"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-0-2"
+         class="axesclip">
+        <rect
+           id="rect3618-3-8"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-9-8"
+         class="axesclip">
+        <rect
+           id="rect3621-9-0"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-9-7"
+       class="gradients" />
+    <g
+       id="g3943-1-7"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-7-9">
+      <rect
+         id="rect3945-2-60"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-3-1"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-6-2">
+        <rect
+           id="rect2941-5-32"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-5-1">
+        <rect
+           id="rect2944-8-1"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-1-0"
+         class="axesclip">
+        <rect
+           id="rect2947-4-1"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-7-3"
+         class="axesclip">
+        <rect
+           id="rect2950-1-8"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-3-0"
+         class="axesclip">
+        <rect
+           id="rect2953-8-09"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-4-42"
+         class="axesclip">
+        <rect
+           id="rect2956-8-4"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-0-0"
+         class="axesclip">
+        <rect
+           id="rect2959-4-2"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-6-9"
+         class="axesclip">
+        <rect
+           id="rect2962-0-7"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-3-92"
+         class="axesclip">
+        <rect
+           id="rect2965-2-2"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-6-31"
+         class="axesclip">
+        <rect
+           id="rect2968-9-3"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-4-2"
+       class="gradients" />
+    <g
+       id="g4424-1-1"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-3-6">
+      <rect
+         id="rect4426-7-8"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2266-8">
+      <clipPath
+         id="clip318a68xyplot-3"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2236-9" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2plot-0"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2239-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x-2">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2242-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y-7">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2245-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy-7">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2248-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y2-0">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2251-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy2-3">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2254-9-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2-9">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2257-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y-0">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2260-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y2-9">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2263-8" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2268-6" />
+    <g
+       class="clips"
+       id="g2921-5" />
+    <clipPath
+       id="legend318a68-7">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect2923-62" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g3624-7-0">
+      <clipPath
+         id="clip3ccd7fxyplot-0"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="199"
+           id="rect3612-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fx-9">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="400"
+           id="rect3615-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fy-9">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="199"
+           id="rect3618-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fxy-7">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="199"
+           id="rect3621-2" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g3626-3" />
+    <g
+       class="clips"
+       id="g3943-6" />
+    <clipPath
+       id="legend3ccd7f-5">
+      <rect
+         width="435"
+         height="29"
+         x="0"
+         y="0"
+         id="rect3945-5" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2971-8">
+      <clipPath
+         id="clipac25d6xyplot-1"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2941-4" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2plot-7"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2944-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x-3">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2947-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y-4">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect2950-8-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy-0">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2953-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y2-6">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect2956-0-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy2-3-4">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2959-2-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2-69-9">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2962-4-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y-1-5">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2965-3-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y2-7-6">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2968-8-9" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2973-8-0" />
+    <g
+       class="clips"
+       id="g4424-3-8" />
+    <clipPath
+       id="legendac25d6-8-8">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect4426-1-2" />
+    </clipPath>
+    <g
+       id="g15752-5-8"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipd8af70xyplot-3-0">
+        <rect
+           id="rect15722-5-2"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipd8af70x2y2plot-4-0">
+        <rect
+           id="rect15725-3-9"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x-6-5"
+         class="axesclip">
+        <rect
+           id="rect15728-5-3"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70y-9-5"
+         class="axesclip">
+        <rect
+           id="rect15731-5-9"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70xy-4-8"
+         class="axesclip">
+        <rect
+           id="rect15734-9-9"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70y2-1-1"
+         class="axesclip">
+        <rect
+           id="rect15737-7-2"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70xy2-5-8"
+         class="axesclip">
+        <rect
+           id="rect15740-5-4"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2-4-0"
+         class="axesclip">
+        <rect
+           id="rect15743-1-1"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y-8-0"
+         class="axesclip">
+        <rect
+           id="rect15746-8-8"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y2-3-1"
+         class="axesclip">
+        <rect
+           id="rect15749-5-4"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g15754-2-9"
+       class="gradients" />
+    <g
+       id="g17181-2-5"
+       class="clips" />
+    <clipPath
+       id="legendd8af70-6-9">
+      <rect
+         id="rect17183-6-0"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g18199-7-2"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipf23ac2xyplot-8-3">
+        <rect
+           id="rect18169-4-5"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipf23ac2x2y2plot-1-9">
+        <rect
+           id="rect18172-7-0"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x-1-1"
+         class="axesclip">
+        <rect
+           id="rect18175-8-3"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2y-7-6"
+         class="axesclip">
+        <rect
+           id="rect18178-8-9"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2xy-7-0"
+         class="axesclip">
+        <rect
+           id="rect18181-7-4"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2y2-4-0"
+         class="axesclip">
+        <rect
+           id="rect18184-4-2"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2xy2-9-4"
+         class="axesclip">
+        <rect
+           id="rect18187-1-4"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2-5-1"
+         class="axesclip">
+        <rect
+           id="rect18190-5-9"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y-5-0"
+         class="axesclip">
+        <rect
+           id="rect18193-8-2"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y2-2-1"
+         class="axesclip">
+        <rect
+           id="rect18196-9-5"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g18201-8-4"
+       class="gradients" />
+    <g
+       id="g18830-2-9"
+       class="clips" />
+    <clipPath
+       id="legendf23ac2-0-0">
+      <rect
+         id="rect18832-7-2"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2266-0-4-0">
+      <clipPath
+         id="clip318a68xyplot-2-8-3"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2236-4-5-8" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2plot-8-8-2"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect2239-3-3-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x-9-0-6">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2242-0-6-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y-5-2-3">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2245-2-2-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy-2-5-9">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2248-7-2-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68y2-3-2-3">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect2251-7-7-4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68xy2-9-1-8">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2254-0-5-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2-2-2-1">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect2257-3-1-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y-9-1-5">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2260-9-0-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip318a68x2y2-7-1-9">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect2263-0-8-8" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2268-3-7-0" />
+    <g
+       class="clips"
+       id="g2921-9-6-2" />
+    <clipPath
+       id="legend318a68-8-0-2">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect2923-6-0-6" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g3624-5-9-7">
+      <clipPath
+         id="clip3ccd7fxyplot-7-5-6"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="199"
+           id="rect3612-6-6-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fx-2-2-2">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="400"
+           id="rect3615-7-8-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fy-0-5-3">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="199"
+           id="rect3618-3-9-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clip3ccd7fxy-9-4-5">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="199"
+           id="rect3621-9-3-7" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g3626-9-9-3" />
+    <g
+       class="clips"
+       id="g3943-1-0-6" />
+    <clipPath
+       id="legend3ccd7f-7-5-3">
+      <rect
+         width="435"
+         height="29"
+         x="0"
+         y="0"
+         id="rect3945-2-6-2" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g2971-3-3-5">
+      <clipPath
+         id="clipac25d6xyplot-6-6-0"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2941-5-3-3" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2plot-5-0-7"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect2944-8-8-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x-1-4-5">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2947-4-0-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y-7-4-1">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect2950-1-6-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy-3-4-4">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2953-8-6-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6y2-4-4-8">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect2956-8-3-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6xy2-0-8-5">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2959-4-4-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2-6-0-2">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect2962-0-0-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y-3-9-2">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect2965-2-3-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipac25d6x2y2-6-7-6">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect2968-9-5-6" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g2973-4-7-3" />
+    <g
+       class="clips"
+       id="g4424-1-2-4" />
+    <clipPath
+       id="legendac25d6-3-9-4">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect4426-7-7-2" />
+    </clipPath>
+    <g
+       id="g2266-5"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-7">
+        <rect
+           id="rect2236-5"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-7">
+        <rect
+           id="rect2239-2"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-4"
+         class="axesclip">
+        <rect
+           id="rect2242-4"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-9-9"
+         class="axesclip">
+        <rect
+           id="rect2245-9"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-6"
+         class="axesclip">
+        <rect
+           id="rect2248-0"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-1"
+         class="axesclip">
+        <rect
+           id="rect2251-6"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-2"
+         class="axesclip">
+        <rect
+           id="rect2254-3"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-5"
+         class="axesclip">
+        <rect
+           id="rect2257-9"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-1"
+         class="axesclip">
+        <rect
+           id="rect2260-91"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-6"
+         class="axesclip">
+        <rect
+           id="rect2263-3-2"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-64"
+       class="gradients" />
+    <g
+       id="g2921-0"
+       class="clips" />
+    <clipPath
+       id="legend318a68-81">
+      <rect
+         id="rect2923-9"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-55"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-1">
+        <rect
+           id="rect3612-7"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-7-8"
+         class="axesclip">
+        <rect
+           id="rect3615-8"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-04"
+         class="axesclip">
+        <rect
+           id="rect3618-4"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-5"
+         class="axesclip">
+        <rect
+           id="rect3621-3"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-96"
+       class="gradients" />
+    <g
+       id="g3943-5"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-3-9">
+      <rect
+         id="rect3945-7"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-2"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-18">
+        <rect
+           id="rect2941-42"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-1-2">
+        <rect
+           id="rect2944-0"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-6"
+         class="axesclip">
+        <rect
+           id="rect2947-0"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-3-5"
+         class="axesclip">
+        <rect
+           id="rect2950-7"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-8"
+         class="axesclip">
+        <rect
+           id="rect2953-47"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-9"
+         class="axesclip">
+        <rect
+           id="rect2956-5"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-33"
+         class="axesclip">
+        <rect
+           id="rect2959-6"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-0"
+         class="axesclip">
+        <rect
+           id="rect2962-8"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-9"
+         class="axesclip">
+        <rect
+           id="rect2965-7"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-4"
+         class="axesclip">
+        <rect
+           id="rect2968-5"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-9"
+       class="gradients" />
+    <g
+       id="g4424-7"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-5">
+      <rect
+         id="rect4426-74"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g15752-58">
+      <clipPath
+         id="clipd8af70xyplot-7"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15722-9" />
+      </clipPath>
+      <clipPath
+         id="clipd8af70x2y2plot-5"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="507"
+           height="143.64999"
+           id="rect15725-9" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x-66">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15728-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y-5">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="143.64999"
+           id="rect15731-2" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy-8">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15734-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70y2-9">
+        <rect
+           x="0"
+           y="294.35001"
+           width="700"
+           height="143.64999"
+           id="rect15737-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70xy2-3">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15740-3" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2-9">
+        <rect
+           x="80"
+           y="0"
+           width="507"
+           height="600"
+           id="rect15743-14" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y-4">
+        <rect
+           x="80"
+           y="100"
+           width="507"
+           height="143.64999"
+           id="rect15746-5" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipd8af70x2y2-2">
+        <rect
+           x="80"
+           y="294.35001"
+           width="507"
+           height="143.64999"
+           id="rect15749-6" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g15754-9" />
+    <g
+       class="clips"
+       id="g17181-5" />
+    <clipPath
+       id="legendd8af70-0">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect17183-3" />
+    </clipPath>
+    <g
+       class="clips"
+       id="g18199-0">
+      <clipPath
+         id="clipf23ac2xyplot-2"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18169-8" />
+      </clipPath>
+      <clipPath
+         id="clipf23ac2x2y2plot-3"
+         class="plotclip">
+        <rect
+           y="0"
+           x="0"
+           width="228.14999"
+           height="185"
+           id="rect18172-1" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x-7">
+        <rect
+           x="80"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18175-86" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y-8">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18178-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy-74">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18181-0" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2y2-0">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="185"
+           id="rect18184-8" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2xy2-7">
+        <rect
+           x="80"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18187-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2-4">
+        <rect
+           x="358.85001"
+           y="0"
+           width="228.14999"
+           height="400"
+           id="rect18190-6" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y-3">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18193-7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipf23ac2x2y2-8">
+        <rect
+           x="358.85001"
+           y="100"
+           width="228.14999"
+           height="185"
+           id="rect18196-4" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18201-6" />
+    <g
+       class="clips"
+       id="g18830-8" />
+    <clipPath
+       id="legendf23ac2-2">
+      <rect
+         width="507"
+         height="48"
+         x="0"
+         y="0"
+         id="rect18832-3" />
+    </clipPath>
+    <g
+       id="g2266-0-0"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip318a68xyplot-2-4">
+        <rect
+           id="rect2236-4-4"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clip318a68x2y2plot-8-3">
+        <rect
+           id="rect2239-3-32"
+           height="185"
+           width="228.14999"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x-9-9"
+         class="axesclip">
+        <rect
+           id="rect2242-0-7"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y-5-9"
+         class="axesclip">
+        <rect
+           id="rect2245-2-7"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy-2-1"
+         class="axesclip">
+        <rect
+           id="rect2248-7-3"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68y2-3-3"
+         class="axesclip">
+        <rect
+           id="rect2251-7-9"
+           height="185"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip318a68xy2-9-0"
+         class="axesclip">
+        <rect
+           id="rect2254-0-4"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2-2-7"
+         class="axesclip">
+        <rect
+           id="rect2257-3-4"
+           height="400"
+           width="228.14999"
+           y="0"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y-9-18"
+         class="axesclip">
+        <rect
+           id="rect2260-9-08"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+      <clipPath
+         id="clip318a68x2y2-7-8"
+         class="axesclip">
+        <rect
+           id="rect2263-0-1"
+           height="185"
+           width="228.14999"
+           y="100"
+           x="358.85001" />
+      </clipPath>
+    </g>
+    <g
+       id="g2268-3-72"
+       class="gradients" />
+    <g
+       id="g2921-9-3"
+       class="clips" />
+    <clipPath
+       id="legend318a68-8-06">
+      <rect
+         id="rect2923-6-04"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+    <g
+       id="g3624-5-8"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clip3ccd7fxyplot-7-0">
+        <rect
+           id="rect3612-6-3"
+           height="199"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fx-2-9"
+         class="axesclip">
+        <rect
+           id="rect3615-7-4"
+           height="400"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fy-0-51"
+         class="axesclip">
+        <rect
+           id="rect3618-3-1"
+           height="199"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clip3ccd7fxy-9-0"
+         class="axesclip">
+        <rect
+           id="rect3621-9-7"
+           height="199"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g3626-9-0"
+       class="gradients" />
+    <g
+       id="g3943-1-4"
+       class="clips" />
+    <clipPath
+       id="legend3ccd7f-7-51">
+      <rect
+         id="rect3945-2-4"
+         y="0"
+         x="0"
+         height="29"
+         width="435" />
+    </clipPath>
+    <g
+       id="g2971-3-2"
+       class="clips">
+      <clipPath
+         class="plotclip"
+         id="clipac25d6xyplot-6-4">
+        <rect
+           id="rect2941-5-0"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         class="plotclip"
+         id="clipac25d6x2y2plot-5-6">
+        <rect
+           id="rect2944-8-7"
+           height="143.64999"
+           width="507"
+           x="0"
+           y="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x-1-1"
+         class="axesclip">
+        <rect
+           id="rect2947-4-5"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y-7-9"
+         class="axesclip">
+        <rect
+           id="rect2950-1-1"
+           height="143.64999"
+           width="700"
+           y="100"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy-3-5"
+         class="axesclip">
+        <rect
+           id="rect2953-8-0"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6y2-4-0"
+         class="axesclip">
+        <rect
+           id="rect2956-8-5"
+           height="143.64999"
+           width="700"
+           y="294.35001"
+           x="0" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6xy2-0-9"
+         class="axesclip">
+        <rect
+           id="rect2959-4-43"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2-6-4"
+         class="axesclip">
+        <rect
+           id="rect2962-0-4"
+           height="600"
+           width="507"
+           y="0"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y-3-4"
+         class="axesclip">
+        <rect
+           id="rect2965-2-4"
+           height="143.64999"
+           width="507"
+           y="100"
+           x="80" />
+      </clipPath>
+      <clipPath
+         id="clipac25d6x2y2-6-3"
+         class="axesclip">
+        <rect
+           id="rect2968-9-57"
+           height="143.64999"
+           width="507"
+           y="294.35001"
+           x="80" />
+      </clipPath>
+    </g>
+    <g
+       id="g2973-4-77"
+       class="gradients" />
+    <g
+       id="g4424-1-24"
+       class="clips" />
+    <clipPath
+       id="legendac25d6-3-2">
+      <rect
+         id="rect4426-7-9"
+         y="0"
+         x="0"
+         height="48"
+         width="507" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-100.56918,-18.789522)">
+    <g
+       class="layer-below"
+       id="g2281"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)">
+      <g
+         class="imagelayer"
+         id="g2277" />
+      <g
+         class="shapelayer"
+         id="g2279" />
+    </g>
+    <g
+       class="layer-subplot"
+       id="g2287"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)">
+      <g
+         class="shapelayer"
+         id="g2283" />
+      <g
+         class="imagelayer"
+         id="g2285" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2319"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="xaxislayer-below"
+       id="g2321"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="yaxislayer-below"
+       id="g2323"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overaxes-below"
+       id="g2325"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overplot"
+       id="g2547"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overlines-above"
+       id="g2553"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overaxes-above"
+       id="g2595"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="layer-subplot"
+       id="g2603"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)">
+      <g
+         class="shapelayer"
+         id="g2599" />
+      <g
+         class="imagelayer"
+         id="g2601" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2633"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="xaxislayer-below"
+       id="g2635"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="yaxislayer-below"
+       id="g2637"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overaxes-below"
+       id="g2639"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overplot"
+       id="g2861"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overlines-above"
+       id="g2867"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="overaxes-above"
+       id="g2905"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="polarlayer"
+       id="g2911"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="ternarylayer"
+       id="g2913"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="geolayer"
+       id="g2915"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="pielayer"
+       id="g2917"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="glimages"
+       id="g2919"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <g
+       class="layer-above"
+       id="g2931"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)">
+      <g
+         class="imagelayer"
+         id="g2927" />
+      <g
+         class="shapelayer"
+         id="g2929" />
+    </g>
+    <g
+       id="g3115"
+       class="g-ytitle"
+       transform="matrix(0.26458333,0,0,0.26458333,81.067802,60.02067)" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="89.572556"
+       y="120.68035"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099" />
+    <g
+       id="g2982"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       id="g2984"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="layer-subplot"
+       id="g2992"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)">
+      <g
+         class="shapelayer"
+         id="g2988" />
+      <g
+         class="imagelayer"
+         id="g2990" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3040"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="xaxislayer-below"
+       id="g3042"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="yaxislayer-below"
+       id="g3044"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overaxes-below"
+       id="g3046"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overplot"
+       id="g3622"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overlines-above"
+       id="g3628"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overaxes-above"
+       id="g3710"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="layer-subplot"
+       id="g3718"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)">
+      <g
+         class="shapelayer"
+         id="g3714" />
+      <g
+         class="imagelayer"
+         id="g3716" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3758"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="xaxislayer-below"
+       id="g3760"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="yaxislayer-below"
+       id="g3762"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overaxes-below"
+       id="g3764"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overplot"
+       id="g4340"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overlines-above"
+       id="g4346"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="overaxes-above"
+       id="g4408"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       id="g4430"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       id="g4432"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       class="legendfill"
+       id="g4438"
+       transform="matrix(0.26458333,0,0,0.26458333,89.821269,34.09976)" />
+    <g
+       class="legendfill"
+       id="g4458"
+       transform="matrix(0.26458333,0,0,0.26458333,136.39207,34.09976)" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="89.821266"
+       y="30.263302"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562" />
+    <g
+       id="g4570"
+       class="g-xtitle"
+       transform="matrix(0.26458333,0,0,0.26458333,171.82064,-113.78873)" />
+    <g
+       id="g15769"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,187.7066,-145.37734)" />
+    <g
+       id="g15771"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,187.7066,-145.37734)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path15813"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path15815"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g16477"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,187.7066,-145.37734)" />
+    <g
+       id="g16479"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,187.7066,-145.37734)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path16517"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path16519"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="208.87326"
+       y="-2.6610909"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect17319" />
+    <g
+       id="g18520"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,182.41493,36.80719)" />
+    <g
+       id="g18522"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,182.41493,36.80719)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18546"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18548"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g18216"
+       class="shapelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,176.70461,-84.407151)" />
+    <g
+       id="g18218"
+       class="imagelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,176.70461,-84.407151)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18244"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18246"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315-3"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317-8"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629-1"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631-5"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="55.457619"
+       y="21.781277"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099-3" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036-5"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038-4"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754-3"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756-6"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="55.706329"
+       y="-68.635796"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562-5" />
+    <g
+       class="layer-below"
+       id="g2281-2"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)">
+      <g
+         class="imagelayer"
+         id="g2277-8" />
+      <g
+         class="shapelayer"
+         id="g2279-00" />
+    </g>
+    <g
+       class="layer-subplot"
+       id="g2287-8"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)">
+      <g
+         class="shapelayer"
+         id="g2283-2" />
+      <g
+         class="imagelayer"
+         id="g2285-5" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315-8"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317-0"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2319-3"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="xaxislayer-below"
+       id="g2321-2"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="yaxislayer-below"
+       id="g2323-3"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overaxes-below"
+       id="g2325-3"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overplot"
+       id="g2547-2"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overlines-above"
+       id="g2553-1"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overaxes-above"
+       id="g2595-9"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="layer-subplot"
+       id="g2603-1"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)">
+      <g
+         class="shapelayer"
+         id="g2599-6" />
+      <g
+         class="imagelayer"
+         id="g2601-3" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631-1"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2633-7"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="xaxislayer-below"
+       id="g2635-9"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="yaxislayer-below"
+       id="g2637-6"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overaxes-below"
+       id="g2639-6"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overplot"
+       id="g2861-6"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overlines-above"
+       id="g2867-4"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="overaxes-above"
+       id="g2905-4"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="polarlayer"
+       id="g2911-4"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="ternarylayer"
+       id="g2913-5"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="geolayer"
+       id="g2915-7"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="pielayer"
+       id="g2917-67"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="glimages"
+       id="g2919-7"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <g
+       class="layer-above"
+       id="g2931-0"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)">
+      <g
+         class="imagelayer"
+         id="g2927-2" />
+      <g
+         class="shapelayer"
+         id="g2929-1" />
+    </g>
+    <g
+       id="g3115-1"
+       class="g-ytitle"
+       transform="matrix(0.26458333,0,0,0.26458333,243.74316,26.500521)" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="252.24791"
+       y="87.160202"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099-4" />
+    <g
+       id="g2982-3"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       id="g2984-74"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="layer-subplot"
+       id="g2992-43"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)">
+      <g
+         class="shapelayer"
+         id="g2988-0" />
+      <g
+         class="imagelayer"
+         id="g2990-7" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038-9"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3040-9"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="xaxislayer-below"
+       id="g3042-4"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="yaxislayer-below"
+       id="g3044-4"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overaxes-below"
+       id="g3046-1"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overplot"
+       id="g3622-2"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overlines-above"
+       id="g3628-9"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overaxes-above"
+       id="g3710-4"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="layer-subplot"
+       id="g3718-7"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)">
+      <g
+         class="shapelayer"
+         id="g3714-3" />
+      <g
+         class="imagelayer"
+         id="g3716-0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754-90"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756-3"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3758-1"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="xaxislayer-below"
+       id="g3760-1"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="yaxislayer-below"
+       id="g3762-5"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overaxes-below"
+       id="g3764-3"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overplot"
+       id="g4340-9"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overlines-above"
+       id="g4346-6"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="overaxes-above"
+       id="g4408-3"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       id="g4430-1"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       id="g4432-8"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       class="legendfill"
+       id="g4438-1"
+       transform="matrix(0.26458333,0,0,0.26458333,252.49663,0.579611)" />
+    <g
+       class="legendfill"
+       id="g4458-3"
+       transform="matrix(0.26458333,0,0,0.26458333,299.06743,0.579611)" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="252.49663"
+       y="-3.2568471"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562-0" />
+    <g
+       id="g4570-8"
+       class="g-xtitle"
+       transform="matrix(0.26458333,0,0,0.26458333,334.496,-147.30888)" />
+    <g
+       id="g15769-7"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,350.38196,-178.89749)" />
+    <g
+       id="g15771-6"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,350.38196,-178.89749)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path15813-2"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path15815-9"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g16477-1"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,350.38196,-178.89749)" />
+    <g
+       id="g16479-41"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,350.38196,-178.89749)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path16517-2"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path16519-5"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="371.54861"
+       y="-36.18124"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect17319-0" />
+    <g
+       id="g18520-4"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,345.09029,3.287041)" />
+    <g
+       id="g18522-26"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,345.09029,3.287041)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18546-7"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18548-6"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g18216-3"
+       class="shapelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,339.37997,-117.9273)" />
+    <g
+       id="g18218-4"
+       class="imagelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,339.37997,-117.9273)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18244-1"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18246-9"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315-3-5"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317-8-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629-1-8"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631-5-8"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="218.13298"
+       y="-11.738873"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099-3-8" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036-5-7"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038-4-3"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754-3-8"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756-6-8"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="218.38168"
+       y="-102.15594"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562-5-9" />
+    <g
+       id="g8675"
+       transform="translate(-93.471956,9.7110847)">
+      <path
+         inkscape:connector-curvature="0"
+         class="js-line"
+         d="m 194.04114,9.98816 h 4.17932"
+         style="fill:none;stroke:#1f77b4;stroke-width:0.28822559;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="path4440" />
+      <g
+         transform="matrix(0.20860605,0,0,0.20860605,195.11867,9.98816)"
+         id="g4448"
+         class="legendsymbols">
+        <g
+           id="g4446"
+           class="legendpoints">
+          <path
+             id="path4444"
+             style="opacity:1;fill:#1f77b4;fill-opacity:1;stroke-width:0px"
+             d="m 6.6254012,0 a 2,2 0 1 1 -2,-2 2,2 0 0 1 2,2 z"
+             class="scatterpts"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         class="js-line"
+         d="m 209.8602,10.09167 h 4.05321"
+         style="fill:none;stroke:#ff7f0e;stroke-width:0.25086081;stroke-miterlimit:2;stroke-dasharray:none;stroke-opacity:1"
+         id="path4460" />
+      <g
+         transform="matrix(0.20860605,0,0,0.20860605,207.68127,10.1218)"
+         class="legendpoints"
+         id="g4466">
+        <path
+           inkscape:connector-curvature="0"
+           class="scatterpts"
+           transform="translate(20)"
+           d="M 2,0 A 2,2 0 1 1 0,-2 2,2 0 0 1 2,0 Z"
+           style="opacity:1;fill:#ff7f0e;fill-opacity:1;stroke-width:0px"
+           id="path4464" />
+      </g>
+      <g
+         id="g18378"
+         transform="matrix(0.44410689,0,0,0.44410689,186.95912,-10.987093)">
+        <g
+           word-spacing="normal"
+           letter-spacing="normal"
+           font-size-adjust="none"
+           font-stretch="normal"
+           font-weight="normal"
+           font-variant="normal"
+           font-style="normal"
+           stroke-miterlimit="10.433"
+           xml:space="preserve"
+           transform="matrix(0.10142857,0,0,-0.10142857,-17.75,90)"
+           id="g18376"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"><path
+             id="path18366"
+             d="m 457.27,440.23 v -1.55 h 1.19 c 3.84,0 3.93,-0.54 3.93,-2.34 v -26.25 c 0,-1.8 -0.09,-2.34 -3.93,-2.34 h -1.19 v -1.55 h 18.23 l -1.34,1.55 h -5.05 c -2.32,0 -2.43,0.34 -2.43,1.98 v 26.95 c 0,1.66 0.11,2 2.43,2 h 4.99 c 3.09,0 6.53,-1.09 9.08,-4.64 2.14,-2.93 2.57,-7.22 2.57,-11.11 0,-5.53 -0.93,-8.51 -2.73,-10.95 -1,-1.34 -3.83,-4.23 -8.86,-4.23 l 1.34,-1.55 c 8.36,0 15.24,7.37 15.24,16.73 0,9.47 -6.72,17.3 -15.24,17.3 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke-width:0" /><path
+             id="path18368"
+             d="m 511.95,440.87 -0.03,0.06 -0.02,0.06 -0.02,0.06 -0.02,0.05 -0.02,0.06 -0.02,0.05 -0.03,0.05 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.02,0.05 -0.03,0.04 -0.02,0.03 -0.03,0.04 -0.02,0.03 -0.03,0.04 -0.03,0.03 -0.03,0.03 -0.03,0.02 -0.04,0.03 -0.04,0.02 -0.04,0.02 -0.04,0.02 -0.05,0.02 -0.04,0.01 -0.06,0.01 -0.05,0.02 h -0.06 l -0.06,0.01 -0.06,0.01 h -0.07 -0.04 -0.04 c -0.79,0 -0.95,-0.3 -1.2,-1 l -10.31,-29.8 c -0.89,-2.53 -2.89,-3.28 -5.58,-3.32 v -1.55 c 1.14,0.05 3.28,0.16 5.08,0.16 1.55,0 4.14,-0.11 5.73,-0.16 v 1.55 c -2.48,0 -3.73,1.25 -3.73,2.53 0,0.15 0.05,0.65 0.09,0.75 l 2.3,6.53 0.55,1.55 5.57,16.18 5.63,-16.18 h -11.2 l -0.55,-1.55 h 12.3 l 2.64,-7.63 c 0.06,-0.2 0.15,-0.5 0.15,-0.68 0,-1.5 -2.79,-1.5 -4.14,-1.5 v -1.55 c 1.8,0.16 5.28,0.16 7.19,0.16 2.14,0 4.42,-0.07 6.52,-0.16 v 1.55 h -0.89 c -3,0 -3.69,0.34 -4.24,1.98 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke-width:0" /><path
+             id="path18370"
+             d="m 536.22,410.09 -0.01,-0.16 v -0.16 -0.15 l -0.01,-0.15 -0.01,-0.13 -0.01,-0.13 -0.02,-0.13 -0.02,-0.11 -0.03,-0.12 -0.04,-0.1 -0.04,-0.1 -0.05,-0.09 -0.06,-0.09 -0.07,-0.08 -0.08,-0.08 -0.09,-0.07 -0.1,-0.06 -0.11,-0.06 -0.06,-0.03 -0.07,-0.03 -0.06,-0.02 -0.07,-0.03 -0.08,-0.02 -0.08,-0.02 -0.08,-0.02 -0.08,-0.02 -0.09,-0.02 -0.1,-0.02 -0.09,-0.02 -0.1,-0.01 -0.11,-0.01 -0.11,-0.02 -0.11,-0.01 -0.12,-0.01 -0.12,-0.01 -0.13,-0.01 -0.13,-0.01 -0.13,-0.01 h -0.15 l -0.14,-0.01 h -0.15 l -0.16,-0.01 h -0.16 -0.16 -0.18 -0.17 -1.21 v -1.55 h 28.75 l 2.1,12.86 h -1.25 c -1.24,-7.67 -2.39,-11.31 -10.95,-11.31 h -6.63 c -2.34,0 -2.45,0.34 -2.45,1.98 v 13.31 h 4.48 c 4.85,0 5.39,-1.59 5.39,-5.83 h 1.24 v 13.21 h -1.24 c 0,-4.3 -0.54,-5.83 -5.39,-5.83 h -4.48 v 11.95 c 0,1.64 0.11,1.99 2.45,1.99 h 6.42 c 7.63,0 8.97,-2.74 9.77,-9.66 h 1.25 l -1.41,11.2 h -28.05 v -1.54 h 1.21 c 3.82,0 3.94,-0.55 3.94,-2.33 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke-width:0" /><path
+             id="path18372"
+             d="m 591.6,410.54 -0.02,0.65 -0.05,0.64 -0.08,0.64 -0.11,0.62 -0.14,0.61 -0.18,0.6 -0.2,0.59 -0.22,0.58 -0.26,0.56 -0.28,0.55 -0.31,0.53 -0.33,0.52 -0.36,0.5 -0.38,0.48 -0.4,0.46 -0.42,0.45 -0.45,0.42 -0.46,0.4 -0.48,0.38 -0.51,0.36 -0.52,0.33 -0.53,0.31 -0.56,0.28 -0.56,0.25 -0.59,0.23 -0.59,0.21 -0.61,0.17 -0.62,0.14 -0.64,0.11 -0.64,0.09 -0.65,0.05 -0.67,0.01 v -1.12 c 3.97,0 9.1,-2.96 9.1,-11.05 0,-8.56 -5.02,-11.88 -9.1,-11.88 v 0 c -4.07,0 -9.09,3.32 -9.09,11.88 0,8.09 5.13,11.05 9.09,11.05 v 1.12 c -7.13,0 -12.82,-5.75 -12.82,-12.72 0,-6.83 5.69,-12.48 12.82,-12.48 7.15,0 12.82,5.65 12.82,12.48 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke-width:0" /><path
+             id="path18374"
+             d="m 617.91,419.73 v 0.11 l 0.01,0.1 v 0.1 0.1 l 0.01,0.09 0.01,0.09 0.01,0.08 0.02,0.08 0.02,0.07 0.02,0.07 0.03,0.07 0.04,0.06 0.04,0.06 0.05,0.06 0.05,0.05 0.07,0.04 0.07,0.05 0.08,0.04 0.04,0.02 0.04,0.02 0.05,0.02 0.05,0.01 0.05,0.02 0.06,0.01 0.05,0.02 0.06,0.01 0.06,0.01 0.07,0.02 0.07,0.01 0.07,0.01 0.07,0.01 0.08,0.01 0.08,0.01 0.08,0.01 h 0.08 l 0.09,0.01 h 0.09 l 0.1,0.01 h 0.1 l 0.1,0.01 h 0.1 0.11 l 0.12,0.01 h 0.11 0.12 0.12 0.85 v 1.25 c -1.75,-0.06 -3.97,-0.14 -5.24,-0.14 -1.28,0 -3.51,0.08 -5.25,0.14 v -1.25 h 0.83 c 2.69,0 2.75,-0.35 2.75,-1.58 v -7.97 h -11.64 v 7.97 c 0,1.19 0.08,1.58 2.77,1.58 h 0.82 v 1.25 c -1.73,-0.06 -3.96,-0.14 -5.21,-0.14 -1.3,0 -3.54,0.08 -5.27,0.14 v -1.25 h 0.83 c 2.69,0 2.76,-0.35 2.76,-1.58 v -18.14 c 0,-1.19 -0.07,-1.58 -2.76,-1.58 h -0.83 v -1.25 c 1.73,0.06 3.97,0.14 5.22,0.14 1.3,0 3.53,-0.08 5.26,-0.14 v 1.25 h -0.82 c -2.69,0 -2.77,0.36 -2.77,1.58 v 8.92 h 11.64 v -8.92 c 0,-1.19 -0.06,-1.58 -2.75,-1.58 h -0.83 v -1.25 c 1.74,0.06 3.97,0.14 5.22,0.14 1.3,0 3.52,-0.08 5.27,-0.14 v 1.25 h -0.85 c -2.67,0 -2.75,0.36 -2.75,1.58 z"
+             inkscape:connector-curvature="0"
+             style="fill:#000000;stroke-width:0" /></g>      </g>
+    </g>
+    <g
+       class="layer-below"
+       id="g2281-7"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)">
+      <g
+         class="imagelayer"
+         id="g2277-0" />
+      <g
+         class="shapelayer"
+         id="g2279-0" />
+    </g>
+    <g
+       class="layer-subplot"
+       id="g2287-6"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)">
+      <g
+         class="shapelayer"
+         id="g2283-6" />
+      <g
+         class="imagelayer"
+         id="g2285-2" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315-5"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317-86"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2319-1"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="xaxislayer-below"
+       id="g2321-4"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="yaxislayer-below"
+       id="g2323-7"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overaxes-below"
+       id="g2325-8"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overplot"
+       id="g2547-0"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overlines-above"
+       id="g2553-2"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overaxes-above"
+       id="g2595-7"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="layer-subplot"
+       id="g2603-5"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)">
+      <g
+         class="shapelayer"
+         id="g2599-1" />
+      <g
+         class="imagelayer"
+         id="g2601-6" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629-4"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631-0"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g2633-5"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="xaxislayer-below"
+       id="g2635-8"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="yaxislayer-below"
+       id="g2637-9"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overaxes-below"
+       id="g2639-2"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overplot"
+       id="g2861-3"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overlines-above"
+       id="g2867-2"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="overaxes-above"
+       id="g2905-6"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="polarlayer"
+       id="g2911-8"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="ternarylayer"
+       id="g2913-3"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="geolayer"
+       id="g2915-6"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="pielayer"
+       id="g2917-6"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="glimages"
+       id="g2919-6"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <g
+       class="layer-above"
+       id="g2931-3"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)">
+      <g
+         class="imagelayer"
+         id="g2927-1" />
+      <g
+         class="shapelayer"
+         id="g2929-6" />
+    </g>
+    <g
+       id="g3115-2"
+       class="g-ytitle"
+       transform="matrix(0.26458333,0,0,0.26458333,197.17679,201.72504)" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="205.68153"
+       y="262.38474"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099-1" />
+    <g
+       id="g2982-9"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       id="g2984-7"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="layer-subplot"
+       id="g2992-4"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)">
+      <g
+         class="shapelayer"
+         id="g2988-2" />
+      <g
+         class="imagelayer"
+         id="g2990-0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036-2"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038-5"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3040-0"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="xaxislayer-below"
+       id="g3042-2"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="yaxislayer-below"
+       id="g3044-1"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overaxes-below"
+       id="g3046-2"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overplot"
+       id="g3622-3"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overlines-above"
+       id="g3628-7"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overaxes-above"
+       id="g3710-7"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="layer-subplot"
+       id="g3718-6"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)">
+      <g
+         class="shapelayer"
+         id="g3714-5" />
+      <g
+         class="imagelayer"
+         id="g3716-1" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756-9"
+       style="stroke-width:0.26458332" />
+    <g
+       class="overlines-below"
+       id="g3758-7"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="xaxislayer-below"
+       id="g3760-9"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="yaxislayer-below"
+       id="g3762-0"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overaxes-below"
+       id="g3764-6"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overplot"
+       id="g4340-5"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overlines-above"
+       id="g4346-1"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="overaxes-above"
+       id="g4408-7"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       id="g4430-9"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       id="g4432-7"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       class="legendfill"
+       id="g4438-3"
+       transform="matrix(0.26458333,0,0,0.26458333,205.93026,175.80413)" />
+    <g
+       class="legendfill"
+       id="g4458-5"
+       transform="matrix(0.26458333,0,0,0.26458333,252.50105,175.80413)" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="205.93025"
+       y="171.96768"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562-9" />
+    <g
+       id="g4570-2"
+       class="g-xtitle"
+       transform="matrix(0.26458333,0,0,0.26458333,287.92963,27.915647)" />
+    <g
+       id="g15769-8"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,303.81558,-3.672964)" />
+    <g
+       id="g15771-3"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,303.81558,-3.672964)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path15813-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path15815-8"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g16477-7"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,303.81558,-3.672964)" />
+    <g
+       id="g16479-4"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,303.81558,-3.672964)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path16517-1"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path16519-7"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="324.98224"
+       y="139.04329"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect17319-6" />
+    <g
+       id="g18520-0"
+       class="shapelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,298.52391,178.51156)" />
+    <g
+       id="g18522-2"
+       class="imagelayer"
+       transform="matrix(0.26458333,0,0,0.26458333,298.52391,178.51156)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18546-1"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18548-0"
+       style="stroke-width:0.26458332" />
+    <g
+       id="g18216-8"
+       class="shapelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,292.81359,57.297222)" />
+    <g
+       id="g18218-7"
+       class="imagelayer"
+       transform="matrix(0.25313995,0,0,0.25313995,292.81359,57.297222)" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path18244-9"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path18246-4"
+       style="stroke-width:0.25313994" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2315-3-7"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2317-8-2"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path2629-1-9"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path2631-5-7"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.0541997"
+       ry="0.75812995"
+       width="0"
+       height="0"
+       x="171.5666"
+       y="163.48566"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.25270998"
+       id="rect3099-3-0" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3036-5-1"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3038-4-4"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="xlines-below"
+       id="path3754-3-4"
+       style="stroke-width:0.26458332" />
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       class="ylines-below"
+       id="path3756-6-0"
+       style="stroke-width:0.26458332" />
+    <rect
+       class="scrollbar"
+       rx="5.2916665"
+       ry="0.79374999"
+       width="0"
+       height="0"
+       x="171.81532"
+       y="73.068581"
+       style="fill:#808ba4;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4562-5-5" />
+    <g
+       transform="matrix(0.44005353,0,0,0.44005353,109.60048,-0.87557421)"
+       id="g15014">
+      <g
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:normal;word-spacing:normal;text-anchor:start;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10.43299961;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="g15012"
+         transform="matrix(0.10142857,0,0,-0.10142857,-17.75,90)"
+         xml:space="preserve"
+         stroke-miterlimit="10.433"
+         font-style="normal"
+         font-variant="normal"
+         font-weight="normal"
+         font-stretch="normal"
+         font-size-adjust="none"
+         letter-spacing="normal"
+         word-spacing="normal"><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 457.27,440.23 v -1.55 h 1.19 c 3.84,0 3.93,-0.54 3.93,-2.34 v -26.25 c 0,-1.8 -0.09,-2.34 -3.93,-2.34 h -1.19 v -1.55 h 18.23 l -1.34,1.55 h -5.05 c -2.32,0 -2.43,0.34 -2.43,1.98 v 26.95 c 0,1.66 0.11,2 2.43,2 h 4.99 c 3.09,0 6.53,-1.09 9.08,-4.64 2.14,-2.93 2.57,-7.22 2.57,-11.11 0,-5.53 -0.93,-8.51 -2.73,-10.95 -1,-1.34 -3.83,-4.23 -8.86,-4.23 l 1.34,-1.55 c 8.36,0 15.24,7.37 15.24,16.73 0,9.47 -6.72,17.3 -15.24,17.3 z"
+           id="path15002" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 511.95,440.87 -0.03,0.06 -0.02,0.06 -0.02,0.06 -0.02,0.05 -0.02,0.06 -0.02,0.05 -0.03,0.05 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.02,0.05 -0.03,0.04 -0.02,0.03 -0.03,0.04 -0.02,0.03 -0.03,0.04 -0.03,0.03 -0.03,0.03 -0.03,0.02 -0.04,0.03 -0.04,0.02 -0.04,0.02 -0.04,0.02 -0.05,0.02 -0.04,0.01 -0.06,0.01 -0.05,0.02 h -0.06 l -0.06,0.01 -0.06,0.01 h -0.07 -0.04 -0.04 c -0.79,0 -0.95,-0.3 -1.2,-1 l -10.31,-29.8 c -0.89,-2.53 -2.89,-3.28 -5.58,-3.32 v -1.55 c 1.14,0.05 3.28,0.16 5.08,0.16 1.55,0 4.14,-0.11 5.73,-0.16 v 1.55 c -2.48,0 -3.73,1.25 -3.73,2.53 0,0.15 0.05,0.65 0.09,0.75 l 2.3,6.53 0.55,1.55 5.57,16.18 5.63,-16.18 h -11.2 l -0.55,-1.55 h 12.3 l 2.64,-7.63 c 0.06,-0.2 0.15,-0.5 0.15,-0.68 0,-1.5 -2.79,-1.5 -4.14,-1.5 v -1.55 c 1.8,0.16 5.28,0.16 7.19,0.16 2.14,0 4.42,-0.07 6.52,-0.16 v 1.55 h -0.89 c -3,0 -3.69,0.34 -4.24,1.98 z"
+           id="path15004" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 536.22,410.09 -0.01,-0.16 v -0.16 -0.15 l -0.01,-0.15 -0.01,-0.13 -0.01,-0.13 -0.02,-0.13 -0.02,-0.11 -0.03,-0.12 -0.04,-0.1 -0.04,-0.1 -0.05,-0.09 -0.06,-0.09 -0.07,-0.08 -0.08,-0.08 -0.09,-0.07 -0.1,-0.06 -0.11,-0.06 -0.06,-0.03 -0.07,-0.03 -0.06,-0.02 -0.07,-0.03 -0.08,-0.02 -0.08,-0.02 -0.08,-0.02 -0.08,-0.02 -0.09,-0.02 -0.1,-0.02 -0.09,-0.02 -0.1,-0.01 -0.11,-0.01 -0.11,-0.02 -0.11,-0.01 -0.12,-0.01 -0.12,-0.01 -0.13,-0.01 -0.13,-0.01 -0.13,-0.01 h -0.15 l -0.14,-0.01 h -0.15 l -0.16,-0.01 h -0.16 -0.16 -0.18 -0.17 -1.21 v -1.55 h 28.75 l 2.1,12.86 h -1.25 c -1.24,-7.67 -2.39,-11.31 -10.95,-11.31 h -6.63 c -2.34,0 -2.45,0.34 -2.45,1.98 v 13.31 h 4.48 c 4.85,0 5.39,-1.59 5.39,-5.83 h 1.24 v 13.21 h -1.24 c 0,-4.3 -0.54,-5.83 -5.39,-5.83 h -4.48 v 11.95 c 0,1.64 0.11,1.99 2.45,1.99 h 6.42 c 7.63,0 8.97,-2.74 9.77,-9.66 h 1.25 l -1.41,11.2 h -28.05 v -1.54 h 1.21 c 3.82,0 3.94,-0.55 3.94,-2.33 z"
+           id="path15006" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 591.6,410.54 -0.02,0.65 -0.05,0.64 -0.08,0.64 -0.11,0.62 -0.14,0.61 -0.18,0.6 -0.2,0.59 -0.22,0.58 -0.26,0.56 -0.28,0.55 -0.31,0.53 -0.33,0.52 -0.36,0.5 -0.38,0.48 -0.4,0.46 -0.42,0.45 -0.45,0.42 -0.46,0.4 -0.48,0.38 -0.51,0.36 -0.52,0.33 -0.53,0.31 -0.56,0.28 -0.56,0.25 -0.59,0.23 -0.59,0.21 -0.61,0.17 -0.62,0.14 -0.64,0.11 -0.64,0.09 -0.65,0.05 -0.67,0.01 v -1.12 c 3.97,0 9.1,-2.96 9.1,-11.05 0,-8.56 -5.02,-11.88 -9.1,-11.88 v 0 c -4.07,0 -9.09,3.32 -9.09,11.88 0,8.09 5.13,11.05 9.09,11.05 v 1.12 c -7.13,0 -12.82,-5.75 -12.82,-12.72 0,-6.83 5.69,-12.48 12.82,-12.48 7.15,0 12.82,5.65 12.82,12.48 z"
+           id="path15008" /><path
+           style="fill:#000000;stroke-width:0"
+           inkscape:connector-curvature="0"
+           d="m 608.68,422.81 -0.02,0.05 -0.02,0.05 -0.02,0.04 -0.01,0.05 -0.02,0.04 -0.02,0.05 -0.02,0.04 -0.01,0.03 -0.02,0.04 -0.02,0.04 -0.02,0.03 -0.02,0.03 -0.02,0.03 -0.03,0.03 -0.02,0.03 -0.02,0.02 -0.03,0.03 -0.03,0.02 -0.03,0.02 -0.03,0.02 -0.03,0.01 -0.03,0.02 -0.04,0.01 -0.04,0.02 -0.04,0.01 -0.04,0.01 -0.05,0.01 h -0.05 l -0.05,0.01 h -0.05 -0.06 l -0.06,0.01 c -0.67,0 -0.76,-0.25 -0.98,-0.8 l -8.05,-20.39 c -0.34,-0.88 -0.94,-2.41 -4.08,-2.41 v -1.25 c 1.19,0.11 2.41,0.14 3.6,0.14 1.39,0 3.96,-0.14 4.18,-0.14 v 1.25 c -1.53,0 -2.51,0.7 -2.51,1.67 0,0.28 0.03,0.36 0.17,0.71 l 1.67,4.28 0.5,1.26 4.45,11.32 4.46,-11.32 h -8.91 l -0.5,-1.26 h 9.91 l 2.01,-5.08 c 0.07,-0.19 0.17,-0.42 0.17,-0.59 0,-0.99 -1.87,-0.99 -2.82,-0.99 v -1.25 c 1.75,0.06 3.98,0.14 5.2,0.14 1.64,0 4.25,-0.11 4.62,-0.14 v 1.25 h -0.68 c -2.35,0 -2.58,0.36 -2.97,1.33 z"
+           id="path15010" /></g>    </g>
+  </g>
+</svg>
