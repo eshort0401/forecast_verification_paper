@@ -1,8 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: short18_seabreeze_verification.aux
 The style file: ametsoc2014.bst
-Database file #1: ./references.bib
+Database file #1: ./references.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 You've used 27 entries,
             3493 wiz_defined-function locations,
