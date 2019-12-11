@@ -9,6 +9,12 @@
   \urlstyle{rm}\Url}\fi
 \providecommand{\eprint}[2][]{\url{#2}}
 
+\bibitem[{Abdalla et~al.(2013)Abdalla, Isaksen, Janssen,, and Wedi}]{abdalla13}
+Abdalla, S., L.~Isaksen, P.~A. E.~M. Janssen, and N.~Wedi, 2013: Effective
+  spectral resolution of {ECMWF} atmospheric forecast models. 19--22,
+  \doi{10.21957/rue4o7ac}, [Available online at
+  \url{https://www.ecmwf.int/node/17358} - Accessed 07/12/2019].
+
 \bibitem[{Abkar et~al.(2016)Abkar, Sharifi,, and Porté-Agel}]{abkar16}
 Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
   during a diurnal cycle. \textit{Journal of Turbulence}, \textbf{17~(4)},
@@ -119,14 +125,11 @@ Rife, D.~L., and C.~A. Davis, 2005: Verification of temporal variations in
   mesoscale numerical wind forecasts. \textit{Monthly Weather Review},
   \textbf{133~(11)}, 3368--3381, \doi{10.1175/MWR3052.1}.
 
-\bibitem[{{SciPy}(2019)}]{scipy19}
-{SciPy}, 2019: Optimization and root finding (scipy.optimize). {SciPy},
-  [Available online at
-  \url{https://docs.scipy.org/doc/scipy/reference/optimize.html}].
-
-\bibitem[{Short(2019)}]{shortGitVeri19}
-Short, E., 2019: eshort0401/forecast\_verification\_paper. {GitHub}, [Available
-  online at \url{https://github.com/eshort0401/forecast_verification_paper}].
+\bibitem[{Skamarock(2004)}]{skamarock04}
+Skamarock, W.~C., 2004: Evaluating mesoscale {NWP} models using kinetic energy
+  spectra. \textit{Monthly Weather Review}, \textbf{132~(12)}, 3019–3032,
+  \doi{10.1175/MWR2830.1}, \urlprefix\url{https://doi.org/10.1175/MWR2830.1},
+  \eprint{https://doi.org/10.1175/MWR2830.1}.
 
 \bibitem[{Svensson et~al.(2011)}]{svensson11}
 Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
@@ -136,7 +139,7 @@ Svensson, G., and Coauthors, 2011: Evaluation of the diurnal cycle in the
 
 \bibitem[{Vincent and Lane(2016)Vincent, and Lane}]{vincent16}
 Vincent, C.~L., and T.~P. Lane, 2016: Evolution of the diurnal precipitation
-  cycle with the passage of a {Madden–Julian Oscillation} event through the
+  cycle with the passage of a {Madden-Julian Oscillation} event through the
   {Maritime Continent}. \textit{Monthly Weather Review}, \textbf{144~(5)},
   1983--2005, \doi{10.1175/MWR-D-15-0326.1}.
 

@@ -4,44 +4,46 @@ The top-level auxiliary file: short18_seabreeze_verification.aux
 The style file: ametsoc2014.bst
 Database file #1: ./references.bib.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in abdalla13
 You've used 27 entries,
             3493 wiz_defined-function locations,
-            1040 strings with 12255 characters,
-and the built_in function-call counts, 22926 in all, are:
-= -- 2558
-> -- 648
-< -- 23
-+ -- 375
-- -- 165
-* -- 1223
-:= -- 2540
+            1047 strings with 12371 characters,
+and the built_in function-call counts, 24413 in all, are:
+= -- 2776
+> -- 685
+< -- 22
++ -- 405
+- -- 174
+* -- 1300
+:= -- 2634
 add.period$ -- 57
 call.type$ -- 27
-change.case$ -- 197
+change.case$ -- 199
 chr.to.int$ -- 27
-cite$ -- 27
-duplicate$ -- 2348
-empty$ -- 1429
-format.name$ -- 226
-if$ -- 4698
+cite$ -- 28
+duplicate$ -- 2521
+empty$ -- 1476
+format.name$ -- 236
+if$ -- 5005
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 271
+missing$ -- 276
 newline$ -- 92
 num.names$ -- 108
-pop$ -- 914
+pop$ -- 955
 preamble$ -- 1
-purify$ -- 162
+purify$ -- 165
 quote$ -- 0
-skip$ -- 1322
+skip$ -- 1460
 stack$ -- 0
-substring$ -- 1020
-swap$ -- 1782
+substring$ -- 1119
+swap$ -- 1969
 text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 234
-warning$ -- 0
-while$ -- 115
+warning$ -- 1
+while$ -- 120
 width$ -- 0
-write$ -- 332
+write$ -- 336
+(There was 1 warning)

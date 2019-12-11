@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="142mm"
-   height="83mm"
-   viewBox="0 0 142 82.999999"
+   height="86mm"
+   viewBox="0 0 142 85.999999"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="error_decomp_sa.svg">
   <defs
      id="defs2">
@@ -1797,7 +1797,9 @@
         <rect
            id="rect5919"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipa75085x"
@@ -1854,7 +1856,9 @@
         <rect
            id="rect6434"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip58a9b6x"
@@ -1911,7 +1915,9 @@
         <rect
            id="rect6940"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip62f9eax"
@@ -1968,7 +1974,9 @@
         <rect
            id="rect7446"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip71727dx"
@@ -2025,7 +2033,9 @@
         <rect
            id="rect8045"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip9d7764x"
@@ -2082,7 +2092,9 @@
         <rect
            id="rect8662"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip9c958ex"
@@ -2139,7 +2151,9 @@
         <rect
            id="rect9279"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip869b69x"
@@ -2196,7 +2210,9 @@
         <rect
            id="rect9878"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip0300b7x"
@@ -2253,7 +2269,9 @@
         <rect
            id="rect10396"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipf7f592x"
@@ -2310,7 +2328,9 @@
         <rect
            id="rect10971"
            height="140"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip8c07acx"
@@ -2367,7 +2387,9 @@
         <rect
            id="rect11546"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip8b09aex"
@@ -2424,7 +2446,9 @@
         <rect
            id="rect12425"
            height="139"
-           width="200" />
+           width="200"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip89c852x"
@@ -2480,17 +2504,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="191.56447"
-     inkscape:cy="152.79546"
+     inkscape:zoom="1.4"
+     inkscape:cx="255.83981"
+     inkscape:cy="191.61141"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      objecttolerance="8"
-     inkscape:window-width="1280"
-     inkscape:window-height="687"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -2512,7 +2536,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(152.43822,-144.11152)"
+     transform="translate(152.43822,-141.11152)"
      style="display:inline">
     <g
        class="bglayer"
@@ -4105,7 +4129,7 @@
        id="text33932"
        style="font-size:2.64583397px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        y="149.4874"
-       x="-148.56038">a)</text>
+       x="-150.25108">a)</text>
     <text
        transform="translate(-9.3750003e-7,147)"
        x="-111.91818"
@@ -4125,7 +4149,7 @@
        style="font-size:2.64583397px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34177">d)</text>
     <text
-       x="-148.56038"
+       x="-150.25108"
        y="172.97426"
        style="font-size:2.64583397px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34179">e)</text>
@@ -4151,7 +4175,7 @@
        id="text34187"
        style="font-size:2.64583397px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        y="194.50388"
-       x="-148.56038">i)</text>
+       x="-150.25108">i)</text>
     <text
        transform="translate(-9.3750003e-7,147)"
        x="-111.91818"
@@ -4171,9 +4195,8 @@
        style="font-size:2.64583397px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34193">l)</text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        x="-122.58112"
-       y="71.524529"
+       y="218.25726"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34195">
       <tspan
@@ -4184,10 +4207,9 @@
          id="tspan21701">]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        id="text34201"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="71.524529"
+       y="218.25726"
        x="-91.799103">
       <tspan
          id="tspan34199"
@@ -4197,9 +4219,8 @@
          id="tspan21703">]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        x="-52.298481"
-       y="71.524529"
+       y="218.25726"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34205">
       <tspan
@@ -4207,29 +4228,26 @@
          id="tspan34203">Hour [UTC]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        id="text34209"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="71.524529"
+       y="218.25726"
        x="-19.737158">
       <tspan
          id="tspan34207"
          style="font-size:2.29305553px;stroke-width:0.13898139">Hour [UTC]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        id="text34213"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="-1.0712216"
+       y="146.89665"
        x="-122.58112">
       <tspan
          id="tspan34211"
          style="font-size:2.29305553px;stroke-width:0.13898139">Hour [UTC]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        x="-91.799103"
-       y="-1.0712216"
+       y="146.89665"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34217">
       <tspan
@@ -4237,19 +4255,17 @@
          id="tspan34215">Hour [UTC]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        id="text34221"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="-1.0712216"
+       y="146.89665"
        x="-52.298481">
       <tspan
          id="tspan34219"
          style="font-size:2.29305553px;stroke-width:0.13898139">Hour [UTC]</tspan>
     </text>
     <text
-       transform="translate(-9.3750003e-7,147)"
        x="-19.737158"
-       y="-1.0712216"
+       y="146.89665"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34225">
       <tspan
@@ -4259,9 +4275,9 @@
     <text
        id="text34229"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="-146.28413"
-       x="-54.755608"
-       transform="rotate(-90,73.499998,73.499998)">
+       y="-145.90616"
+       x="-201.7556"
+       transform="rotate(-90)">
       <tspan
          id="tspan34227"
          style="font-size:2.29305553px;stroke-width:0.13898139">[kn<tspan
@@ -4270,9 +4286,9 @@
 ]</tspan>
     </text>
     <text
-       transform="rotate(-90,73.499998,73.499998)"
-       x="-33.403919"
-       y="-146.28413"
+       transform="rotate(-90)"
+       x="-180.40392"
+       y="-145.90616"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
        id="text34237">
       <tspan
@@ -4285,9 +4301,9 @@
     <text
        id="text34243"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
-       y="-146.28413"
-       x="-9.9170647"
-       transform="rotate(-90,73.499998,73.499998)">
+       y="-145.90616"
+       x="-156.91705"
+       transform="rotate(-90)">
       <tspan
          id="tspan34241"
          style="font-size:2.29305553px;stroke-width:0.13898139">[kn<tspan
@@ -4492,13 +4508,79 @@
        d="M -23.440639,73.929774"
        style="display:inline;fill:none;stroke-width:0.24910302"
        id="path38543" />
+    <text
+       id="text34243-3"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       y="143.11777"
+       x="-121.08506">
+      <tspan
+         id="tspan34241-5"
+         style="font-size:2.29305553px;stroke-width:0.13898139">AWS and HRES</tspan>
+    </text>
+    <text
+       x="-89.240562"
+       y="143.11777"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       id="text39406">
+      <tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139"
+         id="tspan39404">AWS and Official</tspan>
+    </text>
+    <text
+       x="-50.392273"
+       y="143.11777"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       id="text39410">
+      <tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139"
+         id="tspan39408">AWS and HRES</tspan>
+    </text>
+    <text
+       id="text39414"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       y="143.11777"
+       x="-17.010971">
+      <tspan
+         id="tspan39412"
+         style="font-size:2.29305553px;stroke-width:0.13898139">AWS and Official</tspan>
+    </text>
+    <text
+       transform="rotate(-90)"
+       x="-152.85381"
+       y="-149.96941"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       id="text39439">
+      <tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139"
+         id="tspan39437">Adelaide Airport</tspan>
+    </text>
+    <text
+       id="text39443"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       y="-149.96941"
+       x="-175.37126"
+       transform="rotate(-90)">
+      <tspan
+         id="tspan39441"
+         style="font-size:2.29305553px;stroke-width:0.13898139">Adelaide City</tspan>
+    </text>
+    <text
+       transform="rotate(-90)"
+       x="-197.08691"
+       y="-149.96941"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.13898139"
+       id="text39447">
+      <tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139"
+         id="tspan39445">SA Coastal</tspan>
+    </text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(152.43822,2.8884775)">
+     transform="translate(152.43822,5.8884775)">
     <g
        id="g36014"
        class="imagelayer"
@@ -6910,13 +6992,13 @@
     <path
        inkscape:connector-curvature="0"
        class="xlines-above crisp"
-       d="M -14.609626,0.63696962"
+       d="M -14.609626,1.0378739"
        style="fill:none;stroke-width:0.19239376"
        id="path8863" />
     <path
        inkscape:connector-curvature="0"
        class="ylines-above crisp"
-       d="M -14.609626,0.63696962"
+       d="M -14.609626,1.0378739"
        style="fill:none;stroke-width:0.19239376"
        id="path8865" />
     <g
@@ -9030,22 +9112,22 @@
        x="-142.93692">6</text>
     <text
        id="text21329"
-       style="font-size:2.29305564px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416;"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416"
        y="23.374346"
        x="-73.18866">−10</text>
     <text
        id="text21333"
-       style="font-size:2.29305564px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416;"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416"
        y="17.25135"
        x="-73.18866">0</text>
     <text
        id="text21337"
-       style="font-size:2.29305564px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416;"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416"
        y="11.128355"
        x="-73.18866">10</text>
     <text
        id="text21341"
-       style="font-size:2.29305564px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416;"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.13995416"
        y="5.0053606"
        x="-73.18866">20</text>
   </g>

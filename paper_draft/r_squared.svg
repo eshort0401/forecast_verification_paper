@@ -15,7 +15,7 @@
    viewBox="0 0 71 90"
    version="1.1"
    id="svg40120"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="r_squared.svg">
   <defs
      id="defs40114">
@@ -18038,15 +18038,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="146.20697"
+     inkscape:cx="58.071161"
      inkscape:cy="154.58593"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="687"
-     inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      objecttolerance="10"
      fit-margin-top="0"
@@ -18061,7 +18061,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -21640,7 +21640,7 @@
     <g
        id="g15058"
        class="zerolinelayer"
-       transform="matrix(0.25369688,0,0,0.25369688,-5.2354026,109.29507)">
+       transform="matrix(0.25369688,0,0,0.25369688,-4.8344983,109.29507)">
       <path
          id="path15054"
          style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
@@ -21659,7 +21659,7 @@
     <g
        id="g15220"
        clip-path="url(#clip40bc35xyplot)"
-       transform="matrix(0.25369688,0,0,0.25369688,30.282161,119.44295)"
+       transform="matrix(0.25369688,0,0,0.25369688,30.683065,119.44295)"
        class="plot">
       <g
          id="g15076"
@@ -22027,143 +22027,143 @@
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 32.009836,134.91846 v 1.26847"
+       d="m 32.41074,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15230" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 35.467725,134.91846 v 1.26847"
+       d="m 35.868629,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15232" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 38.923077,134.91846 v 1.26847"
+       d="m 39.323981,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15234" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 42.380965,134.91846 v 1.26847"
+       d="m 42.781869,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15236" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 45.836317,134.91846 v 1.26847"
+       d="m 46.237221,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15238" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 49.294205,134.91846 v 1.26847"
+       d="m 49.695109,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15240" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 52.749556,134.91846 v 1.26847"
+       d="m 53.15046,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15242" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 56.207444,134.91846 v 1.26847"
+       d="m 56.608348,134.91846 v 1.26847"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15244" />
     <text
        id="text15246"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-31.284986"
+       y="-31.68589"
        x="136.69432">VIC</text>
     <text
        id="text15250"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-34.742874"
+       y="-35.14378"
        x="136.69432">SA</text>
     <text
        id="text15254"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-38.198227"
+       y="-38.599133"
        x="136.69432">NSW</text>
     <text
        id="text15258"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-41.656116"
+       y="-42.057022"
        x="136.69432">South WA</text>
     <text
        id="text15262"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-45.111465"
+       y="-45.512371"
        x="136.69432">West WA</text>
     <text
        id="text15266"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-48.569355"
+       y="-48.970261"
        x="136.69432">North WA</text>
     <text
        id="text15270"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-52.024712"
+       y="-52.425617"
        x="136.69432">QLD</text>
     <text
        id="text15274"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-55.482597"
+       y="-55.883503"
        x="136.69432">NT</text>
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,132.76202 H 28.75998"
+       d="M 30.429368,132.76202 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15280" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,128.95657 H 28.75998"
+       d="M 30.429368,128.95657 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15282" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,125.15112 H 28.75998"
+       d="M 30.429368,125.15112 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15284" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,121.34566 H 28.75998"
+       d="M 30.429368,121.34566 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path15286" />
     <text
        id="text15288"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="133.64996"
-       x="28.252584">AWS</text>
+       x="28.653488">AWS</text>
     <text
        id="text15292"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="129.84451"
-       x="28.252584">Official</text>
+       x="28.653488">Official</text>
     <text
        id="text15296"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="126.03905"
-       x="28.252584">ACCESS</text>
+       x="28.653488">ACCESS</text>
     <text
        id="text15300"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="122.2336"
-       x="28.252584">HRES</text>
+       x="28.653488">HRES</text>
     <g
        id="g22093"
        class="zerolinelayer"
@@ -22650,7 +22650,7 @@
     <g
        id="g24454"
        class="zerolinelayer"
-       transform="matrix(0.25369688,0,0,0.25369688,-5.2354026,79.564521)">
+       transform="matrix(0.25369688,0,0,0.25369688,-4.8344983,79.564521)">
       <path
          id="path24450"
          style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
@@ -22669,7 +22669,7 @@
     <g
        id="g24616"
        clip-path="url(#clipeb73c4xyplot)"
-       transform="matrix(0.25369688,0,0,0.25369688,30.28216,89.712396)"
+       transform="matrix(0.25369688,0,0,0.25369688,30.683064,89.712396)"
        class="plot">
       <g
          id="g24472"
@@ -23037,147 +23037,147 @@
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 32.009836,105.1879 v 1.26848"
+       d="m 32.41074,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24626" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 35.467725,105.1879 v 1.26848"
+       d="m 35.868629,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24628" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 38.923077,105.1879 v 1.26848"
+       d="m 39.323981,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24630" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 42.380965,105.1879 v 1.26848"
+       d="m 42.781869,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24632" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 45.836317,105.1879 v 1.26848"
+       d="m 46.237221,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24634" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 49.294205,105.1879 v 1.26848"
+       d="m 49.695109,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24636" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 52.749556,105.1879 v 1.26848"
+       d="m 53.15046,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24638" />
     <path
        inkscape:connector-curvature="0"
        class="xtick ticks crisp"
-       d="m 56.207444,105.1879 v 1.26848"
+       d="m 56.608348,105.1879 v 1.26848"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24640" />
     <text
        id="text24642"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-31.284986"
+       y="-31.68589"
        x="106.96378">Hobart</text>
     <text
        id="text24646"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-34.742874"
+       y="-35.14378"
        x="106.96378">Melbourne</text>
     <text
        id="text24650"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-38.198227"
+       y="-38.599133"
        x="106.96378">Canberra</text>
     <text
        id="text24654"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-41.656116"
+       y="-42.057022"
        x="106.96378">Adelaide</text>
     <text
        id="text24658"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-45.111465"
+       y="-45.512371"
        x="106.96378">Sydney</text>
     <text
        id="text24662"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-48.569355"
+       y="-48.970261"
        x="106.96378">Perth</text>
     <text
        id="text24666"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-52.024712"
+       y="-52.425617"
        x="106.96378">Brisbane</text>
     <text
        id="text24670"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        transform="rotate(90)"
-       y="-55.482597"
+       y="-55.883503"
        x="106.96378">Darwin</text>
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,103.03148 H 28.75998"
+       d="M 30.429368,103.03148 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24676" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,99.22603 H 28.75998"
+       d="M 30.429368,99.22603 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24678" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,95.420576 H 28.75998"
+       d="M 30.429368,95.420576 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24680" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,91.615124 H 28.75998"
+       d="M 30.429368,91.615124 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path24682" />
     <text
        id="text24684"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="103.91942"
-       x="28.252584">AWS</text>
+       x="28.653488">AWS</text>
     <text
        id="text24688"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="100.11397"
-       x="28.252584">Official</text>
+       x="28.653488">Official</text>
     <text
        id="text24692"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="96.30851"
-       x="28.252584">ACCESS</text>
+       x="28.653488">ACCESS</text>
     <text
        id="text24696"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="92.503059"
-       x="28.252584">HRES</text>
+       x="28.653488">HRES</text>
     <g
        id="g28759"
        class="zerolinelayer"
-       transform="matrix(0.25369688,0,0,0.25369688,-5.2354026,60.899679)">
+       transform="matrix(0.25369688,0,0,0.25369688,-4.8344983,60.899679)">
       <path
          id="path28755"
          style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
@@ -23196,7 +23196,7 @@
     <g
        id="g28921"
        clip-path="url(#clip524577xyplot)"
-       transform="matrix(0.25369688,0,0,0.25369688,30.282161,71.047554)"
+       transform="matrix(0.25369688,0,0,0.25369688,30.683065,71.047554)"
        class="plot">
       <g
          id="g28777"
@@ -23564,47 +23564,47 @@
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,84.366641 H 28.75998"
+       d="M 30.429368,84.366641 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path28981" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,80.561188 H 28.75998"
+       d="M 30.429368,80.561188 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path28983" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,76.755734 H 28.75998"
+       d="M 30.429368,76.755734 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path28985" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 30.028464,72.950281 H 28.75998"
+       d="M 30.429368,72.950281 H 29.160884"
        style="stroke:#444444;stroke-width:0.25369689px;stroke-opacity:1"
        id="path28987" />
     <text
        id="text28989"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="85.254585"
-       x="28.252584">AWS</text>
+       x="28.653488">AWS</text>
     <text
        id="text28993"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="81.449135"
-       x="28.252584">Official</text>
+       x="28.653488">Official</text>
     <text
        id="text28997"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="77.643684"
-       x="28.252584">ACCESS</text>
+       x="28.653488">ACCESS</text>
     <text
        id="text29001"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.25369689"
        y="73.838226"
-       x="28.252584">HRES</text>
+       x="28.653488">HRES</text>
     <rect
        id="rect29032"
        style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
@@ -23983,7 +23983,7 @@
     </g>
     <text
        class="ytitle"
-       x="20.236137"
+       x="20.637041"
        y="70.049065"
        style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.25369689"
        id="text79074">a)</text>
@@ -23997,7 +23997,7 @@
        id="text79078"
        style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.25369689"
        y="89.324471"
-       x="20.236137"
+       x="20.637041"
        class="ytitle">c)</text>
     <text
        class="ytitle"
@@ -24007,7 +24007,7 @@
        id="text79080">d)</text>
     <text
        class="ytitle"
-       x="20.236137"
+       x="20.637041"
        y="118.88669"
        style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.25369689"
        id="text79082">e)</text>
