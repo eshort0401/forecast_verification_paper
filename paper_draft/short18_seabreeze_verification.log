@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  11 DEC 2019 11:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  27 JAN 2020 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -282,19 +282,19 @@ LaTeX Info: Redefining \\ on input line 3056.
 Excluding comment 'comment') (./short18_seabreeze_verification.aux)
 \openout1 = `short18_seabreeze_verification.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
-LaTeX Font Info:    ... okay on input line 115.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 115.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 116.
+LaTeX Font Info:    ... okay on input line 116.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 116.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
@@ -370,52 +370,52 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 118.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.85pt on input line 117.
+(Font)              scaled to size 4.85pt on input line 118.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
-7.
+8.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -423,55 +423,72 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
 \openout4 = `short18_seabreeze_verification.fff'.
 
 
-(short18_seabreeze_verification.fff) [5]
+(short18_seabreeze_verification.fff)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-[7]
-Underfull \vbox (badness 1769) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-[10]
-Underfull \vbox (badness 1092) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
-[12]
+ [10]
+[11]
+Underfull \vbox (badness 4024) has occurred while \output is active []
+
+ [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-[15] [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+[17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
-[19] [20]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-[22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
-(./short18_seabreeze_verification.bbl
+ [22]
+[23] (./short18_seabreeze_verification.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24]
 Missing character: There is no Ã in font ptmr7t!
 Missing character: There is no © in font ptmr7t!
- [24] [25] [26]
+
+[25] [26] [27]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
-)
-AED endfloat: Processing end Figures and Tables [27]
+) AED endfloat: Processing end Figures and Tables [28]
 (./short18_seabreeze_verification.lof
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -501,114 +518,114 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[28
+[29
 
 
 ])
 \tf@lof=\write6
 \openout6 = `short18_seabreeze_verification.lof'.
 
- [29] (./short18_seabreeze_verification.fff
-<map.pdf, id=105, 404.02913pt x 284.52756pt>
+ [30] (./short18_seabreeze_verification.fff
+<map.pdf, id=108, 404.02913pt x 284.52756pt>
 File: map.pdf Graphic file (type pdf)
 <use map.pdf>
 Package pdftex.def Info: map.pdf  used on input line 3.
 (pdftex.def)             Requested size: 468.0pt x 329.59633pt.
- [30 <./map.pdf>]
-<wpi_coastal.pdf, id=762, 409.71968pt x 263.18797pt>
+ [31 <./map.pdf>]
+<wpi_coastal.pdf, id=766, 409.71968pt x 263.18797pt>
 File: wpi_coastal.pdf Graphic file (type pdf)
 <use wpi_coastal.pdf>
 Package pdftex.def Info: wpi_coastal.pdf  used on input line 11.
 (pdftex.def)             Requested size: 468.0pt x 300.64781pt.
- [31 <./wpi_coastal.pdf>]
-<case_studies_nt.pdf, id=812, 202.01457pt x 352.81418pt>
+ [32 <./wpi_coastal.pdf>]
+<case_studies_nt.pdf, id=815, 202.01457pt x 352.81418pt>
 File: case_studies_nt.pdf Graphic file (type pdf)
 <use case_studies_nt.pdf>
 Package pdftex.def Info: case_studies_nt.pdf  used on input line 19.
 (pdftex.def)             Requested size: 228.0pt x 398.22316pt.
- [32 <./case_studies_nt.pdf>]
-<case_studies_wa.pdf, id=831, 202.01457pt x 341.43306pt>
+ [33 <./case_studies_nt.pdf>]
+<case_studies_wa.pdf, id=834, 202.01457pt x 341.43306pt>
 File: case_studies_wa.pdf Graphic file (type pdf)
 <use case_studies_wa.pdf>
 Package pdftex.def Info: case_studies_wa.pdf  used on input line 27.
 (pdftex.def)             Requested size: 228.0pt x 385.37721pt.
- [33 <./case_studies_wa.pdf>]
-<perth_sounding.pdf, id=850, 335.74252pt x 182.09764pt>
+ [34 <./case_studies_wa.pdf>]
+<perth_sounding.pdf, id=853, 335.74252pt x 182.09764pt>
 File: perth_sounding.pdf Graphic file (type pdf)
 <use perth_sounding.pdf>
 Package pdftex.def Info: perth_sounding.pdf  used on input line 35.
 (pdftex.def)             Requested size: 396.0pt x 214.79277pt.
- [34 <./perth_sounding.pdf>]
-<airport_wpi.pdf, id=869, 409.71968pt x 193.47874pt>
+ [35 <./perth_sounding.pdf>]
+<airport_wpi.pdf, id=873, 409.71968pt x 193.47874pt>
 File: airport_wpi.pdf Graphic file (type pdf)
 <use airport_wpi.pdf>
 Package pdftex.def Info: airport_wpi.pdf  used on input line 43.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
- [35 <./airport_wpi.pdf>]
-<airport_wpi_EA.pdf, id=909, 409.71968pt x 193.47874pt>
+ [36 <./airport_wpi.pdf>]
+<airport_wpi_EA.pdf, id=912, 409.71968pt x 193.47874pt>
 File: airport_wpi_EA.pdf Graphic file (type pdf)
 <use airport_wpi_EA.pdf>
 Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 51.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
- [36 <./airport_wpi_EA.pdf>]
-<cwpi_coastal.pdf, id=953, 409.71968pt x 261.76537pt>
+ [37 <./airport_wpi_EA.pdf>]
+<cwpi_coastal.pdf, id=957, 409.71968pt x 261.76537pt>
 File: cwpi_coastal.pdf Graphic file (type pdf)
 <use cwpi_coastal.pdf>
 Package pdftex.def Info: cwpi_coastal.pdf  used on input line 60.
 (pdftex.def)             Requested size: 468.0pt x 299.02272pt.
 
-[37 <./cwpi_coastal.pdf>]
-<clim_hodo_alt.pdf, id=1003, 301.59921pt x 318.67087pt>
+[38 <./cwpi_coastal.pdf>]
+<clim_hodo_alt.pdf, id=1006, 301.59921pt x 318.67087pt>
 File: clim_hodo_alt.pdf Graphic file (type pdf)
 <use clim_hodo_alt.pdf>
 Package pdftex.def Info: clim_hodo_alt.pdf  used on input line 68.
 (pdftex.def)             Requested size: 396.0pt x 418.41978pt.
- [38 <./clim_hodo_alt.pdf>]
-<airport_cwpi.pdf, id=1029, 409.71968pt x 193.47874pt>
+ [39 <./clim_hodo_alt.pdf>]
+<airport_cwpi.pdf, id=1033, 409.71968pt x 193.47874pt>
 File: airport_cwpi.pdf Graphic file (type pdf)
 <use airport_cwpi.pdf>
 Package pdftex.def Info: airport_cwpi.pdf  used on input line 76.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
- [39 <./airport_cwpi.pdf>]
-<r_squared.pdf, id=1069, 202.01457pt x 256.0748pt>
+ [40 <./airport_cwpi.pdf>]
+<r_squared.pdf, id=1072, 202.01457pt x 256.0748pt>
 File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
 Package pdftex.def Info: r_squared.pdf  used on input line 84.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
 
-[40 <./r_squared.pdf>]
-<ellipse_fits.pdf, id=1116, 404.02913pt x 270.3012pt>
+[41 <./r_squared.pdf>]
+<ellipse_fits.pdf, id=1119, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
 Package pdftex.def Info: ellipse_fits.pdf  used on input line 92.
 (pdftex.def)             Requested size: 468.0pt x 313.11652pt.
- [41 <./ellipse_fits.pdf>]
-<ellipse_hodo.pdf, id=1412, 290.21811pt x 216.24095pt>
+ [42 <./ellipse_fits.pdf>]
+<ellipse_hodo.pdf, id=1415, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
 Package pdftex.def Info: ellipse_hodo.pdf  used on input line 100.
 (pdftex.def)             Requested size: 468.0pt x 348.74109pt.
- [42 <./ellipse_hodo.pdf>]
-<error_decomp_sa.pdf, id=1446, 404.02913pt x 244.6937pt>
+ [43 <./ellipse_hodo.pdf>]
+<error_decomp_sa.pdf, id=1450, 404.02913pt x 244.6937pt>
 File: error_decomp_sa.pdf Graphic file (type pdf)
 <use error_decomp_sa.pdf>
 Package pdftex.def Info: error_decomp_sa.pdf  used on input line 108.
 (pdftex.def)             Requested size: 468.0pt x 283.45285pt.
 
-[43 <./error_decomp_sa.pdf>]) (./short18_seabreeze_verification.aux)
+[44 <./error_decomp_sa.pdf>]) (./short18_seabreeze_verification.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 4461 strings out of 492982
- 59469 string characters out of 6134897
- 132919 words of memory out of 5000000
- 7871 multiletter control sequences out of 15000+600000
+ 4468 strings out of 492982
+ 59610 string characters out of 6134897
+ 133065 words of memory out of 5000000
+ 7878 multiletter control sequences out of 15000+600000
  61916 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,37p,1639b,333s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,37p,1510b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -620,11 +637,11 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (43 pages, 1353554 bytes).
+Output written on short18_seabreeze_verification.pdf (44 pages, 1354835 bytes).
 
 PDF statistics:
- 1524 PDF objects out of 1728 (max. 8388607)
- 1003 compressed objects within 11 object streams
+ 1527 PDF objects out of 1728 (max. 8388607)
+ 1005 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

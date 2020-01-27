@@ -1,0 +1,1246 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  27 JAN 2020 09:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**short18_seabreeze_verification_submitted.tex
+(./short18_seabreeze_verification_submitted.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./ametsoc.cls
+\c@section=\count79
+\c@subsection=\count80
+\c@subsubsection=\count81
+\c@paragraph=\count82
+\c@subparagraph=\count83
+\c@figure=\count84
+\c@table=\count85
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count86
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count87
+\leftroot@=\count88
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count89
+\DOTSCASE@=\count90
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count91
+\c@MaxMatrixCols=\count92
+\dotsspace@=\muskip10
+\c@parentequation=\count93
+\dspbrk@lvl=\count94
+\tag@help=\toks16
+\row@=\count95
+\column@=\count96
+\maxfields@=\count97
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup9
+\symitalic=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count98
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count99
+\mult@box=\box28
+\multicol@leftmargin=\dimen114
+\c@unbalance=\count100
+\c@collectmore=\count101
+\doublecol@number=\count102
+\multicoltolerance=\count103
+\multicolpretolerance=\count104
+\full@width=\dimen115
+\page@free=\dimen116
+\premulticols=\dimen117
+\postmulticols=\dimen118
+\multicolsep=\skip48
+\multicolbaselineskip=\skip49
+\partial@page=\box29
+\last@line=\box30
+\maxbalancingoverflow=\dimen119
+\mult@rightbox=\box31
+\mult@grightbox=\box32
+\mult@gfirstbox=\box33
+\mult@firstbox=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\c@columnbadness=\count105
+\c@finalcolumnbadness=\count106
+\last@try=\dimen120
+\multicolovershoot=\dimen121
+\multicolundershoot=\dimen122
+\mult@nat@firstbox=\box52
+\colbreak@box=\box53
+\mc@col@check@num=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count108
+\rotFPtop=\skip50
+\rotFPbot=\skip51
+\rot@float@box=\box54
+\rot@mess@toks=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/endfloat/endfloat.sty
+Package: endfloat 2011/12/25 v2.5d LaTeX2e package puts figures and tables at e
+nd (jdm)
+\c@posttable=\count109
+\efloat@postttt=\write3
+\@ef@tttopen=\count110
+\c@postfigure=\count111
+\efloat@postfff=\write4
+\@ef@fffopen=\count112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count113
+\output=\toks21
+\linenoprevgraf=\count114
+\linenumbersep=\dimen123
+\linenumberwidth=\dimen124
+\c@linenumber=\count115
+\c@pagewiselinenumber=\count116
+\c@LN@truepage=\count117
+\c@internallinenumber=\count118
+\c@internallinenumbers=\count119
+\quotelinenumbersep=\dimen125
+\bframerule=\dimen126
+\bframesep=\dimen127
+\bframebox=\box55
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@extraauth=\count120
+\c@loopnum=\count121
+\thanksnum=\count122
+\savethanksnum=\count123
+)
+(/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write5
+
+Excluding comment 'comment')
+No file short18_seabreeze_verification_submitted.aux.
+\openout1 = `short18_seabreeze_verification_submitted.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 115.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count124
+\scratchdimen=\dimen128
+\scratchbox=\box56
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen129
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 117.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 4.85pt on input line 117.
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
+7.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+
+Package natbib Warning: Citation `bomMetEye19' on page 3 undefined on input lin
+e 121.
+
+
+Package natbib Warning: Citation `dai99' on page 3 undefined on input line 123.
+
+
+
+Package natbib Warning: Citation `miller03' on page 3 undefined on input line 1
+23.
+
+
+Package natbib Warning: Citation `physick92' on page 3 undefined on input line 
+123.
+
+
+Package natbib Warning: Citation `englberger18' on page 3 undefined on input li
+ne 123.
+
+
+Package natbib Warning: Citation `abkar16' on page 3 undefined on input line 12
+3.
+
+
+Package natbib Warning: Citation `lee18' on page 3 undefined on input line 125.
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+
+Package natbib Warning: Citation `svensson11' on page 4 undefined on input line
+ 130.
+
+
+Package natbib Warning: Citation `pinson12' on page 4 undefined on input line 1
+32.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+
+LaTeX Warning: Reference `Sec:Methods' on page 5 undefined on input line 134.
+
+
+LaTeX Warning: Reference `Sec:Results' on page 5 undefined on input line 134.
+
+
+LaTeX Warning: Reference `Sec:Discussion' on page 5 undefined on input line 134
+.
+
+
+LaTeX Warning: Reference `Sec:Conclusion' on page 5 undefined on input line 134
+.
+
+\openout4 = `short18_seabreeze_verification_submitted.fff'.
+
+(short18_seabreeze_verification_submitted.fff)
+
+Package natbib Warning: Citation `shortData19' on page 5 undefined on input lin
+e 147.
+
+[5]
+
+Package natbib Warning: Citation `bom16' on page 6 undefined on input line 151.
+
+
+
+Package natbib Warning: Citation `ecmwf19c' on page 6 undefined on input line 1
+51.
+
+
+Package natbib Warning: Citation `lock00' on page 6 undefined on input line 153
+.
+
+
+Package natbib Warning: Citation `louis79' on page 6 undefined on input line 15
+3.
+
+
+Package natbib Warning: Citation `bom10' on page 6 undefined on input line 153.
+
+
+
+Package natbib Warning: Citation `ecmwf19a' on page 6 undefined on input line 1
+53.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+
+Package natbib Warning: Citation `griffiths17' on page 8 undefined on input lin
+e 174.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+
+Package natbib Warning: Citation `zwiers95' on page 9 undefined on input line 1
+76.
+
+
+Package natbib Warning: Citation `wilks11' on page 9 undefined on input line 17
+6.
+
+
+Package natbib Warning: Citation `ebert08' on page 9 undefined on input line 17
+8.
+
+
+LaTeX Warning: Reference `Fig:map' on page 9 undefined on input line 178.
+
+
+Package natbib Warning: Citation `vincent16' on page 9 undefined on input line 
+178.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+
+LaTeX Warning: Reference `Eq:DAE' on page 10 undefined on input line 180.
+
+
+Package natbib Warning: Citation `griffiths17' on page 10 undefined on input li
+ne 180.
+
+
+Package natbib Warning: Citation `efron79' on page 10 undefined on input line 1
+86.
+
+
+Package natbib Warning: Citation `mass02' on page 10 undefined on input line 18
+8.
+
+
+Package natbib Warning: Citation `rife05' on page 10 undefined on input line 18
+8.
+
+
+Package natbib Warning: Citation `gille05' on page 10 undefined on input line 1
+88.
+
+[10]
+
+Package natbib Warning: Citation `gille05' on page 11 undefined on input line 1
+93.
+
+
+LaTeX Warning: Reference `Eq:u_h' on page 11 undefined on input line 195.
+
+
+LaTeX Warning: Reference `Eq:v_h' on page 11 undefined on input line 195.
+
+
+Package natbib Warning: Citation `svensson11' on page 11 undefined on input lin
+e 195.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 11 undefined on input line 195
+.
+
+[11]
+
+LaTeX Warning: Reference `Sec:Methods' on page 12 undefined on input line 208.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 12 undefined on input line 2
+27.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 12 undefined on input line 227.
+
+
+LaTeX Warning: Reference `Fig:map' on page 12 undefined on input line 227.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
+ne 229.
+
+
+LaTeX Warning: Reference `Fig:case_studies_wa' on page 12 undefined on input li
+ne 229.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
+ne 229.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
+ne 229.
+
+
+Underfull \vbox (badness 4859) has occurred while \output is active []
+
+ [12]
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 13 undefined on input li
+ne 231.
+
+
+LaTeX Warning: Reference `Fig:perth_sounding' on page 13 undefined on input lin
+e 231.
+
+
+LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
+ne 233.
+
+
+LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
+ne 233.
+
+
+LaTeX Warning: Reference `Fig:perth_sounding' on page 13 undefined on input lin
+e 233.
+
+
+LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
+ne 235.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 14 undefined on input line 2
+58.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 14 undefined on input line 2
+58.
+
+
+Package natbib Warning: Citation `wilks11' on page 14 undefined on input line 2
+58.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 14 undefined on input lin
+e 270.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 14 undefined on input line 2
+70.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+
+LaTeX Warning: Reference `Fig:cwpi_coastal' on page 15 undefined on input line 
+274.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 15 undefined on input line 274.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 15 undefined on input line 2
+74.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 274
+.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 276
+.
+
+
+LaTeX Warning: Reference `Sec:Results' on page 15 undefined on input line 276.
+
+
+LaTeX Warning: Reference `Sec:Daily' on page 15 undefined on input line 276.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 278
+.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 278
+.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 16 undefined on input line 280
+.
+
+
+LaTeX Warning: Reference `Fig:cwpi_coastal' on page 16 undefined on input line 
+280.
+
+
+LaTeX Warning: Reference `Fig:airport_cwpi' on page 16 undefined on input line 
+303.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 16 undefined on input line 314
+.
+
+
+LaTeX Warning: Reference `Eq:u' on page 16 undefined on input line 314.
+
+
+LaTeX Warning: Reference `Eq:v' on page 16 undefined on input line 314.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 16 undefined on input line 314.
+
+
+LaTeX Warning: Reference `Fig:r_squared' on page 16 undefined on input line 314
+.
+
+
+LaTeX Warning: Reference `Eq:u' on page 16 undefined on input line 314.
+
+
+LaTeX Warning: Reference `Eq:v' on page 16 undefined on input line 314.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+
+LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
+323.
+
+
+LaTeX Warning: Reference `Eq:u' on page 17 undefined on input line 323.
+
+
+LaTeX Warning: Reference `Eq:v' on page 17 undefined on input line 323.
+
+
+LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
+323.
+
+
+LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
+323.
+
+
+LaTeX Warning: Reference `Fig:ellipse_hodo' on page 17 undefined on input line 
+323.
+
+
+LaTeX Warning: Reference `Fig:ellipse_hodo' on page 17 undefined on input line 
+325.
+
+
+LaTeX Warning: Reference `Fig:map' on page 17 undefined on input line 325.
+
+
+LaTeX Warning: Reference `Fig:map' on page 17 undefined on input line 325.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+
+LaTeX Warning: Reference `Fig:ellipse_fits' on page 18 undefined on input line 
+334.
+
+
+LaTeX Warning: Reference `Fig:r_squared' on page 18 undefined on input line 334
+.
+
+
+LaTeX Warning: Reference `Fig:ellipse_hodo' on page 18 undefined on input line 
+334.
+
+
+LaTeX Warning: Reference `Fig:ellipse_hodo' on page 18 undefined on input line 
+334.
+
+
+LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 336
+.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 19 undefined on input line 3
+42.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 19 undefined on input line 3
+42.
+
+
+Package natbib Warning: Citation `skamarock04' on page 19 undefined on input li
+ne 344.
+
+
+Package natbib Warning: Citation `abdalla13' on page 19 undefined on input line
+ 344.
+
+
+LaTeX Warning: Reference `Fig:map' on page 19 undefined on input line 344.
+
+[19]
+
+LaTeX Warning: Reference `Eq:MSE' on page 20 undefined on input line 350.
+
+
+LaTeX Warning: Reference `Fig:error_decomp_sa' on page 20 undefined on input li
+ne 359.
+
+
+LaTeX Warning: Reference `Eq:MSE' on page 20 undefined on input line 359.
+
+
+Package natbib Warning: Citation `zaron06' on page 20 undefined on input line 3
+59.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 20 undefined on input line 3
+59.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 20 undefined on input line 3
+61.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 20 undefined on input line 3
+61.
+
+[20]
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 21 undefined on input line 3
+63.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 21 undefined on input line 3
+63.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 21 undefined on input line 3
+63.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 21 undefined on input lin
+e 363.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 21 undefined on input line 3
+63.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+
+LaTeX Warning: Reference `Fig:ellipse_hodo' on page 22 undefined on input line 
+367.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 22 undefined on input line 3
+67.
+
+
+LaTeX Warning: Reference `Fig:map' on page 22 undefined on input line 375.
+
+[22]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+
+Package natbib Warning: Citation `shortGitVeri19' on page 24 undefined on input
+ line 384.
+
+No file short18_seabreeze_verification_submitted.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+AED endfloat: Processing end Figures and Tables [24]
+No file short18_seabreeze_verification_submitted.lof.
+\tf@lof=\write6
+\openout6 = `short18_seabreeze_verification_submitted.lof'.
+
+[25
+
+
+] (./short18_seabreeze_verification_submitted.fff
+<map.pdf, id=93, 404.02913pt x 284.52756pt>
+File: map.pdf Graphic file (type pdf)
+<use map.pdf>
+Package pdftex.def Info: map.pdf  used on input line 3.
+(pdftex.def)             Requested size: 468.0pt x 329.59633pt.
+ [26 <./map.pdf>]
+<wpi_coastal.pdf, id=750, 409.71968pt x 263.18797pt>
+File: wpi_coastal.pdf Graphic file (type pdf)
+<use wpi_coastal.pdf>
+Package pdftex.def Info: wpi_coastal.pdf  used on input line 11.
+(pdftex.def)             Requested size: 468.0pt x 300.64781pt.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 12.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 12.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 12.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.77005> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.30006> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+
+LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
+
+
+LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
+
+[27 <./wpi_coastal.pdf>]
+<case_studies_nt.pdf, id=799, 202.01457pt x 352.81418pt>
+File: case_studies_nt.pdf Graphic file (type pdf)
+<use case_studies_nt.pdf>
+Package pdftex.def Info: case_studies_nt.pdf  used on input line 19.
+(pdftex.def)             Requested size: 228.0pt x 398.22316pt.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
+
+
+LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
+
+
+LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
+
+
+LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
+
+
+LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
+
+[28 <./case_studies_nt.pdf>]
+<case_studies_wa.pdf, id=818, 202.01457pt x 341.43306pt>
+File: case_studies_wa.pdf Graphic file (type pdf)
+<use case_studies_wa.pdf>
+Package pdftex.def Info: case_studies_wa.pdf  used on input line 27.
+(pdftex.def)             Requested size: 228.0pt x 385.37721pt.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
+ne 28.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
+ne 28.
+
+
+LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
+ne 28.
+
+[29 <./case_studies_wa.pdf>]
+<perth_sounding.pdf, id=837, 335.74252pt x 182.09764pt>
+File: perth_sounding.pdf Graphic file (type pdf)
+<use perth_sounding.pdf>
+Package pdftex.def Info: perth_sounding.pdf  used on input line 35.
+(pdftex.def)             Requested size: 396.0pt x 214.79277pt.
+ [30 <./perth_sounding.pdf>]
+<airport_wpi.pdf, id=856, 409.71968pt x 193.47874pt>
+File: airport_wpi.pdf Graphic file (type pdf)
+<use airport_wpi.pdf>
+Package pdftex.def Info: airport_wpi.pdf  used on input line 43.
+(pdftex.def)             Requested size: 468.0pt x 221.01678pt.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
+4.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
+4.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
+4.
+
+[31 <./airport_wpi.pdf>]
+<airport_wpi_EA.pdf, id=897, 409.71968pt x 193.47874pt>
+File: airport_wpi_EA.pdf Graphic file (type pdf)
+<use airport_wpi_EA.pdf>
+Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 51.
+(pdftex.def)             Requested size: 468.0pt x 221.01678pt.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
+3.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
+3.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
+3.
+
+[32 <./airport_wpi_EA.pdf>]
+<cwpi_coastal.pdf, id=941, 409.71968pt x 261.76537pt>
+File: cwpi_coastal.pdf Graphic file (type pdf)
+<use cwpi_coastal.pdf>
+Package pdftex.def Info: cwpi_coastal.pdf  used on input line 60.
+(pdftex.def)             Requested size: 468.0pt x 299.02272pt.
+
+
+LaTeX Warning: Reference `Fig:wpi_coastal' on page 33 undefined on input line 6
+1.
+
+[33 <./cwpi_coastal.pdf>]
+<clim_hodo_alt.pdf, id=990, 301.59921pt x 318.67087pt>
+File: clim_hodo_alt.pdf Graphic file (type pdf)
+<use clim_hodo_alt.pdf>
+Package pdftex.def Info: clim_hodo_alt.pdf  used on input line 68.
+(pdftex.def)             Requested size: 396.0pt x 418.41978pt.
+
+
+LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
+
+
+LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
+
+
+LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
+
+[34 <./clim_hodo_alt.pdf>]
+<airport_cwpi.pdf, id=1016, 409.71968pt x 193.47874pt>
+File: airport_cwpi.pdf Graphic file (type pdf)
+<use airport_cwpi.pdf>
+Package pdftex.def Info: airport_cwpi.pdf  used on input line 76.
+(pdftex.def)             Requested size: 468.0pt x 221.01678pt.
+
+
+LaTeX Warning: Reference `Fig:airport_wpi' on page 35 undefined on input line 7
+7.
+
+[35 <./airport_cwpi.pdf>]
+<r_squared.pdf, id=1056, 202.01457pt x 256.0748pt>
+File: r_squared.pdf Graphic file (type pdf)
+<use r_squared.pdf>
+Package pdftex.def Info: r_squared.pdf  used on input line 84.
+(pdftex.def)             Requested size: 228.0pt x 289.03291pt.
+
+
+LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
+
+
+LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
+
+[36 <./r_squared.pdf>]
+<ellipse_fits.pdf, id=1103, 404.02913pt x 270.3012pt>
+File: ellipse_fits.pdf Graphic file (type pdf)
+<use ellipse_fits.pdf>
+Package pdftex.def Info: ellipse_fits.pdf  used on input line 92.
+(pdftex.def)             Requested size: 468.0pt x 313.11652pt.
+
+
+LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
+
+
+LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
+
+[37 <./ellipse_fits.pdf>]
+<ellipse_hodo.pdf, id=1400, 290.21811pt x 216.24095pt>
+File: ellipse_hodo.pdf Graphic file (type pdf)
+<use ellipse_hodo.pdf>
+Package pdftex.def Info: ellipse_hodo.pdf  used on input line 100.
+(pdftex.def)             Requested size: 468.0pt x 348.74109pt.
+
+
+LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
+
+
+LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
+
+
+LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
+
+[38 <./ellipse_hodo.pdf>]
+<error_decomp_sa.pdf, id=1434, 404.02913pt x 244.6937pt>
+File: error_decomp_sa.pdf Graphic file (type pdf)
+<use error_decomp_sa.pdf>
+Package pdftex.def Info: error_decomp_sa.pdf  used on input line 108.
+(pdftex.def)             Requested size: 468.0pt x 283.45285pt.
+
+
+LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
+
+
+LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
+
+
+LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
+
+
+LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
+
+
+LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
+
+
+LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
+
+[39 <./error_decomp_sa.pdf>]) (./short18_seabreeze_verification_submitted.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4398 strings out of 492982
+ 58333 string characters out of 6134897
+ 128302 words of memory out of 5000000
+ 7814 multiletter control sequences out of 15000+600000
+ 61916 words of font info for 143 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,11n,37p,1633b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
+elvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on short18_seabreeze_verification_submitted.pdf (39 pages, 13406
+37 bytes).
+PDF statistics:
+ 1510 PDF objects out of 1728 (max. 8388607)
+ 994 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

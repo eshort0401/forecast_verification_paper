@@ -1,4 +1,4 @@
-\begin{thebibliography}{27}
+\begin{thebibliography}{29}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -13,7 +13,7 @@
 Abdalla, S., L.~Isaksen, P.~A. E.~M. Janssen, and N.~Wedi, 2013: Effective
   spectral resolution of {ECMWF} atmospheric forecast models. 19--22,
   \doi{10.21957/rue4o7ac}, [Available online at
-  \url{https://www.ecmwf.int/node/17358} - Accessed 07/12/2019].
+  \url{https://www.ecmwf.int/node/17358} - Accessed 11 December 2019].
 
 \bibitem[{Abkar et~al.(2016)Abkar, Sharifi,, and Porté-Agel}]{abkar16}
 Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
@@ -24,19 +24,27 @@ Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
 {Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
   numerical weather prediction systems. Tech. Rep. NMOC Operations Bulletin No.
   83, {Bureau of Meteorology}, Melbourne, Victoria. [Available online at
-  \url{http://www.bom.gov.au/australia/charts/bulletins/apob83.pdf} - Accessed
-  25/04/2019].
+  \url{http://www.bom.gov.au/nwp/doc/bulletins/apob83.pdf} - Accessed 11
+  December 2019].
 
 \bibitem[{{Bureau of Meteorology}(2016)}]{bom16}
 {Bureau of Meteorology}, 2016: {APS2} upgrade to the {ACCESS-R} numerical
   weather prediction system. Tech. Rep. BNOC Operations Bulletin No. 104,
   {Bureau of Meteorology}, Melbourne, Victoria. [Available online at
   \url{http://www.bom.gov.au/australia/charts/bulletins/apob107-external.pdf} -
-  Accessed 25/04/2019].
+  Accessed 11 December 2019].
 
-\bibitem[{{Bureau of Meteorology}(2019)}]{bomMetEye19}
-{Bureau of Meteorology}, 2019: Meteye. {Bureau of Meteorology}, [Available
-  online at \url{http://www.bom.gov.au/australia/meteye/}].
+\bibitem[{{Bureau of Meteorology}(2019{\natexlab{a}})}]{shortData19}
+{Bureau of Meteorology}, 2019{\natexlab{a}}: {Datasets used in "Verifying
+  Operational Forecasts of Land-Sea Breeze and Boundary Layer Mixing
+  Processes"}. {Zenodo}, [Available online at
+  \url{http://doi.org/10.5281/zenodo.3570002} - Accessed 11 December 2019],
+  \doi{10.5281/zenodo.3570002}.
+
+\bibitem[{{Bureau of Meteorology}(2019{\natexlab{b}})}]{bomMetEye19}
+{Bureau of Meteorology}, 2019{\natexlab{b}}: Meteye. {Bureau of Meteorology},
+  [Available online at \url{http://www.bom.gov.au/australia/meteye/} - Accessed
+  11 December 2019].
 
 \bibitem[{Dai and Deser(1999)Dai, and Deser}]{dai99}
 Dai, A., and C.~Deser, 1999: Diurnal and semidiurnal variations in global
@@ -64,7 +72,7 @@ Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
 {European Center for Medium Range Weather Forecasting}, 2018: \textit{Part
   {IV}: Physical processes}, 223. No.~4, IFS Documentation, {European Center
   for Medium Range Weather Forecasting}, [Available online at
-  \url{https://www.ecmwf.int/node/18714} - Accessed 25 April 2019].
+  \url{https://www.ecmwf.int/node/18714} - Accessed 11 December 2019].
 
 \bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
 Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
@@ -76,7 +84,8 @@ Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
 Griffiths, D., H.~Jack, M.~Foley, I.~Ioannou, and M.~Liu, 2017: Advice for
   automation of forecasts: a framework. Tech. rep., {Bureau of Meteorology},
   Melbourne, Victoria. [Available online at
-  \url{http://www.bom.gov.au/research/publications/researchreports/BRR-021.pdf}].
+  \url{http://www.bom.gov.au/research/publications/researchreports/BRR-021.pdf}
+  - Accessed 11 December 2019].
 
 \bibitem[{Lee(2018)}]{lee18}
 Lee, X., 2018: \textit{Fundamentals of boundary-layer meteorology.} Springer
@@ -108,7 +117,7 @@ Miller, S. T.~K., B.~D. Keim, R.~W. Talbot, and H.~Mao, 2003: Sea breeze:
 Modigliani, U., and C.~Maass, 2017: Detailed information of implementation of
   {IFS} cycle 41r2. {ECMWF}, [Available online at
   \url{https://confluence.ecmwf.int/display/FCST/Detailed+information+of+implementation+of+IFS+cycle+41r2}
-  - Accessed 27/04/2019].
+  - Accessed 11 December 2019].
 
 \bibitem[{Physick and Abbs(1992)Physick, and Abbs}]{physick92}
 Physick, W.~L., and D.~J. Abbs, 1992: Flow and plume dispersion in a coastal
@@ -124,6 +133,11 @@ Pinson, P., and R.~Hagedorn, 2012: Verification of the {ECMWF} ensemble
 Rife, D.~L., and C.~A. Davis, 2005: Verification of temporal variations in
   mesoscale numerical wind forecasts. \textit{Monthly Weather Review},
   \textbf{133~(11)}, 3368--3381, \doi{10.1175/MWR3052.1}.
+
+\bibitem[{Short(2019)}]{shortGitVeri19}
+Short, E., 2019: eshort0401/forecast\_verification\_paper. {GitHub}, [Available
+  online at \url{https://github.com/eshort0401/forecast_verification_paper} -
+  Accessed 11 December 2019].
 
 \bibitem[{Skamarock(2004)}]{skamarock04}
 Skamarock, W.~C., 2004: Evaluating mesoscale {NWP} models using kinetic energy
