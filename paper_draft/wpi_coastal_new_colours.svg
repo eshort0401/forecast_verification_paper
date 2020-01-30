@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="145mm"
-   height="87mm"
-   viewBox="0 0 145 87"
+   height="89mm"
+   viewBox="0 0 145 89"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -1538,7 +1538,9 @@
         <rect
            id="rect13280"
            height="110"
-           width="319" />
+           width="319"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipe1d88bx"
@@ -1577,9 +1579,9 @@
       <linearGradient
          id="ge1d88b-cbafba9206-150f-4e6b-831f-18f5ee94cdc3"
          y2="0"
-         y1="36.742346"
-         x2="820.57906"
-         x1="820.57906"
+         y1="36.742348"
+         x2="820.57904"
+         x1="820.57904"
          gradientTransform="scale(0.40824829,2.4494897)"
          gradientUnits="userSpaceOnUse">
         <stop
@@ -1796,7 +1798,9 @@
         <rect
            id="rect14983"
            height="110"
-           width="311" />
+           width="311"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip3b770fx"
@@ -1835,7 +1839,7 @@
       <linearGradient
          id="g3b770f-cbcc9ef59b-e397-410b-aa3f-118fcfb9d87d"
          y2="0"
-         y1="36.742346"
+         y1="36.742348"
          x2="800.98315"
          x1="800.98315"
          gradientTransform="scale(0.40824829,2.4494897)"
@@ -2054,7 +2058,9 @@
         <rect
            id="rect16734"
            height="110"
-           width="319" />
+           width="319"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipaf8789x"
@@ -2093,9 +2099,9 @@
       <linearGradient
          id="gaf8789-cb7a83d639-ed69-4ed7-b58f-52dce127fbd9"
          y2="0"
-         y1="36.742346"
-         x2="820.57906"
-         x1="820.57906"
+         y1="36.742348"
+         x2="820.57904"
+         x1="820.57904"
          gradientTransform="scale(0.40824829,2.4494897)"
          gradientUnits="userSpaceOnUse">
         <stop
@@ -2312,7 +2318,9 @@
         <rect
            id="rect18437"
            height="110"
-           width="311" />
+           width="311"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip35ffe0x"
@@ -2351,7 +2359,7 @@
       <linearGradient
          id="g35ffe0-cb163796f8-8ba2-4548-89b8-e975c5dc24bf"
          y2="0"
-         y1="36.742346"
+         y1="36.742348"
          x2="800.98315"
          x1="800.98315"
          gradientTransform="scale(0.40824829,2.4494897)"
@@ -2570,7 +2578,9 @@
         <rect
            id="rect30240"
            height="110"
-           width="319" />
+           width="319"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipd3fa1fx"
@@ -2609,9 +2619,9 @@
       <linearGradient
          id="gd3fa1f-cb383c969e-a2a8-4ffd-9ba3-223942f90ff3"
          y2="0"
-         y1="36.742346"
-         x2="820.57906"
-         x1="820.57906"
+         y1="36.742348"
+         x2="820.57904"
+         x1="820.57904"
          gradientTransform="scale(0.40824829,2.4494897)"
          gradientUnits="userSpaceOnUse">
         <stop
@@ -2828,7 +2838,9 @@
         <rect
            id="rect31943"
            height="110"
-           width="311" />
+           width="311"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipace347x"
@@ -2867,7 +2879,7 @@
       <linearGradient
          id="gace347-cb1dc0ffba-2372-425b-8d97-d32b5dc80f18"
          y2="0"
-         y1="36.742346"
+         y1="36.742348"
          x2="800.98315"
          x1="800.98315"
          gradientTransform="scale(0.40824829,2.4494897)"
@@ -3086,7 +3098,9 @@
         <rect
            id="rect33694"
            height="110"
-           width="319" />
+           width="319"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clip3934c0x"
@@ -3125,9 +3139,9 @@
       <linearGradient
          id="g3934c0-cb18a2bea1-7980-40d2-b56a-36aa628d89c5"
          y2="0"
-         y1="36.742346"
-         x2="820.57906"
-         x1="820.57906"
+         y1="36.742348"
+         x2="820.57904"
+         x1="820.57904"
          gradientTransform="scale(0.40824829,2.4494897)"
          gradientUnits="userSpaceOnUse">
         <stop
@@ -3344,7 +3358,9 @@
         <rect
            id="rect35397"
            height="110"
-           width="311" />
+           width="311"
+           x="0"
+           y="0" />
       </clipPath>
       <clipPath
          id="clipae6ed2x"
@@ -3383,7 +3399,7 @@
       <linearGradient
          id="gae6ed2-cb8456ab3e-f935-43ec-81bb-5fc196598503"
          y2="0"
-         y1="36.742346"
+         y1="36.742348"
          x2="800.98315"
          x1="800.98315"
          gradientTransform="scale(0.40824829,2.4494897)"
@@ -3602,8 +3618,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="227.75391"
-     inkscape:cy="184.23335"
+     inkscape:cx="239.47912"
+     inkscape:cy="192.6376"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3634,7 +3650,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1.3940316,-51.551861)"
+     transform="translate(-1.3940316,-49.551861)"
      style="display:inline">
     <g
        class="layer-below"
@@ -4347,7 +4363,7 @@
     <g
        class="bglayer"
        id="g30425"
-       transform="matrix(0.1890089,0,0,0.1890089,58.146735,51.149653)">
+       transform="matrix(0.1890089,0,0,0.1890089,58.146735,48.41014)">
       <rect
          class="bg"
          x="140"
@@ -4360,58 +4376,58 @@
     <path
        id="path31253"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 86.059602,57.548954 v 0.945044"
+       d="m 86.059602,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31255"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 96.13944,57.548954 v 0.945044"
+       d="m 96.13944,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31257"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 106.21929,57.548954 v 0.945044"
+       d="m 106.21929,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31259"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 116.30102,57.548954 v 0.945044"
+       d="m 116.30102,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31261"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 126.38086,57.548954 v 0.945044"
+       d="m 126.38086,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31263"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 136.46071,57.548954 v 0.945044"
+       d="m 136.46071,54.809441 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <text
        x="88.69809"
-       y="134.65347"
+       y="134.72029"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.17617656"
        id="text31878">0</text>
     <text
        x="114.83077"
-       y="134.47478"
+       y="134.5416"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.17617656"
        id="text31882">50</text>
     <text
        x="140.80983"
-       y="134.563"
+       y="134.62982"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.17617656"
        id="text31886">100</text>
     <text
        class="hycbe456fdtitle"
        x="116.29209"
-       y="137.59499"
+       y="137.6618"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        id="text31892">
       <tspan
@@ -4421,7 +4437,7 @@
     <g
        class="bglayer"
        id="g39533"
-       transform="matrix(0.1890089,0,0,0.1890089,-6.6307843,96.58283)">
+       transform="matrix(0.1890089,0,0,0.1890089,-6.6307843,93.843317)">
       <rect
          class="bg"
          x="140"
@@ -4434,43 +4450,43 @@
     <path
        id="path40361"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 21.091151,125.12316 v 0.94505"
+       d="m 21.091151,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path40363"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 31.170995,125.12316 v 0.94505"
+       d="m 31.170995,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path40365"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 41.25084,125.12316 v 0.94505"
+       d="m 41.25084,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path40367"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 51.332575,125.12316 v 0.94505"
+       d="m 51.332575,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path40369"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 61.412419,125.12316 v 0.94505"
+       d="m 61.412419,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path40371"
        style="stroke:#444444;stroke-width:0.18900891px;stroke-opacity:1"
-       d="m 71.492264,125.12316 v 0.94505"
+       d="m 71.492264,122.38365 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <g
        class="bglayer"
        id="g41810"
-       transform="matrix(0.1890089,0,0,0.1890089,-6.6307843,51.070073)">
+       transform="matrix(0.1890089,0,0,0.1890089,-6.6307843,48.33056)">
       <rect
          class="bg"
          x="140"
@@ -4483,43 +4499,43 @@
     <path
        id="path42638"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 21.091151,57.469374 v 0.945044"
+       d="m 21.091151,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path42640"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 31.170996,57.469374 v 0.945044"
+       d="m 31.170996,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path42642"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 41.250841,57.469374 v 0.945044"
+       d="m 41.250841,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path42644"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 51.332576,57.469374 v 0.945044"
+       d="m 51.332576,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path42646"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 61.412421,57.469374 v 0.945044"
+       d="m 61.412421,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path42648"
        style="stroke:#444444;stroke-width:0.18900889px;stroke-opacity:1"
-       d="m 71.492266,57.469374 v 0.945044"
+       d="m 71.492266,54.729861 v 0.945044"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <text
        id="text42650"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
-       y="57.356129"
+       y="54.616615"
        x="2.8989229">
       <tspan
          style="font-size:2.64583325px;stroke-width:0.18900889"
@@ -4527,7 +4543,7 @@
     </text>
     <text
        x="2.8989232"
-       y="81.68293"
+       y="78.94342"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
        id="text64487">
       <tspan
@@ -4537,7 +4553,7 @@
     <text
        id="text64491"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
-       y="104.97613"
+       y="102.23662"
        x="2.8989232">
       <tspan
          style="font-size:2.64583325px;stroke-width:0.18900889"
@@ -4545,7 +4561,7 @@
     </text>
     <text
        x="82.830307"
-       y="59.804413"
+       y="57.064899"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
        id="text64507">
       <tspan
@@ -4555,7 +4571,7 @@
     <text
        id="text64511"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
-       y="81.007668"
+       y="78.268158"
        x="82.591576">
       <tspan
          style="font-size:2.64583325px;stroke-width:0.18900889"
@@ -4563,7 +4579,7 @@
     </text>
     <text
        x="82.591576"
-       y="104.30087"
+       y="101.56136"
        style="font-size:2.64583325px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18900889"
        id="text64515">
       <tspan
@@ -4573,7 +4589,7 @@
     <text
        class="xtitle"
        x="14.073831"
-       y="54.191387"
+       y="51.451874"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        id="text61422">[UTC]</text>
     <g
@@ -4878,43 +4894,43 @@
        id="g115749" />
     <text
        x="21.984432"
-       y="134.66411"
+       y="134.73093"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115751">−0.9</text>
     <text
        x="30.844772"
-       y="134.66803"
+       y="134.73485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115763">−0.6</text>
     <text
        x="39.749683"
-       y="134.62605"
+       y="134.69287"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115775">−0.3</text>
     <text
        x="49.985081"
-       y="134.71454"
+       y="134.78136"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115787">0</text>
     <text
        x="58.183926"
-       y="134.63857"
+       y="134.70538"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115799">0.3</text>
     <text
        x="67.004845"
-       y="134.68054"
+       y="134.74736"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115811">0.6</text>
     <text
        x="75.870346"
-       y="134.67661"
+       y="134.74342"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.59086132"
        id="text115823">0.9</text>
     <text
        class="hycbbcd00btitle"
        x="50.548004"
-       y="137.9157"
+       y="137.98251"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.59086132"
        id="text115829">
       <tspan
@@ -4924,17 +4940,17 @@
     <text
        id="text128144"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.17617656"
-       y="134.65347"
+       y="134.72029"
        x="101.55011">25</text>
     <text
        id="text128148"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.17617656"
-       y="134.63213"
+       y="134.69894"
        x="127.89282">75</text>
     <text
        class="ytitle"
        transform="rotate(-90)"
-       x="-68.602486"
+       x="-65.862976"
        y="4.2831106"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        id="text4149">Official vs. ACCESS</text>
@@ -4942,13 +4958,13 @@
        id="text4153"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        y="4.2831106"
-       x="-92.437912"
+       x="-89.698402"
        transform="rotate(-90)"
        class="ytitle">Official vs. HRES</text>
     <text
        class="ytitle"
        transform="rotate(-90)"
-       x="-114.97137"
+       x="-112.23186"
        y="4.2831106"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29305553px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        id="text4155">Official vs. OCF</text>
@@ -4956,13 +4972,13 @@
        id="text20539"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        y="7.9141774"
-       x="-68.602486"
+       x="-65.862976"
        class="ytitle"
        transform="rotate(-90)">Coastal Stations</text>
     <text
        class="ytitle"
        transform="rotate(-90)"
-       x="-92.790375"
+       x="-90.050865"
        y="7.9141774"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        id="text20554">Coastal Stations</text>
@@ -4970,7 +4986,7 @@
        id="text20556"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
        y="7.9141774"
-       x="-115.19713"
+       x="-112.45762"
        transform="rotate(-90)"
        class="ytitle">Coastal Stations</text>
     <g
@@ -5182,7 +5198,7 @@
     <g
        style="stroke-width:0.6487757;stroke-miterlimit:4;stroke-dasharray:none"
        class="cbfills"
-       transform="matrix(0,0.16083674,-0.59086135,0,77.054841,77.370864)"
+       transform="matrix(0,0.16083674,-0.59086135,0,77.054841,77.437681)"
        id="g18721">
       <rect
          class="cbfill"
@@ -5195,7 +5211,7 @@
     </g>
     <rect
        class="cboutline"
-       x="129.96448"
+       x="130.0313"
        y="-77.054848"
        width="2.4125512"
        height="53.177521"
@@ -5283,89 +5299,89 @@
     <path
        id="path20391"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,78.173381 H 18.509628"
+       d="M 19.462966,75.433868 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20393"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,75.5517 H 18.509628"
+       d="M 19.462966,72.812187 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20395"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,72.930019 H 18.509628"
+       d="M 19.462966,70.190506 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20397"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,70.308338 H 18.509628"
+       d="M 19.462966,67.568825 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20399"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,67.686657 H 18.509628"
+       d="M 19.462966,64.947144 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20401"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,65.064976 H 18.509628"
+       d="M 19.462966,62.325463 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20403"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,62.443295 H 18.509628"
+       d="M 19.462966,59.703782 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path20405"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,59.821614 H 18.509628"
+       d="M 19.462966,57.082101 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <text
        x="18.128294"
-       y="78.840714"
+       y="76.101204"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20407">QLD</text>
     <text
        x="18.128294"
-       y="76.219032"
+       y="73.479523"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20411">NSW</text>
     <text
        x="18.128294"
-       y="73.597351"
+       y="70.857841"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20415">VIC</text>
     <text
        x="18.128294"
-       y="70.97567"
+       y="68.23616"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20419">SA</text>
     <text
        x="18.128294"
-       y="68.353989"
+       y="65.614479"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20423">NT</text>
     <text
        x="18.128294"
-       y="65.732307"
+       y="62.992794"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20427">North WA</text>
     <text
        x="18.128294"
-       y="63.110634"
+       y="60.37112"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20431">South WA</text>
     <text
        x="18.128294"
-       y="60.488953"
+       y="57.749439"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text20435">West WA</text>
     <g
@@ -5468,37 +5484,37 @@
     <path
        id="path22056"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 85.936711,124.96878 v 0.94505"
+       d="m 85.936711,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path22058"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 96.015922,124.96878 v 0.94505"
+       d="m 96.015922,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path22060"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 106.09702,124.96878 v 0.94505"
+       d="m 106.09702,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path22062"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 116.17813,124.96878 v 0.94505"
+       d="m 116.17813,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path22064"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 126.25734,124.96878 v 0.94505"
+       d="m 126.25734,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path22066"
        style="stroke:#444444;stroke-width:0.18930493px;stroke-opacity:1"
-       d="m 136.33845,124.96878 v 0.94505"
+       d="m 136.33845,122.22927 v 0.94505"
        class="xtick ticks crisp"
        inkscape:connector-curvature="0" />
     <g
@@ -5547,253 +5563,253 @@
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,100.75745 H 18.509628"
+       d="M 19.462966,98.017937 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31293" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,98.135777 H 18.509628"
+       d="M 19.462966,95.396264 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31295" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,95.514096 H 18.509628"
+       d="M 19.462966,92.774583 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31297" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,92.892415 H 18.509628"
+       d="M 19.462966,90.152902 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31299" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,90.270734 H 18.509628"
+       d="M 19.462966,87.531221 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31301" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,87.649053 H 18.509628"
+       d="M 19.462966,84.90954 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31303" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,85.027372 H 18.509628"
+       d="M 19.462966,82.287859 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31305" />
     <path
        inkscape:connector-curvature="0"
        class="ytick ticks crisp"
-       d="M 19.462966,82.405691 H 18.509628"
+       d="M 19.462966,79.666178 H 18.509628"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
        id="path31307" />
     <text
        id="text31309"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="101.4248"
+       y="98.685287"
        x="18.128294">QLD</text>
     <text
        id="text31311"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="98.803116"
+       y="96.063606"
        x="18.128294">NSW</text>
     <text
        id="text31313"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="96.181435"
+       y="93.441925"
        x="18.128294">VIC</text>
     <text
        id="text31315"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="93.559753"
+       y="90.820244"
        x="18.128294">SA</text>
     <text
        id="text31317"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="90.938072"
+       y="88.198563"
        x="18.128294">NT</text>
     <text
        id="text31319"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="88.316391"
+       y="85.576881"
        x="18.128294">North WA</text>
     <text
        id="text31321"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="85.69471"
+       y="82.9552"
        x="18.128294">South WA</text>
     <text
        id="text31323"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
-       y="83.073029"
+       y="80.333519"
        x="18.128294">West WA</text>
     <path
        id="path31325"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,123.814 H 18.509628"
+       d="M 19.462966,121.07449 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31327"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,121.19232 H 18.509628"
+       d="M 19.462966,118.45281 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31329"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,118.57064 H 18.509628"
+       d="M 19.462966,115.83113 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31331"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,115.94896 H 18.509628"
+       d="M 19.462966,113.20945 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31333"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,113.32728 H 18.509628"
+       d="M 19.462966,110.58777 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31335"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,110.70559 H 18.509628"
+       d="M 19.462966,107.96608 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31337"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,108.08391 H 18.509628"
+       d="M 19.462966,105.3444 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <path
        id="path31339"
        style="stroke:#444444;stroke-width:0.1906677px;stroke-opacity:1"
-       d="M 19.462966,105.46223 H 18.509628"
+       d="M 19.462966,102.72272 H 18.509628"
        class="ytick ticks crisp"
        inkscape:connector-curvature="0" />
     <text
        x="18.128294"
-       y="124.48135"
+       y="121.74184"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31341">QLD</text>
     <text
        x="18.128294"
-       y="121.85967"
+       y="119.12016"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31343">NSW</text>
     <text
        x="18.128294"
-       y="119.23798"
+       y="116.49847"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31345">VIC</text>
     <text
        x="18.128294"
-       y="116.6163"
+       y="113.87679"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31347">SA</text>
     <text
        x="18.128294"
-       y="113.99462"
+       y="111.25511"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31349">NT</text>
     <text
        x="18.128294"
-       y="111.37295"
+       y="108.63344"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31351">North WA</text>
     <text
        x="18.128294"
-       y="108.75125"
+       y="106.01174"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31353">South WA</text>
     <text
        x="18.128294"
-       y="106.12958"
+       y="103.39007"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1906677"
        id="text31355">West WA</text>
     <text
        id="text4558"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="56.975998"
+       y="54.236485"
        x="41.248512">11:43</text>
     <text
        id="text4560"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="56.975998"
+       y="54.236485"
        x="51.328362">15:43</text>
     <text
        id="text4562"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="56.975998"
+       y="54.236485"
        x="61.410099">19:43</text>
     <text
        id="text4564"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="56.975998"
+       y="54.236485"
        x="71.489944">23:43</text>
     <text
        id="text4566"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="56.975998"
+       y="54.236485"
        x="20.966446">03:43 </text>
     <text
        x="31.19062"
-       y="57.05558"
+       y="54.316067"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text4568">07:43</text>
     <text
        x="11.552882"
-       y="56.832863"
+       y="54.093349"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text4570">[Perth LST]</text>
     <text
        x="20.957396"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44933">20:00</text>
     <text
        x="31.020849"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44935">00:00</text>
     <text
        x="41.086189"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44937">04:00</text>
     <text
        x="51.151535"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44939">08:00</text>
     <text
        x="61.214989"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44941">12:00</text>
     <text
        x="71.280334"
-       y="54.233082"
+       y="51.489277"
        transform="scale(1.0015662,0.99843625)"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        id="text44943">16:00</text>
     <g
        id="g6421"
-       transform="matrix(0,0.16083674,-0.59086135,0,142.40224,77.370864)"
+       transform="matrix(0,0.16083674,-0.59086135,0,142.40224,77.437681)"
        class="cbfills"
        style="stroke-width:0.6487757;stroke-miterlimit:4;stroke-dasharray:none">
       <rect
@@ -5812,137 +5828,137 @@
        height="53.177521"
        width="2.4125512"
        y="-142.40225"
-       x="129.96448"
+       x="130.0313"
        class="cboutline" />
     <text
        x="106.72955"
-       y="56.975998"
+       y="54.236485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10725">11:43</text>
     <text
        x="116.80939"
-       y="56.975998"
+       y="54.236485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10727">15:43</text>
     <text
        x="126.89114"
-       y="56.975998"
+       y="54.236485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10729">19:43</text>
     <text
        x="136.97099"
-       y="56.975998"
+       y="54.236485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10731">23:43</text>
     <text
        x="86.447479"
-       y="56.975998"
+       y="54.236485"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10733">03:43 </text>
     <text
        id="text10735"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="57.05558"
+       y="54.316067"
        x="96.671654">07:43</text>
     <text
        id="text10739"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="86.336037">20:00</text>
     <text
        id="text10741"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="96.39949">00:00</text>
     <text
        id="text10743"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="106.46483">04:00</text>
     <text
        id="text10745"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="116.53018">08:00</text>
     <text
        id="text10747"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="126.59363">12:00</text>
     <text
        id="text10749"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
        transform="scale(1.0015662,0.99843625)"
-       y="54.233082"
+       y="51.489277"
        x="136.65897">16:00</text>
     <text
-       x="41.248512"
-       y="127.84654"
+       x="41.343006"
+       y="127.91337"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10777">14:12</text>
     <text
-       x="51.328362"
-       y="127.84654"
+       x="51.422855"
+       y="127.91337"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10779">18:12</text>
     <text
-       x="61.410099"
-       y="127.84654"
+       x="61.504593"
+       y="127.91337"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10781">22:12</text>
     <text
-       x="71.489944"
-       y="127.84654"
+       x="71.584442"
+       y="127.91337"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10783">02:12</text>
     <text
-       x="20.966446"
-       y="127.84654"
+       x="21.06094"
+       y="127.91337"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10785">06:12 </text>
     <text
        id="text10787"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.92612"
-       x="31.19062">10:12</text>
+       y="127.99294"
+       x="31.285114">10:12</text>
     <text
        id="text10789"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.7034"
-       x="10.617439">[Brisbane LST]</text>
+       y="127.77023"
+       x="9.8614864">[Brisbane LST]</text>
     <text
        id="text10907"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.84654"
+       y="127.91337"
        x="106.195">14:12</text>
     <text
        id="text10909"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.84654"
+       y="127.91337"
        x="116.27486">18:12</text>
     <text
        id="text10911"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.84654"
+       y="127.91337"
        x="126.35659">22:12</text>
     <text
        id="text10913"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.84654"
+       y="127.91337"
        x="136.43645">02:12</text>
     <text
        id="text10915"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
-       y="127.84654"
+       y="127.91337"
        x="85.912941">06:12 </text>
     <text
        x="96.137115"
-       y="127.92612"
+       y="127.99294"
        style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.18900891"
        id="text10917">10:12</text>
     <g
@@ -6179,13 +6195,6 @@
        class="cblines"
        transform="matrix(0.26458333,0,0,0.26458333,110.48717,0.0460015)"
        id="g17789" />
-    <rect
-       x="-145.87517"
-       y="16.865942"
-       width="142.875"
-       height="60.854164"
-       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-       id="rect18435" />
     <g
        class="layer-subplot"
        id="g18547"
@@ -6416,35 +6425,105 @@
        class="overaxes-above"
        id="g36419"
        transform="matrix(0.26458333,0,0,0.26458333,-137.12812,119.3501)" />
-    <rect
-       class="cbbg"
-       x="-16.345825"
-       y="129.80113"
-       width="18.690332"
-       height="29.36875"
-       style="fill:#000000;fill-opacity:0;stroke:#444444;stroke-width:0;stroke-opacity:1"
-       id="rect36446" />
     <g
        class="cblines"
        transform="matrix(0.26458333,0,0,0.26458333,-100.08645,132.57926)"
        id="g36452" />
+    <text
+       id="text37785"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18900891"
+       y="125.45693"
+       x="14.052869"
+       class="xtitle">[UTC]</text>
+    <text
+       id="text37787"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="21.051743">20:00</text>
+    <text
+       id="text37789"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="31.18191">00:00</text>
+    <text
+       id="text37791"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="41.313961">04:00</text>
+    <text
+       id="text37793"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="51.24588">08:00</text>
+    <text
+       id="text37795"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="61.309334">12:00</text>
+    <text
+       id="text37797"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       transform="scale(1.0015662,0.99843625)"
+       y="125.61024"
+       x="71.37468">16:00</text>
+    <text
+       x="85.769958"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37799">20:00</text>
+    <text
+       x="95.833412"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37801">00:00</text>
+    <text
+       x="105.9931"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37803">04:00</text>
+    <text
+       x="116.05845"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37805">08:00</text>
+    <text
+       x="126.12189"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37807">12:00</text>
+    <text
+       x="136.0929"
+       y="125.61024"
+       transform="scale(1.0015662,0.99843625)"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.18930493"
+       id="text37809">16:00</text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-1.3940316,0.4481378)" />
+     transform="translate(-1.3940316,2.4481378)" />
   <g
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-0.21420595,-0.8144232)"
+     transform="translate(-0.21420595,1.1855768)"
      style="display:inline">
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.1896014,0,0,0.1890089,83.428157,7.9725713)"
+       transform="matrix(0.1896014,0,0,0.1890089,83.428157,5.2330587)"
        clip-path="url(#clipaf8789xyplot)"
        id="g17658">
       <g
@@ -8413,7 +8492,7 @@
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.19447861,0,0,0.18900892,18.650636,7.8929894)"
+       transform="matrix(0.19447861,0,0,0.18900892,18.650636,5.1534768)"
        clip-path="url(#clip35ffe0xyplot)"
        id="g19361">
       <g
@@ -10382,7 +10461,7 @@
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.19447861,0,0,0.1890089,18.650636,30.362974)"
+       transform="matrix(0.19447861,0,0,0.1890089,18.650636,27.623461)"
        clip-path="url(#clip3b770fxyplot)"
        id="g15907">
       <g
@@ -12351,7 +12430,7 @@
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.19447861,0,0,0.18900885,18.650636,53.405748)"
+       transform="matrix(0.19447861,0,0,0.18900885,18.650636,50.666235)"
        clip-path="url(#clipae6ed2xyplot)"
        id="g36321">
       <g
@@ -14320,7 +14399,7 @@
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.1896014,0,0,0.1890089,83.502423,30.362976)"
+       transform="matrix(0.1896014,0,0,0.1890089,83.502423,27.623463)"
        clip-path="url(#clipe1d88bxyplot)"
        id="g14204">
       <g
@@ -16289,7 +16368,7 @@
     <g
        style="display:inline"
        class="plot"
-       transform="matrix(0.1896014,0,0,0.1890089,83.550156,53.405732)"
+       transform="matrix(0.1896014,0,0,0.1890089,83.550156,50.666219)"
        clip-path="url(#clipd3fa1fxyplot)"
        id="g31164">
       <g
