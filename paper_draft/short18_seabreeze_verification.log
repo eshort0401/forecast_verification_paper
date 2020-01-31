@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  31 JAN 2020 15:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  31 JAN 2020 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -508,7 +508,7 @@ Package pdftex.def Info: ellipse_fits.pdf  used on input line 333.
 Underfull \vbox (badness 2503) has occurred while \output is active []
 
  [9 <./airport_wpi_new_city.pdf>]
-<ellipse_hodo.pdf, id=1016, 290.21811pt x 216.24095pt>
+<ellipse_hodo.pdf, id=1036, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
 Package pdftex.def Info: ellipse_hodo.pdf  used on input line 344.
@@ -531,7 +531,7 @@ LaTeX Warning: Text page 12 contains only floats.
 pdfTeX warning: pdflatex (file ./r_squared.pdf): PDF inclusion: multiple pdfs w
 ith page group included in a single page
 >]
-<error_decomp_sa.pdf, id=1172, 404.02913pt x 244.6937pt>
+<error_decomp_sa.pdf, id=1192, 404.02913pt x 244.6937pt>
 File: error_decomp_sa.pdf Graphic file (type pdf)
 <use error_decomp_sa.pdf>
 Package pdftex.def Info: error_decomp_sa.pdf  used on input line 369.
@@ -609,11 +609,11 @@ nts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
 live/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (17 pages, 1351698 bytes).
+Output written on short18_seabreeze_verification.pdf (17 pages, 1357800 bytes).
 
 PDF statistics:
- 1584 PDF objects out of 1728 (max. 8388607)
- 1082 compressed objects within 11 object streams
+ 1604 PDF objects out of 1728 (max. 8388607)
+ 1094 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
