@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="58.698094"
-     inkscape:cy="181.09504"
+     inkscape:zoom="1.979899"
+     inkscape:cx="211.89517"
+     inkscape:cy="381.89099"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -17218,6 +17218,12 @@
        x="-144.62158"
        pointer-events="all"
        class="legendtoggle" />
+    <path
+       style="fill:none;stroke:#444444;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.15;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 38.340156,44.608306 0,-20.635138"
+       id="path7780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <g
        class="gridlayer"
        id="g87767"
@@ -21937,5 +21943,11 @@
          style="font-size:2.29305625px;fill:#a52a2a;fill-opacity:1;stroke:none;stroke-width:0.19112204"
          id="tspan114937">23</tspan>
     </text>
+    <text
+       id="text7791"
+       style="font-weight:normal;font-size:2.29305649px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11829127"
+       y="23.929865"
+       x="38.717827"
+       class="ytitle">July 3</text>
   </g>
 </svg>

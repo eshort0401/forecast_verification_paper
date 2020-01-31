@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="117.84074"
-     inkscape:cy="232.10343"
+     inkscape:cx="199.4248"
+     inkscape:cy="227.51574"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4457,6 +4457,12 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-80.400223,5.1348608)">
+    <text
+       id="text7791"
+       style="font-weight:normal;font-size:2.29305649px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11829127"
+       y="-2.6570427"
+       x="92.686913"
+       class="ytitle">June 9</text>
     <g
        class="layer-below"
        id="g2281"
@@ -4919,6 +4925,12 @@
        y="26.917831"
        style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.177561"
        id="text11207">b)</text>
+    <path
+       style="fill:none;stroke:#444444;stroke-width:0.15000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.3, 0.15;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 92.484744,16.222627 V -2.5858982"
+       id="path7780"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <text
        x="83.119736"
        y="-29.62587"
@@ -4989,7 +5001,7 @@
     <text
        id="text8559"
        style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.1197092"
-       y="-2.4654222"
+       y="-2.9665525"
        x="81.744675"
        class="y2title"
        inkscape:transform-center-x="-0.66817382">a)</text>
