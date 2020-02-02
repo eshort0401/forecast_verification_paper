@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  31 JAN 2020 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  2 FEB 2020 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -479,27 +479,27 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning: pdflatex (file ./airport_wpi_new_airports.pdf): PDF inclusion: 
 multiple pdfs with page group included in a single page
 >]
-<cwpi_coastal.pdf, id=909, 409.71968pt x 261.76537pt>
-File: cwpi_coastal.pdf Graphic file (type pdf)
-<use cwpi_coastal.pdf>
-Package pdftex.def Info: cwpi_coastal.pdf  used on input line 299.
-(pdftex.def)             Requested size: 468.0pt x 299.02272pt.
-<clim_hodo_alt.pdf, id=910, 301.59921pt x 318.67087pt>
+<cwpi_coastal_reformed.pdf, id=902, 409.71968pt x 267.4559pt>
+File: cwpi_coastal_reformed.pdf Graphic file (type pdf)
+<use cwpi_coastal_reformed.pdf>
+Package pdftex.def Info: cwpi_coastal_reformed.pdf  used on input line 299.
+(pdftex.def)             Requested size: 468.0pt x 305.52321pt.
+<clim_hodo_alt.pdf, id=903, 301.59921pt x 318.67087pt>
 File: clim_hodo_alt.pdf Graphic file (type pdf)
 <use clim_hodo_alt.pdf>
 Package pdftex.def Info: clim_hodo_alt.pdf  used on input line 306.
 (pdftex.def)             Requested size: 396.0pt x 418.41978pt.
-<airport_cwpi.pdf, id=911, 409.71968pt x 193.47874pt>
+<airport_cwpi.pdf, id=904, 409.71968pt x 193.47874pt>
 File: airport_cwpi.pdf Graphic file (type pdf)
 <use airport_cwpi.pdf>
 Package pdftex.def Info: airport_cwpi.pdf  used on input line 313.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
-<r_squared.pdf, id=912, 202.01457pt x 256.0748pt>
+<r_squared.pdf, id=905, 202.01457pt x 256.0748pt>
 File: r_squared.pdf Graphic file (type pdf)
 <use r_squared.pdf>
 Package pdftex.def Info: r_squared.pdf  used on input line 324.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
-<ellipse_fits.pdf, id=913, 404.02913pt x 270.3012pt>
+<ellipse_fits.pdf, id=906, 404.02913pt x 270.3012pt>
 File: ellipse_fits.pdf Graphic file (type pdf)
 <use ellipse_fits.pdf>
 Package pdftex.def Info: ellipse_fits.pdf  used on input line 333.
@@ -508,18 +508,18 @@ Package pdftex.def Info: ellipse_fits.pdf  used on input line 333.
 Underfull \vbox (badness 2503) has occurred while \output is active []
 
  [9 <./airport_wpi_new_city.pdf>]
-<ellipse_hodo.pdf, id=1036, 290.21811pt x 216.24095pt>
+<ellipse_hodo.pdf, id=1029, 290.21811pt x 216.24095pt>
 File: ellipse_hodo.pdf Graphic file (type pdf)
 <use ellipse_hodo.pdf>
 Package pdftex.def Info: ellipse_hodo.pdf  used on input line 344.
 (pdftex.def)             Requested size: 468.0pt x 348.74109pt.
 
-Underfull \vbox (badness 1701) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 1701) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [10 <./cwpi_coastal.pdf>]
+ [10 <./cwpi_coastal_reformed.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11 <./clim_hodo_alt.pdf>]
@@ -531,7 +531,7 @@ LaTeX Warning: Text page 12 contains only floats.
 pdfTeX warning: pdflatex (file ./r_squared.pdf): PDF inclusion: multiple pdfs w
 ith page group included in a single page
 >]
-<error_decomp_sa.pdf, id=1192, 404.02913pt x 244.6937pt>
+<error_decomp_sa.pdf, id=1221, 404.02913pt x 244.6937pt>
 File: error_decomp_sa.pdf Graphic file (type pdf)
 <use error_decomp_sa.pdf>
 Package pdftex.def Info: error_decomp_sa.pdf  used on input line 369.
@@ -569,13 +569,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--89
 -[]021 . pdf$ -
  []
 
-
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 117--121
 \OT1/ptm/m/n/8 https : / / con^^Muence . ecmwf . int / display / FCST / Detaile
 d + information +
  []
 
-[16]
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
@@ -591,7 +590,7 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  4045 strings out of 492982
- 53412 string characters out of 6134897
+ 53457 string characters out of 6134897
  135792 words of memory out of 5000000
  7466 multiletter control sequences out of 15000+600000
  71103 words of font info for 156 fonts, out of 8000000 for 9000
@@ -609,11 +608,11 @@ nts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb
 live/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (17 pages, 1357800 bytes).
+Output written on short18_seabreeze_verification.pdf (17 pages, 1344284 bytes).
 
 PDF statistics:
- 1604 PDF objects out of 1728 (max. 8388607)
- 1094 compressed objects within 11 object streams
+ 1634 PDF objects out of 1728 (max. 8388607)
+ 1127 compressed objects within 12 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

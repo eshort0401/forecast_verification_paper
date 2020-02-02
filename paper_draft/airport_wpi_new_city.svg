@@ -10427,8 +10427,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="321.09973"
-     inkscape:cy="186.24228"
+     inkscape:cx="291.29768"
+     inkscape:cy="193.38514"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10450,7 +10450,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -12439,11 +12439,11 @@
        class="ytitle">
       <tspan
          style="font-size:2.82222223px;stroke-width:0.18900891"
-         id="tspan103894">City Station Groups</tspan>
+         id="tspan103894">Difference of Absolute Errors: City Station Groups</tspan>
     </text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 88.821048,96.433431 H 111.38719"
+       d="M 71.197908,96.433431 H 128.77409"
        id="path112245"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
