@@ -17,7 +17,7 @@ station_df = pickle.load(input_file)
     nt_coastal_df, qld_coastal_df, nsw_coastal_df, vic_coastal_df,
     sa_coastal_df, wa_coastal_south_df, wa_coastal_west_df,
     wa_coastal_north_df, darwin_ap_stations_df, brisbane_ap_stations_df,
-    sydney_ap_stations_df, canberra_ap_stations_df,
+    sydney_ap_stations_df,
     melbourne_ap_stations_df, hobart_ap_stations_df,
     adelaide_ap_stations_df, perth_ap_stations_df
 ) = station_df
@@ -132,14 +132,14 @@ airport_stations = [
     darwin_ap_stations_df, brisbane_ap_stations_df,
     sydney_ap_stations_df, melbourne_ap_stations_df,
     perth_ap_stations_df, adelaide_ap_stations_df,
-    hobart_ap_stations_df, canberra_ap_stations_df,
+    hobart_ap_stations_df,
     ]
 
 airports = [
     darwin_ap_stations_df.loc[14015], brisbane_ap_stations_df.loc[40842],
     sydney_ap_stations_df.loc[66037], melbourne_ap_stations_df.loc[86282],
     perth_ap_stations_df.loc[9021], adelaide_ap_stations_df.loc[23034],
-    hobart_ap_stations_df.loc[94008], canberra_ap_stations_df.loc[70351],
+    hobart_ap_stations_df.loc[94008],
     ]
 
 labels = [
@@ -211,11 +211,11 @@ tMinOcean = -15000
 tMaxOcean = 0
 
 csetLand = ax.contourf(
-        X_coarse, Y_coarse, elav_coarse, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
+        X_fine, Y_fine, elav_fine, cmap='pink_r', levels=np.arange(-tStep,tMax+tStep,tStep), zorder=0
         )
 # fig.colorbar(csetLand)
 csetWater = ax.contourf(
-        X_coarse, Y_coarse, elav_coarse, cmap='Blues_r',
+        X_fine, Y_fine, elav_fine, cmap='Blues_r',
         levels=np.arange(tMinOcean,tMaxOcean+tStepOcean,tStepOcean),
         zorder=0
         )
@@ -247,6 +247,7 @@ else:
 # plt.show()
 
 plt.savefig('./station_map' + '.png', format='png', dpi=300)
+# plt.savefig('./station_map' + '.svg', format='svg')
 
 lat_min = [-13.25, -28.25, -34.375, -38.5, -32.5, -35.5, -43.75, -36.75]
 lat_max = [-11.25, -26.25, -33.375, -37, -31.5, -34, -42.25, -34.25]

@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="102mm"
-   height="75mm"
-   viewBox="0 0 102 75"
+   width="122mm"
+   height="81mm"
+   viewBox="0 0 122 81"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -4522,9 +4522,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="165.2416"
-     inkscape:cy="135.04781"
+     inkscape:zoom="1.979899"
+     inkscape:cx="294.4818"
+     inkscape:cy="207.02107"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4554,7 +4554,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.25489128,-185.26454)">
+     transform="translate(-0.25489128,-179.26454)">
     <g
        class="layer-subplot"
        id="g2931"
@@ -4670,14 +4670,14 @@
     <path
        inkscape:connector-curvature="0"
        class="xlines-above crisp"
-       d="M -3.9107808,176.29198"
-       style="fill:none;stroke-width:0.26458332"
+       d="M 1.7018793,170.32264"
+       style="fill:none;stroke-width:0.28835642"
        id="path3984" />
     <path
        inkscape:connector-curvature="0"
        class="ylines-above crisp"
-       d="M -3.9107808,176.29198"
-       style="fill:none;stroke-width:0.26458332"
+       d="M 1.7018793,170.32264"
+       style="fill:none;stroke-width:0.28835642"
        id="path3986" />
     <g
        class="overlines-above"
@@ -5015,14 +5015,14 @@
     <path
        inkscape:connector-curvature="0"
        class="xlines-above crisp"
-       d="M 8.5292635,259.52978"
-       style="fill:none;stroke-width:0.11559174"
+       d="M 15.259676,259.00782"
+       style="fill:none;stroke-width:0.12597778"
        id="path21480" />
     <path
        inkscape:connector-curvature="0"
        class="ylines-above crisp"
-       d="M 8.5292635,259.52978"
-       style="fill:none;stroke-width:0.11559174"
+       d="M 15.259676,259.00782"
+       style="fill:none;stroke-width:0.12597778"
        id="path21482" />
     <g
        class="layer-subplot"
@@ -6384,14 +6384,14 @@
     <path
        inkscape:connector-curvature="0"
        class="xlines-above crisp"
-       d="M 70.781375,192.66472"
-       style="fill:none;stroke-width:0.11708232"
+       d="M 83.105211,186.13486"
+       style="fill:none;stroke-width:0.12760229"
        id="path7283" />
     <path
        inkscape:connector-curvature="0"
        class="ylines-above crisp"
-       d="M 70.781375,192.66472"
-       style="fill:none;stroke-width:0.11708232"
+       d="M 83.105211,186.13486"
+       style="fill:none;stroke-width:0.12760229"
        id="path7285" />
     <g
        class="overlines-above"
@@ -6457,14 +6457,14 @@
     <path
        inkscape:connector-curvature="0"
        class="xlines-above crisp"
-       d="M 64.180679,200.64025"
-       style="fill:none;stroke-width:0.11708232"
+       d="M 75.911435,194.827"
+       style="fill:none;stroke-width:0.12760229"
        id="path8038" />
     <path
        inkscape:connector-curvature="0"
        class="ylines-above crisp"
-       d="M 64.180679,200.64025"
-       style="fill:none;stroke-width:0.11708232"
+       d="M 75.911435,194.827"
+       style="fill:none;stroke-width:0.12760229"
        id="path8040" />
     <g
        class="overlines-above"
@@ -6561,58 +6561,58 @@
        transform="matrix(0.26458333,0,0,0.26458333,248.82321,423.21246)" />
     <text
        id="text38922"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
-       y="191.04558"
-       x="2.6400352">a)</text>
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
+       y="185.57295"
+       x="8.8412933">a)</text>
     <text
        class="ytitle"
        transform="rotate(-90)"
-       x="-237.73563"
-       y="2.7398334"
-       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11559174"
+       x="-235.25545"
+       y="8.9500589"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.12597778"
        id="text4156">v [kn]</text>
     <text
-       x="3.0631311"
-       y="225.71284"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
+       x="9.3024054"
+       y="223.00285"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
        id="text38924">d)</text>
     <text
-       x="37.464699"
-       y="190.96095"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
+       x="46.794991"
+       y="185.48073"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
        id="text38926">b)</text>
     <text
        id="text38928"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
-       y="226.20355"
-       x="37.642357">e)</text>
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
+       y="222.68719"
+       x="46.988613">e)</text>
     <text
        id="text38930"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
-       y="190.76506"
-       x="70.284828">c)</text>
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
+       y="185.26723"
+       x="82.564049">c)</text>
     <text
        class="xtitle"
-       x="84.727409"
-       y="256.17682"
-       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11559174"
+       x="98.304314"
+       y="255.35361"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.12597778"
        id="text3391">u [kn]</text>
     <text
-       x="70.38192"
-       y="225.63611"
-       style="font-size:2.64583349px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11559174"
+       x="82.669868"
+       y="222.06877"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12597778"
        id="text38932">f)</text>
     <text
        id="text41981"
-       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11559174"
-       y="256.17682"
-       x="51.853256"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.12597778"
+       y="255.35361"
+       x="62.476379"
        class="xtitle">u [kn]</text>
     <text
        class="xtitle"
-       x="18.177296"
-       y="256.17682"
-       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11559174"
+       x="25.774593"
+       y="255.35361"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.12597778"
        id="text41983">u [kn]</text>
     <g
        class="layer-subplot"
@@ -6628,7 +6628,7 @@
     <g
        class="gridlayer"
        id="g92702"
-       transform="matrix(0.11708232,0,0,0.11708232,31.040937,179.79701)">
+       transform="matrix(0.1276023,0,0,0.1276023,39.794049,172.11097)">
       <g
          class="x"
          id="g92692">
@@ -6690,7 +6690,7 @@
     <g
        class="zerolinelayer"
        id="g92708"
-       transform="matrix(0.11708232,0,0,0.11708232,31.040937,179.79701)">
+       transform="matrix(0.1276023,0,0,0.1276023,39.794049,172.11097)">
       <path
          inkscape:connector-curvature="0"
          class="xzl zl crisp"
@@ -6736,7 +6736,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,-18.709166,281.71696)" />
     <g
        class="plot"
-       transform="matrix(0.11708232,0,0,0.11708232,40.407523,191.50524)"
+       transform="matrix(0.1276023,0,0,0.1276023,50.002234,184.8712)"
        clip-path="url(#clipbf02a4xyplot)"
        id="g93034">
       <g
@@ -7733,54 +7733,54 @@
        id="g93042"
        transform="matrix(0.26458333,0,0,0.26458333,-18.709166,281.71696)" />
     <text
-       x="45.131714"
-       y="218.90221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="55.150898"
+       y="214.72983"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93044">−4</text>
     <text
-       x="50.828938"
-       y="218.90221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="61.360023"
+       y="214.72983"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93048">−2</text>
     <text
-       x="56.527336"
-       y="218.90221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="67.570435"
+       y="214.72983"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93052">0</text>
     <text
-       x="62.225731"
-       y="218.90221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="73.780838"
+       y="214.72983"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93056">2</text>
     <text
-       x="67.922958"
-       y="218.90221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="79.989967"
+       y="214.72983"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93060">4</text>
     <text
-       x="40.223621"
-       y="215.02327"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="49.801807"
+       y="210.50237"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93066">−4</text>
     <text
-       x="40.223621"
-       y="209.32487"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="49.801807"
+       y="204.29196"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93070">−2</text>
     <text
-       x="40.223621"
-       y="203.62646"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="49.801807"
+       y="198.08154"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93074">0</text>
     <text
-       x="40.223621"
-       y="197.92924"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="49.801807"
+       y="191.87242"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93078">2</text>
     <text
-       x="40.223621"
-       y="192.23085"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="49.801807"
+       y="185.66202"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93082">4</text>
     <g
        class="overaxes-above"
@@ -7810,7 +7810,7 @@
     <g
        class="gridlayer"
        id="g93598"
-       transform="matrix(0.11708232,0,0,0.11708232,-3.1055608,179.82139)">
+       transform="matrix(0.1276023,0,0,0.1276023,2.5794492,172.13754)">
       <g
          class="x"
          id="g93588">
@@ -7872,7 +7872,7 @@
     <g
        class="zerolinelayer"
        id="g93604"
-       transform="matrix(0.11708232,0,0,0.11708232,-3.1055608,179.82139)">
+       transform="matrix(0.1276023,0,0,0.1276023,2.5794492,172.13754)">
       <path
          inkscape:connector-curvature="0"
          class="xzl zl crisp"
@@ -7918,7 +7918,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,-164.55099,258.71217)" />
     <g
        class="plot"
-       transform="matrix(0.11708232,0,0,0.11708232,6.261028,191.52962)"
+       transform="matrix(0.1276023,0,0,0.1276023,12.787637,184.89777)"
        clip-path="url(#clipda1645xyplot)"
        id="g93930">
       <g
@@ -8927,54 +8927,54 @@
        id="g93938"
        transform="matrix(0.26458333,0,0,0.26458333,-164.55099,258.71217)" />
     <text
-       x="10.985216"
-       y="218.92659"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="17.936298"
+       y="214.75639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93940">−4</text>
     <text
-       x="16.682442"
-       y="218.92659"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="24.145426"
+       y="214.75639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93944">−2</text>
     <text
-       x="22.380838"
-       y="218.92659"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="30.355829"
+       y="214.75639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93948">0</text>
     <text
-       x="28.079233"
-       y="218.92659"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="36.566235"
+       y="214.75639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93952">2</text>
     <text
-       x="33.776459"
-       y="218.92659"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="42.77536"
+       y="214.75639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93956">4</text>
     <text
-       x="6.0771251"
-       y="215.04765"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="12.58721"
+       y="210.52893"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93962">−4</text>
     <text
-       x="6.0771251"
-       y="209.34926"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="12.58721"
+       y="204.31853"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93966">−2</text>
     <text
-       x="6.0771251"
-       y="203.65085"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="12.58721"
+       y="198.10811"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93970">0</text>
     <text
-       x="6.0771251"
-       y="197.95363"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="12.58721"
+       y="191.89899"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93974">2</text>
     <text
-       x="6.0771251"
-       y="192.25523"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="12.58721"
+       y="185.68858"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text93978">4</text>
     <g
        class="overaxes-above"
@@ -8993,9 +8993,9 @@
     <text
        class="ytitle"
        transform="rotate(-90)"
-       x="-204.58403"
-       y="2.4132524"
-       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11708232"
+       x="-199.12514"
+       y="8.5941343"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.12760229"
        id="text94132">v [kn]</text>
     <g
        id="g96718"
@@ -9019,7 +9019,7 @@
     <g
        class="gridlayer"
        id="g96748"
-       transform="matrix(0.11708232,0,0,0.11708232,63.916124,179.89701)">
+       transform="matrix(0.1276023,0,0,0.1276023,75.623109,172.21996)">
       <g
          class="x"
          id="g96738">
@@ -9081,7 +9081,7 @@
     <g
        class="zerolinelayer"
        id="g96754"
-       transform="matrix(0.11708232,0,0,0.11708232,63.916124,179.89701)">
+       transform="matrix(0.1276023,0,0,0.1276023,75.623109,172.21996)">
       <path
          inkscape:connector-curvature="0"
          class="xzl zl crisp"
@@ -9127,7 +9127,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,187.07899,276.59755)" />
     <g
        class="plot"
-       transform="matrix(0.11708232,0,0,0.11708232,73.282712,191.60524)"
+       transform="matrix(0.1276023,0,0,0.1276023,85.831296,184.98018)"
        clip-path="url(#clip332ae3xyplot)"
        id="g97080">
       <g
@@ -10124,54 +10124,54 @@
        id="g97088"
        transform="matrix(0.26458333,0,0,0.26458333,187.07899,276.59755)" />
     <text
-       x="78.006897"
-       y="219.00221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="90.979958"
+       y="214.83882"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97090">−4</text>
     <text
-       x="83.704124"
-       y="219.00221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="97.189087"
+       y="214.83882"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97094">−2</text>
     <text
-       x="89.402519"
-       y="219.00221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="103.39949"
+       y="214.83882"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97098">0</text>
     <text
-       x="95.100922"
-       y="219.00221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="109.60989"
+       y="214.83882"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97102">2</text>
     <text
-       x="100.79814"
-       y="219.00221"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="115.81903"
+       y="214.83882"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97106">4</text>
     <text
-       x="73.098808"
-       y="215.12328"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="85.630867"
+       y="210.61134"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97112">−4</text>
     <text
-       x="73.098808"
-       y="209.42487"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="85.630867"
+       y="204.40092"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97116">−2</text>
     <text
-       x="73.098808"
-       y="203.72647"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="85.630867"
+       y="198.19054"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97120">0</text>
     <text
-       x="73.098808"
-       y="198.02925"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="85.630867"
+       y="191.98141"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97124">2</text>
     <text
-       x="73.098808"
-       y="192.33086"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11708232"
+       x="85.630867"
+       y="185.77101"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.12760229"
        id="text97128">4</text>
     <g
        class="overaxes-above"
@@ -10189,7 +10189,7 @@
        style="display:inline"
        class="legendlines"
        id="g2939-5"
-       transform="matrix(0.19248847,0,0,0.19248847,16.187518,258.76338)">
+       transform="matrix(0.20978378,0,0,0.20978378,23.606034,258.17256)">
       <path
          inkscape:connector-curvature="0"
          class="js-line"
@@ -10201,7 +10201,7 @@
        style="display:inline"
        class="legendsymbols"
        id="g2945-4"
-       transform="matrix(0.19248847,0,0,0.19248847,16.187518,258.76338)">
+       transform="matrix(0.20978378,0,0,0.20978378,23.606034,258.17256)">
       <g
          class="legendpoints"
          id="g2943-0">
@@ -10216,15 +10216,15 @@
     </g>
     <text
        id="text2949-7"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.19248846"
-       y="259.66418"
-       x="23.603579"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.20978376"
+       y="259.15433"
+       x="31.688437"
        class="legendtext user-select-none">AWS</text>
     <g
        style="display:inline"
        class="legendlines"
        id="g2979-4"
-       transform="matrix(0.19248847,0,0,0.19248847,29.304888,258.76338)">
+       transform="matrix(0.20978378,0,0,0.20978378,37.902014,258.17256)">
       <path
          inkscape:connector-curvature="0"
          class="js-line"
@@ -10236,7 +10236,7 @@
        style="display:inline"
        class="legendsymbols"
        id="g2985-7"
-       transform="matrix(0.19248847,0,0,0.19248847,29.304888,258.76338)">
+       transform="matrix(0.20978378,0,0,0.20978378,37.902014,258.17256)">
       <g
          class="legendpoints"
          id="g2983-5">
@@ -10251,15 +10251,15 @@
     </g>
     <text
        id="text2989-2"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.19248846"
-       y="259.66418"
-       x="36.437469"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.20978376"
+       y="259.15433"
+       x="45.675465"
        class="legendtext user-select-none">Official</text>
     <g
        id="g3027-6"
        style="display:inline;opacity:1"
        class="layers"
-       transform="matrix(0.19248847,0,0,0.19248847,44.384449,258.88914)">
+       transform="matrix(0.20978378,0,0,0.20978378,54.336491,258.30962)">
       <g
          id="g3015"
          class="legendfill" />
@@ -10291,15 +10291,15 @@
     </g>
     <text
        id="text3029"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.19248846"
-       y="259.78995"
-       x="51.61153"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.20978376"
+       y="259.29138"
+       x="62.212933"
        class="legendtext user-select-none">ACCESS</text>
     <g
        id="g3067"
        style="display:inline;opacity:1"
        class="layers"
-       transform="matrix(0.19248847,0,0,0.19248847,60.975118,258.88914)">
+       transform="matrix(0.20978378,0,0,0.20978378,72.417851,258.30962)">
       <g
          id="g3055"
          class="legendfill" />
@@ -10331,22 +10331,22 @@
     </g>
     <text
        id="text3069"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.19248846"
-       y="259.78995"
-       x="68.296684"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.20978376"
+       y="259.29138"
+       x="80.39727"
        class="legendtext user-select-none">HRES</text>
     <text
        id="text110388"
-       style="font-size:2.32263064px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.19355254"
-       y="259.73911"
-       x="82.366295"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:start;white-space:pre;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.21094346"
+       y="259.23599"
+       x="95.731049"
        class="legendtext user-select-none">
       <tspan
-         style="font-size:2.29305553px;stroke-width:0.19355254"
+         style="font-size:2.29305553px;stroke-width:0.21094346"
          id="tspan113906">OCF</tspan>
     </text>
     <g
-       transform="matrix(0.19355254,0,0,0.19355254,75.002159,258.83329)"
+       transform="matrix(0.21094345,0,0,0.21094345,87.705237,258.24875)"
        id="g110402"
        style="display:inline;opacity:1"
        class="layers">
@@ -10381,65 +10381,65 @@
     </g>
     <text
        id="text20539-0"
-       style="font-weight:normal;font-size:2.64583333px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.18900891;"
-       y="187.75946"
-       x="35.761044"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.20599157"
+       y="181.63931"
+       x="44.938263"
        class="ytitle">
       <tspan
-         style="font-size:2.64583333px;stroke-width:0.18900891;"
+         style="font-size:2.64583349px;stroke-width:0.20599157"
          id="tspan103894">Brisbane Airport</tspan>
     </text>
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 26.748628,188.07376 H 44.663302"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.10898511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 35.951289,181.98185 H 53.83859"
        id="path112245"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        class="ytitle"
-       x="36.343403"
-       y="222.89537"
-       style="font-weight:normal;font-size:2.64583333px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.18900891;"
+       x="45.572945"
+       y="219.08177"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.20599157"
        id="text116485">
       <tspan
          id="tspan116483"
-         style="font-size:2.64583333px;stroke-width:0.18900891;">Hobart Airport</tspan>
+         style="font-size:2.64583349px;stroke-width:0.20599157">Hobart Airport</tspan>
     </text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path116487"
-       d="M 28.470939,223.20967 H 44.323363"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M 37.627899,219.42431 H 53.468107"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.10898511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        class="ytitle"
-       x="86.943161"
-       y="187.75946"
-       style="font-weight:normal;font-size:2.64583333px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.18900891;"
+       x="100.71915"
+       y="181.63931"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.20599157"
        id="text116491">
       <tspan
          id="tspan116489"
-         style="font-size:2.64583333px;stroke-width:0.18900891;">Spitfire Channel</tspan>
+         style="font-size:2.64583349px;stroke-width:0.20599157">Spitfire Channel</tspan>
     </text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path116493"
-       d="M 78.147407,188.07376 H 95.809634"
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="M 92.068532,181.98185 H 109.57909"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.10898511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        id="text116497"
-       style="font-weight:normal;font-size:2.64583333px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.18900891;"
-       y="222.89537"
-       x="87.258247"
+       style="font-weight:normal;font-size:2.64583349px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.20599157"
+       y="219.08177"
+       x="101.06255"
        class="ytitle">
       <tspan
-         style="font-size:2.64583333px;stroke-width:0.18900891;"
+         style="font-size:2.64583349px;stroke-width:0.20599157"
          id="tspan116495">Hobart</tspan>
     </text>
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 83.56187,223.20967 7.366616,0"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.10898511;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 97.364777,219.42431 h 7.497333"
        id="path116499"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -10492,7 +10492,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,96.614263,278.75239)" />
     <g
        id="g124971"
-       transform="translate(-33.141421,1.0690781)">
+       transform="matrix(1.0898511,0,0,1.0898511,-30.155166,-22.675857)">
       <g
          transform="matrix(0.11899386,0,0,0.11899386,30.558392,211.70092)"
          id="g117751"
@@ -11678,7 +11678,7 @@
        transform="matrix(0.26458333,0,0,0.26458333,-15.990944,272.71859)" />
     <g
        id="g125151"
-       transform="translate(34.477769,1.0690781)">
+       transform="matrix(1.0898511,0,0,1.0898511,43.539685,-22.675857)">
       <g
          transform="matrix(0.11899386,0,0,0.11899386,-3.6463812,211.67443)"
          id="g118638"
@@ -12853,7 +12853,7 @@
     <g
        class="gridlayer"
        id="g122137"
-       transform="matrix(0.11899386,0,0,0.11899386,63.608832,212.9301)">
+       transform="matrix(0.12968559,0,0,0.12968559,75.288207,208.22111)">
       <g
          class="x"
          id="g122125">
@@ -12908,7 +12908,7 @@
     <g
        class="zerolinelayer"
        id="g122143"
-       transform="matrix(0.11899386,0,0,0.11899386,63.608832,212.9301)">
+       transform="matrix(0.12968559,0,0,0.12968559,75.288207,208.22111)">
       <path
          inkscape:connector-curvature="0"
          class="xzl zl crisp"
@@ -12926,7 +12926,7 @@
     </g>
     <g
        class="plot"
-       transform="matrix(0.11899386,0,0,0.11899386,73.128341,224.82948)"
+       transform="matrix(0.12968559,0,0,0.12968559,85.663054,221.18966)"
        clip-path="url(#clipf838abxyplot)"
        id="g122469">
       <g
@@ -13915,49 +13915,49 @@
       </g>
     </g>
     <text
-       x="76.746941"
-       y="252.83698"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="89.606789"
+       y="251.71367"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122479">−2</text>
     <text
-       x="86.223618"
-       y="252.83698"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="99.934959"
+       y="251.71367"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122483">0</text>
     <text
-       x="95.699097"
-       y="252.83698"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="110.26182"
+       y="251.71367"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122487">2</text>
     <text
-       x="72.675262"
-       y="251.38892"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="250.13551"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122493">−2</text>
     <text
-       x="72.675262"
-       y="246.65059"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="244.97144"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122497">−1</text>
     <text
-       x="72.675262"
-       y="241.91225"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="239.80734"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122501">0</text>
     <text
-       x="72.675262"
-       y="237.17509"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="234.64455"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122505">1</text>
     <text
-       x="72.675262"
-       y="232.43677"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="229.48048"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122509">2</text>
     <text
-       x="72.675262"
-       y="227.69843"
-       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.11899386"
+       x="85.169266"
+       y="224.31639"
+       style="font-size:2.29305553px;font-family:'Times New Roman';text-anchor:end;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:0.1296856"
        id="text122513">3</text>
     <g
        class="overaxes-above"
