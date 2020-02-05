@@ -963,15 +963,15 @@ https://doi.org/10.1175/MWR2830.1
 @article{New1
 }
 
-@techreport{bom08,
+@techreport{bom05,
 	address = {Melbourne, Victoria},
 	author = {{Bureau of Meteorology}},
 	institution = {Bureau of Meteorology},
-	month = {May},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf}]},
-	number = {74},
-	title = {Analysis and Prediction Operations Bulletin No. 74},
-	year = {2008}
+	month = {March},
+	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob60.pdf}]},
+	number = {60},
+	title = {Analysis and Prediction Operations Bulletin No. 60},
+	year = 2005
 }
 
 @techreport{bom05,
@@ -999,15 +999,5 @@ https://doi.org/10.1175/MWR2830.1
 },
 	volume = {11},
 	year = {1972}
-}
-
-@techreport{bom18,
-	address = {Melbourne, Victoria},
-	author = {{Bureau of Meteorology}},
-	institution = {Bureau of Meteorology},
-	month = {January},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}]},
-	number = {113},
-	title = {BNOC Operations Bulletin Number 113}
 }
 

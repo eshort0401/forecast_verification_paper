@@ -1006,8 +1006,6 @@ https://doi.org/10.1175/MWR2830.1
 	author = {{Bureau of Meteorology}},
 	institution = {Bureau of Meteorology},
 	month = {January},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}]},
-	number = {113},
-	title = {BNOC Operations Bulletin Number 113}
+	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}
 }
 

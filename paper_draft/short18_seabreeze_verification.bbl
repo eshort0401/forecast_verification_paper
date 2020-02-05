@@ -1,4 +1,4 @@
-\begin{thebibliography}{29}
+\begin{thebibliography}{36}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \renewcommand{\UrlFont}{\rmfamily}
@@ -15,10 +15,25 @@ Abdalla, S., L.~Isaksen, P.~A. E.~M. Janssen, and N.~Wedi, 2013: Effective
   \doi{10.21957/rue4o7ac}, [Available online at
   \url{https://www.ecmwf.int/node/17358} - Accessed 11 December 2019].
 
-\bibitem[{Abkar et~al.(2016)Abkar, Sharifi,, and Porté-Agel}]{abkar16}
-Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
+\bibitem[{Abkar et~al.(2016)Abkar, Sharifi,, and Port{\'e}-Agel}]{abkar16}
+Abkar, M., A.~Sharifi, and F.~Port{\'e}-Agel, 2016: Wake flow in a wind farm
   during a diurnal cycle. \textit{Journal of Turbulence}, \textbf{17~(4)},
   420--441, \doi{10.1080/14685248.2015.1127379}.
+
+\bibitem[{{Bureau of Meteorology}()}]{bom18}
+{Bureau of Meteorology}, ????: Bnoc operations bulletin number 113. Tech. Rep.
+  113, Bureau of Meteorology, Melbourne, Victoria. [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}].
+
+\bibitem[{{Bureau of Meteorology}(2005)}]{bom05}
+{Bureau of Meteorology}, 2005: Analysis and prediction operations bulletin no.
+  60. Tech. Rep.~60, Bureau of Meteorology, Melbourne, Victoria. [Available
+  online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob60.pdf}].
+
+\bibitem[{{Bureau of Meteorology}(2008)}]{bom08}
+{Bureau of Meteorology}, 2008: Analysis and prediction operations bulletin no.
+  74. Tech. Rep.~74, Bureau of Meteorology, Melbourne, Victoria. [Available
+  online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf}].
 
 \bibitem[{{Bureau of Meteorology}(2010)}]{bom10}
 {Bureau of Meteorology}, 2010: Operational implementation of the {ACCESS}
@@ -26,6 +41,11 @@ Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
   83, {Bureau of Meteorology}, Melbourne, Victoria. [Available online at
   \url{http://www.bom.gov.au/nwp/doc/bulletins/apob83.pdf} - Accessed 11
   December 2019].
+
+\bibitem[{{Bureau of Meteorology}(2012)}]{bom12}
+{Bureau of Meteorology}, 2012: {NMOC} operations bulletin number 91. Tech.
+  Rep.~91, Bureau of Meteorology, Melbourne, Victoria. [Available online at
+  \url{http://www.bom.gov.au/australia/charts/bulletins/apob91.pdf}].
 
 \bibitem[{{Bureau of Meteorology}(2016)}]{bom16}
 {Bureau of Meteorology}, 2016: {APS2} upgrade to the {ACCESS-R} numerical
@@ -35,9 +55,9 @@ Abkar, M., A.~Sharifi, and F.~Porté-Agel, 2016: Wake flow in a wind farm
   Accessed 11 December 2019].
 
 \bibitem[{{Bureau of Meteorology}(2019{\natexlab{a}})}]{shortData19}
-{Bureau of Meteorology}, 2019{\natexlab{a}}: {Datasets used in "Verifying
-  Operational Forecasts of Land-Sea Breeze and Boundary Layer Mixing
-  Processes"}. {Zenodo}, [Available online at
+{Bureau of Meteorology}, 2019{\natexlab{a}}: Datasets used in "verifying
+  operational forecasts of land-sea breeze and boundary layer mixing
+  processes". {Zenodo}, [Available online at
   \url{http://doi.org/10.5281/zenodo.3570002} - Accessed 11 December 2019],
   \doi{10.5281/zenodo.3570002}.
 
@@ -60,6 +80,13 @@ Ebert, E.~E., 2008: Fuzzy verification of high-resolution gridded forecasts: a
 Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
   Annals of Statistics}, \textbf{7~(1)}, 1--26, \doi{10.1214/aos/1176344552}.
 
+\bibitem[{Engel and Ebert(2007)Engel, and Ebert}]{engel07}
+Engel, C., and E.~Ebert, 2007: Performance of hourly operational consensus
+  forecasts (ocfs) in the australian region. \textit{Weather and Forecasting},
+  \textbf{22~(6)}, 1345--1359, \doi{10.1175/2007WAF2006104.1},
+  \urlprefix\url{https://doi.org/10.1175/2007WAF2006104.1},
+  \eprint{https://doi.org/10.1175/2007WAF2006104.1}.
+
 \bibitem[{Englberger and D{\"o}rnbrack(2018)Englberger, and
   D{\"o}rnbrack}]{englberger18}
 Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
@@ -74,10 +101,18 @@ Englberger, A., and A.~D{\"o}rnbrack, 2018: Impact of the diurnal cycle of the
   for Medium Range Weather Forecasting}, [Available online at
   \url{https://www.ecmwf.int/node/18714} - Accessed 11 December 2019].
 
-\bibitem[{Gille et~al.(2005)Gille, Llewellyn~Smith,, and Statom}]{gille05}
-Gille, S.~T., S.~G. Llewellyn~Smith, and N.~M. Statom, 2005: Global
+\bibitem[{Gille et~al.(2005)Gille, {Llewellyn Smith},, and Statom}]{gille05}
+Gille, S.~T., S.~G. {Llewellyn Smith}, and N.~M. Statom, 2005: Global
   observations of the land breeze. \textit{{Geophysical Research Letters}},
   \textbf{32~(5)}, \doi{10.1029/2004GL022139}.
+
+\bibitem[{Glahn and Lowry(1972)Glahn, and Lowry}]{glahn72}
+Glahn, H.~R., and D.~A. Lowry, 1972: The use of model output statistics (mos)
+  in objective weather forecasting. \textit{Journal of Applied Meteorology},
+  \textbf{11~(8)}, 1203--1211,
+  \doi{10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2},
+  \urlprefix\url{https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;
+  2}, \eprint{https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2}.
 
 \bibitem[{Griffiths et~al.(2017)Griffiths, Jack, Foley, Ioannou,, and
   Liu}]{griffiths17}
@@ -141,7 +176,7 @@ Short, E., 2019: eshort0401/forecast\_verification\_paper. {GitHub}, [Available
 
 \bibitem[{Skamarock(2004)}]{skamarock04}
 Skamarock, W.~C., 2004: Evaluating mesoscale {NWP} models using kinetic energy
-  spectra. \textit{Monthly Weather Review}, \textbf{132~(12)}, 3019–3032,
+  spectra. \textit{Monthly Weather Review}, \textbf{132~(12)}, 3019--3032,
   \doi{10.1175/MWR2830.1}, \urlprefix\url{https://doi.org/10.1175/MWR2830.1},
   \eprint{https://doi.org/10.1175/MWR2830.1}.
 
@@ -160,6 +195,12 @@ Vincent, C.~L., and T.~P. Lane, 2016: Evolution of the diurnal precipitation
 \bibitem[{Wilks(2011)}]{wilks11}
 Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences}.
   International geophysics series: v. 100, Elsevier.
+
+\bibitem[{Woodcock and Engel(2005)Woodcock, and Engel}]{woodcock05}
+Woodcock, F., and C.~Engel, 2005: Operational consensus forecasts.
+  \textit{Weather and Forecasting}, \textbf{20~(1)}, 101--111,
+  \doi{10.1175/WAF-831.1}, \urlprefix\url{https://doi.org/10.1175/WAF-831.1},
+  \eprint{https://doi.org/10.1175/WAF-831.1}.
 
 \bibitem[{Zaron and Egbert(2006)Zaron, and Egbert}]{zaron06}
 Zaron, E.~D., and G.~D. Egbert, 2006: Estimating open-ocean barotropic tidal
