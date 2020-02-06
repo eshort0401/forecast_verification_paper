@@ -1,7 +1,15 @@
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{schematic.pdf}
+\caption{Illustration of method for calculating the \textit{difference of absolute errors} (DEA) in the diurnal signal of an unedited model guidance dataset, and the human edited official forecast dataset.}
+\label{Fig:schematic}
+\end{figure}
+\efloatseparator
+ 
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{map.pdf}
-\caption{Locations of the automatic weather stations considered in this study, where stars give the locations of the capital city \textit{airport stations}. Stations are divided into the Darwin, Perth, Adelaide, Melbourne, Hobart, Canberra, Sydney and Brisbane \textit{city station groups}, a) to h), respectively, and the \textit{coastal station groups}, i).  Height and depth shading intervals every 200 and 1000 m, respectively.}
+\caption{Locations of the automatic weather stations, and the groupings of these stations, considered in this study. The \textit{coastal station groups} are indicated in a), with the \textit{airport stations} shown by stars. The Perth, Adelaide, Melbourne, Hobart, Darwin, Brisbane and Sydney \textit{city station groups} are shown shown by b) to h), respectively.}
 \label{Fig:map}
 \end{figure*}
 \efloatseparator
@@ -9,7 +17,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{wpi_coastal_new_colours.pdf}
-\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), HRES versus ACCESS, e) and f). Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kn closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kn $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
+\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), and official forecast versus OCF, e) and f). Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kn closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kn $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
 \label{Fig:wpi_coastal}
 \end{figure*}
 \efloatseparator
@@ -17,7 +25,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{case_studies_nt.pdf}
-\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for the official forecast versus ACCESS, $\text{DAE}_\text{OA}$, and official forecast versus HRES, $\text{DAE}_\text{OH}$, for the NT coastal station group shown in Fig.~\ref{Fig:map} at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
+\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for the official forecast versus ACCESS, $\text{DAE}_\text{A}$, official forecast versus HRES, $\text{DAE}_\text{H}$, and official forecast versus OCF, $\text{DAE}_\text{O}$ comparisons, for the Northern Territory (NT) coastal station group shown in Fig.~\ref{Fig:map} at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
 \label{Fig:case_studies_nt}
 \end{figure}
 \efloatseparator
@@ -40,7 +48,15 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{airport_wpi.pdf}
+\includegraphics[width=39pc]{airport_wpi_new_city.pdf}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
+\label{Fig:city_wpi}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{airport_wpi_new_airports.pdf}
 \caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
 \label{Fig:airport_wpi}
 \end{figure*}
@@ -48,16 +64,7 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{airport_wpi_EA.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the HRES versus ACCESS mean difference in absolute error $\overline{\text{DAE}}_\text{HA}$ values and confidence scores.
-}
-\label{Fig:airport_wpi_EA}
-\end{figure*}
-\efloatseparator
- 
-\begin{figure*}
-\centering
-\includegraphics[width=39pc]{cwpi_coastal.pdf}
+\includegraphics[width=39pc]{cwpi_coastal_reformed.pdf}
 \caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the difference of biases (DB) values and confidence scores.}
 \label{Fig:cwpi_coastal}
 \end{figure*}
@@ -65,17 +72,33 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=33pc]{clim_hodo_alt.pdf}
-\caption{Temporal hodographs in hours UTC of wind perturbations spatially averaged over the, a), NT, b) South WA, c) NSW and d), SA coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
+\includegraphics[width=39pc]{darwin_hodo.pdf}
+\caption{Temporal hodographs in hours UTC of wind perturbations at, a), Darwin Airport, and b), spatially averaged over the Darwin city station group, and c), the NT coastal group (see Fig.~\ref{Fig:map}), then temporally averaged over June, July and August 2018.}
+\label{Fig:darwin_hodo}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{clim_hodo_alt.pdf}
+\caption{Temporal hodographs in hours UTC of wind perturbations spatially averaged over the, a), South Western Australia (WA), and b), South Australia (SA) coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
 \label{Fig:clim_hodo}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{cwpi_city.pdf}
+\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:cwpi_city}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{airport_cwpi.pdf}
+\includegraphics[width=39pc]{cwpi_airport.pdf}
 \caption{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}
-\label{Fig:airport_cwpi}
+\label{Fig:cwpi_airport}
 \end{figure*}
 \efloatseparator
  
@@ -97,7 +120,7 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{ellipse_hodo.pdf}
+\includegraphics[width=33pc]{ellipse_hodo.pdf}
 \caption{Temporal hodographs of wind perturbations at each hour UTC averaged over June, July and August 2018, at Brisbane and Hobart airports, a) and d), and the associated ellipse fits, b) and e). For comparison, c) and f) provide the hodographs of the averaged perturbations at the Spitfire Channel and Hobart city stations, respectively (see Fig.~\ref{Fig:map}).}
 \label{Fig:ellipse_hodo}
 \end{figure*}
