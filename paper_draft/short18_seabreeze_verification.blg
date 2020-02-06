@@ -3,48 +3,55 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: short18_seabreeze_verification.aux
 The style file: ametsoc2014.bst
 Database file #1: ./references.bib.bib
+Warning--I didn't find a database entry for "woodcock05"
+Warning--I didn't find a database entry for "engel07"
+Warning--I didn't find a database entry for "bom05"
+Warning--I didn't find a database entry for "bom08"
+Warning--I didn't find a database entry for "bom12"
+Warning--I didn't find a database entry for "bom18"
+Warning--I didn't find a database entry for "glahn72"
+Warning--I didn't find a database entry for "short20"
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--empty journal in abdalla13
-Warning--empty year in bom18; set to ????
-You've used 36 entries,
+You've used 29 entries,
             3493 wiz_defined-function locations,
-            1103 strings with 14193 characters,
-and the built_in function-call counts, 31792 in all, are:
-= -- 3677
-> -- 823
-< -- 35
-+ -- 484
-- -- 210
-* -- 1674
-:= -- 3429
-add.period$ -- 79
-call.type$ -- 36
-change.case$ -- 262
-chr.to.int$ -- 35
-cite$ -- 38
-duplicate$ -- 3315
-empty$ -- 1921
-format.name$ -- 290
-if$ -- 6482
+            1067 strings with 12947 characters,
+and the built_in function-call counts, 25316 in all, are:
+= -- 2853
+> -- 707
+< -- 24
++ -- 414
+- -- 180
+* -- 1349
+:= -- 2769
+add.period$ -- 61
+call.type$ -- 29
+change.case$ -- 213
+chr.to.int$ -- 28
+cite$ -- 30
+duplicate$ -- 2604
+empty$ -- 1559
+format.name$ -- 244
+if$ -- 5193
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 366
-newline$ -- 119
-num.names$ -- 144
-pop$ -- 1185
+missing$ -- 292
+newline$ -- 98
+num.names$ -- 116
+pop$ -- 995
 preamble$ -- 1
-purify$ -- 213
+purify$ -- 175
 quote$ -- 0
-skip$ -- 1960
+skip$ -- 1492
 stack$ -- 0
-substring$ -- 1489
-swap$ -- 2575
-text.length$ -- 7
+substring$ -- 1145
+swap$ -- 2001
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 315
-warning$ -- 2
-while$ -- 170
+type$ -- 252
+warning$ -- 1
+while$ -- 126
 width$ -- 0
-write$ -- 453
-(There were 2 warnings)
+write$ -- 359
+(There were 9 warnings)

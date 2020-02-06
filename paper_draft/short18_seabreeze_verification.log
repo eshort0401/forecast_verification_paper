@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  6 FEB 2020 12:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  7 FEB 2020 09:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,23 +538,23 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 pdfTeX warning: pdflatex (file ./cwpi_airport.pdf): PDF inclusion: multiple pdf
 s with page group included in a single page
->]
+>] [14 <./r_squared.pdf>]
+Underfull \vbox (badness 1033) has occurred while \output is active []
 
-LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 14 undefined on input lin
-e 403.
 
-[14 <./r_squared.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7869) has occurred while \output is active []
 
  [15 <./ellipse_fits.pdf>]
-Underfull \hbox (badness 3769) in paragraph at lines 426--427
+
+Package natbib Warning: Citation `short20' on page 16 undefined on input line 4
+18.
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 421--422
 \OT1/ptm/m/n/9.85 vided for Ewan Short by the Aus-tralian Re-search
  []
 
-(./short18_seabreeze_verification.bbl
-Underfull \vbox (badness 2237) has occurred while \output is active []
-
- [16 <./ellipse_hodo.pdf>]
+(./short18_seabreeze_verification.bbl [16 <./ellipse_hodo.pdf>]
 Underfull \hbox (badness 1721) in paragraph at lines 24--27
 []\OT1/ptm/m/n/8 Bureau of Me-te-o-rol-ogy, ????: Bnoc op-er-a-tions bul-letin 
 num-ber
@@ -618,31 +618,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--156
 d + information +
  []
 
-) [18] (./short18_seabreeze_verification.aux)
+)
 
-LaTeX Warning: There were undefined references.
+Package natbib Warning: There were undefined citations.
 
- ) 
+[18] (./short18_seabreeze_verification.aux) ) 
 Here is how much of TeX's memory you used:
  4085 strings out of 492982
- 54162 string characters out of 6134897
+ 54151 string characters out of 6134897
  136872 words of memory out of 5000000
  7503 multiletter control sequences out of 15000+600000
  71103 words of font info for 156 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,37p,1697b,367s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usy
-r.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (18 pages, 1384609 bytes).
+{/usr/share/texlive/texmf-dist/fon
+ts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on short18_seabreeze_verification.pdf (18 pages, 1384560 bytes).
 
 PDF statistics:
  1526 PDF objects out of 1728 (max. 8388607)
