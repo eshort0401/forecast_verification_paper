@@ -282,7 +282,6 @@
 	month = {September},
 	note = {[Available online at \url{http://www.bom.gov.au/nwp/doc/bulletins/apob83.pdf} - Accessed 11 December 2019]},
 	number = {NMOC Operations Bulletin No. 83},
-	number2 = {83},
 	title = {Operational implementation of the {ACCESS} numerical weather prediction systems},
 	year = {2010}
 }
@@ -916,6 +915,41 @@ https://doi.org/10.1175/MWR2830.1
 	year = {1995}
 }
 
+@misc{short20,
+	author = {Short, Ewan},
+	month = {February},
+	note = {[Available online at \url{https://github.com/eshort0401/forecast_verification_paper/blob/master/code/DAE%20Synthetic%20Data%20Tests.ipynb - Accessed 7 February 2020}]},
+	title = {DAE Synthetic Data Tests},
+	year = {2020}
+}
+
+@techreport{bom12,
+	address = {Melbourne, Victoria},
+	author = {{Bureau of Meteorology}},
+	institution = {Bureau of Meteorology},
+	month = {June},
+	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob91.pdf} - Accessed 4 February 2020]},
+	number = {91},
+	title = {{NMOC} Operations Bulletin Number 91},
+	year = {2012}
+}
+
+@article{glahn72,
+	abstract = { Abstract Model Output Statistics (MOS) is an objective weather forecasting technique which consists of determining a statistical relationship between a predictand and variables forecast by a numerical model at some projection time(s). It is, in effect, the determination of the ``weather related'' statistics of a numerical model. This technique, together with screening regression, has been applied to the prediction of surface wind, probability of precipitation, maximum temperature, cloud amount, and conditional probability of frozen precipitation. Predictors used include surface observations at initial time and predictions from the Subsynoptic Advection Model (SAM) and the Primitive Equation model used operationally by the National Weather Service. Verification scores have been computed, and, where possible, compared to scores for forecasts from other objective techniques and for the official forecasts. MOS forecasts of surface wind, probability of precipitation, and conditional probability of frozen precipitation are being disseminated by the National Weather Service over teletype and facsimile. It is concluded that MOS is a useful technique in objective weather forecasting. },
+	author = {Glahn, Harry R. and Lowry, Dale A.},
+	doi = {10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2},
+	eprint = {https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2 },
+	journal = {Journal of Applied Meteorology},
+	number = {8},
+	pages = {1203--1211},
+	title = {The Use of Model Output Statistics (MOS) in Objective Weather Forecasting},
+	url = { 
+        https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO; 2
+},
+	volume = {11},
+	year = {1972}
+}
+
 @article{engel07,
 	abstract = { Abstract This paper presents an extension of the operational consensus forecast (OCF) method, which performs a statistical correction of model output at sites followed by weighted average consensus on a daily basis. Numerical weather prediction (NWP) model forecasts are received from international centers at various temporal resolutions. As such, in order to extend the OCF methodology to hourly temporal resolution, a method is described that blends multiple models regardless of their temporal resolution. The hourly OCF approach is used to generate forecasts of 2-m air temperature, dewpoint temperature, RH, mean sea level pressure derived from the barometric pressure at the station location (QNH), along with 10-m wind speed and direction for 283 Australian sites. In comparison to a finescale hourly regional model, the hourly OCF process results in reductions in average mean square error of 47\% (air temperature), 40\% (dewpoint temperature), 43\% (RH), 29\% (QNH), 42\% (wind speed), and 11\% (wind direction) during February--March with slightly higher reductions in May. As part of the development of the approach, the systematic and random natures of hourly NWP forecast errors are evaluated and found to vary with forecast hour, with a diurnal modulation overlaying the normal error growth with time. The site-based statistical correction of the model forecasts is found to include simple statistical downscaling. As such, the method is found to be most appropriate for meteorological variables that vary systematically with spatial resolution. },
 	author = {Engel, Chermelle and Ebert, Elizabeth},
@@ -949,29 +983,18 @@ https://doi.org/10.1175/MWR2830.1
 	year = {2005}
 }
 
-@techreport{bom12,
-	address = {Melbourne, Victoria},
-	author = {{Bureau of Meteorology}},
-	institution = {Bureau of Meteorology},
-	month = {June},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob91.pdf}]},
-	number = {91},
-	title = {{NMOC} Operations Bulletin Number 91},
-	year = {2012}
-}
-
-@article{New1
-}
-
 @techreport{bom08,
 	address = {Melbourne, Victoria},
 	author = {{Bureau of Meteorology}},
 	institution = {Bureau of Meteorology},
 	month = {May},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf}]},
+	note = {{[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf} - Accessed 4 February 2020]}},
 	number = {74},
 	title = {Analysis and Prediction Operations Bulletin No. 74},
 	year = {2008}
+}
+
+@article{New1
 }
 
 @techreport{bom05,
@@ -979,33 +1002,8 @@ https://doi.org/10.1175/MWR2830.1
 	author = {{Bureau of Meteorology}},
 	institution = {Bureau of Meteorology},
 	month = {March},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob60.pdf}]},
-	number = 60,
+	note = {{[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf} - Accessed 4 February 2020]}},
 	title = {Analysis and Prediction Operations Bulletin No. 60},
-	year = 2005
-}
-
-@article{glahn72,
-	abstract = { Abstract Model Output Statistics (MOS) is an objective weather forecasting technique which consists of determining a statistical relationship between a predictand and variables forecast by a numerical model at some projection time(s). It is, in effect, the determination of the ``weather related'' statistics of a numerical model. This technique, together with screening regression, has been applied to the prediction of surface wind, probability of precipitation, maximum temperature, cloud amount, and conditional probability of frozen precipitation. Predictors used include surface observations at initial time and predictions from the Subsynoptic Advection Model (SAM) and the Primitive Equation model used operationally by the National Weather Service. Verification scores have been computed, and, where possible, compared to scores for forecasts from other objective techniques and for the official forecasts. MOS forecasts of surface wind, probability of precipitation, and conditional probability of frozen precipitation are being disseminated by the National Weather Service over teletype and facsimile. It is concluded that MOS is a useful technique in objective weather forecasting. },
-	author = {Glahn, Harry R. and Lowry, Dale A.},
-	doi = {10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2},
-	eprint = {https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2 },
-	journal = {Journal of Applied Meteorology},
-	number = {8},
-	pages = {1203--1211},
-	title = {The Use of Model Output Statistics (MOS) in Objective Weather Forecasting},
-	url = { 
-        https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO; 2
-},
-	volume = {11},
-	year = {1972}
-}
-
-@techreport{bom18,
-	address = {Melbourne, Victoria},
-	author = {{Bureau of Meteorology}},
-	institution = {Bureau of Meteorology},
-	month = {January},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}
+	year = {2005}
 }
 

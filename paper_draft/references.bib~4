@@ -282,7 +282,6 @@
 	month = {September},
 	note = {[Available online at \url{http://www.bom.gov.au/nwp/doc/bulletins/apob83.pdf} - Accessed 11 December 2019]},
 	number = {NMOC Operations Bulletin No. 83},
-	number2 = {83},
 	title = {Operational implementation of the {ACCESS} numerical weather prediction systems},
 	year = {2010}
 }
@@ -916,37 +915,12 @@ https://doi.org/10.1175/MWR2830.1
 	year = {1995}
 }
 
-@article{engel07,
-	abstract = { Abstract This paper presents an extension of the operational consensus forecast (OCF) method, which performs a statistical correction of model output at sites followed by weighted average consensus on a daily basis. Numerical weather prediction (NWP) model forecasts are received from international centers at various temporal resolutions. As such, in order to extend the OCF methodology to hourly temporal resolution, a method is described that blends multiple models regardless of their temporal resolution. The hourly OCF approach is used to generate forecasts of 2-m air temperature, dewpoint temperature, RH, mean sea level pressure derived from the barometric pressure at the station location (QNH), along with 10-m wind speed and direction for 283 Australian sites. In comparison to a finescale hourly regional model, the hourly OCF process results in reductions in average mean square error of 47\% (air temperature), 40\% (dewpoint temperature), 43\% (RH), 29\% (QNH), 42\% (wind speed), and 11\% (wind direction) during February--March with slightly higher reductions in May. As part of the development of the approach, the systematic and random natures of hourly NWP forecast errors are evaluated and found to vary with forecast hour, with a diurnal modulation overlaying the normal error growth with time. The site-based statistical correction of the model forecasts is found to include simple statistical downscaling. As such, the method is found to be most appropriate for meteorological variables that vary systematically with spatial resolution. },
-	author = {Engel, Chermelle and Ebert, Elizabeth},
-	doi = {10.1175/2007WAF2006104.1},
-	eprint = {https://doi.org/10.1175/2007WAF2006104.1 },
-	journal = {Weather and Forecasting},
-	number = {6},
-	pages = {1345--1359},
-	title = {Performance of Hourly Operational Consensus Forecasts (OCFs) in the Australian Region},
-	url = { 
-        https://doi.org/10.1175/2007WAF2006104.1    
-},
-	volume = {22},
-	year = {2007}
-}
-
-@article{woodcock05,
-	abstract = { Abstract The objective consensus forecasting (OCF) system is an automated operational forecasting system that adapts to underlying numerical model upgrades within 30 days and generally outperforms direct model output (DMO) and model output statistics (MOS) forecasts. It employs routinely available DMO and MOS guidance combined after bias correction using a mean absolute error (MAE)-weighted average algorithm. OCF generates twice-daily forecasts of screen-level temperature maxima and minima, ground-level temperature minima, evaporation, sunshine hours, and rainfall and its probability for day 0 to day 6 for up to 600 Australian sites. Extensive real-time trials of temperature forecasts yielded MAEs at days 0--2 about 40\% lower than those from its component MOS and DMO forecasts. MAEs were also lower at day 1 than matching official forecasts of maxima and minima by 8\% and 10\% and outperformed official forecasts at over 71\% and 75\% of sites, respectively. MAEs of weighted average consensus outperformed simple average forecasts by about 5\%. },
-	author = {Woodcock, Frank and Engel, Chermelle},
-	doi = {10.1175/WAF-831.1},
-	eprint = {https://doi.org/10.1175/WAF-831.1 },
-	journal = {Weather and Forecasting},
-	number = {1},
-	pages = {101--111},
-	title = {Operational Consensus Forecasts},
-	url = { 
-        https://doi.org/10.1175/WAF-831.1
-    
-},
-	volume = {20},
-	year = {2005}
+@misc{short20,
+	author = {Short, Ewan},
+	month = {February},
+	note = {[Available online at \url{https://github.com/eshort0401/forecast_verification_paper/blob/master/code/DAE%20Synthetic%20Data%20Tests.ipynb - Accessed 7 February 2020}]},
+	title = {DAE Synthetic Data Tests},
+	year = {2020}
 }
 
 @techreport{bom12,
@@ -955,31 +929,8 @@ https://doi.org/10.1175/MWR2830.1
 	institution = {Bureau of Meteorology},
 	month = {June},
 	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob91.pdf}]},
-	number = {91},
 	title = {{NMOC} Operations Bulletin Number 91},
 	year = {2012}
-}
-
-@article{New1
-}
-
-@techreport{bom08,
-	address = {Melbourne, Victoria},
-	author = {{Bureau of Meteorology}},
-	institution = {Bureau of Meteorology},
-	month = {May},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/APOB74.pdf}
-}
-
-@techreport{bom05,
-	address = {Melbourne, Victoria},
-	author = {{Bureau of Meteorology}},
-	institution = {Bureau of Meteorology},
-	month = {March},
-	note = {[Available online at \url{http://www.bom.gov.au/australia/charts/bulletins/apob60.pdf}]},
-	number = 60,
-	title = {Analysis and Prediction Operations Bulletin No. 60},
-	year = 2005
 }
 
 @article{glahn72,
