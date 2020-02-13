@@ -1,7 +1,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{schematic.pdf}
-\caption{Illustration of method for calculating the \textit{difference of absolute errors} (DAE) in the diurnal signal of an unedited model guidance dataset, and the human edited official forecast dataset.}
+\caption{Illustration of the method for calculating the \textit{difference of absolute errors} (DAE) in the diurnal signals of an unedited model guidance dataset, and the human edited official forecast dataset, when compared with automatic weather station (AWS) observations, at an example time of 12:00 UTC.}
 \label{Fig:schematic}
 \end{figure}
 \efloatseparator
@@ -16,9 +16,9 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{wpi_coastal_new_colours.pdf}
-\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), and official forecast versus OCF, e) and f), comparisons. Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kt closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kt $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
-\label{Fig:wpi_coastal}
+\includegraphics[width=39pc]{coastal_DAE.pdf}
+\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for the \textit{coastal station groups} (see Fig.~\ref{Fig:map}). Results given for each hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), and official forecast versus OCF, e) and f), comparisons. Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kt closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kt $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
+\label{Fig:coastal_DAE}
 \end{figure*}
 \efloatseparator
  
@@ -40,47 +40,47 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=33pc]{perth_sounding.pdf}
+\includegraphics[width=33pc]{soundings.pdf}
 \caption{Vertical wind soundings at, a), Darwin Airport, and b), Perth Airport, with heights given in metres.}
-\label{Fig:perth_sounding}
+\label{Fig:soundings}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{airport_wpi_new_city.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official forecast versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
-\label{Fig:city_wpi}
+\includegraphics[width=39pc]{city_DAE.pdf}
+\caption{As in Fig.~\ref{Fig:coastal_DAE}, but for the official forecast versus HRES comparison a) and b), and the official forecast versus OCF comparison, c) and d), for the \textit{city station groups} (see Fig.~\ref{Fig:map}.)}
+\label{Fig:city_DAE}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{airport_wpi_new_airports.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official forecast versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
-\label{Fig:airport_wpi}
+\includegraphics[width=39pc]{airport_DAE.pdf}
+\caption{As in Fig.~\ref{Fig:coastal_DAE}, but for the official forecast versus HRES comparison a) and b), and the official forecast versus OCF comparison, c) and d), for the \textit{airport stations} (see Fig.~\ref{Fig:map}.)}
+\label{Fig:airport_DAE}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{cwpi_coastal_reformed.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the difference of biases (DB) values and confidence scores.}
-\label{Fig:cwpi_coastal}
+\includegraphics[width=39pc]{DB_coastal.pdf}
+\caption{As in Fig.~\ref{Fig:coastal_DAE}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:DB_coastal}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{darwin_hodo.pdf}
-\caption{Temporal hodographs in hours UTC of wind perturbations at, a), Darwin Airport, and b), spatially averaged over the Darwin city station group, and c), the NT coastal group (see Fig.~\ref{Fig:map}), then temporally averaged over June, July and August 2018.}
+\caption{Temporal hodographs in hours UTC of wind perturbations at, a), Darwin Airport, b), spatially averaged over the Darwin city station group, and c), the NT coastal group (see Fig.~\ref{Fig:map}), then temporally averaged over June, July and August 2018.}
 \label{Fig:darwin_hodo}
 \end{figure*}
 \efloatseparator
  
 \begin{figure}
 \centering
-\includegraphics[width=19pc]{clim_hodo_alt.pdf}
+\includegraphics[width=19pc]{clim_hodo.pdf}
 \caption{Temporal hodographs in hours UTC of diurnal wind perturbations spatially averaged over the, a), South Western Australia (WA), and b), South Australia (SA) coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
 \label{Fig:clim_hodo}
 \end{figure}
@@ -88,17 +88,17 @@
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{cwpi_city.pdf}
-\caption{As in Fig.~\ref{Fig:city_wpi}, but for the difference of biases (DB) values and confidence scores.}
-\label{Fig:cwpi_city}
+\includegraphics[width=39pc]{DB_city.pdf}
+\caption{As in Fig.~\ref{Fig:city_DAE}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:DB_city}
 \end{figure*}
 \efloatseparator
  
 \begin{figure*}
 \centering
-\includegraphics[width=39pc]{cwpi_airport.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}
-\label{Fig:cwpi_airport}
+\includegraphics[width=39pc]{DB_airport.pdf}
+\caption{As in Fig.~\ref{Fig:airport_DAE}, but for the difference of biases (DB) values and confidence scores.}
+\label{Fig:DB_airport}
 \end{figure*}
 \efloatseparator
  
@@ -129,7 +129,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{error_decomp_bris.pdf}
-\caption{Mean square error between the AWS and HRES zonal perturbations $\overline{\left(u_\text{AWS} - u_\text{H}\right)^2}$, a), e), and i), decomposed into the error variance $\var\left(u_\text{AWS} - u_\text{H}\right)$ and squared bias $\left(\overline{u}_\text{AWS} - \overline{u}_\text{H}\right)^2$ terms of equation (\ref{Eq:MSE}). Also, the decomposed mean square error between the AWS and official forecast zonal perturbations, b), f) and j). Additionally, the HRES and AWS error variance term $\var\left(u_\text{AWS} - u_\text{H}\right)$ decomposed into the $\var\left(u_\text{AWS}\right)$, $\var\left(u_\text{H}\right)$ and  $- 2 \cdot \cov\left(u_\text{AWS}, u_\text{H}\right)$ terms, c), g) and k), and analogously for the official forecast and AWS error variance term $\var\left(u_\text{AWS} - u_\text{O}\right)$, d), h) and l). Decompositions given for Brisbane Airport, a) to d), the Brisbane city station group, e) to h), and the Queensland coastal station group, i) to l). See Fig.~\ref{Fig:map} for station locations.}
+\caption{Mean square error between the AWS and official forecast zonal perturbations $\overline{\left(u_\text{AWS} - u_\text{O}\right)^2}$, a), e), and i), decomposed into the error variance $\var\left(u_\text{AWS} - u_\text{O}\right)$ and squared bias $\left(\overline{u}_\text{AWS} - \overline{u}_\text{O}\right)^2$ terms of equation (\ref{Eq:MSE}). Also, the decomposed mean square error between the AWS and OCF zonal perturbations, b), f) and j). Additionally, the AWS and official forecast error variance term $\var\left(u_\text{AWS} - u_\text{O}\right)$ decomposed into the $\var\left(u_\text{AWS}\right)$, $\var\left(u_\text{O}\right)$ and  $- 2 \cdot \cov\left(u_\text{AWS}, u_\text{O}\right)$ terms, c), g) and k), and analogously for the official forecast and OCF error variance term $\var\left(u_\text{AWS} - u_\text{O}\right)$, d), h) and l). Decompositions given for Brisbane Airport, a) to d), the Brisbane city station group, e) to h), and the Queensland coastal station group, i) to l). See Fig.~\ref{Fig:map} for station locations.}
 \label{Fig:error_decomp_bris}
 \end{figure*}
 \efloatseparator
