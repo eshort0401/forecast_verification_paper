@@ -8601,9 +8601,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="287.33652"
-     inkscape:cy="113.09417"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="65.10296"
+     inkscape:cy="92.891119"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -8625,7 +8625,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8651,7 +8651,7 @@
        x="-27.205076"
        y="3.3158827"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.17828248"
-       id="text7451">v [kn]</text>
+       id="text7451">v [kt]</text>
     <g
        class="layer-subplot"
        id="g41824"
@@ -10001,7 +10001,7 @@
        x="125.80696"
        y="52.735378"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.17838308"
-       id="text49884">u [kn]</text>
+       id="text49884">u [kt]</text>
     <g
        class="legendlines"
        id="g2939-5"
@@ -12543,13 +12543,13 @@
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.17838308"
        y="52.735378"
        x="79.945633"
-       class="xtitle">u [kn]</text>
+       class="xtitle">u [kt]</text>
     <text
        class="xtitle"
        x="33.307102"
        y="52.735378"
        style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.17838308"
-       id="text96536">u [kn]</text>
+       id="text96536">u [kt]</text>
   </g>
   <g
      inkscape:label="Layer 1"

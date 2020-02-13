@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="-44.289167"
-     inkscape:cy="231.27933"
+     inkscape:zoom="3.959798"
+     inkscape:cx="127.43676"
+     inkscape:cy="221.1778"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5203,7 +5203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6939,7 +6939,7 @@
        y="84.722549"
        x="-13.261234"
        transform="rotate(-90)"
-       class="y2title">v [kn]</text>
+       class="y2title">v [kt]</text>
     <text
        x="89.308815"
        y="28.491806"
@@ -7016,7 +7016,7 @@
        x="139.70518"
        y="31.812248"
        style="font-weight:normal;font-size:2.23942733px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.14030492"
-       id="text3111">u [kn]</text>
+       id="text3111">u [kt]</text>
     <text
        x="106.90346"
        y="21.03186"
@@ -7048,7 +7048,7 @@
        style="font-weight:normal;font-size:2.23942733px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.14030492"
        y="31.648266"
        x="105.52585"
-       class="x2title">u [kn]</text>
+       class="x2title">u [kt]</text>
     <text
        id="text137520"
        style="font-size:2.23942733px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#ff0000;fill-opacity:1;stroke-width:0.14030492"

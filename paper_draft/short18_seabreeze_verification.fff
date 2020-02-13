@@ -17,7 +17,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{wpi_coastal_new_colours.pdf}
-\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), and official forecast versus OCF, e) and f), comparisons. Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kn closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kn $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
+\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for each coastal station group (see Fig.~\ref{Fig:map}) and hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), and official forecast versus OCF, e) and f), comparisons. Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ kt closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ kt $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
 \label{Fig:wpi_coastal}
 \end{figure*}
 \efloatseparator
@@ -25,7 +25,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{case_studies_nt.pdf}
-\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for the official forecast versus ACCESS, $\text{DAE}_\text{A}$, official forecast versus HRES, $\text{DAE}_\text{H}$, and official forecast versus OCF, $\text{DAE}_\text{OCF}$ comparisons, for the Northern Territory (NT) coastal station group shown in Fig.~\ref{Fig:map} at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
+\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for the official forecast versus ACCESS, official forecast versus HRES, and official forecast versus OCF comparisons, for the Northern Territory (NT) coastal station group shown in Fig.~\ref{Fig:map}, at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
 \label{Fig:case_studies_nt}
 \end{figure}
 \efloatseparator
@@ -33,7 +33,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{case_studies_wa.pdf}
-\caption{As in Fig.~\ref{Fig:case_studies_nt}, but for, a), the South WA coastal station group at 05:00 UTC, and b) and c), the winds and wind perturbations, respectively, over the South WA coastal station group on the 9\textsuperscript{th} June 2018.}
+\caption{As in Fig.~\ref{Fig:case_studies_nt}, but for, a), the South Western Australia (WA) coastal station group at 05:00 UTC, and b) and c), the winds and wind perturbations, respectively, over the South WA coastal station group on the 9\textsuperscript{th} June 2018.}
 \label{Fig:case_studies_wa}
 \end{figure}
 \efloatseparator
@@ -49,7 +49,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{airport_wpi_new_city.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official forecast versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
 \label{Fig:city_wpi}
 \end{figure*}
 \efloatseparator
@@ -57,7 +57,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{airport_wpi_new_airports.pdf}
-\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
+\caption{As in Fig.~\ref{Fig:wpi_coastal}, but for the official forecast versus HRES mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, a) and c), and confidence scores, b) and d), for the airport stations, a) and b), and city station groups, c) and d).}
 \label{Fig:airport_wpi}
 \end{figure*}
 \efloatseparator
@@ -81,7 +81,7 @@
 \begin{figure}
 \centering
 \includegraphics[width=19pc]{clim_hodo_alt.pdf}
-\caption{Temporal hodographs in hours UTC of wind perturbations spatially averaged over the, a), South Western Australia (WA), and b), South Australia (SA) coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
+\caption{Temporal hodographs in hours UTC of diurnal wind perturbations spatially averaged over the, a), South Western Australia (WA), and b), South Australia (SA) coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
 \label{Fig:clim_hodo}
 \end{figure}
 \efloatseparator
@@ -89,7 +89,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{cwpi_city.pdf}
-\caption{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}
+\caption{As in Fig.~\ref{Fig:city_wpi}, but for the difference of biases (DB) values and confidence scores.}
 \label{Fig:cwpi_city}
 \end{figure*}
 \efloatseparator

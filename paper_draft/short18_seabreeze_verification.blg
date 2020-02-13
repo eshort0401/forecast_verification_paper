@@ -8,37 +8,37 @@ Warning--empty journal in abdalla13
 Warning--missing publisher in short20
 You've used 37 entries,
             3493 wiz_defined-function locations,
-            1105 strings with 14394 characters,
-and the built_in function-call counts, 32210 in all, are:
-= -- 3712
+            1101 strings with 14206 characters,
+and the built_in function-call counts, 32153 in all, are:
+= -- 3706
 > -- 834
 < -- 34
 + -- 488
 - -- 213
-* -- 1690
-:= -- 3495
+* -- 1669
+:= -- 3489
 add.period$ -- 81
 call.type$ -- 37
 change.case$ -- 269
 chr.to.int$ -- 36
 cite$ -- 39
-duplicate$ -- 3352
-empty$ -- 1958
+duplicate$ -- 3349
+empty$ -- 1952
 format.name$ -- 294
-if$ -- 6566
+if$ -- 6554
 int.to.chr$ -- 2
 int.to.str$ -- 1
 missing$ -- 374
 newline$ -- 122
 num.names$ -- 148
-pop$ -- 1206
+pop$ -- 1209
 preamble$ -- 1
 purify$ -- 218
 quote$ -- 0
-skip$ -- 1984
+skip$ -- 1987
 stack$ -- 0
 substring$ -- 1502
-swap$ -- 2587
+swap$ -- 2584
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
@@ -46,5 +46,5 @@ type$ -- 324
 warning$ -- 2
 while$ -- 173
 width$ -- 0
-write$ -- 463
+write$ -- 457
 (There were 2 warnings)

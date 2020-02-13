@@ -4522,9 +4522,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="153.35309"
-     inkscape:cy="153.64394"
+     inkscape:zoom="3.959798"
+     inkscape:cx="375.58665"
+     inkscape:cy="72.831736"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4546,7 +4546,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8912,7 +8912,7 @@
        x="-237.42131"
        y="10.979548"
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.16008833"
-       id="text94132">v [kn]</text>
+       id="text94132">v [kt]</text>
     <g
        id="g96718"
        class="imagelayer"
@@ -10558,18 +10558,18 @@
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.16008833"
        y="260.2023"
        x="37.066936"
-       class="ytitle">u [kn]</text>
+       class="ytitle">u [kt]</text>
     <text
        class="ytitle"
        x="83.855385"
        y="260.2023"
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.16008833"
-       id="text4001">u [kn]</text>
+       id="text4001">u [kt]</text>
     <text
        id="text4003"
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.16008833"
        y="260.2023"
        x="128.6506"
-       class="ytitle">u [kn]</text>
+       class="ytitle">u [kt]</text>
   </g>
 </svg>

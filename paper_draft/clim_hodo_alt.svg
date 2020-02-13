@@ -8546,9 +8546,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="60.595769"
-     inkscape:cy="196.53958"
+     inkscape:zoom="3.959798"
+     inkscape:cx="101.00187"
+     inkscape:cy="65.219749"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8570,7 +8570,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -15424,8 +15424,8 @@
        class="xtitle"
        x="54.778049"
        y="49.614685"
-       style="font-weight:normal;font-size:2.29305556px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.19296706;"
-       id="text14209">u [kn]</text>
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;display:inline;opacity:1;fill:#000000;stroke-width:0.19296706"
+       id="text14209">u [kt]</text>
     <text
        x="38.297646"
        y="46.316059"
@@ -15539,17 +15539,17 @@
        id="text42218">3</text>
     <text
        id="text78463"
-       style="font-weight:normal;font-size:2.29305556px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18393181;"
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18393181"
        y="28.219368"
        x="35.252384"
        transform="rotate(-90)"
-       class="ytitle">v [kn]</text>
+       class="ytitle">v [kt]</text>
     <text
        class="ytitle"
        transform="rotate(-90)"
        x="-28.157476"
        y="28.219368"
-       style="font-weight:normal;font-size:2.29305556px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18393181;"
-       id="text209075">v [kn]</text>
+       style="font-weight:normal;font-size:2.29305553px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.18393181"
+       id="text209075">v [kt]</text>
   </g>
 </svg>

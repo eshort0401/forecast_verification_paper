@@ -3212,9 +3212,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="283.66277"
-     inkscape:cy="221.95227"
+     inkscape:zoom="3.959798"
+     inkscape:cx="394.77955"
+     inkscape:cy="120.93702"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -3236,7 +3236,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4609,7 +4609,7 @@
        transform="rotate(-90)">
       <tspan
          id="tspan34227"
-         style="font-size:2.29305553px;stroke-width:0.13898139">[kn<tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32891">2</tspan>
 ]</tspan>
@@ -4622,7 +4622,7 @@
        id="text34237">
       <tspan
          style="font-size:2.29305553px;stroke-width:0.13898139"
-         id="tspan34235">[kn<tspan
+         id="tspan34235">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32887">2</tspan>
 ]</tspan>
@@ -4635,7 +4635,7 @@
        transform="rotate(-90)">
       <tspan
          id="tspan34241"
-         style="font-size:2.29305553px;stroke-width:0.13898139">[kn<tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32895">2</tspan>
 ]</tspan>
@@ -4648,7 +4648,7 @@
        id="text34249">
       <tspan
          style="font-size:2.29305553px;stroke-width:0.13898139"
-         id="tspan34247">[kn<tspan
+         id="tspan34247">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32907">2</tspan>
 ]</tspan>
@@ -4661,7 +4661,7 @@
        transform="rotate(-90)">
       <tspan
          id="tspan34253"
-         style="font-size:2.29305553px;stroke-width:0.13898139">[kn<tspan
+         style="font-size:2.29305553px;stroke-width:0.13898139">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32903">2</tspan>
 ]</tspan>
@@ -4674,7 +4674,7 @@
        id="text34261">
       <tspan
          style="font-size:2.29305553px;stroke-width:0.13898139"
-         id="tspan34259">[kn<tspan
+         id="tspan34259">[kt<tspan
    style="font-size:64.99999762%;baseline-shift:super"
    id="tspan32899">2</tspan>
 ]</tspan>
@@ -9294,6 +9294,17 @@
        id="path51847"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-175.35843"
+       y="194.45935"
+       id="text136400"><tspan
+         sodipodi:role="line"
+         id="tspan136398"
+         x="-175.35843"
+         y="198.20486"
+         style="stroke-width:0.26458332" /></text>
   </g>
   <g
      inkscape:groupmode="layer"

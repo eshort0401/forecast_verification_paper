@@ -6564,7 +6564,7 @@
      inkscape:cx="278.80941"
      inkscape:cy="112.12531"
      inkscape:document-units="mm"
-     inkscape:current-layer="g120682"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1853"
      inkscape:window-height="1025"
@@ -6584,7 +6584,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -8869,7 +8869,7 @@
        id="text115829-2">
       <tspan
          style="font-size:2.29305553px;stroke-width:0.59086132"
-         id="tspan128142-2">Mean Difference of Absolute Errors [kn]</tspan>
+         id="tspan128142-2">Mean Difference of Absolute Errors [kt]</tspan>
     </text>
     <text
        id="text128144"

@@ -56,10 +56,10 @@ Abkar, M., A.~Sharifi, and F.~Port{\'e}-Agel, 2016: Wake flow in a wind farm
 {Bureau of Meteorology}, 2018: {BNOC} operations bulletin number 113. Tech.
   rep., Bureau of Meteorology, Melbourne, Victoria. [Available online at
   \url{http://www.bom.gov.au/australia/charts/bulletins/BNOC_Operations_Bulletin_113.pdf}
-  - Accessed 4 February 2020.
+  - Accessed 4 February 2020].
 
 \bibitem[{{Bureau of Meteorology}(2019{\natexlab{a}})}]{shortData19}
-{Bureau of Meteorology}, 2019{\natexlab{a}}: Datasets used in "verifying
+{Bureau of Meteorology}, 2019{\natexlab{a}}: Datasets used in ``{V}erifying
   operational forecasts of land-sea breeze and boundary layer mixing
   processes". {Zenodo}, [Available online at
   \url{http://doi.org/10.5281/zenodo.3570002} - Accessed 11 December 2019],
@@ -86,10 +86,8 @@ Efron, B., 1979: Bootstrap methods: Another look at the jackknife. \textit{The
 
 \bibitem[{Engel and Ebert(2007)Engel, and Ebert}]{engel07}
 Engel, C., and E.~Ebert, 2007: Performance of hourly operational consensus
-  forecasts (ocfs) in the australian region. \textit{Weather and Forecasting},
-  \textbf{22~(6)}, 1345--1359, \doi{10.1175/2007WAF2006104.1},
-  \urlprefix\url{https://doi.org/10.1175/2007WAF2006104.1},
-  \eprint{https://doi.org/10.1175/2007WAF2006104.1}.
+  forecasts {(OCFs)} in the {Australian} region. \textit{Weather and
+  Forecasting}, \textbf{22~(6)}, 1345--1359, \doi{10.1175/2007WAF2006104.1}.
 
 \bibitem[{Englberger and D{\"o}rnbrack(2018)Englberger, and
   D{\"o}rnbrack}]{englberger18}
@@ -111,12 +109,10 @@ Gille, S.~T., S.~G. {Llewellyn Smith}, and N.~M. Statom, 2005: Global
   \textbf{32~(5)}, \doi{10.1029/2004GL022139}.
 
 \bibitem[{Glahn and Lowry(1972)Glahn, and Lowry}]{glahn72}
-Glahn, H.~R., and D.~A. Lowry, 1972: The use of model output statistics (mos)
+Glahn, H.~R., and D.~A. Lowry, 1972: The use of model output statistics {(MOS)}
   in objective weather forecasting. \textit{Journal of Applied Meteorology},
   \textbf{11~(8)}, 1203--1211,
-  \doi{10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2},
-  \urlprefix\url{https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;
-  2}, \eprint{https://doi.org/10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2}.
+  \doi{10.1175/1520-0450(1972)011<1203:TUOMOS>2.0.CO;2}.
 
 \bibitem[{Griffiths et~al.(2017)Griffiths, Jack, Foley, Ioannou,, and
   Liu}]{griffiths17}
@@ -179,9 +175,9 @@ Short, E., 2019: eshort0401/forecast\_verification\_paper. {GitHub}, [Available
   Accessed 11 December 2019].
 
 \bibitem[{Short(2020)}]{short20}
-Short, E., 2020: Dae synthetic data tests. [Available online at
-  \url{https://github.com/eshort0401/forecast_verification_paper/blob/master/code/DAE%20Synthetic%20Data%20Tests.ipynb
-  - Accessed 7 February 2020}].
+Short, E., 2020: {DAE} synthetic data tests. [Available online at
+  \url{https://github.com/eshort0401/forecast_verification_paper/blob/master/code/DAE%20Synthetic%20Data%20Tests.ipynb}
+  - Accessed 7 February 2020].
 
 \bibitem[{Skamarock(2004)}]{skamarock04}
 Skamarock, W.~C., 2004: Evaluating mesoscale {NWP} models using kinetic energy
@@ -208,8 +204,7 @@ Wilks, D.~S., 2011: \textit{Statistical methods in the atmospheric sciences}.
 \bibitem[{Woodcock and Engel(2005)Woodcock, and Engel}]{woodcock05}
 Woodcock, F., and C.~Engel, 2005: Operational consensus forecasts.
   \textit{Weather and Forecasting}, \textbf{20~(1)}, 101--111,
-  \doi{10.1175/WAF-831.1}, \urlprefix\url{https://doi.org/10.1175/WAF-831.1},
-  \eprint{https://doi.org/10.1175/WAF-831.1}.
+  \doi{10.1175/WAF-831.1}.
 
 \bibitem[{Zaron and Egbert(2006)Zaron, and Egbert}]{zaron06}
 Zaron, E.~D., and G.~D. Egbert, 2006: Estimating open-ocean barotropic tidal

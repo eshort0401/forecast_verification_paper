@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
+     inkscape:zoom="2.8"
      inkscape:cx="199.4248"
-     inkscape:cy="227.51574"
+     inkscape:cy="98.944311"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4448,7 +4448,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5081,7 +5081,7 @@
        y="91.529846"
        x="-44.847912"
        transform="rotate(-90)"
-       class="y2title">v [kn]</text>
+       class="y2title">v [kt]</text>
     <path
        inkscape:connector-curvature="0"
        id="path2172"
@@ -5133,14 +5133,14 @@
        x="116.07668"
        y="106.85771"
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.177561"
-       id="text3111">u [kn]</text>
+       id="text3111">u [kt]</text>
     <text
        class="y2title"
        transform="rotate(-90)"
        x="-82.834526"
        y="91.529846"
        style="font-weight:normal;font-size:2.29305577px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.177561"
-       id="text29376">v [kn]</text>
+       id="text29376">v [kt]</text>
     <g
        class="layer-below"
        id="g2281-2"
@@ -10845,7 +10845,7 @@
        x="-5.6282654"
        y="82.987221"
        style="font-weight:normal;font-size:2.29305649px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;opacity:1;fill:#000000;stroke-width:0.11829127"
-       id="text4576">DAE [kn]</text>
+       id="text4576">DAE [kt]</text>
     <g
        class="legendlines"
        id="g2939-5"
