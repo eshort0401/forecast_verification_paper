@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  14 FEB 2020 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  14 FEB 2020 14:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**short18_seabreeze_verification.tex
-(./short18_seabreeze_verification.tex
+**old_abstract.tex
+(./old_abstract.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./ametsoc.cls
@@ -279,8 +279,8 @@ LaTeX Info: Redefining \\ on input line 3056.
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
 
-Excluding comment 'comment') (./short18_seabreeze_verification.aux)
-\openout1 = `short18_seabreeze_verification.aux'.
+Excluding comment 'comment') (./old_abstract.aux)
+\openout1 = `old_abstract.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
@@ -370,296 +370,73 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 119.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.85pt on input line 117.
+(Font)              scaled to size 4.85pt on input line 119.
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 11
-7.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 11
-7.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 11
-7.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 11
-7.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 119.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-[8]
-\openout4 = `short18_seabreeze_verification.fff'.
-
- (short18_seabreeze_verification.fff) [9]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11]
-Underfull \vbox (badness 1769) has occurred while \output is active []
-
- [12]
-[13] [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [20]
-[21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24]
-[25]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26]
-(./short18_seabreeze_verification.bbl [27] [28]
-Underfull \hbox (badness 1558) in paragraph at lines 88--91
-[]\OT1/ptm/m/n/12 Engel, C., and E. Ebert, 2007: Per-for-mance of hourly op-er-
-a-tional con-sen-sus fore-casts
- []
-
-[29] [30]
-Underfull \hbox (badness 10000) in paragraph at lines 178--181
-\OT1/ptm/m/n/12 forecast[]veri^^Lcation[]paper / blob / master / code / DAE % 2
-0Synthetic % 20Data % 20Tests . ipynb$ -
- []
-
-[31]) AED endfloat: Processing end Figures and Tables [32]
-(./short18_seabreeze_verification.lof
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 3.
-
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 3.
-
-
-LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 3.
-
-
-LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 3.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.77005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.30006> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[33
-
-
-])
-\tf@lof=\write6
-\openout6 = `short18_seabreeze_verification.lof'.
-
- [34] (./short18_seabreeze_verification.fff
-<schematic.pdf, id=120, 204.85983pt x 233.3126pt>
-File: schematic.pdf Graphic file (type pdf)
-<use schematic.pdf>
-Package pdftex.def Info: schematic.pdf  used on input line 3.
-(pdftex.def)             Requested size: 228.0pt x 259.68494pt.
- [35 <./schematic.pdf>]
-<map.pdf, id=135, 378.42165pt x 284.52756pt>
-File: map.pdf Graphic file (type pdf)
-<use map.pdf>
-Package pdftex.def Info: map.pdf  used on input line 11.
-(pdftex.def)             Requested size: 468.0pt x 351.8901pt.
-
-[36 <./map.pdf>]
-<coastal_DAE.pdf, id=471, 409.71968pt x 267.4559pt>
-File: coastal_DAE.pdf Graphic file (type pdf)
-<use coastal_DAE.pdf>
-Package pdftex.def Info: coastal_DAE.pdf  used on input line 19.
-(pdftex.def)             Requested size: 468.0pt x 305.52321pt.
- [37 <./coastal_DAE.pdf>]
-<case_studies_nt.pdf, id=558, 202.01457pt x 341.43306pt>
-File: case_studies_nt.pdf Graphic file (type pdf)
-<use case_studies_nt.pdf>
-Package pdftex.def Info: case_studies_nt.pdf  used on input line 27.
-(pdftex.def)             Requested size: 228.0pt x 385.37721pt.
- [38 <./case_studies_nt.pdf>]
-<case_studies_wa.pdf, id=577, 202.01457pt x 332.89723pt>
-File: case_studies_wa.pdf Graphic file (type pdf)
-<use case_studies_wa.pdf>
-Package pdftex.def Info: case_studies_wa.pdf  used on input line 35.
-(pdftex.def)             Requested size: 228.0pt x 375.7428pt.
- [39 <./case_studies_wa.pdf>]
-<soundings.pdf, id=596, 335.74252pt x 182.09764pt>
-File: soundings.pdf Graphic file (type pdf)
-<use soundings.pdf>
-Package pdftex.def Info: soundings.pdf  used on input line 43.
-(pdftex.def)             Requested size: 396.0pt x 214.79277pt.
- [40 <./soundings.pdf>]
-<city_DAE.pdf, id=616, 409.71968pt x 187.78818pt>
-File: city_DAE.pdf Graphic file (type pdf)
-<use city_DAE.pdf>
-Package pdftex.def Info: city_DAE.pdf  used on input line 51.
-(pdftex.def)             Requested size: 468.0pt x 214.51627pt.
- [41 <./city_DAE.pdf>]
-<airport_DAE.pdf, id=718, 409.71968pt x 187.78818pt>
-File: airport_DAE.pdf Graphic file (type pdf)
-<use airport_DAE.pdf>
-Package pdftex.def Info: airport_DAE.pdf  used on input line 59.
-(pdftex.def)             Requested size: 468.0pt x 214.51627pt.
- [42 <./airport_DAE.pdf>]
-<DB_coastal.pdf, id=801, 409.71968pt x 267.4559pt>
-File: DB_coastal.pdf Graphic file (type pdf)
-<use DB_coastal.pdf>
-Package pdftex.def Info: DB_coastal.pdf  used on input line 67.
-(pdftex.def)             Requested size: 468.0pt x 305.52321pt.
- [43 <./DB_coastal.pdf>]
-<darwin_hodo.pdf, id=888, 409.71968pt x 159.33543pt>
-File: darwin_hodo.pdf Graphic file (type pdf)
-<use darwin_hodo.pdf>
-Package pdftex.def Info: darwin_hodo.pdf  used on input line 75.
-(pdftex.def)             Requested size: 468.0pt x 182.01381pt.
- [44 <./darwin_hodo.pdf>]
-<clim_hodo.pdf, id=907, 199.1693pt x 341.43306pt>
-File: clim_hodo.pdf Graphic file (type pdf)
-<use clim_hodo.pdf>
-Package pdftex.def Info: clim_hodo.pdf  used on input line 83.
-(pdftex.def)             Requested size: 228.0pt x 390.87881pt.
- [45 <./clim_hodo.pdf>]
-<DB_city.pdf, id=929, 409.71968pt x 204.85983pt>
-File: DB_city.pdf Graphic file (type pdf)
-<use DB_city.pdf>
-Package pdftex.def Info: DB_city.pdf  used on input line 91.
-(pdftex.def)             Requested size: 468.0pt x 234.01776pt.
- [46 <./DB_city.pdf>]
-<DB_airport.pdf, id=1025, 409.71968pt x 204.85983pt>
-File: DB_airport.pdf Graphic file (type pdf)
-<use DB_airport.pdf>
-Package pdftex.def Info: DB_airport.pdf  used on input line 99.
-(pdftex.def)             Requested size: 468.0pt x 234.01776pt.
- [47 <./DB_airport.pdf>]
-<r_squared.pdf, id=1141, 213.39566pt x 239.00314pt>
-File: r_squared.pdf Graphic file (type pdf)
-<use r_squared.pdf>
-Package pdftex.def Info: r_squared.pdf  used on input line 107.
-(pdftex.def)             Requested size: 228.0pt x 255.36249pt.
- [48 <./r_squared.pdf>]
-<ellipse_fits.pdf, id=1184, 412.56496pt x 270.3012pt>
-File: ellipse_fits.pdf Graphic file (type pdf)
-<use ellipse_fits.pdf>
-Package pdftex.def Info: ellipse_fits.pdf  used on input line 115.
-(pdftex.def)             Requested size: 468.0pt x 306.6205pt.
-
-[49 <./ellipse_fits.pdf>]
-<ellipse_hodo.pdf, id=1494, 398.3386pt x 142.26378pt>
-File: ellipse_hodo.pdf Graphic file (type pdf)
-<use ellipse_hodo.pdf>
-Package pdftex.def Info: ellipse_hodo.pdf  used on input line 123.
-(pdftex.def)             Requested size: 468.0pt x 167.15128pt.
- [50 <./ellipse_hodo.pdf>]
-<error_decomp_bris.pdf, id=1522, 412.56496pt x 233.3126pt>
-File: error_decomp_bris.pdf Graphic file (type pdf)
-<use error_decomp_bris.pdf>
-Package pdftex.def Info: error_decomp_bris.pdf  used on input line 131.
-(pdftex.def)             Requested size: 468.0pt x 264.6619pt.
- [51 <./error_decomp_bris.pdf>]) (./short18_seabreeze_verification.aux)
-
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.45pt have occurred.
-
- ) 
+No file old_abstract.bbl.
+AED endfloat: Processing end Figures and Tables [3] (./old_abstract.aux) ) 
 Here is how much of TeX's memory you used:
- 4511 strings out of 492982
- 60234 string characters out of 6134897
- 133379 words of memory out of 5000000
- 7918 multiletter control sequences out of 15000+600000
- 61916 words of font info for 143 fonts, out of 8000000 for 9000
+ 4185 strings out of 492982
+ 54577 string characters out of 6134897
+ 123700 words of memory out of 5000000
+ 7650 multiletter control sequences out of 15000+600000
+ 35016 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,37p,1634b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/u
-syr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification.pdf (51 pages, 1354376 bytes).
-
+ 41i,10n,37p,1594b,306s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr
+/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8
+a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on old_abstract.pdf (3 pages, 54117 bytes).
 PDF statistics:
- 1602 PDF objects out of 1728 (max. 8388607)
- 1210 compressed objects within 13 object streams
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

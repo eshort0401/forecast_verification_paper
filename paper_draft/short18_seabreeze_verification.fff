@@ -121,7 +121,7 @@
 \begin{figure*}
 \centering
 \includegraphics[width=39pc]{ellipse_hodo.pdf}
-\caption{Temporal hodograph, a), and ellipse fit, b), of wind perturbations at each hour UTC averaged over June, July and August 2018 at Brisbane airport. For comparison, c) provides the hodograph of the mean perturbations at the nearby Spitfire Channel station (see Fig.~\ref{Fig:map}).}
+\caption{Temporal hodograph, a), and ellipse fit, b), of wind perturbations at each hour UTC averaged over June, July and August 2018 at Brisbane Airport. For comparison, c) provides the hodograph of the mean perturbations at the nearby Spitfire Channel station (see Fig.~\ref{Fig:map}).}
 \label{Fig:ellipse_hodo}
 \end{figure*}
 \efloatseparator

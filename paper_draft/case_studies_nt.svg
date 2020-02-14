@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="126.18088"
-     inkscape:cy="96.176706"
+     inkscape:zoom="1.4"
+     inkscape:cx="-55.61294"
+     inkscape:cy="292.29853"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -15502,7 +15502,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16699,8 +16699,8 @@
          id="tspan9685">18</tspan>
     </text>
     <text
-       x="55.483223"
-       y="73.046249"
+       x="55.441463"
+       y="72.829094"
        style="font-size:2.30360723px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.19200145"
        id="text9691">
       <tspan
@@ -21949,5 +21949,20 @@
        y="23.929865"
        x="38.717827"
        class="ytitle">July 3</text>
+    <text
+       x="54.324894"
+       y="76.830757"
+       style="font-size:2.29305625px;font-family:'Times New Roman';text-anchor:middle;white-space:pre;fill:#a52a2a;fill-opacity:1;stroke:none;stroke-width:0.19112204"
+       id="text9585">
+      <tspan
+         id="tspan9583"
+         style="font-size:2.29305625px;fill:#a52a2a;fill-opacity:1;stroke:none;stroke-width:0.19112204">23</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9587"
+       d="m 53.8276,74.924309 -0.09917,-1.10784"
+       style="fill:#a52a2a;fill-opacity:1;stroke:#a52a2a;stroke-width:0.23128232;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>

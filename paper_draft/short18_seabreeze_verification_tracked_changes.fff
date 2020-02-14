@@ -1,0 +1,175 @@
+\begin{figure}
+\centering
+\includegraphics[width=19pc]{schematic.pdf}
+\caption{\DIFaddFL{Illustration of the method for calculating the }\textit{\DIFaddFL{difference of absolute errors}} \DIFaddFL{(DAE) in the diurnal signals of an unedited model guidance dataset, and the human edited official forecast dataset, when compared with automatic weather station (AWS) observations, at an example time of 12:00 UTC.}}
+\label{Fig:schematic}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{map.pdf}
+\caption{\DIFaddFL{Locations of the automatic weather stations, and the groupings of these stations, considered in this study. The }\textit{\DIFaddFL{coastal station groups}} \DIFaddFL{are indicated in a), with the }\textit{\DIFaddFL{airport stations}} \DIFaddFL{shown by stars. The Perth, Adelaide, Melbourne, Hobart, Darwin, Brisbane and Sydney }\textit{\DIFaddFL{city station groups}} \DIFaddFL{are shown shown by b) to h), respectively.}}
+\label{Fig:map}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+ %DIFDELCMD < \includegraphics[width=39pc]{old_figures/wpi_coastal.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=39pc]{coastal_DAE.pdf}
+\caption{Heatmaps of mean difference of absolute error $\overline{\text{DAE}}$ values, a), c), e), and confidence scores, b), d), f), for \DIFdelbeginFL \DIFdelFL{each coastal station group }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{the }\textit{\DIFaddFL{coastal station groups}} \DIFaddendFL (see Fig.~\ref{Fig:map})\DIFdelbeginFL \DIFdelFL{and }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{. Results given for each }\DIFaddendFL hour of the day, for the official forecast versus ACCESS, a) and b), official forecast versus HRES, c) and d), \DIFdelbeginFL \DIFdelFL{HRES }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{and official forecast }\DIFaddendFL versus \DIFdelbeginFL \DIFdelFL{ACCESS}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{OCF}\DIFaddendFL , e) and f)\DIFaddbeginFL \DIFaddFL{, comparisons}\DIFaddendFL . Positive $\overline{\text{DAE}}$ values indicate that the former dataset in each pair is on average $\overline{\text{DAE}}$ \DIFdelbeginFL \DIFdelFL{kn }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{kt }\DIFaddendFL closer to observations than the latter dataset (see equation \ref{Eq:DAE}), where $1$ \DIFdelbeginFL \DIFdelFL{kn }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{kt }\DIFaddendFL $\approx 0.514$ m s\textsuperscript{-1}. Confidence scores provide the probability the population or ``true" value of $\overline{\text{DAE}}$ is greater than zero (see section \ref{Sec:Methods}).}
+\label{Fig:coastal_DAE}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+ %DIFDELCMD < \includegraphics[width=19pc]{old_figures/case_studies_nt.pdf}
+%DIFDELCMD < %%%
+ \includegraphics[width=19pc]{case_studies_nt.pdf}
+\caption{Time series, a), of the difference in absolute error DAE defined in equation (\ref{Eq:DAE}) for the official forecast versus ACCESS, \DIFdelbeginFL \DIFdelFL{$\text{DAE}_\text{OA}$, and }\DIFdelendFL official forecast versus HRES, \DIFdelbeginFL \DIFdelFL{$\text{DAE}_\text{OH}$}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{and official forecast versus OCF comparisons}\DIFaddendFL , for the \DIFaddbeginFL \DIFaddFL{Northern Territory (}\DIFaddendFL NT\DIFaddbeginFL \DIFaddFL{) }\DIFaddendFL coastal station group shown in Fig.~\ref{Fig:map}\DIFaddbeginFL \DIFaddFL{, }\DIFaddendFL at 23:00 UTC. Also, temporal hodographs in hours UTC showing hourly changes in winds, b), and wind perturbations from a 24 hour running mean, c), at the NT coastal station group on the 3\textsuperscript{rd} of July 2018.}
+\label{Fig:case_studies_nt}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+%DIFDELCMD < \includegraphics[width=19pc]{old_figures/case_studies_wa.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=19pc]{case_studies_wa.pdf}
+\caption{As in Fig.~\ref{Fig:case_studies_nt}, but for, a), the South \DIFaddbeginFL \DIFaddFL{Western Australia (}\DIFaddendFL WA\DIFaddbeginFL \DIFaddFL{) }\DIFaddendFL coastal station group at 05:00 UTC, and b) and c), the winds and wind perturbations, respectively, over the South WA coastal station group on the 9\textsuperscript{th} June 2018.}
+\label{Fig:case_studies_wa}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+%DIFDELCMD < \includegraphics[width=33pc]{old_figures/perth_sounding.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=33pc]{soundings.pdf}
+\caption{Vertical wind soundings at, a), Darwin Airport, and b), Perth Airport, with heights given in metres.}
+ %DIFDELCMD < \label{Fig:perth_sounding}
+%DIFDELCMD < %%%
+\label{Fig:soundings}
+ \end{figure*}
+
+\begin{figure*}
+\centering
+ %DIFDELCMD < \includegraphics[width=39pc]{old_figures/airport_wpi.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=39pc]{city_DAE.pdf}
+\caption{As in Fig.~\DIFdelbeginFL \DIFdelFL{\ref{Fig:wpi_coastal}}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{\ref{Fig:coastal_DAE}}\DIFaddendFL , but for the official \DIFaddbeginFL \DIFaddFL{forecast }\DIFaddendFL versus HRES \DIFdelbeginFL \DIFdelFL{mean difference of absolute error $\overline{\text{DAE}}_\text{OH}$ values, }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{comparison }\DIFaddendFL a) and \DIFdelbeginFL \DIFdelFL{c}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{b}\DIFaddendFL ), and \DIFdelbeginFL \DIFdelFL{confidence scores}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{the official forecast versus OCF comparison}\DIFaddendFL , \DIFdelbeginFL \DIFdelFL{b}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{c}\DIFaddendFL ) and d), for the \DIFdelbeginFL \DIFdelFL{airport stations, a) and b), and city station groups, c) and d)}\DIFdelendFL \DIFaddbeginFL \textit{\DIFaddFL{city station groups}} \DIFaddFL{(see Fig}\DIFaddendFL .\DIFaddbeginFL \DIFaddFL{~\ref{Fig:map}.)}\DIFaddendFL }
+ %DIFDELCMD < \label{Fig:airport_wpi}
+%DIFDELCMD < %%%
+\DIFdelendFL \label{Fig:city_DAE}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{airport_DAE.pdf}
+\caption{\DIFaddFL{As in Fig.~\ref{Fig:coastal_DAE}, but for the official forecast versus HRES comparison a) and b), and the official forecast versus OCF comparison, c) and d), for the }\textit{\DIFaddFL{airport stations}} \DIFaddFL{(see Fig.~\ref{Fig:map}.)}}
+\label{Fig:airport_DAE}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{DB_coastal.pdf}
+\caption{\DIFaddFL{As in Fig.~\ref{Fig:coastal_DAE}, but for the difference of biases (DB) values and confidence scores.}}
+\label{Fig:DB_coastal}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{darwin_hodo.pdf}
+\caption{\DIFaddFL{Temporal hodographs in hours UTC of wind perturbations at, a), Darwin Airport, b), spatially averaged over the Darwin city station group, and c), the NT coastal group (see Fig.~\ref{Fig:map}), then temporally averaged over June, July and August 2018.}}
+\label{Fig:darwin_hodo}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+ %DIFDELCMD < \includegraphics[width=33pc]{old_figures/clim_hodo_alt.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=19pc]{clim_hodo.pdf}
+\caption{Temporal hodographs in hours UTC of \DIFaddbeginFL \DIFaddFL{diurnal }\DIFaddendFL wind perturbations spatially averaged over the, a), \DIFdelbeginFL \DIFdelFL{NT, b) }\DIFdelendFL South \DIFaddbeginFL \DIFaddFL{Western Australia (}\DIFaddendFL WA\DIFdelbeginFL \DIFdelFL{, c}\DIFdelendFL )\DIFdelbeginFL \DIFdelFL{NSW }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{, }\DIFaddendFL and \DIFdelbeginFL \DIFdelFL{d}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{b}\DIFaddendFL ), \DIFaddbeginFL \DIFaddFL{South Australia (}\DIFaddendFL SA\DIFaddbeginFL \DIFaddFL{) }\DIFaddendFL coastal station groups (see Fig.~\ref{Fig:map}), and temporally averaged over June, July and August 2018.}
+\label{Fig:clim_hodo}
+%DIFDELCMD < \end{figure*}
+%DIFDELCMD <
+
+%DIFDELCMD < \begin{figure*}
+%DIFDELCMD < \centering
+%DIFDELCMD < \includegraphics[width=39pc]{old_figures/airport_cwpi.pdf}
+%DIFDELCMD < %%%
+%DIFDELCMD < \caption{%
+{%DIFAUXCMD
+\DIFdelFL{As in Fig.~\ref{Fig:airport_wpi}, but for the difference of biases (DB) values and confidence scores.}}
+%DIFAUXCMD
+%DIFDELCMD < \label{Fig:airport_cwpi}
+%DIFDELCMD < \end{figure*}
+%DIFDELCMD < %%%
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{DB_city.pdf}
+\caption{\DIFaddFL{As in Fig.~\ref{Fig:city_DAE}, but for the difference of biases (DB) values and confidence scores.}}
+\label{Fig:DB_city}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\includegraphics[width=39pc]{DB_airport.pdf}
+\caption{\DIFaddFL{As in Fig.~\ref{Fig:airport_DAE}, but for the difference of biases (DB) values and confidence scores.}}
+\label{Fig:DB_airport}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure}
+\centering
+\DIFdelbeginFL %DIFDELCMD < \includegraphics[width=19pc]{old_figures/r_squared.pdf}
+%DIFDELCMD < %%%
+\DIFdelendFL \DIFaddbeginFL \includegraphics[width=19pc]{r_squared.pdf}
+\DIFaddendFL \caption{$R^2$ values as percentages for the fit of equation (\ref{Eq:u}) to the zonal perturbations, a), c) and e), and equation (\ref{Eq:v}) to the meridional perturbations, b), d) and f), for the airport stations, a) and b), city station groups, c) and d), and coastal station groups, e) and f), shown in Fig.~\ref{Fig:map}.}
+\label{Fig:r_squared}
+\end{figure}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\DIFdelbeginFL %DIFDELCMD < \includegraphics[width=39pc]{old_figures/ellipse_fits.pdf}
+%DIFDELCMD < %%%
+\DIFdelendFL \DIFaddbeginFL \includegraphics[width=39pc]{ellipse_fits.pdf}
+\DIFaddendFL \caption{Metrics derived from fitting ellipse equations (\ref{Eq:u}) and (\ref{Eq:v}) to wind perturbations at the Australian capital city airport stations, a) to d), and to wind perturbations spatially averaged over the city station groups and coastal station groups shown in Fig.~\ref{Fig:map}, e) to h) and i) to l) respectively, with perturbations also temporally averaged over June, July and August 2018 in each case. Metrics given are the maximum perturbation speed, a), e) and i), eccentricity of fitted ellipse, b), f) and j), orientation semi-major axis makes with lines of latitude, c), g) and k), and time of maximum perturbation, d), h) and l).}
+\label{Fig:ellipse_fits}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+\DIFdelbeginFL %DIFDELCMD < \includegraphics[width=39pc]{old_figures/ellipse_hodo.pdf}
+%DIFDELCMD < %%%
+\DIFdelendFL \DIFaddbeginFL \includegraphics[width=39pc]{ellipse_hodo.pdf}
+\DIFaddendFL \caption{Temporal \DIFdelbeginFL \DIFdelFL{hodographs }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{hodograph, a), and ellipse fit, b), }\DIFaddendFL of wind perturbations at each hour UTC averaged over June, July and August 2018 \DIFdelbeginFL \DIFdelFL{, }\DIFdelendFL at Brisbane \DIFdelbeginFL \DIFdelFL{and Hobart airports, a) and d), and the associated ellipse fits, b) and e)}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{airport}\DIFaddendFL . For comparison, c) \DIFdelbeginFL \DIFdelFL{and f) provide }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{provides }\DIFaddendFL the \DIFdelbeginFL \DIFdelFL{hodographs }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{hodograph }\DIFaddendFL of the \DIFdelbeginFL \DIFdelFL{averaged }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{mean }\DIFaddendFL perturbations at the \DIFaddbeginFL \DIFaddFL{nearby }\DIFaddendFL Spitfire Channel \DIFdelbeginFL \DIFdelFL{and Hobart city stations, respectively }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{station }\DIFaddendFL (see Fig.~\ref{Fig:map}).}
+\label{Fig:ellipse_hodo}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}
+\centering
+%DIFDELCMD < \includegraphics[width=39pc]{old_figures/error_decomp_sa.pdf}
+%DIFDELCMD < %%%
+\includegraphics[width=39pc]{error_decomp_bris.pdf}
+\DIFaddendFL \caption{Mean square error between the AWS and \DIFdelbeginFL \DIFdelFL{HRES }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{official forecast }\DIFaddendFL zonal perturbations \DIFdelbeginFL \DIFdelFL{$\overline{\left(u_\text{AWS} - u_\text{H}\right)^2}$}\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$\overline{\left(u_\text{AWS} - u_\text{O}\right)^2}$}\DIFaddendFL , a), e), and i), decomposed into the error variance \DIFdelbeginFL \DIFdelFL{$\var\left(u_\text{AWS} - u_\text{H}\right)$ }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$\var\left(u_\text{AWS} - u_\text{O}\right)$ }\DIFaddendFL and squared bias \DIFdelbeginFL \DIFdelFL{$\left(\overline{u}_\text{AWS} - \overline{u}_\text{H}\right)^2$ }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$\left(\overline{u}_\text{AWS} - \overline{u}_\text{O}\right)^2$ }\DIFaddendFL terms of equation (\ref{Eq:MSE}). Also, the decomposed mean square error between the AWS and \DIFdelbeginFL \DIFdelFL{official forecast }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{OCF }\DIFaddendFL zonal perturbations, b), f) and j). Additionally, the \DIFdelbeginFL \DIFdelFL{HRES and }\DIFdelendFL AWS \DIFaddbeginFL \DIFaddFL{and official forecast }\DIFaddendFL error variance term \DIFdelbeginFL \DIFdelFL{$\var\left(u_\text{AWS} - u_\text{H}\right)$ }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$\var\left(u_\text{AWS} - u_\text{O}\right)$ }\DIFaddendFL decomposed into the $\var\left(u_\text{AWS}\right)$, \DIFdelbeginFL \DIFdelFL{$\var\left(u_\text{H}\right)$ }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$\var\left(u_\text{O}\right)$ }\DIFaddendFL and  \DIFdelbeginFL \DIFdelFL{$- 2 \cdot \cov\left(u_\text{AWS}, u_\text{H}\right)$ }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{$- 2 \cdot \cov\left(u_\text{AWS}, u_\text{O}\right)$ }\DIFaddendFL terms, c), g) and k), and analogously for the official forecast and \DIFdelbeginFL \DIFdelFL{AWS }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{OCF }\DIFaddendFL error variance term $\var\left(u_\text{AWS} - u_\text{O}\right)$, d), h) and l). Decompositions given for \DIFdelbeginFL \DIFdelFL{Adelaide }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{Brisbane }\DIFaddendFL Airport, a) to d), the \DIFdelbeginFL \DIFdelFL{Adelaide }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{Brisbane }\DIFaddendFL city station group, e) to h), and the \DIFdelbeginFL \DIFdelFL{SA }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{Queensland }\DIFaddendFL coastal station group, i) to l)\DIFdelbeginFL \DIFdelFL{(see }\DIFdelendFL \DIFaddbeginFL \DIFaddFL{. See }\DIFaddendFL Fig.~\ref{Fig:map} \DIFaddbeginFL \DIFaddFL{for station locations}\DIFaddendFL .\DIFdelbeginFL \DIFdelFL{)}\DIFdelendFL }
+\DIFdelbeginFL %DIFDELCMD < \label{Fig:error_decomp_sa}
+%DIFDELCMD < %%%
+\DIFdelendFL \label{Fig:error_decomp_bris}
+\end{figure*}
+\efloatseparator
+ 

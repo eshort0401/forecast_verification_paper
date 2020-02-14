@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  27 JAN 2020 09:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.8)  14 FEB 2020 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -279,8 +279,7 @@ LaTeX Info: Redefining \\ on input line 3056.
 (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
 
-Excluding comment 'comment')
-No file short18_seabreeze_verification_submitted.aux.
+Excluding comment 'comment') (./short18_seabreeze_verification_submitted.aux)
 \openout1 = `short18_seabreeze_verification_submitted.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
@@ -296,6 +295,7 @@ LaTeX Font Info:    ... okay on input line 115.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 115.
+
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -417,814 +417,214 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 117.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-
-Package natbib Warning: Citation `bomMetEye19' on page 3 undefined on input lin
-e 121.
-
-
-Package natbib Warning: Citation `dai99' on page 3 undefined on input line 123.
-
-
-
-Package natbib Warning: Citation `miller03' on page 3 undefined on input line 1
-23.
-
-
-Package natbib Warning: Citation `physick92' on page 3 undefined on input line 
-123.
-
-
-Package natbib Warning: Citation `englberger18' on page 3 undefined on input li
-ne 123.
-
-
-Package natbib Warning: Citation `abkar16' on page 3 undefined on input line 12
-3.
-
-
-Package natbib Warning: Citation `lee18' on page 3 undefined on input line 125.
-
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-
-Package natbib Warning: Citation `svensson11' on page 4 undefined on input line
- 130.
-
-
-Package natbib Warning: Citation `pinson12' on page 4 undefined on input line 1
-32.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-
-LaTeX Warning: Reference `Sec:Methods' on page 5 undefined on input line 134.
-
-
-LaTeX Warning: Reference `Sec:Results' on page 5 undefined on input line 134.
-
-
-LaTeX Warning: Reference `Sec:Discussion' on page 5 undefined on input line 134
-.
-
-
-LaTeX Warning: Reference `Sec:Conclusion' on page 5 undefined on input line 134
-.
-
 \openout4 = `short18_seabreeze_verification_submitted.fff'.
 
-(short18_seabreeze_verification_submitted.fff)
 
-Package natbib Warning: Citation `shortData19' on page 5 undefined on input lin
-e 147.
-
-[5]
-
-Package natbib Warning: Citation `bom16' on page 6 undefined on input line 151.
-
-
-
-Package natbib Warning: Citation `ecmwf19c' on page 6 undefined on input line 1
-51.
-
-
-Package natbib Warning: Citation `lock00' on page 6 undefined on input line 153
-.
-
-
-Package natbib Warning: Citation `louis79' on page 6 undefined on input line 15
-3.
-
-
-Package natbib Warning: Citation `bom10' on page 6 undefined on input line 153.
-
-
-
-Package natbib Warning: Citation `ecmwf19a' on page 6 undefined on input line 1
-53.
-
-
+(short18_seabreeze_verification_submitted.fff) [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-
-Package natbib Warning: Citation `griffiths17' on page 8 undefined on input lin
-e 174.
-
-
+[7]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8]
-
-Package natbib Warning: Citation `zwiers95' on page 9 undefined on input line 1
-76.
-
-
-Package natbib Warning: Citation `wilks11' on page 9 undefined on input line 17
-6.
-
-
-Package natbib Warning: Citation `ebert08' on page 9 undefined on input line 17
-8.
-
-
-LaTeX Warning: Reference `Fig:map' on page 9 undefined on input line 178.
-
-
-Package natbib Warning: Citation `vincent16' on page 9 undefined on input line 
-178.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-
-LaTeX Warning: Reference `Eq:DAE' on page 10 undefined on input line 180.
-
-
-Package natbib Warning: Citation `griffiths17' on page 10 undefined on input li
-ne 180.
-
-
-Package natbib Warning: Citation `efron79' on page 10 undefined on input line 1
-86.
-
-
-Package natbib Warning: Citation `mass02' on page 10 undefined on input line 18
-8.
-
-
-Package natbib Warning: Citation `rife05' on page 10 undefined on input line 18
-8.
-
-
-Package natbib Warning: Citation `gille05' on page 10 undefined on input line 1
-88.
-
 [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `gille05' on page 11 undefined on input line 1
-93.
-
-
-LaTeX Warning: Reference `Eq:u_h' on page 11 undefined on input line 195.
-
-
-LaTeX Warning: Reference `Eq:v_h' on page 11 undefined on input line 195.
-
-
-Package natbib Warning: Citation `svensson11' on page 11 undefined on input lin
-e 195.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 11 undefined on input line 195
-.
-
-[11]
-
-LaTeX Warning: Reference `Sec:Methods' on page 12 undefined on input line 208.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 12 undefined on input line 2
-27.
-
-
-LaTeX Warning: Reference `Sec:Methods' on page 12 undefined on input line 227.
-
-
-LaTeX Warning: Reference `Fig:map' on page 12 undefined on input line 227.
-
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
-ne 229.
-
-
-LaTeX Warning: Reference `Fig:case_studies_wa' on page 12 undefined on input li
-ne 229.
-
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
-ne 229.
-
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 12 undefined on input li
-ne 229.
-
-
-Underfull \vbox (badness 4859) has occurred while \output is active []
-
- [12]
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 13 undefined on input li
-ne 231.
-
-
-LaTeX Warning: Reference `Fig:perth_sounding' on page 13 undefined on input lin
-e 231.
-
-
-LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
-ne 233.
-
-
-LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
-ne 233.
-
-
-LaTeX Warning: Reference `Fig:perth_sounding' on page 13 undefined on input lin
-e 233.
-
-
-LaTeX Warning: Reference `Fig:case_studies_wa' on page 13 undefined on input li
-ne 235.
-
-
+ [11]
+[12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 14 undefined on input line 2
-58.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 14 undefined on input line 2
-58.
-
-
-Package natbib Warning: Citation `wilks11' on page 14 undefined on input line 2
-58.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 14 undefined on input lin
-e 270.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 14 undefined on input line 2
-70.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-
-LaTeX Warning: Reference `Fig:cwpi_coastal' on page 15 undefined on input line 
-274.
-
-
-LaTeX Warning: Reference `Sec:Methods' on page 15 undefined on input line 274.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 15 undefined on input line 2
-74.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 274
-.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 276
-.
-
-
-LaTeX Warning: Reference `Sec:Results' on page 15 undefined on input line 276.
-
-
-LaTeX Warning: Reference `Sec:Daily' on page 15 undefined on input line 276.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 278
-.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 15 undefined on input line 278
-.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 16 undefined on input line 280
-.
-
-
-LaTeX Warning: Reference `Fig:cwpi_coastal' on page 16 undefined on input line 
-280.
-
-
-LaTeX Warning: Reference `Fig:airport_cwpi' on page 16 undefined on input line 
-303.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 16 undefined on input line 314
-.
-
-
-LaTeX Warning: Reference `Eq:u' on page 16 undefined on input line 314.
-
-
-LaTeX Warning: Reference `Eq:v' on page 16 undefined on input line 314.
-
-
-LaTeX Warning: Reference `Sec:Methods' on page 16 undefined on input line 314.
-
-
-LaTeX Warning: Reference `Fig:r_squared' on page 16 undefined on input line 314
-.
-
-
-LaTeX Warning: Reference `Eq:u' on page 16 undefined on input line 314.
-
-
-LaTeX Warning: Reference `Eq:v' on page 16 undefined on input line 314.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16]
-
-LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
-323.
-
-
-LaTeX Warning: Reference `Eq:u' on page 17 undefined on input line 323.
-
-
-LaTeX Warning: Reference `Eq:v' on page 17 undefined on input line 323.
-
-
-LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
-323.
-
-
-LaTeX Warning: Reference `Fig:ellipse_fits' on page 17 undefined on input line 
-323.
-
-
-LaTeX Warning: Reference `Fig:ellipse_hodo' on page 17 undefined on input line 
-323.
-
-
-LaTeX Warning: Reference `Fig:ellipse_hodo' on page 17 undefined on input line 
-325.
-
-
-LaTeX Warning: Reference `Fig:map' on page 17 undefined on input line 325.
-
-
-LaTeX Warning: Reference `Fig:map' on page 17 undefined on input line 325.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-
-LaTeX Warning: Reference `Fig:ellipse_fits' on page 18 undefined on input line 
-334.
-
-
-LaTeX Warning: Reference `Fig:r_squared' on page 18 undefined on input line 334
-.
-
-
-LaTeX Warning: Reference `Fig:ellipse_hodo' on page 18 undefined on input line 
-334.
-
-
-LaTeX Warning: Reference `Fig:ellipse_hodo' on page 18 undefined on input line 
-334.
-
-
-LaTeX Warning: Reference `Fig:clim_hodo' on page 18 undefined on input line 336
-.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 19 undefined on input line 3
-42.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 19 undefined on input line 3
-42.
-
-
-Package natbib Warning: Citation `skamarock04' on page 19 undefined on input li
-ne 344.
-
-
-Package natbib Warning: Citation `abdalla13' on page 19 undefined on input line
- 344.
-
-
-LaTeX Warning: Reference `Fig:map' on page 19 undefined on input line 344.
-
-[19]
-
-LaTeX Warning: Reference `Eq:MSE' on page 20 undefined on input line 350.
-
-
-LaTeX Warning: Reference `Fig:error_decomp_sa' on page 20 undefined on input li
-ne 359.
-
-
-LaTeX Warning: Reference `Eq:MSE' on page 20 undefined on input line 359.
-
-
-Package natbib Warning: Citation `zaron06' on page 20 undefined on input line 3
-59.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 20 undefined on input line 3
-59.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 20 undefined on input line 3
-61.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 20 undefined on input line 3
-61.
-
+ [19]
 [20]
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 21 undefined on input line 3
-63.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 21 undefined on input line 3
-63.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 21 undefined on input line 3
-63.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi_EA' on page 21 undefined on input lin
-e 363.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 21 undefined on input line 3
-63.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-
-LaTeX Warning: Reference `Fig:ellipse_hodo' on page 22 undefined on input line 
-367.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 22 undefined on input line 3
-67.
-
-
-LaTeX Warning: Reference `Fig:map' on page 22 undefined on input line 375.
-
 [22]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
+(./short18_seabreeze_verification_submitted.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Package natbib Warning: Citation `shortGitVeri19' on page 24 undefined on input
- line 384.
+ [24]
+[25]
+Underfull \vbox (badness 1838) has occurred while \output is active []
 
-No file short18_seabreeze_verification_submitted.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-AED endfloat: Processing end Figures and Tables [24]
-No file short18_seabreeze_verification_submitted.lof.
-\tf@lof=\write6
-\openout6 = `short18_seabreeze_verification_submitted.lof'.
-
-[25
-
-
-] (./short18_seabreeze_verification_submitted.fff
-<map.pdf, id=93, 404.02913pt x 284.52756pt>
-File: map.pdf Graphic file (type pdf)
-<use map.pdf>
-Package pdftex.def Info: map.pdf  used on input line 3.
-(pdftex.def)             Requested size: 468.0pt x 329.59633pt.
- [26 <./map.pdf>]
-<wpi_coastal.pdf, id=750, 409.71968pt x 263.18797pt>
-File: wpi_coastal.pdf Graphic file (type pdf)
-<use wpi_coastal.pdf>
-Package pdftex.def Info: wpi_coastal.pdf  used on input line 11.
-(pdftex.def)             Requested size: 468.0pt x 300.64781pt.
-LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 12.
+ [26]
+[27]) AED endfloat: Processing end Figures and Tables [28]
+(./short18_seabreeze_verification_submitted.lof
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Calculating math sizes for size <10.5> on input line 2.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 12.
+(Font)              size <10.95> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 12.
+(Font)              size <10.95> substituted on input line 2.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <10.5> not available
-(Font)              size <10.95> substituted on input line 12.
+(Font)              size <10.95> substituted on input line 2.
 
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.77005> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6.30006> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 
-LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
-
-
-LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29
 
 
-LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
+])
+\tf@lof=\write6
+\openout6 = `short18_seabreeze_verification_submitted.lof'.
 
-
-LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
-
-
-LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
-
-
-LaTeX Warning: Reference `Fig:map' on page 27 undefined on input line 12.
-
-
-LaTeX Warning: Reference `Eq:DAE' on page 27 undefined on input line 12.
-
-
-LaTeX Warning: Reference `Sec:Methods' on page 27 undefined on input line 12.
-
-[27 <./wpi_coastal.pdf>]
-<case_studies_nt.pdf, id=799, 202.01457pt x 352.81418pt>
-File: case_studies_nt.pdf Graphic file (type pdf)
-<use case_studies_nt.pdf>
-Package pdftex.def Info: case_studies_nt.pdf  used on input line 19.
+ [30] (./short18_seabreeze_verification_submitted.fff
+<old_figures/map.pdf, id=108, 404.02913pt x 284.52756pt>
+File: old_figures/map.pdf Graphic file (type pdf)
+<use old_figures/map.pdf>
+Package pdftex.def Info: old_figures/map.pdf  used on input line 3.
+(pdftex.def)             Requested size: 468.0pt x 329.59633pt.
+ [31 <./old_figures/map.pdf>]
+<old_figures/wpi_coastal.pdf, id=766, 409.71968pt x 263.18797pt>
+File: old_figures/wpi_coastal.pdf Graphic file (type pdf)
+<use old_figures/wpi_coastal.pdf>
+Package pdftex.def Info: old_figures/wpi_coastal.pdf  used on input line 11.
+(pdftex.def)             Requested size: 468.0pt x 300.64781pt.
+ [32 <./old_figures/wpi_coastal.pdf>]
+<old_figures/case_studies_nt.pdf, id=815, 202.01457pt x 352.81418pt>
+File: old_figures/case_studies_nt.pdf Graphic file (type pdf)
+<use old_figures/case_studies_nt.pdf>
+Package pdftex.def Info: old_figures/case_studies_nt.pdf  used on input line 19
+.
 (pdftex.def)             Requested size: 228.0pt x 398.22316pt.
-
-
-LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
-
-
-LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
-
-
-LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
-
-
-LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
-
-
-LaTeX Warning: Reference `Eq:DAE' on page 28 undefined on input line 20.
-
-
-LaTeX Warning: Reference `Fig:map' on page 28 undefined on input line 20.
-
-[28 <./case_studies_nt.pdf>]
-<case_studies_wa.pdf, id=818, 202.01457pt x 341.43306pt>
-File: case_studies_wa.pdf Graphic file (type pdf)
-<use case_studies_wa.pdf>
-Package pdftex.def Info: case_studies_wa.pdf  used on input line 27.
+ [33 <./old_figures/case_studies_nt.pdf>]
+<old_figures/case_studies_wa.pdf, id=834, 202.01457pt x 341.43306pt>
+File: old_figures/case_studies_wa.pdf Graphic file (type pdf)
+<use old_figures/case_studies_wa.pdf>
+Package pdftex.def Info: old_figures/case_studies_wa.pdf  used on input line 27
+.
 (pdftex.def)             Requested size: 228.0pt x 385.37721pt.
+ [34 <./old_figures/case_studies_wa.pdf>]
+<old_figures/perth_sounding.pdf, id=853, 335.74252pt x 182.09764pt>
+File: old_figures/perth_sounding.pdf Graphic file (type pdf)
+<use old_figures/perth_sounding.pdf>
+Package pdftex.def Info: old_figures/perth_sounding.pdf  used on input line 35.
 
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
-ne 28.
-
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
-ne 28.
-
-
-LaTeX Warning: Reference `Fig:case_studies_nt' on page 29 undefined on input li
-ne 28.
-
-[29 <./case_studies_wa.pdf>]
-<perth_sounding.pdf, id=837, 335.74252pt x 182.09764pt>
-File: perth_sounding.pdf Graphic file (type pdf)
-<use perth_sounding.pdf>
-Package pdftex.def Info: perth_sounding.pdf  used on input line 35.
 (pdftex.def)             Requested size: 396.0pt x 214.79277pt.
- [30 <./perth_sounding.pdf>]
-<airport_wpi.pdf, id=856, 409.71968pt x 193.47874pt>
-File: airport_wpi.pdf Graphic file (type pdf)
-<use airport_wpi.pdf>
-Package pdftex.def Info: airport_wpi.pdf  used on input line 43.
+ [35 <./old_figures/perth_sounding.pdf>]
+<old_figures/airport_wpi.pdf, id=873, 409.71968pt x 193.47874pt>
+File: old_figures/airport_wpi.pdf Graphic file (type pdf)
+<use old_figures/airport_wpi.pdf>
+Package pdftex.def Info: old_figures/airport_wpi.pdf  used on input line 43.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
+ [36 <./old_figures/airport_wpi.pdf>]
+<old_figures/airport_wpi_EA.pdf, id=912, 409.71968pt x 193.47874pt>
+File: old_figures/airport_wpi_EA.pdf Graphic file (type pdf)
+<use old_figures/airport_wpi_EA.pdf>
+Package pdftex.def Info: old_figures/airport_wpi_EA.pdf  used on input line 51.
 
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
-4.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
-4.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 31 undefined on input line 4
-4.
-
-[31 <./airport_wpi.pdf>]
-<airport_wpi_EA.pdf, id=897, 409.71968pt x 193.47874pt>
-File: airport_wpi_EA.pdf Graphic file (type pdf)
-<use airport_wpi_EA.pdf>
-Package pdftex.def Info: airport_wpi_EA.pdf  used on input line 51.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
-3.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
-3.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 32 undefined on input line 5
-3.
-
-[32 <./airport_wpi_EA.pdf>]
-<cwpi_coastal.pdf, id=941, 409.71968pt x 261.76537pt>
-File: cwpi_coastal.pdf Graphic file (type pdf)
-<use cwpi_coastal.pdf>
-Package pdftex.def Info: cwpi_coastal.pdf  used on input line 60.
+ [37 <./old_figures/airport_wpi_EA.pdf>]
+<old_figures/cwpi_coastal.pdf, id=957, 409.71968pt x 261.76537pt>
+File: old_figures/cwpi_coastal.pdf Graphic file (type pdf)
+<use old_figures/cwpi_coastal.pdf>
+Package pdftex.def Info: old_figures/cwpi_coastal.pdf  used on input line 60.
 (pdftex.def)             Requested size: 468.0pt x 299.02272pt.
-
-
-LaTeX Warning: Reference `Fig:wpi_coastal' on page 33 undefined on input line 6
-1.
-
-[33 <./cwpi_coastal.pdf>]
-<clim_hodo_alt.pdf, id=990, 301.59921pt x 318.67087pt>
-File: clim_hodo_alt.pdf Graphic file (type pdf)
-<use clim_hodo_alt.pdf>
-Package pdftex.def Info: clim_hodo_alt.pdf  used on input line 68.
+ [38 <./old_figures/cwpi_coastal.pdf>]
+<old_figures/clim_hodo_alt.pdf, id=1006, 301.59921pt x 318.67087pt>
+File: old_figures/clim_hodo_alt.pdf Graphic file (type pdf)
+<use old_figures/clim_hodo_alt.pdf>
+Package pdftex.def Info: old_figures/clim_hodo_alt.pdf  used on input line 68.
 (pdftex.def)             Requested size: 396.0pt x 418.41978pt.
-
-
-LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
-
-
-LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
-
-
-LaTeX Warning: Reference `Fig:map' on page 34 undefined on input line 69.
-
-[34 <./clim_hodo_alt.pdf>]
-<airport_cwpi.pdf, id=1016, 409.71968pt x 193.47874pt>
-File: airport_cwpi.pdf Graphic file (type pdf)
-<use airport_cwpi.pdf>
-Package pdftex.def Info: airport_cwpi.pdf  used on input line 76.
+ [39 <./old_figures/clim_hodo_alt.pdf>]
+<old_figures/airport_cwpi.pdf, id=1033, 409.71968pt x 193.47874pt>
+File: old_figures/airport_cwpi.pdf Graphic file (type pdf)
+<use old_figures/airport_cwpi.pdf>
+Package pdftex.def Info: old_figures/airport_cwpi.pdf  used on input line 76.
 (pdftex.def)             Requested size: 468.0pt x 221.01678pt.
-
-
-LaTeX Warning: Reference `Fig:airport_wpi' on page 35 undefined on input line 7
-7.
-
-[35 <./airport_cwpi.pdf>]
-<r_squared.pdf, id=1056, 202.01457pt x 256.0748pt>
-File: r_squared.pdf Graphic file (type pdf)
-<use r_squared.pdf>
-Package pdftex.def Info: r_squared.pdf  used on input line 84.
+ [40 <./old_figures/airport_cwpi.pdf>]
+<old_figures/r_squared.pdf, id=1072, 202.01457pt x 256.0748pt>
+File: old_figures/r_squared.pdf Graphic file (type pdf)
+<use old_figures/r_squared.pdf>
+Package pdftex.def Info: old_figures/r_squared.pdf  used on input line 84.
 (pdftex.def)             Requested size: 228.0pt x 289.03291pt.
-
-
-LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Eq:u' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Eq:v' on page 36 undefined on input line 85.
-
-
-LaTeX Warning: Reference `Fig:map' on page 36 undefined on input line 85.
-
-[36 <./r_squared.pdf>]
-<ellipse_fits.pdf, id=1103, 404.02913pt x 270.3012pt>
-File: ellipse_fits.pdf Graphic file (type pdf)
-<use ellipse_fits.pdf>
-Package pdftex.def Info: ellipse_fits.pdf  used on input line 92.
+ [41 <./old_figures/r_squared.pdf>]
+<old_figures/ellipse_fits.pdf, id=1119, 404.02913pt x 270.3012pt>
+File: old_figures/ellipse_fits.pdf Graphic file (type pdf)
+<use old_figures/ellipse_fits.pdf>
+Package pdftex.def Info: old_figures/ellipse_fits.pdf  used on input line 92.
 (pdftex.def)             Requested size: 468.0pt x 313.11652pt.
 
-
-LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Eq:u' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Eq:v' on page 37 undefined on input line 93.
-
-
-LaTeX Warning: Reference `Fig:map' on page 37 undefined on input line 93.
-
-[37 <./ellipse_fits.pdf>]
-<ellipse_hodo.pdf, id=1400, 290.21811pt x 216.24095pt>
-File: ellipse_hodo.pdf Graphic file (type pdf)
-<use ellipse_hodo.pdf>
-Package pdftex.def Info: ellipse_hodo.pdf  used on input line 100.
+[42 <./old_figures/ellipse_fits.pdf>]
+<old_figures/ellipse_hodo.pdf, id=1415, 290.21811pt x 216.24095pt>
+File: old_figures/ellipse_hodo.pdf Graphic file (type pdf)
+<use old_figures/ellipse_hodo.pdf>
+Package pdftex.def Info: old_figures/ellipse_hodo.pdf  used on input line 100.
 (pdftex.def)             Requested size: 468.0pt x 348.74109pt.
-
-
-LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
-
-
-LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
-
-
-LaTeX Warning: Reference `Fig:map' on page 38 undefined on input line 101.
-
-[38 <./ellipse_hodo.pdf>]
-<error_decomp_sa.pdf, id=1434, 404.02913pt x 244.6937pt>
-File: error_decomp_sa.pdf Graphic file (type pdf)
-<use error_decomp_sa.pdf>
-Package pdftex.def Info: error_decomp_sa.pdf  used on input line 108.
+ [43 <./old_figures/ellipse_hodo.pdf>]
+<old_figures/error_decomp_sa.pdf, id=1450, 404.02913pt x 244.6937pt>
+File: old_figures/error_decomp_sa.pdf Graphic file (type pdf)
+<use old_figures/error_decomp_sa.pdf>
+Package pdftex.def Info: old_figures/error_decomp_sa.pdf  used on input line 10
+8.
 (pdftex.def)             Requested size: 468.0pt x 283.45285pt.
 
-
-LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
-
-
-LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
-
-
-LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
-
-
-LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
-
-
-LaTeX Warning: Reference `Eq:MSE' on page 39 undefined on input line 109.
-
-
-LaTeX Warning: Reference `Fig:map' on page 39 undefined on input line 109.
-
-[39 <./error_decomp_sa.pdf>]) (./short18_seabreeze_verification_submitted.aux)
+[44 <./old_figures/error_decomp_sa.pdf>])
+(./short18_seabreeze_verification_submitted.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.45pt have occurred.
-
-
-LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 4398 strings out of 492982
- 58333 string characters out of 6134897
- 128302 words of memory out of 5000000
- 7814 multiletter control sequences out of 15000+600000
+ 4470 strings out of 492982
+ 60452 string characters out of 6134897
+ 132991 words of memory out of 5000000
+ 7879 multiletter control sequences out of 15000+600000
  61916 words of font info for 143 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,11n,37p,1633b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,11n,37p,1633b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
@@ -1236,11 +636,11 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/times/utmri8a.pfb>
-Output written on short18_seabreeze_verification_submitted.pdf (39 pages, 13406
-37 bytes).
+Output written on short18_seabreeze_verification_submitted.pdf (44 pages, 13545
+78 bytes).
 PDF statistics:
- 1510 PDF objects out of 1728 (max. 8388607)
- 994 compressed objects within 10 object streams
+ 1527 PDF objects out of 1728 (max. 8388607)
+ 1005 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
